@@ -1,0 +1,6 @@
+<svg xmlns='http://www.w3.org/2000/svg' id='icons_poll' viewBox='0 0 24 24'>
+<path fill-rule='evenodd' clip-rule='evenodd' d='M5 4L19 4C19.552 4 20 4.448 20 5L20 19C20 19.552 19.552 20 19 20L5 20C4.448 20 4 19.552 4 19L4 5C4 4.448 4.448 4 5 4zM19 2C20.657 2 22 3.343 22 5L22 19C22 20.657 20.657 22 19 22L5 22C3.343 22 2 20.657 2 19L2 5C2 3.343 3.343 2 5 2L19 2z' />
+<path d='M13 7L11 7L11 17L13 17L13 7z' />
+<path d='M9 13L7 13L7 17L9 17L9 13z' />
+<path d='M17 10L15 10L15 17L17 17L17 10z' />
+</svg>

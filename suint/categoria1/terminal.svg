@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' id='icons_terminal' viewBox='0 0 24 24'>
+<path d='M18.967 14.828L17.553 16.243L13.31 12L17.553 7.757L18.967 9.172L16.138 12L18.967 14.828z' />
+<path d='M9 14L13 14L13 16L9 16L9 14z' />
+<path fill-rule='evenodd' clip-rule='evenodd' d='M22 2C23.105 2 24 2.895 24 4L24 20C24 21.105 23.105 22 22 22L2 22C0.895 22 0 21.105 0 20L0 4C0 2.895 0.895 2 2 2L22 2zM2 4L22 4L22 20L2 20L2 4z' />
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' id='icons_template' viewBox='0 0 24 24'>
+<path fill-rule='evenodd' clip-rule='evenodd' d='M21 3L21 9L3 9L3 3L21 3zM5 5L19 5L19 7L5 7L5 5z' />
+<path fill-rule='evenodd' clip-rule='evenodd' d='M21 11L21 21L13 21L13 11L21 11zM15 13L19 13L19 19L15 19L15 13z' />
+<path d='M3 11L11 11L11 13L3 13L3 11z' />
+<path d='M11 15L3 15L3 17L11 17L11 15z' />
+<path d='M3 19L11 19L11 21L3 21L3 19z' />
+</svg>

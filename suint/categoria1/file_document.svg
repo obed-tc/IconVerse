@@ -1,0 +1,6 @@
+<svg xmlns='http://www.w3.org/2000/svg' id='icons_file_document' viewBox='0 0 24 24'>
+<path d='M7 18L17 18L17 16L7 16L7 18z' />
+<path d='M17 14L7 14L7 12L17 12L17 14z' />
+<path d='M7 10L11 10L11 8L7 8L7 10z' />
+<path fill-rule='evenodd' clip-rule='evenodd' d='M6 2C4.343 2 3 3.343 3 5L3 19C3 20.657 4.343 22 6 22L18 22C19.657 22 21 20.657 21 19L21 9C21 5.134 17.866 2 14 2L6 2zM6 4L13 4L13 9L19 9L19 19C19 19.552 18.552 20 18 20L6 20C5.448 20 5 19.552 5 19L5 5C5 4.448 5.448 4 6 4zM15 4.1C16.611 4.427 17.941 5.529 18.584 7L15 7L15 4.1z' />
+</svg>

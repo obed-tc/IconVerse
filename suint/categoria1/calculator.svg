@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' id='icons_calculator' viewBox='0 0 24 24'>
+<path d='M17 5L7 5L7 7L17 7L17 5z' />
+<path d='M7 9L9 9L9 11L7 11L7 9z' />
+<path d='M9 13L7 13L7 15L9 15L9 13z' />
+<path d='M7 17L9 17L9 19L7 19L7 17z' />
+<path d='M13 9L11 9L11 11L13 11L13 9z' />
+<path d='M11 13L13 13L13 15L11 15L11 13z' />
+<path d='M13 17L11 17L11 19L13 19L13 17z' />
+<path d='M15 9L17 9L17 11L15 11L15 9z' />
+<path d='M17 13L15 13L15 19L17 19L17 13z' />
+<path fill-rule='evenodd' clip-rule='evenodd' d='M3 3C3 1.895 3.895 1 5 1L19 1C20.105 1 21 1.895 21 3L21 21C21 22.105 20.105 23 19 23L5 23C3.895 23 3 22.105 3 21L3 3zM5 3L19 3L19 21L5 21L5 3z' />
+</svg>
