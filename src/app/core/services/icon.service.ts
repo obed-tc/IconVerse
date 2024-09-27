@@ -8,7 +8,7 @@ import { map } from 'rxjs/operators';
 export class IconService {
 
 
-  private jsonPath = 'assets/icons/output/all-icons.json'; // Ruta del JSON generado
+  private jsonPath = 'assets/output/all-icons.json'; // Ruta del JSON generado
 
   constructor(private http: HttpClient) {}
 

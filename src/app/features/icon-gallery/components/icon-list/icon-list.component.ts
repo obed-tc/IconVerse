@@ -7,17 +7,21 @@ import { IconService } from 'src/app/core/services/icon.service';
   styleUrls: ['./icon-list.component.css']
 })
 export class IconListComponent {
-  icons: string[] = [];
-  constructor(private iconService: IconService) {}
+
+  icons: any[] = [];
+
+  constructor(private iconService: IconService) { }
+
   ngOnInit(): void {
-    this.iconService.getIcons().subscribe({
-      next: (data) => {
+    this.iconService.getIcons().subscribe(
+      data => {
         this.icons = data;
+        console.log(data);  // Aquí puedes ver los datos devueltos
       },
-      error: (err) => {
-        console.error('Error loading icons: ', err);
+      error => {
+        console.error('Error al obtener los iconos', error);
       }
-    });
+    );
   }
 
 }
