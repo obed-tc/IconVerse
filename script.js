@@ -24,9 +24,9 @@ function getAllSvgFiles(dir) {
         .replace(/\\/g, "/"); // Cambia \\ por /
       results.push({
         name: file.split(".")[0],
-        url: `https://raw.githubusercontent.com/obed-tc/IconVerse/4ab9d936a0d1a40b7b66e5ccc2c4ea088ac10dc8/${relativePath}`,
+        // url: `https://raw.githubusercontent.com/obed-tc/IconVerse/4ab9d936a0d1a40b7b66e5ccc2c4ea088ac10dc8/${relativePath}`,
 
-        // url: `${relativePath}`,
+        url: `${relativePath}`,
       });
     }
   });
