@@ -12,6 +12,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 export class IconSidebarComponent {
   @Input() urlNameIcon="";
   @Input() nameIcon="";
+  @Input() typeSearch="";
   @Output() closeModal = new EventEmitter<void>();
 
   code="";
@@ -21,39 +22,38 @@ export class IconSidebarComponent {
 
   backgroundColor = 'bg-white'; // Color de fondo predeterminado
 
-  close() {
-    this.closeModal.emit();  
-  }
+
   constructor(private iconService: IconService,private sanitizer: DomSanitizer) { 
   
 
   }
-  setIconColor(color: string) {
-    this.iconColor = color; // Cambia el color del ícono
-  }
-
-  setBackgroundColor(colorClass: string) {
-    this.backgroundColor = colorClass; // Cambia el color de fondo
-  }
 
   ngOnInit():void{
     console.log(this.urlNameIcon)
+
+    if (this.typeSearch=="suint"){
+      this.urlNameIcon='https://raw.githubusercontent.com/obed-tc/IconVerse/dcb148b8ef75a7bc19787ca35a540148c84960c1/'+this.urlNameIcon;
+      this.getContentSuint()
+   
+    }else if (this.typeSearch=="flutter"){
+      this.getContentFlutter()
+      }
+  }
+  getContentFlutter(){
+    this.code=`Icon(
+      Icons.`+this.nameIcon+`, 
+)`
+  }
+
+  getContentSuint(){
     this.code=`<svg-icon 
-  src="assets/icons/icon-`+this.nameIcon+`.svg">
+    src="assets/icons/icon-`+this.nameIcon+`.svg">
 </svg-icon>`
     this.iconService.getSvgContent(this.urlNameIcon).subscribe(
       data => {
-
-const modifiedSvg = this.addFillToSvg(data);
-
-
+        const modifiedSvg = this.addFillToSvg(data);
         this.svgContentString = modifiedSvg.toString(); 
-
         this.svgContent = this.sanitizer.bypassSecurityTrustHtml(modifiedSvg);
-
-
-        console.log(data);  
-
         setTimeout(() => {
           Prism.highlightAll();
         }, 0);
@@ -62,11 +62,10 @@ const modifiedSvg = this.addFillToSvg(data);
         console.error('Error al obtener el SVG:', error);
       }
     );
-    console.log("ON init")
 
   }
+
   ngAfterViewInit() {
-    console.log("Se termino de renderizar")
     Prism.highlightAll();
   }
   private addFillToSvg(svg: string): string {
@@ -92,5 +91,17 @@ const modifiedSvg = this.addFillToSvg(data);
     }).catch(err => {
       console.error('Error al copiar al portapapeles: ', err);
     });
+  }
+
+  setIconColor(color: string) {
+    this.iconColor = color;
+  }
+
+  setBackgroundColor(colorClass: string) {
+    this.backgroundColor = colorClass;
+  }
+
+  close() {
+    this.closeModal.emit();  
   }
 }

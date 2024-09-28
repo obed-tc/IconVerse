@@ -16,6 +16,10 @@ const routes: Routes = [
         component: HomePageComponent
       },
       {
+        path:'flutter',
+        component:IconDetailPageComponent
+      },
+      {
         path:'suint',
         component:IconDetailPageComponent
       },

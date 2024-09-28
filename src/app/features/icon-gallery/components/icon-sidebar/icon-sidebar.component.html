@@ -3,20 +3,29 @@
     <div class="bg-white rounded-sm shadow-ms max-w-xl w-full h-full p-4 overflow-auto"
         (click)="$event.stopPropagation()">
         <div class="w-full flex justify-between">
-            <label class="text-lg">Vista previa</label>
+            <label class="text-lg">Vista previa </label>
 
             <button (click)="close()" class="text-xl">x</button>
 
         </div>
         <div class="flex flex-col justify-center items-center py-3 rounded-md" [ngClass]="backgroundColor">
-            <div class="svg-content w-32" [ngClass]=" iconColor " [innerHTML]="svgContent"></div>
+            <div class="svg-content w-32" [ngClass]=" iconColor " [innerHTML]="svgContent" *ngIf="typeSearch=='suint'">
+            </div>
+            <img [src]="urlNameIcon" *ngIf="typeSearch=='flutter'">
 
+            <label class="text-lg cursor-pointer mt-2" [ngClass]=" iconColor "
+                (click)="copyToClipboard('icon'+{nameIcon})">
+                {{
+                typeSearch=="suint"?
+                "icon-"+nameIcon:
+                nameIcon
 
-            <label class="text-lg cursor-pointer" [ngClass]=" iconColor "
-                (click)="copyToClipboard('icon'+{nameIcon})">icon-{{nameIcon}}</label>
+                }}
+
+            </label>
 
         </div>
-        <div class="flex justify-center space-x-2 my-2">
+        <div class="flex justify-center space-x-2 my-2" *ngIf="typeSearch=='suint'">
             <button (click)="setIconColor('text-[#EF4444]'); setBackgroundColor('bg-white')"
                 class="rounded-full w-6 h-6 bg-[#EF4444]"></button>
             <button (click)="setIconColor('text-[#10B981]'); setBackgroundColor('bg-[#F3F4F6]')"
@@ -30,7 +39,7 @@
         </div>
 
 
-        <label class="text-lg font-semibold">Codigo Angular</label>
+        <label class="text-lg font-semibold"> {{typeSearch=="flutter"?"Codigo flutter":"Codigo Angular"}}</label>
 
 
         <aside class="bg-black text-white p-3 rounded-lg shadow-xl w-full  font-mono">
@@ -57,12 +66,12 @@
 
             </div>
             <div class="mt-1">
-                <pre><code class="language-html">{{ code }}</code></pre>
+                <pre><code class="language-html ">{{ code }}</code></pre>
 
 
             </div>
         </aside>
-        <div class="w-full flex justify-between mt-3 mb-2">
+        <div class="w-full flex justify-between mt-3 mb-2" *ngIf="typeSearch=='suint'">
             <label class="text-lg font-semibold">Codigo Svg</label>
 
             <button
@@ -79,7 +88,7 @@
             </button>
         </div>
 
-        <aside class="bg-black text-white p-3 rounded-lg shadow-xl w-full  font-mono">
+        <aside class="bg-black text-white p-3 rounded-lg shadow-xl w-full  font-mono" *ngIf="typeSearch=='suint'">
             <div class="flex justify-between items-center">
                 <div class="flex space-x-2 text-red-500">
                     <div class="w-3 h-3 rounded-full bg-red-500"></div>
