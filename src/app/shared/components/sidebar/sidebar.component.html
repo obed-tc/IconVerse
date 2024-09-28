@@ -2,15 +2,16 @@
 
     <br />
     <nav class="flex flex-col">
-        <a class="px-10 py-3 rounded-md " href="/">
+        <a class="px-10 py-3 rounded-md" [routerLink]="['/']" (click)="changeTypeIcon('all')">
             Home
         </a>
-        <a class="px-10 py-3 rounded-md " href="/flutter">
+        <a class="px-10 py-3 rounded-md" [routerLink]="['/flutter']" (click)="changeTypeIcon('flutter')">
             Flutter icons
         </a>
-        <a class="px-10 py-3 rounded-md " href="/suint">
+        <a class="px-10 py-3 rounded-md" [routerLink]="['/suint']" (click)="changeTypeIcon('suint')">
             SUINT Uab Icons
         </a>
+
     </nav>
 
 </aside>
