@@ -1,0 +1,50 @@
+
+  
+
+
+  .button-copy {
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    transition-duration: 700ms;
+}
+
+.button-copy span:first-child {
+    color: #fff;
+    transform: translate(25%, 20%);
+}
+
+.button-copy span:last-child {
+    color: #fff;
+    opacity: 0;
+    transform: translateY(10%) translateX(-10%);
+    height: 14px;
+    line-height: 13px;
+}
+
+.button-copy:focus {
+    background-color: #171616;
+    width: 120px;
+    height: 30px;
+    transition-delay: 100ms;
+    transition-duration: 500ms;
+}
+
+.button-copy:focus span:first-child {
+  margin-top: -30px;
+
+    color: #fff;
+    transform: translateX(25%) translateY(-50%);
+    opacity: 0;
+    transition-duration: 500ms;
+}
+
+.button-copy:focus span:last-child {
+    transform: translateX(-10%) translateY(-100%);
+    opacity: 1;
+    transition-delay: 300ms;
+    transition-duration: 500ms;
+}

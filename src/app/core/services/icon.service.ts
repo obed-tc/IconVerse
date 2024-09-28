@@ -15,5 +15,7 @@ export class IconService {
   getIcons(): Observable<string[]> {
     return this.http.get<string[]>(this.jsonPath);
   }
-  
+  getSvgContent(url: string): Observable<string> {
+    return this.http.get(url, { responseType: 'text' });
+  }
 }

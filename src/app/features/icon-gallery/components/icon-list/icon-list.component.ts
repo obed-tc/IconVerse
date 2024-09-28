@@ -7,7 +7,6 @@ import { IconService } from 'src/app/core/services/icon.service';
   styleUrls: ['./icon-list.component.css']
 })
 export class IconListComponent {
-
   icons: any[] = [];
 
   constructor(private iconService: IconService) { }
@@ -16,12 +15,12 @@ export class IconListComponent {
     this.iconService.getIcons().subscribe(
       data => {
         this.icons = data;
-        console.log(data);  // Aquí puedes ver los datos devueltos
       },
       error => {
         console.error('Error al obtener los iconos', error);
       }
     );
   }
+
 
 }
