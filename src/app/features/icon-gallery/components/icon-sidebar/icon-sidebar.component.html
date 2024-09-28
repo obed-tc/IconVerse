@@ -1,1 +1,113 @@
-<p>icon-sidebar works!</p>
+<div id="myModal" class="fixed top-0 z-50 inset-0 bg-opacity-[30%] bg-black flex items-center justify-end"
+    (click)="close()">
+    <div class="bg-white rounded-sm shadow-ms max-w-xl w-full h-full p-4 overflow-auto"
+        (click)="$event.stopPropagation()">
+        <div class="w-full flex justify-between">
+            <label class="text-lg">Vista previa</label>
+
+            <button (click)="close()" class="text-xl">x</button>
+
+        </div>
+        <div class="flex flex-col justify-center items-center py-3 rounded-md" [ngClass]="backgroundColor">
+            <div class="svg-content w-32" [ngClass]=" iconColor " [innerHTML]="svgContent"></div>
+
+
+            <label class="text-lg cursor-pointer" [ngClass]=" iconColor "
+                (click)="copyToClipboard('icon'+{nameIcon})">icon-{{nameIcon}}</label>
+
+        </div>
+        <div class="flex justify-center space-x-2 my-2">
+            <button (click)="setIconColor('text-[#EF4444]'); setBackgroundColor('bg-white')"
+                class="rounded-full w-6 h-6 bg-[#EF4444]"></button>
+            <button (click)="setIconColor('text-[#10B981]'); setBackgroundColor('bg-[#F3F4F6]')"
+                class="rounded-full w-6 h-6 bg-[#10B981]"></button>
+            <button (click)="setIconColor('text-[#3B82F6]'); setBackgroundColor('bg-white')"
+                class="rounded-full w-6 h-6 bg-[#3B82F6]"></button>
+            <button (click)="setIconColor('text-[#FBBF24]'); setBackgroundColor('bg-[#1F2937]')"
+                class="rounded-full w-6 h-6 bg-[#FBBF24]"></button>
+            <button (click)="setIconColor('text-[#000000]'); setBackgroundColor('bg-[#FEEBC8]')"
+                class="rounded-full w-6 h-6 bg-black"></button>
+        </div>
+
+
+        <label class="text-lg font-semibold">Codigo Angular</label>
+
+
+        <aside class="bg-black text-white p-3 rounded-lg shadow-xl w-full  font-mono">
+            <div class="flex justify-between items-center">
+                <div class="flex space-x-2 text-red-500">
+                    <div class="w-3 h-3 rounded-full bg-red-500"></div>
+                    <div class="w-3 h-3 rounded-full bg-yellow-500"></div>
+                    <div class="w-3 h-3 rounded-full bg-green-500"></div>
+                </div>
+
+                <button class="button-copy " (click)="copyToClipboard(code)">
+                    <span class="flex items-center text-white "><svg class="mr-2" width="12" height="12" fill="#fff"
+                            xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision"
+                            text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd"
+                            clip-rule="evenodd" viewBox="0 0 467 512.22">
+                            <path fill-rule="nonzero"
+                                d="M131.07 372.11c.37 1 .57 2.08.57 3.2 0 1.13-.2 2.21-.57 3.21v75.91c0 10.74 4.41 20.53 11.5 27.62s16.87 11.49 27.62 11.49h239.02c10.75 0 20.53-4.4 27.62-11.49s11.49-16.88 11.49-27.62V152.42c0-10.55-4.21-20.15-11.02-27.18l-.47-.43c-7.09-7.09-16.87-11.5-27.62-11.5H170.19c-10.75 0-20.53 4.41-27.62 11.5s-11.5 16.87-11.5 27.61v219.69zm-18.67 12.54H57.23c-15.82 0-30.1-6.58-40.45-17.11C6.41 356.97 0 342.4 0 326.52V57.79c0-15.86 6.5-30.3 16.97-40.78l.04-.04C27.51 6.49 41.94 0 57.79 0h243.63c15.87 0 30.3 6.51 40.77 16.98l.03.03c10.48 10.48 16.99 24.93 16.99 40.78v36.85h50c15.9 0 30.36 6.5 40.82 16.96l.54.58c10.15 10.44 16.43 24.66 16.43 40.24v302.01c0 15.9-6.5 30.36-16.96 40.82-10.47 10.47-24.93 16.97-40.83 16.97H170.19c-15.9 0-30.35-6.5-40.82-16.97-10.47-10.46-16.97-24.92-16.97-40.82v-69.78zM340.54 94.64V57.79c0-10.74-4.41-20.53-11.5-27.63-7.09-7.08-16.86-11.48-27.62-11.48H57.79c-10.78 0-20.56 4.38-27.62 11.45l-.04.04c-7.06 7.06-11.45 16.84-11.45 27.62v268.73c0 10.86 4.34 20.79 11.38 27.97 6.95 7.07 16.54 11.49 27.17 11.49h55.17V152.42c0-15.9 6.5-30.35 16.97-40.82 10.47-10.47 24.92-16.96 40.82-16.96h170.35z">
+                            </path>
+                        </svg>
+                        Copiar</span>
+                    <span>Copiado</span>
+                </button>
+
+
+            </div>
+            <div class="mt-1">
+                <pre><code class="language-html">{{ code }}</code></pre>
+
+
+            </div>
+        </aside>
+        <div class="w-full flex justify-between mt-3 mb-2">
+            <label class="text-lg font-semibold">Codigo Svg</label>
+
+            <button
+                class=" text-black flex text-sm bg-gray-200 px-2 py-1 rounded-sm hover:bg-gray-100 hover:text-gray-500"
+                (click)="exportSvgContent()">
+                <svg class="w-5" xmlns='http://www.w3.org/2000/svg' id='icons_software_download' viewBox='0 0 24 24'
+                    fill="currentColor">
+                    <path
+                        d='M13 5C13 4.448 12.552 4 12 4C11.448 4 11 4.448 11 5L11 12.158L7.757 8.915L6.343 10.329L12 15.986L17.657 10.329L16.243 8.915L13 12.158L13 5z' />
+                    <path
+                        d='M20 14L18 14L18 18L6 18L6 14L4 14L4 18C4 19.105 4.895 20 6 20L18 20C19.105 20 20 19.105 20 18L20 14z' />
+                </svg>
+                Exportar
+            </button>
+        </div>
+
+        <aside class="bg-black text-white p-3 rounded-lg shadow-xl w-full  font-mono">
+            <div class="flex justify-between items-center">
+                <div class="flex space-x-2 text-red-500">
+                    <div class="w-3 h-3 rounded-full bg-red-500"></div>
+                    <div class="w-3 h-3 rounded-full bg-yellow-500"></div>
+                    <div class="w-3 h-3 rounded-full bg-green-500"></div>
+                </div>
+                <button class="button-copy " (click)="copyToClipboard(svgContentString)">
+
+                    <span class="flex items-center text-white "><svg class="mr-2" width="12" height="12" fill="#fff"
+                            xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision"
+                            text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd"
+                            clip-rule="evenodd" viewBox="0 0 467 512.22">
+                            <path fill-rule="nonzero"
+                                d="M131.07 372.11c.37 1 .57 2.08.57 3.2 0 1.13-.2 2.21-.57 3.21v75.91c0 10.74 4.41 20.53 11.5 27.62s16.87 11.49 27.62 11.49h239.02c10.75 0 20.53-4.4 27.62-11.49s11.49-16.88 11.49-27.62V152.42c0-10.55-4.21-20.15-11.02-27.18l-.47-.43c-7.09-7.09-16.87-11.5-27.62-11.5H170.19c-10.75 0-20.53 4.41-27.62 11.5s-11.5 16.87-11.5 27.61v219.69zm-18.67 12.54H57.23c-15.82 0-30.1-6.58-40.45-17.11C6.41 356.97 0 342.4 0 326.52V57.79c0-15.86 6.5-30.3 16.97-40.78l.04-.04C27.51 6.49 41.94 0 57.79 0h243.63c15.87 0 30.3 6.51 40.77 16.98l.03.03c10.48 10.48 16.99 24.93 16.99 40.78v36.85h50c15.9 0 30.36 6.5 40.82 16.96l.54.58c10.15 10.44 16.43 24.66 16.43 40.24v302.01c0 15.9-6.5 30.36-16.96 40.82-10.47 10.47-24.93 16.97-40.83 16.97H170.19c-15.9 0-30.35-6.5-40.82-16.97-10.47-10.46-16.97-24.92-16.97-40.82v-69.78zM340.54 94.64V57.79c0-10.74-4.41-20.53-11.5-27.63-7.09-7.08-16.86-11.48-27.62-11.48H57.79c-10.78 0-20.56 4.38-27.62 11.45l-.04.04c-7.06 7.06-11.45 16.84-11.45 27.62v268.73c0 10.86 4.34 20.79 11.38 27.97 6.95 7.07 16.54 11.49 27.17 11.49h55.17V152.42c0-15.9 6.5-30.35 16.97-40.82 10.47-10.47 24.92-16.96 40.82-16.96h170.35z">
+                            </path>
+                        </svg>
+                        Copiar</span>
+                    <span>Copiado</span>
+
+                </button>
+
+            </div>
+            <div class="mt-1">
+                <pre><code class="language-html ">{{ svgContentString }}</code></pre>
+
+            </div>
+        </aside>
+
+
+    </div>
+</div>

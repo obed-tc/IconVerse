@@ -6,6 +6,14 @@ import { Component, Input } from '@angular/core';
   styleUrls: ['./icon-item.component.css'],
 })
 export class IconItemComponent {
-  @Input() iconSrc="";
+  @Input() iconSrc="";  
+  @Input() iconName="";
+
+  modal:boolean=false;
+  toggleModal(){
+    this.modal=!this.modal;
+  }
+
+
 
 }

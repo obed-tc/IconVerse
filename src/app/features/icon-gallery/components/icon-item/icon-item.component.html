@@ -1,11 +1,15 @@
-<div class="bg-white shadow-xl  p-3 rounded-md flex flex-col items-center justify-center">
+<span class="bg-white shadow-xl  p-3 rounded-md flex flex-col items-center justify-center  cursor-pointer"
+    (click)="toggleModal()">
 
     <img [src]="'https://raw.githubusercontent.com/obed-tc/IconVerse/dcb148b8ef75a7bc19787ca35a540148c84960c1/'+iconSrc"
         style="width: 50px; height: 50px;" alt=""
         onerror="this.src='https://www.ceer.es/wp-content/uploads/2017/09/SinImagen.jpg'" loading="lazy">
     <span class="text-xs truncate">
-        <!-- {{ iconSrc | nameFile }} -->
-
+        {{iconName}}
     </span>
+</span>
 
-</div>
+
+<app-icon-sidebar *ngIf="modal" (closeModal)="toggleModal()"
+    [urlNameIcon]="'https://raw.githubusercontent.com/obed-tc/IconVerse/dcb148b8ef75a7bc19787ca35a540148c84960c1/'+iconSrc"
+    [nameIcon]="iconName"></app-icon-sidebar>
