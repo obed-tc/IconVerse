@@ -32,7 +32,7 @@ export class IconSidebarComponent {
     console.log(this.urlNameIcon)
 
     if (this.typeSearch=="suint"){
-      this.urlNameIcon='https://raw.githubusercontent.com/obed-tc/IconVerse/dcb148b8ef75a7bc19787ca35a540148c84960c1/'+this.urlNameIcon;
+      this.urlNameIcon='https://raw.githubusercontent.com/obed-tc/IconVerse/ce97cf90727d9417007033349001dd53eb95002a/'+this.urlNameIcon;
       this.getContentSuint()
    
     }else if (this.typeSearch=="flutter"){
@@ -65,13 +65,15 @@ export class IconSidebarComponent {
 
   }
 
+
+  private addFillToSvg(svg: string): string {
+    const svgWithoutFill = svg.replace(/fill="[^"]*"/g, '');
+    
+    return svgWithoutFill.replace(/<svg([^>]*)>/, '<svg$1 fill="currentColor">');
+  }
   ngAfterViewInit() {
     Prism.highlightAll();
   }
-  private addFillToSvg(svg: string): string {
-    return svg.replace(/<svg([^>]*)>/, '<svg$1 fill="currentColor">');
-  }
-
   exportSvgContent(): void {
     const svgContent = this.svgContentString; 
     const blob = new Blob([svgContent], { type: 'image/svg+xml;charset=utf-8' });
