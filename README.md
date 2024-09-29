@@ -2,7 +2,7 @@
 
 # IconVerse
 
-![IconVerse Logo](https://raw.githubusercontent.com/obed-tc/IconVerse/main/assets/iconverse-logo.png)
+<img src="https://iconverse.vercel.app/assets/imgs/icon-verse-logo.svg" alt="IconVerse Logo" width="50">
 
 🔍 Your Ultimate Icon Search Engine for Flutter and Beyond 🚀
 
@@ -42,7 +42,8 @@ IconVerse is your one-stop destination for an extensive collection of icons, inc
 
 <div align="center">
 
-![IconVerse Screenshot](https://raw.githubusercontent.com/obed-tc/IconVerse/main/assets/iconverse-screenshot.png)
+
+<img src="https://github.com/user-attachments/assets/d0cf400b-7b8f-445b-9e48-69b0c59c0c21" alt="IconVerse Logo" width="700">
 
 </div>
 
@@ -105,8 +106,7 @@ To get a local copy up and running, follow these simple steps.
 
 <div align="center">
 
-![IconVerse Usage GIF](https://raw.githubusercontent.com/obed-tc/IconVerse/main/assets/iconverse-usage.gif)
-
+<img src="https://github.com/user-attachments/assets/72311a9c-5cc8-4a5c-906b-83b27c4c7970" alt="IconVerse Logo" width="800">
 </div>
 
 ## 🗺 Roadmap
