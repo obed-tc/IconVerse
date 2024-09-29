@@ -20,7 +20,7 @@ export class IconSidebarComponent {
   svgContent: SafeHtml = ""; 
   iconColor = 'currentColor'; // Color predeterminado
 
-  backgroundColor = 'bg-white'; // Color de fondo predeterminado
+  backgroundColor = 'bg-white'; 
 
 
   constructor(private iconService: IconService,private sanitizer: DomSanitizer) { 
