@@ -1,8 +1,8 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-<path d="M6 17V6C6 5.73478 6.10536 5.48043 6.29289 5.29289C6.48043 5.10536 6.73478 5 7 5H19.001L26.001 12V17" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M19 5V12H26.001" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M6 25H8C8.53043 25 9.03914 24.7893 9.41421 24.4142C9.78929 24.0391 10 23.5304 10 23C10 22.4696 9.78929 21.9609 9.41421 21.5858C9.03914 21.2107 8.53043 21 8 21H6V27" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.5 27C16.2956 27 17.0587 26.6839 17.6213 26.1213C18.1839 25.5587 18.5 24.7956 18.5 24C18.5 23.2044 18.1839 22.4413 17.6213 21.8787C17.0587 21.3161 16.2956 21 15.5 21H14V27H15.5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M26 21H22.5V27" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M25.5 24.5H22.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg   viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 17V6C6 5.73478 6.10536 5.48043 6.29289 5.29289C6.48043 5.10536 6.73478 5 7 5H19.001L26.001 12V17" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 5V12H26.001" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 25H8C8.53043 25 9.03914 24.7893 9.41421 24.4142C9.78929 24.0391 10 23.5304 10 23C10 22.4696 9.78929 21.9609 9.41421 21.5858C9.03914 21.2107 8.53043 21 8 21H6V27" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.5 27C16.2956 27 17.0587 26.6839 17.6213 26.1213C18.1839 25.5587 18.5 24.7956 18.5 24C18.5 23.2044 18.1839 22.4413 17.6213 21.8787C17.0587 21.3161 16.2956 21 15.5 21H14V27H15.5Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26 21H22.5V27" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.5 24.5H22.5" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -1,7 +1,7 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-<path d="M9 12.5H4C3.44772 12.5 3 12.9477 3 13.5V18.5C3 19.0523 3.44772 19.5 4 19.5H9C9.55228 19.5 10 19.0523 10 18.5V13.5C10 12.9477 9.55228 12.5 9 12.5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M27 5H21C20.4477 5 20 5.44772 20 6V12C20 12.5523 20.4477 13 21 13H27C27.5523 13 28 12.5523 28 12V6C28 5.44772 27.5523 5 27 5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M27 19H21C20.4477 19 20 19.4477 20 20V26C20 26.5523 20.4477 27 21 27H27C27.5523 27 28 26.5523 28 26V20C28 19.4477 27.5523 19 27 19Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M10 16H15" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20 23H18C17.2044 23 16.4413 22.6839 15.8787 22.1213C15.3161 21.5587 15 20.7956 15 20V12C15 11.2044 15.3161 10.4413 15.8787 9.87868C16.4413 9.31607 17.2044 9 18 9H20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg   viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9 12.5H4C3.44772 12.5 3 12.9477 3 13.5V18.5C3 19.0523 3.44772 19.5 4 19.5H9C9.55228 19.5 10 19.0523 10 18.5V13.5C10 12.9477 9.55228 12.5 9 12.5Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27 5H21C20.4477 5 20 5.44772 20 6V12C20 12.5523 20.4477 13 21 13H27C27.5523 13 28 12.5523 28 12V6C28 5.44772 27.5523 5 27 5Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27 19H21C20.4477 19 20 19.4477 20 20V26C20 26.5523 20.4477 27 21 27H27C27.5523 27 28 26.5523 28 26V20C28 19.4477 27.5523 19 27 19Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10 16H15" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 23H18C17.2044 23 16.4413 22.6839 15.8787 22.1213C15.3161 21.5587 15 20.7956 15 20V12C15 11.2044 15.3161 10.4413 15.8787 9.87868C16.4413 9.31607 17.2044 9 18 9H20" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

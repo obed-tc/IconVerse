@@ -1,7 +1,7 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.5 27C10.433 27 12 25.433 12 23.5C12 21.567 10.433 20 8.5 20C6.567 20 5 21.567 5 23.5C5 25.433 6.567 27 8.5 27Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M23.5 11.9997C25.433 11.9997 27 10.4327 27 8.49969C27 6.5667 25.433 4.99969 23.5 4.99969C21.567 4.99969 20 6.5667 20 8.49969C20 10.4327 21.567 11.9997 23.5 11.9997Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8.5 11.9997C10.433 11.9997 12 10.4327 12 8.49969C12 6.5667 10.433 4.99969 8.5 4.99969C6.567 4.99969 5 6.5667 5 8.49969C5 10.4327 6.567 11.9997 8.5 11.9997Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8.5 20V19C8.50002 18.2044 8.81609 17.4413 9.37868 16.8787C9.94128 16.3162 10.7043 16.0001 11.4999 16.0001L20.5001 15.9999C21.2957 15.9999 22.0587 15.6838 22.6213 15.1213C23.1839 14.5587 23.5 13.7956 23.5 13V12" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8.5 12V20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg   viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.5 27C10.433 27 12 25.433 12 23.5C12 21.567 10.433 20 8.5 20C6.567 20 5 21.567 5 23.5C5 25.433 6.567 27 8.5 27Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.5 11.9997C25.433 11.9997 27 10.4327 27 8.49969C27 6.5667 25.433 4.99969 23.5 4.99969C21.567 4.99969 20 6.5667 20 8.49969C20 10.4327 21.567 11.9997 23.5 11.9997Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.5 11.9997C10.433 11.9997 12 10.4327 12 8.49969C12 6.5667 10.433 4.99969 8.5 4.99969C6.567 4.99969 5 6.5667 5 8.49969C5 10.4327 6.567 11.9997 8.5 11.9997Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.5 20V19C8.50002 18.2044 8.81609 17.4413 9.37868 16.8787C9.94128 16.3162 10.7043 16.0001 11.4999 16.0001L20.5001 15.9999C21.2957 15.9999 22.0587 15.6838 22.6213 15.1213C23.1839 14.5587 23.5 13.7956 23.5 13V12" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.5 12V20" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

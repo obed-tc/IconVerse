@@ -1,7 +1,7 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-<path d="M16 5V27" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M13 27H19" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M7 11L25 7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3 21C3 23.2091 5.5 24 7 24C8.5 24 11 23.2091 11 21L7 11L3 21Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21 17C21 19.2091 23.5 20 25 20C26.5 20 29 19.2091 29 17L25 7L21 17Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg   viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 5V27" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13 27H19" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 11L25 7" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3 21C3 23.2091 5.5 24 7 24C8.5 24 11 23.2091 11 21L7 11L3 21Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 17C21 19.2091 23.5 20 25 20C26.5 20 29 19.2091 29 17L25 7L21 17Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
