@@ -4,40 +4,86 @@
 @tailwind utilities;
 @import 'prismjs/themes/prism-funky.css';
 
-
+/* Modo Claro */
 ::-webkit-scrollbar {
   width: 9px;
   height: 9px;
 }
+
 ::-webkit-scrollbar-button {
   width: 0px;
   height: 0px;
 }
+
 ::-webkit-scrollbar-thumb {
-  background: #d0cdcd;
-  border: 0px none #ffffff;
-  border-radius: 50px;
+  background: #737272; /* Color del thumb */
+  border: 0px none #ffffff; /* Sin borde */
+  border-radius: 50px; /* Bordes redondeados */
 }
+
 ::-webkit-scrollbar-thumb:hover {
-  background: #a09c9c;
+  background: #a09c9c; /* Color del thumb en hover */
 }
+
 ::-webkit-scrollbar-thumb:active {
-  background: #828282;
+  background: #828282; /* Color del thumb en active */
 }
+
 ::-webkit-scrollbar-track {
-  background: #666666;
-  border: 0px none #ffffff;
-  border-radius: 50px;
+  background: #f0f0f0; /* Color de la pista */
+  border: 0px none #ffffff; /* Sin borde */
 }
+
 ::-webkit-scrollbar-track:hover {
-  background: #666666;
+  background: #e0e0e0; /* Color de la pista en hover */
 }
+
 ::-webkit-scrollbar-track:active {
-  background: #333333;
+  background: #cccccc; /* Color de la pista en active */
 }
+
 ::-webkit-scrollbar-corner {
-  background: transparent;
+  background: transparent; /* Color de la esquina */
 }
 
+/* Modo Oscuro */
+.dark ::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
 
+.dark ::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
 
+.dark ::-webkit-scrollbar-thumb {
+  background: #4b4b4b; /* Color del thumb en modo oscuro */
+  border: 0px none #ffffff; /* Sin borde */
+  border-radius: 50px; /* Bordes redondeados */
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #707070; /* Color del thumb en hover en modo oscuro */
+}
+
+.dark ::-webkit-scrollbar-thumb:active {
+  background: #919191; /* Color del thumb en active en modo oscuro */
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: #1a1a1a; /* Color de la pista en modo oscuro */
+  border: 0px none #ffffff; /* Sin borde */
+}
+
+.dark ::-webkit-scrollbar-track:hover {
+  background: #444444; /* Color de la pista en hover en modo oscuro */
+}
+
+.dark ::-webkit-scrollbar-track:active {
+  background: #222222; /* Color de la pista en active en modo oscuro */
+}
+
+.dark ::-webkit-scrollbar-corner {
+  background: transparent; /* Color de la esquina */
+}
