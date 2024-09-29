@@ -1,27 +1,160 @@
+<div align="center">
+
 # IconVerse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
+![IconVerse Logo](https://raw.githubusercontent.com/obed-tc/IconVerse/main/assets/iconverse-logo.png)
 
-## Development server
+🔍 Your Ultimate Icon Search Engine for Flutter and Beyond 🚀
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://iconverse.vercel.app)
+[![Made with Angular](https://img.shields.io/badge/Made%20with-Angular-DD0031?style=for-the-badge&logo=angular)](https://angular.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
-## Code scaffolding
+[Explore IconVerse](https://iconverse.vercel.app) | [Report Bug](https://github.com/obed-tc/IconVerse/issues) | [Request Feature](https://github.com/obed-tc/IconVerse/issues)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+</div>
 
-## Build
+## 📖 Table of Contents
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [About The Project](#about-the-project)
+- [Features](#features)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-## Running unit tests
+## 🌟 About The Project
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+IconVerse is your one-stop destination for an extensive collection of icons, including Flutter's default icons and SVG icons from various other collections. Our platform offers a powerful search engine that allows you to easily find, copy, and implement icons in your projects.
 
-## Running end-to-end tests
+### Why IconVerse?
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **Comprehensive**: Access Flutter icons and SVG collections all in one place.
+- **Time-Saving**: Quick search and easy implementation instructions.
+- **Free & Open Source**: Use and contribute to our growing collection.
 
-## Further help
+<div align="center">
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![IconVerse Screenshot](https://raw.githubusercontent.com/obed-tc/IconVerse/main/assets/iconverse-screenshot.png)
+
+</div>
+
+## ✨ Features
+
+- 🔎 Advanced search functionality
+- 📚 Extensive icon library including Flutter icons and SVG collections
+- 📋 One-click copy for SVG code
+- 💻 Implementation guides for various frameworks
+- 🎨 Preview and customize icons
+- 📱 Responsive design for desktop and mobile
+- 🌙 Dark mode support
+
+## 🛠 Built With
+
+- [Angular](https://angular.io/) - The web framework used
+- [TypeScript](https://www.typescriptlang.org/) - Programming language
+- [SCSS](https://sass-lang.com/) - For styling
+- [Vercel](https://vercel.com/) - For deployment
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+- Node.js (v14.x or later)
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/obed-tc/IconVerse.git
+   ```
+2. Navigate to the project directory
+   ```sh
+   cd IconVerse
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Start the development server
+   ```sh
+   ng serve
+   ```
+5. Open your browser and visit `http://localhost:4200`
+
+## 💻 Usage
+
+1. Use the search bar to find specific icons.
+2. Click on an icon to view details.
+3. Copy the SVG code or view implementation instructions.
+4. Use the customization options to adjust the icon as needed.
+5. Implement the icon in your project using the provided guidelines.
+
+<div align="center">
+
+![IconVerse Usage GIF](https://raw.githubusercontent.com/obed-tc/IconVerse/main/assets/iconverse-usage.gif)
+
+</div>
+
+## 🗺 Roadmap
+
+See the [open issues](https://github.com/obed-tc/IconVerse/issues) for a list of proposed features and known issues.
+
+- [x] Basic search functionality
+- [x] Flutter icon integration
+- [ ] Additional SVG collections
+- [ ] User accounts and favorites
+- [ ] API for developers
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Don't forget to give the project a star! Thanks again!
+
+For more details, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## 📜 License
+
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+
+## 📞 Contact
+
+Obed TC - [@obed_tc](https://github.com/obed-tc)
+
+Project Link: [https://github.com/obed-tc/IconVerse](https://github.com/obed-tc/IconVerse)
+
+## 🙏 Acknowledgements
+
+- [Flutter Icons](https://flutter.dev/docs/development/ui/widgets/icons)
+- [Open Source SVG Icons](https://iconify.design/)
+- [Angular Documentation](https://angular.io/docs)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Choose an Open Source License](https://choosealicense.com)
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Obed TC](https://github.com/obed-tc) | [IconVerse](https://iconverse.vercel.app)
+
+</div>
