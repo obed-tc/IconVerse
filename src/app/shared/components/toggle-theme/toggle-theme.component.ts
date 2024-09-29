@@ -21,7 +21,7 @@ export class ToggleThemeComponent {
   }
 
   applyTheme() {
-    if (this.darkMode()) {
+    if (!this.darkMode()) {
       document.documentElement.classList.add("dark");
       localStorage.setItem("dark", "true");
     } else {
