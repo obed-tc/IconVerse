@@ -1,0 +1,30 @@
+[
+  {
+    "name": "add_alert",
+    "url": "icons/suint/general/alert/add_alert.svg"
+  },
+  {
+    "name": "auto_delete",
+    "url": "icons/suint/general/alert/auto_delete.svg"
+  },
+  {
+    "name": "error",
+    "url": "icons/suint/general/alert/error.svg"
+  },
+  {
+    "name": "error_outline",
+    "url": "icons/suint/general/alert/error_outline.svg"
+  },
+  {
+    "name": "notification_important",
+    "url": "icons/suint/general/alert/notification_important.svg"
+  },
+  {
+    "name": "warning",
+    "url": "icons/suint/general/alert/warning.svg"
+  },
+  {
+    "name": "warning_amber",
+    "url": "icons/suint/general/alert/warning_amber.svg"
+  }
+]

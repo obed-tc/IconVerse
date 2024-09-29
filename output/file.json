@@ -1,0 +1,86 @@
+[
+  {
+    "name": "attachment",
+    "url": "icons/suint/general/file/attachment.svg"
+  },
+  {
+    "name": "attach_email",
+    "url": "icons/suint/general/file/attach_email.svg"
+  },
+  {
+    "name": "cloud",
+    "url": "icons/suint/general/file/cloud.svg"
+  },
+  {
+    "name": "cloud_circle",
+    "url": "icons/suint/general/file/cloud_circle.svg"
+  },
+  {
+    "name": "cloud_done",
+    "url": "icons/suint/general/file/cloud_done.svg"
+  },
+  {
+    "name": "cloud_download",
+    "url": "icons/suint/general/file/cloud_download.svg"
+  },
+  {
+    "name": "cloud_off",
+    "url": "icons/suint/general/file/cloud_off.svg"
+  },
+  {
+    "name": "cloud_queue",
+    "url": "icons/suint/general/file/cloud_queue.svg"
+  },
+  {
+    "name": "cloud_upload",
+    "url": "icons/suint/general/file/cloud_upload.svg"
+  },
+  {
+    "name": "create_new_folder",
+    "url": "icons/suint/general/file/create_new_folder.svg"
+  },
+  {
+    "name": "download",
+    "url": "icons/suint/general/file/download.svg"
+  },
+  {
+    "name": "download_done",
+    "url": "icons/suint/general/file/download_done.svg"
+  },
+  {
+    "name": "folder",
+    "url": "icons/suint/general/file/folder.svg"
+  },
+  {
+    "name": "folder_open",
+    "url": "icons/suint/general/file/folder_open.svg"
+  },
+  {
+    "name": "folder_shared",
+    "url": "icons/suint/general/file/folder_shared.svg"
+  },
+  {
+    "name": "request_quote",
+    "url": "icons/suint/general/file/request_quote.svg"
+  },
+  {
+    "name": "rule_folder",
+    "url": "icons/suint/general/file/rule_folder.svg"
+  },
+  {
+    "name": "snippet_folder",
+    "url": "icons/suint/general/file/snippet_folder.svg"
+  },
+  {
+    "name": "text_snippet",
+    "url": "icons/suint/general/file/text_snippet.svg"
+  },
+  {
+    "name": "topic",
+    "url": "icons/suint/general/file/topic.svg"
+  },
+  {
+    "name": "upload",
+    "url": "icons/suint/general/file/upload.svg"
+  }
+]

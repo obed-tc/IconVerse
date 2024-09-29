@@ -1,4 +1,0 @@
-<svg xmlns='http://www.w3.org/2000/svg' id='icons_toggle_square' viewBox='0 0 24 24'>
-<path d='M15 9C14.448 9 14 9.448 14 10L14 14C14 14.552 14.448 15 15 15L19 15C19.552 15 20 14.552 20 14L20 10C20 9.448 19.552 9 19 9L15 9z' />
-<path fill-rule='evenodd' clip-rule='evenodd' d='M0 7C0 5.895 0.895 5 2 5L22 5C23.105 5 24 5.895 24 7L24 17C24 18.105 23.105 19 22 19L2 19C0.895 19 0 18.105 0 17L0 7zM2 7L22 7L22 17L2 17L2 7z' />
-</svg>

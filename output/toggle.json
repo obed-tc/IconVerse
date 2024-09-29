@@ -1,0 +1,46 @@
+[
+  {
+    "name": "check_box",
+    "url": "icons/suint/general/toggle/check_box.svg"
+  },
+  {
+    "name": "check_box_outline_blank",
+    "url": "icons/suint/general/toggle/check_box_outline_blank.svg"
+  },
+  {
+    "name": "indeterminate_check_box",
+    "url": "icons/suint/general/toggle/indeterminate_check_box.svg"
+  },
+  {
+    "name": "radio_button_checked",
+    "url": "icons/suint/general/toggle/radio_button_checked.svg"
+  },
+  {
+    "name": "radio_button_unchecked",
+    "url": "icons/suint/general/toggle/radio_button_unchecked.svg"
+  },
+  {
+    "name": "star",
+    "url": "icons/suint/general/toggle/star.svg"
+  },
+  {
+    "name": "star_border",
+    "url": "icons/suint/general/toggle/star_border.svg"
+  },
+  {
+    "name": "star_half",
+    "url": "icons/suint/general/toggle/star_half.svg"
+  },
+  {
+    "name": "star_outline",
+    "url": "icons/suint/general/toggle/star_outline.svg"
+  },
+  {
+    "name": "toggle_off",
+    "url": "icons/suint/general/toggle/toggle_off.svg"
+  },
+  {
+    "name": "toggle_on",
+    "url": "icons/suint/general/toggle/toggle_on.svg"
+  }
+]

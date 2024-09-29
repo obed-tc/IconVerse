@@ -1,0 +1,366 @@
+[
+  {
+    "name": "6_ft_apart",
+    "url": "icons/suint/general/social/6_ft_apart.svg"
+  },
+  {
+    "name": "architecture",
+    "url": "icons/suint/general/social/architecture.svg"
+  },
+  {
+    "name": "cake",
+    "url": "icons/suint/general/social/cake.svg"
+  },
+  {
+    "name": "clean_hands",
+    "url": "icons/suint/general/social/clean_hands.svg"
+  },
+  {
+    "name": "connect_without_contact",
+    "url": "icons/suint/general/social/connect_without_contact.svg"
+  },
+  {
+    "name": "construction",
+    "url": "icons/suint/general/social/construction.svg"
+  },
+  {
+    "name": "coronavirus",
+    "url": "icons/suint/general/social/coronavirus.svg"
+  },
+  {
+    "name": "deck",
+    "url": "icons/suint/general/social/deck.svg"
+  },
+  {
+    "name": "domain",
+    "url": "icons/suint/general/social/domain.svg"
+  },
+  {
+    "name": "elderly",
+    "url": "icons/suint/general/social/elderly.svg"
+  },
+  {
+    "name": "emoji_emotions",
+    "url": "icons/suint/general/social/emoji_emotions.svg"
+  },
+  {
+    "name": "emoji_events",
+    "url": "icons/suint/general/social/emoji_events.svg"
+  },
+  {
+    "name": "emoji_flags",
+    "url": "icons/suint/general/social/emoji_flags.svg"
+  },
+  {
+    "name": "emoji_food_beverage",
+    "url": "icons/suint/general/social/emoji_food_beverage.svg"
+  },
+  {
+    "name": "emoji_nature",
+    "url": "icons/suint/general/social/emoji_nature.svg"
+  },
+  {
+    "name": "emoji_objects",
+    "url": "icons/suint/general/social/emoji_objects.svg"
+  },
+  {
+    "name": "emoji_people",
+    "url": "icons/suint/general/social/emoji_people.svg"
+  },
+  {
+    "name": "emoji_symbols",
+    "url": "icons/suint/general/social/emoji_symbols.svg"
+  },
+  {
+    "name": "emoji_transportation",
+    "url": "icons/suint/general/social/emoji_transportation.svg"
+  },
+  {
+    "name": "engineering",
+    "url": "icons/suint/general/social/engineering.svg"
+  },
+  {
+    "name": "facebook",
+    "url": "icons/suint/general/social/facebook.svg"
+  },
+  {
+    "name": "fireplace",
+    "url": "icons/suint/general/social/fireplace.svg"
+  },
+  {
+    "name": "follow_the_signs",
+    "url": "icons/suint/general/social/follow_the_signs.svg"
+  },
+  {
+    "name": "group",
+    "url": "icons/suint/general/social/group.svg"
+  },
+  {
+    "name": "groups",
+    "url": "icons/suint/general/social/groups.svg"
+  },
+  {
+    "name": "group_add",
+    "url": "icons/suint/general/social/group_add.svg"
+  },
+  {
+    "name": "history_edu",
+    "url": "icons/suint/general/social/history_edu.svg"
+  },
+  {
+    "name": "king_bed",
+    "url": "icons/suint/general/social/king_bed.svg"
+  },
+  {
+    "name": "location_city",
+    "url": "icons/suint/general/social/location_city.svg"
+  },
+  {
+    "name": "luggage",
+    "url": "icons/suint/general/social/luggage.svg"
+  },
+  {
+    "name": "masks",
+    "url": "icons/suint/general/social/masks.svg"
+  },
+  {
+    "name": "military_tech",
+    "url": "icons/suint/general/social/military_tech.svg"
+  },
+  {
+    "name": "mood",
+    "url": "icons/suint/general/social/mood.svg"
+  },
+  {
+    "name": "mood_bad",
+    "url": "icons/suint/general/social/mood_bad.svg"
+  },
+  {
+    "name": "nights_stay",
+    "url": "icons/suint/general/social/nights_stay.svg"
+  },
+  {
+    "name": "notifications",
+    "url": "icons/suint/general/social/notifications.svg"
+  },
+  {
+    "name": "notifications_active",
+    "url": "icons/suint/general/social/notifications_active.svg"
+  },
+  {
+    "name": "notifications_none",
+    "url": "icons/suint/general/social/notifications_none.svg"
+  },
+  {
+    "name": "notifications_off",
+    "url": "icons/suint/general/social/notifications_off.svg"
+  },
+  {
+    "name": "notifications_paused",
+    "url": "icons/suint/general/social/notifications_paused.svg"
+  },
+  {
+    "name": "no_luggage",
+    "url": "icons/suint/general/social/no_luggage.svg"
+  },
+  {
+    "name": "outdoor_grill",
+    "url": "icons/suint/general/social/outdoor_grill.svg"
+  },
+  {
+    "name": "pages",
+    "url": "icons/suint/general/social/pages.svg"
+  },
+  {
+    "name": "party_mode",
+    "url": "icons/suint/general/social/party_mode.svg"
+  },
+  {
+    "name": "people",
+    "url": "icons/suint/general/social/people.svg"
+  },
+  {
+    "name": "people_alt",
+    "url": "icons/suint/general/social/people_alt.svg"
+  },
+  {
+    "name": "people_outline",
+    "url": "icons/suint/general/social/people_outline.svg"
+  },
+  {
+    "name": "person",
+    "url": "icons/suint/general/social/person.svg"
+  },
+  {
+    "name": "person_add",
+    "url": "icons/suint/general/social/person_add.svg"
+  },
+  {
+    "name": "person_add_alt_1",
+    "url": "icons/suint/general/social/person_add_alt_1.svg"
+  },
+  {
+    "name": "person_outline",
+    "url": "icons/suint/general/social/person_outline.svg"
+  },
+  {
+    "name": "person_remove",
+    "url": "icons/suint/general/social/person_remove.svg"
+  },
+  {
+    "name": "person_remove_alt_1",
+    "url": "icons/suint/general/social/person_remove_alt_1.svg"
+  },
+  {
+    "name": "plus_one",
+    "url": "icons/suint/general/social/plus_one.svg"
+  },
+  {
+    "name": "poll",
+    "url": "icons/suint/general/social/poll.svg"
+  },
+  {
+    "name": "precision_manufacturing",
+    "url": "icons/suint/general/social/precision_manufacturing.svg"
+  },
+  {
+    "name": "psychology",
+    "url": "icons/suint/general/social/psychology.svg"
+  },
+  {
+    "name": "public",
+    "url": "icons/suint/general/social/public.svg"
+  },
+  {
+    "name": "public_off",
+    "url": "icons/suint/general/social/public_off.svg"
+  },
+  {
+    "name": "reduce_capacity",
+    "url": "icons/suint/general/social/reduce_capacity.svg"
+  },
+  {
+    "name": "sanitizer",
+    "url": "icons/suint/general/social/sanitizer.svg"
+  },
+  {
+    "name": "school",
+    "url": "icons/suint/general/social/school.svg"
+  },
+  {
+    "name": "science",
+    "url": "icons/suint/general/social/science.svg"
+  },
+  {
+    "name": "self_improvement",
+    "url": "icons/suint/general/social/self_improvement.svg"
+  },
+  {
+    "name": "sentiment_dissatisfied",
+    "url": "icons/suint/general/social/sentiment_dissatisfied.svg"
+  },
+  {
+    "name": "sentiment_neutral",
+    "url": "icons/suint/general/social/sentiment_neutral.svg"
+  },
+  {
+    "name": "sentiment_satisfied",
+    "url": "icons/suint/general/social/sentiment_satisfied.svg"
+  },
+  {
+    "name": "sentiment_very_dissatisfied",
+    "url": "icons/suint/general/social/sentiment_very_dissatisfied.svg"
+  },
+  {
+    "name": "sentiment_very_satisfied",
+    "url": "icons/suint/general/social/sentiment_very_satisfied.svg"
+  },
+  {
+    "name": "share",
+    "url": "icons/suint/general/social/share.svg"
+  },
+  {
+    "name": "sick",
+    "url": "icons/suint/general/social/sick.svg"
+  },
+  {
+    "name": "single_bed",
+    "url": "icons/suint/general/social/single_bed.svg"
+  },
+  {
+    "name": "sports",
+    "url": "icons/suint/general/social/sports.svg"
+  },
+  {
+    "name": "sports_baseball",
+    "url": "icons/suint/general/social/sports_baseball.svg"
+  },
+  {
+    "name": "sports_basketball",
+    "url": "icons/suint/general/social/sports_basketball.svg"
+  },
+  {
+    "name": "sports_cricket",
+    "url": "icons/suint/general/social/sports_cricket.svg"
+  },
+  {
+    "name": "sports_esports",
+    "url": "icons/suint/general/social/sports_esports.svg"
+  },
+  {
+    "name": "sports_football",
+    "url": "icons/suint/general/social/sports_football.svg"
+  },
+  {
+    "name": "sports_golf",
+    "url": "icons/suint/general/social/sports_golf.svg"
+  },
+  {
+    "name": "sports_handball",
+    "url": "icons/suint/general/social/sports_handball.svg"
+  },
+  {
+    "name": "sports_hockey",
+    "url": "icons/suint/general/social/sports_hockey.svg"
+  },
+  {
+    "name": "sports_kabaddi",
+    "url": "icons/suint/general/social/sports_kabaddi.svg"
+  },
+  {
+    "name": "sports_mma",
+    "url": "icons/suint/general/social/sports_mma.svg"
+  },
+  {
+    "name": "sports_motorsports",
+    "url": "icons/suint/general/social/sports_motorsports.svg"
+  },
+  {
+    "name": "sports_rugby",
+    "url": "icons/suint/general/social/sports_rugby.svg"
+  },
+  {
+    "name": "sports_soccer",
+    "url": "icons/suint/general/social/sports_soccer.svg"
+  },
+  {
+    "name": "sports_tennis",
+    "url": "icons/suint/general/social/sports_tennis.svg"
+  },
+  {
+    "name": "sports_volleyball",
+    "url": "icons/suint/general/social/sports_volleyball.svg"
+  },
+  {
+    "name": "thumb_down_alt",
+    "url": "icons/suint/general/social/thumb_down_alt.svg"
+  },
+  {
+    "name": "thumb_up_alt",
+    "url": "icons/suint/general/social/thumb_up_alt.svg"
+  },
+  {
+    "name": "whatshot",
+    "url": "icons/suint/general/social/whatshot.svg"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Activity_fill",
+    "url": "icons/suint/solid/HealthWellness/Activity_fill.svg"
+  },
+  {
+    "name": "Bandaids_fill",
+    "url": "icons/suint/solid/HealthWellness/Bandaids_fill.svg"
+  },
+  {
+    "name": "Barbell_fill",
+    "url": "icons/suint/solid/HealthWellness/Barbell_fill.svg"
+  },
+  {
+    "name": "Bed_fill",
+    "url": "icons/suint/solid/HealthWellness/Bed_fill.svg"
+  },
+  {
+    "name": "Brain_fill",
+    "url": "icons/suint/solid/HealthWellness/Brain_fill.svg"
+  },
+  {
+    "name": "FaceMask_fill",
+    "url": "icons/suint/solid/HealthWellness/FaceMask_fill.svg"
+  },
+  {
+    "name": "FirstAidKit_fill",
+    "url": "icons/suint/solid/HealthWellness/FirstAidKit_fill.svg"
+  },
+  {
+    "name": "FirstAid_fill",
+    "url": "icons/suint/solid/HealthWellness/FirstAid_fill.svg"
+  },
+  {
+    "name": "Flask_fill",
+    "url": "icons/suint/solid/HealthWellness/Flask_fill.svg"
+  },
+  {
+    "name": "HandSoap_fill",
+    "url": "icons/suint/solid/HealthWellness/HandSoap_fill.svg"
+  },
+  {
+    "name": "Heartbeat_fill",
+    "url": "icons/suint/solid/HealthWellness/Heartbeat_fill.svg"
+  },
+  {
+    "name": "Lifebuoy_fill",
+    "url": "icons/suint/solid/HealthWellness/Lifebuoy_fill.svg"
+  },
+  {
+    "name": "Pill_fill",
+    "url": "icons/suint/solid/HealthWellness/Pill_fill.svg"
+  },
+  {
+    "name": "Prescription_fill",
+    "url": "icons/suint/solid/HealthWellness/Prescription_fill.svg"
+  },
+  {
+    "name": "TestTube_fill",
+    "url": "icons/suint/solid/HealthWellness/TestTube_fill.svg"
+  },
+  {
+    "name": "ToiletPaper_fill",
+    "url": "icons/suint/solid/HealthWellness/ToiletPaper_fill.svg"
+  }
+]

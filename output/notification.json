@@ -1,0 +1,246 @@
+[
+  {
+    "name": "account_tree",
+    "url": "icons/suint/general/notification/account_tree.svg"
+  },
+  {
+    "name": "adb",
+    "url": "icons/suint/general/notification/adb.svg"
+  },
+  {
+    "name": "airline_seat_flat",
+    "url": "icons/suint/general/notification/airline_seat_flat.svg"
+  },
+  {
+    "name": "airline_seat_flat_angled",
+    "url": "icons/suint/general/notification/airline_seat_flat_angled.svg"
+  },
+  {
+    "name": "airline_seat_individual_suite",
+    "url": "icons/suint/general/notification/airline_seat_individual_suite.svg"
+  },
+  {
+    "name": "airline_seat_legroom_extra",
+    "url": "icons/suint/general/notification/airline_seat_legroom_extra.svg"
+  },
+  {
+    "name": "airline_seat_legroom_normal",
+    "url": "icons/suint/general/notification/airline_seat_legroom_normal.svg"
+  },
+  {
+    "name": "airline_seat_legroom_reduced",
+    "url": "icons/suint/general/notification/airline_seat_legroom_reduced.svg"
+  },
+  {
+    "name": "airline_seat_recline_extra",
+    "url": "icons/suint/general/notification/airline_seat_recline_extra.svg"
+  },
+  {
+    "name": "airline_seat_recline_normal",
+    "url": "icons/suint/general/notification/airline_seat_recline_normal.svg"
+  },
+  {
+    "name": "bluetooth_audio",
+    "url": "icons/suint/general/notification/bluetooth_audio.svg"
+  },
+  {
+    "name": "confirmation_number",
+    "url": "icons/suint/general/notification/confirmation_number.svg"
+  },
+  {
+    "name": "directions_off",
+    "url": "icons/suint/general/notification/directions_off.svg"
+  },
+  {
+    "name": "disc_full",
+    "url": "icons/suint/general/notification/disc_full.svg"
+  },
+  {
+    "name": "do_disturb",
+    "url": "icons/suint/general/notification/do_disturb.svg"
+  },
+  {
+    "name": "do_disturb_alt",
+    "url": "icons/suint/general/notification/do_disturb_alt.svg"
+  },
+  {
+    "name": "do_disturb_off",
+    "url": "icons/suint/general/notification/do_disturb_off.svg"
+  },
+  {
+    "name": "do_disturb_on",
+    "url": "icons/suint/general/notification/do_disturb_on.svg"
+  },
+  {
+    "name": "drive_eta",
+    "url": "icons/suint/general/notification/drive_eta.svg"
+  },
+  {
+    "name": "enhanced_encryption",
+    "url": "icons/suint/general/notification/enhanced_encryption.svg"
+  },
+  {
+    "name": "event_available",
+    "url": "icons/suint/general/notification/event_available.svg"
+  },
+  {
+    "name": "event_busy",
+    "url": "icons/suint/general/notification/event_busy.svg"
+  },
+  {
+    "name": "event_note",
+    "url": "icons/suint/general/notification/event_note.svg"
+  },
+  {
+    "name": "folder_special",
+    "url": "icons/suint/general/notification/folder_special.svg"
+  },
+  {
+    "name": "live_tv",
+    "url": "icons/suint/general/notification/live_tv.svg"
+  },
+  {
+    "name": "mms",
+    "url": "icons/suint/general/notification/mms.svg"
+  },
+  {
+    "name": "more",
+    "url": "icons/suint/general/notification/more.svg"
+  },
+  {
+    "name": "network_check",
+    "url": "icons/suint/general/notification/network_check.svg"
+  },
+  {
+    "name": "network_locked",
+    "url": "icons/suint/general/notification/network_locked.svg"
+  },
+  {
+    "name": "no_encryption",
+    "url": "icons/suint/general/notification/no_encryption.svg"
+  },
+  {
+    "name": "no_encryption_gmailerrorred",
+    "url": "icons/suint/general/notification/no_encryption_gmailerrorred.svg"
+  },
+  {
+    "name": "ondemand_video",
+    "url": "icons/suint/general/notification/ondemand_video.svg"
+  },
+  {
+    "name": "personal_video",
+    "url": "icons/suint/general/notification/personal_video.svg"
+  },
+  {
+    "name": "phone_bluetooth_speaker",
+    "url": "icons/suint/general/notification/phone_bluetooth_speaker.svg"
+  },
+  {
+    "name": "phone_callback",
+    "url": "icons/suint/general/notification/phone_callback.svg"
+  },
+  {
+    "name": "phone_forwarded",
+    "url": "icons/suint/general/notification/phone_forwarded.svg"
+  },
+  {
+    "name": "phone_in_talk",
+    "url": "icons/suint/general/notification/phone_in_talk.svg"
+  },
+  {
+    "name": "phone_locked",
+    "url": "icons/suint/general/notification/phone_locked.svg"
+  },
+  {
+    "name": "phone_missed",
+    "url": "icons/suint/general/notification/phone_missed.svg"
+  },
+  {
+    "name": "phone_paused",
+    "url": "icons/suint/general/notification/phone_paused.svg"
+  },
+  {
+    "name": "power",
+    "url": "icons/suint/general/notification/power.svg"
+  },
+  {
+    "name": "power_off",
+    "url": "icons/suint/general/notification/power_off.svg"
+  },
+  {
+    "name": "priority_high",
+    "url": "icons/suint/general/notification/priority_high.svg"
+  },
+  {
+    "name": "sd_card",
+    "url": "icons/suint/general/notification/sd_card.svg"
+  },
+  {
+    "name": "sd_card_alert",
+    "url": "icons/suint/general/notification/sd_card_alert.svg"
+  },
+  {
+    "name": "sms",
+    "url": "icons/suint/general/notification/sms.svg"
+  },
+  {
+    "name": "sms_failed",
+    "url": "icons/suint/general/notification/sms_failed.svg"
+  },
+  {
+    "name": "support_agent",
+    "url": "icons/suint/general/notification/support_agent.svg"
+  },
+  {
+    "name": "sync",
+    "url": "icons/suint/general/notification/sync.svg"
+  },
+  {
+    "name": "sync_disabled",
+    "url": "icons/suint/general/notification/sync_disabled.svg"
+  },
+  {
+    "name": "sync_problem",
+    "url": "icons/suint/general/notification/sync_problem.svg"
+  },
+  {
+    "name": "system_update",
+    "url": "icons/suint/general/notification/system_update.svg"
+  },
+  {
+    "name": "tap_and_play",
+    "url": "icons/suint/general/notification/tap_and_play.svg"
+  },
+  {
+    "name": "time_to_leave",
+    "url": "icons/suint/general/notification/time_to_leave.svg"
+  },
+  {
+    "name": "tv_off",
+    "url": "icons/suint/general/notification/tv_off.svg"
+  },
+  {
+    "name": "vibration",
+    "url": "icons/suint/general/notification/vibration.svg"
+  },
+  {
+    "name": "voice_chat",
+    "url": "icons/suint/general/notification/voice_chat.svg"
+  },
+  {
+    "name": "vpn_lock",
+    "url": "icons/suint/general/notification/vpn_lock.svg"
+  },
+  {
+    "name": "wc",
+    "url": "icons/suint/general/notification/wc.svg"
+  },
+  {
+    "name": "wifi",
+    "url": "icons/suint/general/notification/wifi.svg"
+  },
+  {
+    "name": "wifi_off",
+    "url": "icons/suint/general/notification/wifi_off.svg"
+  }
+]

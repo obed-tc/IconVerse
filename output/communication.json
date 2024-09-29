@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Bullhorn",
+    "url": "icons/suint/solid/Communication/Bullhorn.svg"
+  },
+  {
+    "name": "Chat",
+    "url": "icons/suint/solid/Communication/Chat.svg"
+  },
+  {
+    "name": "Comment-block",
+    "url": "icons/suint/solid/Communication/Comment-block.svg"
+  },
+  {
+    "name": "Comment-minus",
+    "url": "icons/suint/solid/Communication/Comment-minus.svg"
+  },
+  {
+    "name": "Comment-plus",
+    "url": "icons/suint/solid/Communication/Comment-plus.svg"
+  },
+  {
+    "name": "Comment",
+    "url": "icons/suint/solid/Communication/Comment.svg"
+  },
+  {
+    "name": "Contacts",
+    "url": "icons/suint/solid/Communication/Contacts.svg"
+  },
+  {
+    "name": "Dislike",
+    "url": "icons/suint/solid/Communication/Dislike.svg"
+  },
+  {
+    "name": "Envelope-open",
+    "url": "icons/suint/solid/Communication/Envelope-open.svg"
+  },
+  {
+    "name": "Envelope",
+    "url": "icons/suint/solid/Communication/Envelope.svg"
+  },
+  {
+    "name": "Forward",
+    "url": "icons/suint/solid/Communication/Forward.svg"
+  },
+  {
+    "name": "Like",
+    "url": "icons/suint/solid/Communication/Like.svg"
+  },
+  {
+    "name": "Phone-in",
+    "url": "icons/suint/solid/Communication/Phone-in.svg"
+  },
+  {
+    "name": "Phone-miss",
+    "url": "icons/suint/solid/Communication/Phone-miss.svg"
+  },
+  {
+    "name": "Phone-off",
+    "url": "icons/suint/solid/Communication/Phone-off.svg"
+  },
+  {
+    "name": "Phone-out",
+    "url": "icons/suint/solid/Communication/Phone-out.svg"
+  },
+  {
+    "name": "Phone",
+    "url": "icons/suint/solid/Communication/Phone.svg"
+  },
+  {
+    "name": "Reply",
+    "url": "icons/suint/solid/Communication/Reply.svg"
+  },
+  {
+    "name": "Send",
+    "url": "icons/suint/solid/Communication/Send.svg"
+  },
+  {
+    "name": "Share-box",
+    "url": "icons/suint/solid/Communication/Share-box.svg"
+  },
+  {
+    "name": "Share",
+    "url": "icons/suint/solid/Communication/Share.svg"
+  },
+  {
+    "name": "User-block",
+    "url": "icons/suint/solid/Communication/User-block.svg"
+  },
+  {
+    "name": "User-clock",
+    "url": "icons/suint/solid/Communication/User-clock.svg"
+  },
+  {
+    "name": "User-plus",
+    "url": "icons/suint/solid/Communication/User-plus.svg"
+  },
+  {
+    "name": "User",
+    "url": "icons/suint/solid/Communication/User.svg"
+  }
+]

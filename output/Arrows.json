@@ -1,0 +1,438 @@
+[
+  {
+    "name": "ArrowArcLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowArcLeft_fill.svg"
+  },
+  {
+    "name": "ArrowArcRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowArcRight_fill.svg"
+  },
+  {
+    "name": "ArrowBendDoubleUpLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendDoubleUpLeft_fill.svg"
+  },
+  {
+    "name": "ArrowBendDoubleUpRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendDoubleUpRight_fill.svg"
+  },
+  {
+    "name": "ArrowBendDownLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendDownLeft_fill.svg"
+  },
+  {
+    "name": "ArrowBendDownRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendDownRight_fill.svg"
+  },
+  {
+    "name": "ArrowBendLeftDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendLeftDown_fill.svg"
+  },
+  {
+    "name": "ArrowBendLeftUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendLeftUp_fill.svg"
+  },
+  {
+    "name": "ArrowBendRightDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendRightDown_fill.svg"
+  },
+  {
+    "name": "ArrowBendRightUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendRightUp_fill.svg"
+  },
+  {
+    "name": "ArrowBendUpLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendUpLeft_fill.svg"
+  },
+  {
+    "name": "ArrowBendUpRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowBendUpRight_fill.svg"
+  },
+  {
+    "name": "ArrowCircleDownLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowCircleDownLeft_fill.svg"
+  },
+  {
+    "name": "ArrowCircleDownRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowCircleDownRight_fill.svg"
+  },
+  {
+    "name": "ArrowCircleDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowCircleDown_fill.svg"
+  },
+  {
+    "name": "ArrowCircleLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowCircleLeft_fill.svg"
+  },
+  {
+    "name": "ArrowCircleRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowCircleRight_fill.svg"
+  },
+  {
+    "name": "ArrowCircleUpLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowCircleUpLeft_fill.svg"
+  },
+  {
+    "name": "ArrowCircleUpRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowCircleUpRight_fill.svg"
+  },
+  {
+    "name": "ArrowCircleUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowCircleUp_fill.svg"
+  },
+  {
+    "name": "ArrowClockwise_fill",
+    "url": "icons/suint/solid/Arrows/ArrowClockwise_fill.svg"
+  },
+  {
+    "name": "ArrowCounterClockwise_fill",
+    "url": "icons/suint/solid/Arrows/ArrowCounterClockwise_fill.svg"
+  },
+  {
+    "name": "ArrowDownLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowDownLeft_fill.svg"
+  },
+  {
+    "name": "ArrowDownRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowDownRight_fill.svg"
+  },
+  {
+    "name": "ArrowDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowDown_fill.svg"
+  },
+  {
+    "name": "ArrowElbowDownLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowDownLeft_fill.svg"
+  },
+  {
+    "name": "ArrowElbowDownRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowDownRight_fill.svg"
+  },
+  {
+    "name": "ArrowElbowLeftDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowLeftDown_fill.svg"
+  },
+  {
+    "name": "ArrowElbowLeftUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowLeftUp_fill.svg"
+  },
+  {
+    "name": "ArrowElbowLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowLeft_fill.svg"
+  },
+  {
+    "name": "ArrowElbowRightDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowRightDown_fill.svg"
+  },
+  {
+    "name": "ArrowElbowRightUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowRightUp_fill.svg"
+  },
+  {
+    "name": "ArrowElbowRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowRight_fill.svg"
+  },
+  {
+    "name": "ArrowElbowUpLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowUpLeft_fill.svg"
+  },
+  {
+    "name": "ArrowElbowUpRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowElbowUpRight_fill.svg"
+  },
+  {
+    "name": "ArrowFatDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatDown_fill.svg"
+  },
+  {
+    "name": "ArrowFatLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatLeft_fill.svg"
+  },
+  {
+    "name": "ArrowFatLineDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatLineDown_fill.svg"
+  },
+  {
+    "name": "ArrowFatLineLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatLineLeft_fill.svg"
+  },
+  {
+    "name": "ArrowFatLineRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatLineRight_fill.svg"
+  },
+  {
+    "name": "ArrowFatLinesDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatLinesDown_fill.svg"
+  },
+  {
+    "name": "ArrowFatLinesLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatLinesLeft_fill.svg"
+  },
+  {
+    "name": "ArrowFatLinesRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatLinesRight_fill.svg"
+  },
+  {
+    "name": "ArrowFatLinesUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatLinesUp_fill.svg"
+  },
+  {
+    "name": "ArrowFatLineUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatLineUp_fill.svg"
+  },
+  {
+    "name": "ArrowFatRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatRight_fill.svg"
+  },
+  {
+    "name": "ArrowFatUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowFatUp_fill.svg"
+  },
+  {
+    "name": "ArrowLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowLeft_fill.svg"
+  },
+  {
+    "name": "ArrowLineDownLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowLineDownLeft_fill.svg"
+  },
+  {
+    "name": "ArrowLineDownRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowLineDownRight_fill.svg"
+  },
+  {
+    "name": "ArrowLineDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowLineDown_fill.svg"
+  },
+  {
+    "name": "ArrowLineLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowLineLeft_fill.svg"
+  },
+  {
+    "name": "ArrowLineRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowLineRight_fill.svg"
+  },
+  {
+    "name": "ArrowLineUpLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowLineUpLeft_fill.svg"
+  },
+  {
+    "name": "ArrowLineUpRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowLineUpRight_fill.svg"
+  },
+  {
+    "name": "ArrowLineUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowLineUp_fill.svg"
+  },
+  {
+    "name": "ArrowRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowRight_fill.svg"
+  },
+  {
+    "name": "ArrowsClockwise_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsClockwise_fill.svg"
+  },
+  {
+    "name": "ArrowsCounterClockwise_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsCounterClockwise_fill.svg"
+  },
+  {
+    "name": "ArrowsDownUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsDownUp_fill.svg"
+  },
+  {
+    "name": "ArrowsInCardinal_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsInCardinal_fill.svg"
+  },
+  {
+    "name": "ArrowsInLineHorizontal_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsInLineHorizontal_fill.svg"
+  },
+  {
+    "name": "ArrowsInLineVertical_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsInLineVertical_fill.svg"
+  },
+  {
+    "name": "ArrowsInSimple_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsInSimple_fill.svg"
+  },
+  {
+    "name": "ArrowsIn_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsIn_fill.svg"
+  },
+  {
+    "name": "ArrowsLeftRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsLeftRight_fill.svg"
+  },
+  {
+    "name": "ArrowsOutCardinal_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsOutCardinal_fill.svg"
+  },
+  {
+    "name": "ArrowsOutLineHorizontal_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsOutLineHorizontal_fill.svg"
+  },
+  {
+    "name": "ArrowsOutLineVertical_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsOutLineVertical_fill.svg"
+  },
+  {
+    "name": "ArrowsOutSimple_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsOutSimple_fill.svg"
+  },
+  {
+    "name": "ArrowsOut_fill",
+    "url": "icons/suint/solid/Arrows/ArrowsOut_fill.svg"
+  },
+  {
+    "name": "ArrowSquareDownLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareDownLeft_fill.svg"
+  },
+  {
+    "name": "ArrowSquareDownRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareDownRight_fill.svg"
+  },
+  {
+    "name": "ArrowSquareDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareDown_fill.svg"
+  },
+  {
+    "name": "ArrowSquareIn_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareIn_fill.svg"
+  },
+  {
+    "name": "ArrowSquareLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareLeft_fill.svg"
+  },
+  {
+    "name": "ArrowSquareOut_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareOut_fill.svg"
+  },
+  {
+    "name": "ArrowSquareRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareRight_fill.svg"
+  },
+  {
+    "name": "ArrowSquareUpLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareUpLeft_fill.svg"
+  },
+  {
+    "name": "ArrowSquareUpRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareUpRight_fill.svg"
+  },
+  {
+    "name": "ArrowSquareUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowSquareUp_fill.svg"
+  },
+  {
+    "name": "ArrowUDownLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowUDownLeft_fill.svg"
+  },
+  {
+    "name": "ArrowUDownRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowUDownRight_fill.svg"
+  },
+  {
+    "name": "ArrowULeftDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowULeftDown_fill.svg"
+  },
+  {
+    "name": "ArrowULeftUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowULeftUp_fill.svg"
+  },
+  {
+    "name": "ArrowUpLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowUpLeft_fill.svg"
+  },
+  {
+    "name": "ArrowUpRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowUpRight_fill.svg"
+  },
+  {
+    "name": "ArrowUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowUp_fill.svg"
+  },
+  {
+    "name": "ArrowURightDown_fill",
+    "url": "icons/suint/solid/Arrows/ArrowURightDown_fill.svg"
+  },
+  {
+    "name": "ArrowURightUp_fill",
+    "url": "icons/suint/solid/Arrows/ArrowURightUp_fill.svg"
+  },
+  {
+    "name": "ArrowUUpLeft_fill",
+    "url": "icons/suint/solid/Arrows/ArrowUUpLeft_fill.svg"
+  },
+  {
+    "name": "ArrowUUpRight_fill",
+    "url": "icons/suint/solid/Arrows/ArrowUUpRight_fill.svg"
+  },
+  {
+    "name": "CaretCircleDoubleDown_fill",
+    "url": "icons/suint/solid/Arrows/CaretCircleDoubleDown_fill.svg"
+  },
+  {
+    "name": "CaretCircleDoubleLeft_fill",
+    "url": "icons/suint/solid/Arrows/CaretCircleDoubleLeft_fill.svg"
+  },
+  {
+    "name": "CaretCircleDoubleRight_fill",
+    "url": "icons/suint/solid/Arrows/CaretCircleDoubleRight_fill.svg"
+  },
+  {
+    "name": "CaretCircleDoubleUp_fill",
+    "url": "icons/suint/solid/Arrows/CaretCircleDoubleUp_fill.svg"
+  },
+  {
+    "name": "CaretCircleDown_fill",
+    "url": "icons/suint/solid/Arrows/CaretCircleDown_fill.svg"
+  },
+  {
+    "name": "CaretCircleLeft_fill",
+    "url": "icons/suint/solid/Arrows/CaretCircleLeft_fill.svg"
+  },
+  {
+    "name": "CaretCircleRight_fill",
+    "url": "icons/suint/solid/Arrows/CaretCircleRight_fill.svg"
+  },
+  {
+    "name": "CaretCircleUp_fill",
+    "url": "icons/suint/solid/Arrows/CaretCircleUp_fill.svg"
+  },
+  {
+    "name": "CaretDoubleDown_fill",
+    "url": "icons/suint/solid/Arrows/CaretDoubleDown_fill.svg"
+  },
+  {
+    "name": "CaretDoubleLeft_fill",
+    "url": "icons/suint/solid/Arrows/CaretDoubleLeft_fill.svg"
+  },
+  {
+    "name": "CaretDoubleRight_fill",
+    "url": "icons/suint/solid/Arrows/CaretDoubleRight_fill.svg"
+  },
+  {
+    "name": "CaretDoubleUp_fill",
+    "url": "icons/suint/solid/Arrows/CaretDoubleUp_fill.svg"
+  },
+  {
+    "name": "CaretDown_fill",
+    "url": "icons/suint/solid/Arrows/CaretDown_fill.svg"
+  },
+  {
+    "name": "CaretLeft_fill",
+    "url": "icons/suint/solid/Arrows/CaretLeft_fill.svg"
+  },
+  {
+    "name": "CaretRight_fill",
+    "url": "icons/suint/solid/Arrows/CaretRight_fill.svg"
+  },
+  {
+    "name": "CaretUp_fill",
+    "url": "icons/suint/solid/Arrows/CaretUp_fill.svg"
+  },
+  {
+    "name": "Recycle_fill",
+    "url": "icons/suint/solid/Arrows/Recycle_fill.svg"
+  }
+]

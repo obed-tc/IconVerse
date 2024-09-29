@@ -1,0 +1,122 @@
+[
+  {
+    "name": "CircleWavyCheck_fill",
+    "url": "icons/suint/solid/SecurityWarnings/CircleWavyCheck_fill.svg"
+  },
+  {
+    "name": "CircleWavyQuestion_fill",
+    "url": "icons/suint/solid/SecurityWarnings/CircleWavyQuestion_fill.svg"
+  },
+  {
+    "name": "CircleWavyWarning_fill",
+    "url": "icons/suint/solid/SecurityWarnings/CircleWavyWarning_fill.svg"
+  },
+  {
+    "name": "CircleWavy_fill",
+    "url": "icons/suint/solid/SecurityWarnings/CircleWavy_fill.svg"
+  },
+  {
+    "name": "FingerprintSimple_fill",
+    "url": "icons/suint/solid/SecurityWarnings/FingerprintSimple_fill.svg"
+  },
+  {
+    "name": "Fingerprint_fill",
+    "url": "icons/suint/solid/SecurityWarnings/Fingerprint_fill.svg"
+  },
+  {
+    "name": "Info_fill",
+    "url": "icons/suint/solid/SecurityWarnings/Info_fill.svg"
+  },
+  {
+    "name": "Key_fill",
+    "url": "icons/suint/solid/SecurityWarnings/Key_fill.svg"
+  },
+  {
+    "name": "LockKeyOpen_fill",
+    "url": "icons/suint/solid/SecurityWarnings/LockKeyOpen_fill.svg"
+  },
+  {
+    "name": "LockKey_fill",
+    "url": "icons/suint/solid/SecurityWarnings/LockKey_fill.svg"
+  },
+  {
+    "name": "LockLaminatedOpen_fill",
+    "url": "icons/suint/solid/SecurityWarnings/LockLaminatedOpen_fill.svg"
+  },
+  {
+    "name": "LockLaminated_fill",
+    "url": "icons/suint/solid/SecurityWarnings/LockLaminated_fill.svg"
+  },
+  {
+    "name": "LockOpen_fill",
+    "url": "icons/suint/solid/SecurityWarnings/LockOpen_fill.svg"
+  },
+  {
+    "name": "LockSimpleOpen_fill",
+    "url": "icons/suint/solid/SecurityWarnings/LockSimpleOpen_fill.svg"
+  },
+  {
+    "name": "LockSimple_fill",
+    "url": "icons/suint/solid/SecurityWarnings/LockSimple_fill.svg"
+  },
+  {
+    "name": "Lock_fill",
+    "url": "icons/suint/solid/SecurityWarnings/Lock_fill.svg"
+  },
+  {
+    "name": "ProhibitInset_fill",
+    "url": "icons/suint/solid/SecurityWarnings/ProhibitInset_fill.svg"
+  },
+  {
+    "name": "Prohibit_fill",
+    "url": "icons/suint/solid/SecurityWarnings/Prohibit_fill.svg"
+  },
+  {
+    "name": "Question_fill",
+    "url": "icons/suint/solid/SecurityWarnings/Question_fill.svg"
+  },
+  {
+    "name": "ShieldCheckered_fill",
+    "url": "icons/suint/solid/SecurityWarnings/ShieldCheckered_fill.svg"
+  },
+  {
+    "name": "ShieldCheck_fill",
+    "url": "icons/suint/solid/SecurityWarnings/ShieldCheck_fill.svg"
+  },
+  {
+    "name": "ShieldChevron_fill",
+    "url": "icons/suint/solid/SecurityWarnings/ShieldChevron_fill.svg"
+  },
+  {
+    "name": "ShieldPlus_fill",
+    "url": "icons/suint/solid/SecurityWarnings/ShieldPlus_fill.svg"
+  },
+  {
+    "name": "ShieldSlash_fill",
+    "url": "icons/suint/solid/SecurityWarnings/ShieldSlash_fill.svg"
+  },
+  {
+    "name": "ShieldWarning_fill",
+    "url": "icons/suint/solid/SecurityWarnings/ShieldWarning_fill.svg"
+  },
+  {
+    "name": "Shield_fill",
+    "url": "icons/suint/solid/SecurityWarnings/Shield_fill.svg"
+  },
+  {
+    "name": "Wall_fill",
+    "url": "icons/suint/solid/SecurityWarnings/Wall_fill.svg"
+  },
+  {
+    "name": "WarningCircle_fill",
+    "url": "icons/suint/solid/SecurityWarnings/WarningCircle_fill.svg"
+  },
+  {
+    "name": "WarningOctagon_fill",
+    "url": "icons/suint/solid/SecurityWarnings/WarningOctagon_fill.svg"
+  },
+  {
+    "name": "Warning_fill",
+    "url": "icons/suint/solid/SecurityWarnings/Warning_fill.svg"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "name": "add_comment",
+    "url": "icons/suint/general/editor/add_comment.svg"
+  },
+  {
+    "name": "attach_file",
+    "url": "icons/suint/general/editor/attach_file.svg"
+  },
+  {
+    "name": "attach_money",
+    "url": "icons/suint/general/editor/attach_money.svg"
+  },
+  {
+    "name": "bar_chart",
+    "url": "icons/suint/general/editor/bar_chart.svg"
+  },
+  {
+    "name": "border_all",
+    "url": "icons/suint/general/editor/border_all.svg"
+  },
+  {
+    "name": "border_bottom",
+    "url": "icons/suint/general/editor/border_bottom.svg"
+  },
+  {
+    "name": "border_clear",
+    "url": "icons/suint/general/editor/border_clear.svg"
+  },
+  {
+    "name": "border_horizontal",
+    "url": "icons/suint/general/editor/border_horizontal.svg"
+  },
+  {
+    "name": "border_inner",
+    "url": "icons/suint/general/editor/border_inner.svg"
+  },
+  {
+    "name": "border_left",
+    "url": "icons/suint/general/editor/border_left.svg"
+  },
+  {
+    "name": "border_outer",
+    "url": "icons/suint/general/editor/border_outer.svg"
+  },
+  {
+    "name": "border_right",
+    "url": "icons/suint/general/editor/border_right.svg"
+  },
+  {
+    "name": "border_style",
+    "url": "icons/suint/general/editor/border_style.svg"
+  },
+  {
+    "name": "border_top",
+    "url": "icons/suint/general/editor/border_top.svg"
+  },
+  {
+    "name": "border_vertical",
+    "url": "icons/suint/general/editor/border_vertical.svg"
+  },
+  {
+    "name": "bubble_chart",
+    "url": "icons/suint/general/editor/bubble_chart.svg"
+  },
+  {
+    "name": "drag_handle",
+    "url": "icons/suint/general/editor/drag_handle.svg"
+  },
+  {
+    "name": "format_align_center",
+    "url": "icons/suint/general/editor/format_align_center.svg"
+  },
+  {
+    "name": "format_align_justify",
+    "url": "icons/suint/general/editor/format_align_justify.svg"
+  },
+  {
+    "name": "format_align_left",
+    "url": "icons/suint/general/editor/format_align_left.svg"
+  },
+  {
+    "name": "format_align_right",
+    "url": "icons/suint/general/editor/format_align_right.svg"
+  },
+  {
+    "name": "format_bold",
+    "url": "icons/suint/general/editor/format_bold.svg"
+  },
+  {
+    "name": "format_clear",
+    "url": "icons/suint/general/editor/format_clear.svg"
+  },
+  {
+    "name": "format_color_reset",
+    "url": "icons/suint/general/editor/format_color_reset.svg"
+  },
+  {
+    "name": "format_indent_decrease",
+    "url": "icons/suint/general/editor/format_indent_decrease.svg"
+  },
+  {
+    "name": "format_indent_increase",
+    "url": "icons/suint/general/editor/format_indent_increase.svg"
+  },
+  {
+    "name": "format_italic",
+    "url": "icons/suint/general/editor/format_italic.svg"
+  },
+  {
+    "name": "format_line_spacing",
+    "url": "icons/suint/general/editor/format_line_spacing.svg"
+  },
+  {
+    "name": "format_list_bulleted",
+    "url": "icons/suint/general/editor/format_list_bulleted.svg"
+  },
+  {
+    "name": "format_list_numbered",
+    "url": "icons/suint/general/editor/format_list_numbered.svg"
+  },
+  {
+    "name": "format_list_numbered_rtl",
+    "url": "icons/suint/general/editor/format_list_numbered_rtl.svg"
+  },
+  {
+    "name": "format_paint",
+    "url": "icons/suint/general/editor/format_paint.svg"
+  },
+  {
+    "name": "format_quote",
+    "url": "icons/suint/general/editor/format_quote.svg"
+  },
+  {
+    "name": "format_shapes",
+    "url": "icons/suint/general/editor/format_shapes.svg"
+  },
+  {
+    "name": "format_size",
+    "url": "icons/suint/general/editor/format_size.svg"
+  },
+  {
+    "name": "format_strikethrough",
+    "url": "icons/suint/general/editor/format_strikethrough.svg"
+  },
+  {
+    "name": "format_textdirection_l_to_r",
+    "url": "icons/suint/general/editor/format_textdirection_l_to_r.svg"
+  },
+  {
+    "name": "format_textdirection_r_to_l",
+    "url": "icons/suint/general/editor/format_textdirection_r_to_l.svg"
+  },
+  {
+    "name": "format_underlined",
+    "url": "icons/suint/general/editor/format_underlined.svg"
+  },
+  {
+    "name": "functions",
+    "url": "icons/suint/general/editor/functions.svg"
+  },
+  {
+    "name": "height",
+    "url": "icons/suint/general/editor/height.svg"
+  },
+  {
+    "name": "highlight",
+    "url": "icons/suint/general/editor/highlight.svg"
+  },
+  {
+    "name": "horizontal_rule",
+    "url": "icons/suint/general/editor/horizontal_rule.svg"
+  },
+  {
+    "name": "insert_chart",
+    "url": "icons/suint/general/editor/insert_chart.svg"
+  },
+  {
+    "name": "insert_chart_outlined",
+    "url": "icons/suint/general/editor/insert_chart_outlined.svg"
+  },
+  {
+    "name": "insert_comment",
+    "url": "icons/suint/general/editor/insert_comment.svg"
+  },
+  {
+    "name": "insert_drive_file",
+    "url": "icons/suint/general/editor/insert_drive_file.svg"
+  },
+  {
+    "name": "insert_emoticon",
+    "url": "icons/suint/general/editor/insert_emoticon.svg"
+  },
+  {
+    "name": "insert_invitation",
+    "url": "icons/suint/general/editor/insert_invitation.svg"
+  },
+  {
+    "name": "insert_link",
+    "url": "icons/suint/general/editor/insert_link.svg"
+  },
+  {
+    "name": "insert_photo",
+    "url": "icons/suint/general/editor/insert_photo.svg"
+  },
+  {
+    "name": "linear_scale",
+    "url": "icons/suint/general/editor/linear_scale.svg"
+  },
+  {
+    "name": "merge_type",
+    "url": "icons/suint/general/editor/merge_type.svg"
+  },
+  {
+    "name": "mode",
+    "url": "icons/suint/general/editor/mode.svg"
+  },
+  {
+    "name": "mode_comment",
+    "url": "icons/suint/general/editor/mode_comment.svg"
+  },
+  {
+    "name": "monetization_on",
+    "url": "icons/suint/general/editor/monetization_on.svg"
+  },
+  {
+    "name": "money_off",
+    "url": "icons/suint/general/editor/money_off.svg"
+  },
+  {
+    "name": "money_off_csred",
+    "url": "icons/suint/general/editor/money_off_csred.svg"
+  },
+  {
+    "name": "multiline_chart",
+    "url": "icons/suint/general/editor/multiline_chart.svg"
+  },
+  {
+    "name": "notes",
+    "url": "icons/suint/general/editor/notes.svg"
+  },
+  {
+    "name": "pie_chart",
+    "url": "icons/suint/general/editor/pie_chart.svg"
+  },
+  {
+    "name": "pie_chart_outline",
+    "url": "icons/suint/general/editor/pie_chart_outline.svg"
+  },
+  {
+    "name": "post_add",
+    "url": "icons/suint/general/editor/post_add.svg"
+  },
+  {
+    "name": "publish",
+    "url": "icons/suint/general/editor/publish.svg"
+  },
+  {
+    "name": "scatter_plot",
+    "url": "icons/suint/general/editor/scatter_plot.svg"
+  },
+  {
+    "name": "score",
+    "url": "icons/suint/general/editor/score.svg"
+  },
+  {
+    "name": "short_text",
+    "url": "icons/suint/general/editor/short_text.svg"
+  },
+  {
+    "name": "show_chart",
+    "url": "icons/suint/general/editor/show_chart.svg"
+  },
+  {
+    "name": "space_bar",
+    "url": "icons/suint/general/editor/space_bar.svg"
+  },
+  {
+    "name": "stacked_line_chart",
+    "url": "icons/suint/general/editor/stacked_line_chart.svg"
+  },
+  {
+    "name": "strikethrough_s",
+    "url": "icons/suint/general/editor/strikethrough_s.svg"
+  },
+  {
+    "name": "subscript",
+    "url": "icons/suint/general/editor/subscript.svg"
+  },
+  {
+    "name": "superscript",
+    "url": "icons/suint/general/editor/superscript.svg"
+  },
+  {
+    "name": "table_chart",
+    "url": "icons/suint/general/editor/table_chart.svg"
+  },
+  {
+    "name": "table_rows",
+    "url": "icons/suint/general/editor/table_rows.svg"
+  },
+  {
+    "name": "text_fields",
+    "url": "icons/suint/general/editor/text_fields.svg"
+  },
+  {
+    "name": "title",
+    "url": "icons/suint/general/editor/title.svg"
+  },
+  {
+    "name": "vertical_align_bottom",
+    "url": "icons/suint/general/editor/vertical_align_bottom.svg"
+  },
+  {
+    "name": "vertical_align_center",
+    "url": "icons/suint/general/editor/vertical_align_center.svg"
+  },
+  {
+    "name": "vertical_align_top",
+    "url": "icons/suint/general/editor/vertical_align_top.svg"
+  },
+  {
+    "name": "wrap_text",
+    "url": "icons/suint/general/editor/wrap_text.svg"
+  }
+]

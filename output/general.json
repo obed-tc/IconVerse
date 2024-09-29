@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Alarm",
+    "url": "icons/suint/solid/General/Alarm.svg"
+  },
+  {
+    "name": "Bag",
+    "url": "icons/suint/solid/General/Bag.svg"
+  },
+  {
+    "name": "Bank",
+    "url": "icons/suint/solid/General/Bank.svg"
+  },
+  {
+    "name": "Box",
+    "url": "icons/suint/solid/General/Box.svg"
+  },
+  {
+    "name": "Calendar",
+    "url": "icons/suint/solid/General/Calendar.svg"
+  },
+  {
+    "name": "Card",
+    "url": "icons/suint/solid/General/Card.svg"
+  },
+  {
+    "name": "Chart-pie-alt",
+    "url": "icons/suint/solid/General/Chart-pie-alt.svg"
+  },
+  {
+    "name": "Chart-pie",
+    "url": "icons/suint/solid/General/Chart-pie.svg"
+  },
+  {
+    "name": "Clock",
+    "url": "icons/suint/solid/General/Clock.svg"
+  },
+  {
+    "name": "Filter",
+    "url": "icons/suint/solid/General/Filter.svg"
+  },
+  {
+    "name": "Flask-alt",
+    "url": "icons/suint/solid/General/Flask-alt.svg"
+  },
+  {
+    "name": "Flask",
+    "url": "icons/suint/solid/General/Flask.svg"
+  },
+  {
+    "name": "Home",
+    "url": "icons/suint/solid/General/Home.svg"
+  },
+  {
+    "name": "Medkit",
+    "url": "icons/suint/solid/General/Medkit.svg"
+  },
+  {
+    "name": "Moon",
+    "url": "icons/suint/solid/General/Moon.svg"
+  },
+  {
+    "name": "Palette",
+    "url": "icons/suint/solid/General/Palette.svg"
+  },
+  {
+    "name": "Pulse",
+    "url": "icons/suint/solid/General/Pulse.svg"
+  },
+  {
+    "name": "Shopping-bag",
+    "url": "icons/suint/solid/General/Shopping-bag.svg"
+  },
+  {
+    "name": "Shopping-basket",
+    "url": "icons/suint/solid/General/Shopping-basket.svg"
+  },
+  {
+    "name": "Shopping-cart",
+    "url": "icons/suint/solid/General/Shopping-cart.svg"
+  },
+  {
+    "name": "Sun",
+    "url": "icons/suint/solid/General/Sun.svg"
+  },
+  {
+    "name": "Timer",
+    "url": "icons/suint/solid/General/Timer.svg"
+  },
+  {
+    "name": "Umbrella",
+    "url": "icons/suint/solid/General/Umbrella.svg"
+  },
+  {
+    "name": "Wallet",
+    "url": "icons/suint/solid/General/Wallet.svg"
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "name": "360",
+    "url": "icons/suint/general/maps/360.svg"
+  },
+  {
+    "name": "add_business",
+    "url": "icons/suint/general/maps/add_business.svg"
+  },
+  {
+    "name": "add_location",
+    "url": "icons/suint/general/maps/add_location.svg"
+  },
+  {
+    "name": "add_location_alt",
+    "url": "icons/suint/general/maps/add_location_alt.svg"
+  },
+  {
+    "name": "add_road",
+    "url": "icons/suint/general/maps/add_road.svg"
+  },
+  {
+    "name": "agriculture",
+    "url": "icons/suint/general/maps/agriculture.svg"
+  },
+  {
+    "name": "alt_route",
+    "url": "icons/suint/general/maps/alt_route.svg"
+  },
+  {
+    "name": "atm",
+    "url": "icons/suint/general/maps/atm.svg"
+  },
+  {
+    "name": "beenhere",
+    "url": "icons/suint/general/maps/beenhere.svg"
+  },
+  {
+    "name": "bike_scooter",
+    "url": "icons/suint/general/maps/bike_scooter.svg"
+  },
+  {
+    "name": "category",
+    "url": "icons/suint/general/maps/category.svg"
+  },
+  {
+    "name": "cleaning_services",
+    "url": "icons/suint/general/maps/cleaning_services.svg"
+  },
+  {
+    "name": "compass_calibration",
+    "url": "icons/suint/general/maps/compass_calibration.svg"
+  },
+  {
+    "name": "departure_board",
+    "url": "icons/suint/general/maps/departure_board.svg"
+  },
+  {
+    "name": "design_services",
+    "url": "icons/suint/general/maps/design_services.svg"
+  },
+  {
+    "name": "directions",
+    "url": "icons/suint/general/maps/directions.svg"
+  },
+  {
+    "name": "directions_bike",
+    "url": "icons/suint/general/maps/directions_bike.svg"
+  },
+  {
+    "name": "directions_boat",
+    "url": "icons/suint/general/maps/directions_boat.svg"
+  },
+  {
+    "name": "directions_bus",
+    "url": "icons/suint/general/maps/directions_bus.svg"
+  },
+  {
+    "name": "directions_car",
+    "url": "icons/suint/general/maps/directions_car.svg"
+  },
+  {
+    "name": "directions_railway",
+    "url": "icons/suint/general/maps/directions_railway.svg"
+  },
+  {
+    "name": "directions_run",
+    "url": "icons/suint/general/maps/directions_run.svg"
+  },
+  {
+    "name": "directions_subway",
+    "url": "icons/suint/general/maps/directions_subway.svg"
+  },
+  {
+    "name": "directions_transit",
+    "url": "icons/suint/general/maps/directions_transit.svg"
+  },
+  {
+    "name": "directions_walk",
+    "url": "icons/suint/general/maps/directions_walk.svg"
+  },
+  {
+    "name": "edit_attributes",
+    "url": "icons/suint/general/maps/edit_attributes.svg"
+  },
+  {
+    "name": "edit_location",
+    "url": "icons/suint/general/maps/edit_location.svg"
+  },
+  {
+    "name": "edit_road",
+    "url": "icons/suint/general/maps/edit_road.svg"
+  },
+  {
+    "name": "electrical_services",
+    "url": "icons/suint/general/maps/electrical_services.svg"
+  },
+  {
+    "name": "electric_bike",
+    "url": "icons/suint/general/maps/electric_bike.svg"
+  },
+  {
+    "name": "electric_car",
+    "url": "icons/suint/general/maps/electric_car.svg"
+  },
+  {
+    "name": "electric_moped",
+    "url": "icons/suint/general/maps/electric_moped.svg"
+  },
+  {
+    "name": "electric_rickshaw",
+    "url": "icons/suint/general/maps/electric_rickshaw.svg"
+  },
+  {
+    "name": "electric_scooter",
+    "url": "icons/suint/general/maps/electric_scooter.svg"
+  },
+  {
+    "name": "ev_station",
+    "url": "icons/suint/general/maps/ev_station.svg"
+  },
+  {
+    "name": "fastfood",
+    "url": "icons/suint/general/maps/fastfood.svg"
+  },
+  {
+    "name": "flight",
+    "url": "icons/suint/general/maps/flight.svg"
+  },
+  {
+    "name": "handyman",
+    "url": "icons/suint/general/maps/handyman.svg"
+  },
+  {
+    "name": "home_repair_service",
+    "url": "icons/suint/general/maps/home_repair_service.svg"
+  },
+  {
+    "name": "hotel",
+    "url": "icons/suint/general/maps/hotel.svg"
+  },
+  {
+    "name": "hvac",
+    "url": "icons/suint/general/maps/hvac.svg"
+  },
+  {
+    "name": "layers",
+    "url": "icons/suint/general/maps/layers.svg"
+  },
+  {
+    "name": "layers_clear",
+    "url": "icons/suint/general/maps/layers_clear.svg"
+  },
+  {
+    "name": "local_activity",
+    "url": "icons/suint/general/maps/local_activity.svg"
+  },
+  {
+    "name": "local_airport",
+    "url": "icons/suint/general/maps/local_airport.svg"
+  },
+  {
+    "name": "local_atm",
+    "url": "icons/suint/general/maps/local_atm.svg"
+  },
+  {
+    "name": "local_bar",
+    "url": "icons/suint/general/maps/local_bar.svg"
+  },
+  {
+    "name": "local_cafe",
+    "url": "icons/suint/general/maps/local_cafe.svg"
+  },
+  {
+    "name": "local_car_wash",
+    "url": "icons/suint/general/maps/local_car_wash.svg"
+  },
+  {
+    "name": "local_convenience_store",
+    "url": "icons/suint/general/maps/local_convenience_store.svg"
+  },
+  {
+    "name": "local_dining",
+    "url": "icons/suint/general/maps/local_dining.svg"
+  },
+  {
+    "name": "local_drink",
+    "url": "icons/suint/general/maps/local_drink.svg"
+  },
+  {
+    "name": "local_fire_department",
+    "url": "icons/suint/general/maps/local_fire_department.svg"
+  },
+  {
+    "name": "local_florist",
+    "url": "icons/suint/general/maps/local_florist.svg"
+  },
+  {
+    "name": "local_gas_station",
+    "url": "icons/suint/general/maps/local_gas_station.svg"
+  },
+  {
+    "name": "local_grocery_store",
+    "url": "icons/suint/general/maps/local_grocery_store.svg"
+  },
+  {
+    "name": "local_hospital",
+    "url": "icons/suint/general/maps/local_hospital.svg"
+  },
+  {
+    "name": "local_hotel",
+    "url": "icons/suint/general/maps/local_hotel.svg"
+  },
+  {
+    "name": "local_laundry_service",
+    "url": "icons/suint/general/maps/local_laundry_service.svg"
+  },
+  {
+    "name": "local_library",
+    "url": "icons/suint/general/maps/local_library.svg"
+  },
+  {
+    "name": "local_mall",
+    "url": "icons/suint/general/maps/local_mall.svg"
+  },
+  {
+    "name": "local_movies",
+    "url": "icons/suint/general/maps/local_movies.svg"
+  },
+  {
+    "name": "local_offer",
+    "url": "icons/suint/general/maps/local_offer.svg"
+  },
+  {
+    "name": "local_parking",
+    "url": "icons/suint/general/maps/local_parking.svg"
+  },
+  {
+    "name": "local_pharmacy",
+    "url": "icons/suint/general/maps/local_pharmacy.svg"
+  },
+  {
+    "name": "local_phone",
+    "url": "icons/suint/general/maps/local_phone.svg"
+  },
+  {
+    "name": "local_pizza",
+    "url": "icons/suint/general/maps/local_pizza.svg"
+  },
+  {
+    "name": "local_play",
+    "url": "icons/suint/general/maps/local_play.svg"
+  },
+  {
+    "name": "local_police",
+    "url": "icons/suint/general/maps/local_police.svg"
+  },
+  {
+    "name": "local_post_office",
+    "url": "icons/suint/general/maps/local_post_office.svg"
+  },
+  {
+    "name": "local_printshop",
+    "url": "icons/suint/general/maps/local_printshop.svg"
+  },
+  {
+    "name": "local_see",
+    "url": "icons/suint/general/maps/local_see.svg"
+  },
+  {
+    "name": "local_shipping",
+    "url": "icons/suint/general/maps/local_shipping.svg"
+  },
+  {
+    "name": "local_taxi",
+    "url": "icons/suint/general/maps/local_taxi.svg"
+  },
+  {
+    "name": "map",
+    "url": "icons/suint/general/maps/map.svg"
+  },
+  {
+    "name": "maps_ugc",
+    "url": "icons/suint/general/maps/maps_ugc.svg"
+  },
+  {
+    "name": "medical_services",
+    "url": "icons/suint/general/maps/medical_services.svg"
+  },
+  {
+    "name": "menu_book",
+    "url": "icons/suint/general/maps/menu_book.svg"
+  },
+  {
+    "name": "miscellaneous_services",
+    "url": "icons/suint/general/maps/miscellaneous_services.svg"
+  },
+  {
+    "name": "money",
+    "url": "icons/suint/general/maps/money.svg"
+  },
+  {
+    "name": "moped",
+    "url": "icons/suint/general/maps/moped.svg"
+  },
+  {
+    "name": "multiple_stop",
+    "url": "icons/suint/general/maps/multiple_stop.svg"
+  },
+  {
+    "name": "museum",
+    "url": "icons/suint/general/maps/museum.svg"
+  },
+  {
+    "name": "my_location",
+    "url": "icons/suint/general/maps/my_location.svg"
+  },
+  {
+    "name": "navigation",
+    "url": "icons/suint/general/maps/navigation.svg"
+  },
+  {
+    "name": "near_me",
+    "url": "icons/suint/general/maps/near_me.svg"
+  },
+  {
+    "name": "near_me_disabled",
+    "url": "icons/suint/general/maps/near_me_disabled.svg"
+  },
+  {
+    "name": "not_listed_location",
+    "url": "icons/suint/general/maps/not_listed_location.svg"
+  },
+  {
+    "name": "no_meals",
+    "url": "icons/suint/general/maps/no_meals.svg"
+  },
+  {
+    "name": "no_transfer",
+    "url": "icons/suint/general/maps/no_transfer.svg"
+  },
+  {
+    "name": "pedal_bike",
+    "url": "icons/suint/general/maps/pedal_bike.svg"
+  },
+  {
+    "name": "person_pin",
+    "url": "icons/suint/general/maps/person_pin.svg"
+  },
+  {
+    "name": "person_pin_circle",
+    "url": "icons/suint/general/maps/person_pin_circle.svg"
+  },
+  {
+    "name": "pest_control",
+    "url": "icons/suint/general/maps/pest_control.svg"
+  },
+  {
+    "name": "pest_control_rodent",
+    "url": "icons/suint/general/maps/pest_control_rodent.svg"
+  },
+  {
+    "name": "pin_drop",
+    "url": "icons/suint/general/maps/pin_drop.svg"
+  },
+  {
+    "name": "place",
+    "url": "icons/suint/general/maps/place.svg"
+  },
+  {
+    "name": "plumbing",
+    "url": "icons/suint/general/maps/plumbing.svg"
+  },
+  {
+    "name": "rate_review",
+    "url": "icons/suint/general/maps/rate_review.svg"
+  },
+  {
+    "name": "restaurant",
+    "url": "icons/suint/general/maps/restaurant.svg"
+  },
+  {
+    "name": "restaurant_menu",
+    "url": "icons/suint/general/maps/restaurant_menu.svg"
+  },
+  {
+    "name": "run_circle",
+    "url": "icons/suint/general/maps/run_circle.svg"
+  },
+  {
+    "name": "satellite",
+    "url": "icons/suint/general/maps/satellite.svg"
+  },
+  {
+    "name": "set_meal",
+    "url": "icons/suint/general/maps/set_meal.svg"
+  },
+  {
+    "name": "store_mall_directory",
+    "url": "icons/suint/general/maps/store_mall_directory.svg"
+  },
+  {
+    "name": "streetview",
+    "url": "icons/suint/general/maps/streetview.svg"
+  },
+  {
+    "name": "subway",
+    "url": "icons/suint/general/maps/subway.svg"
+  },
+  {
+    "name": "terrain",
+    "url": "icons/suint/general/maps/terrain.svg"
+  },
+  {
+    "name": "traffic",
+    "url": "icons/suint/general/maps/traffic.svg"
+  },
+  {
+    "name": "train",
+    "url": "icons/suint/general/maps/train.svg"
+  },
+  {
+    "name": "tram",
+    "url": "icons/suint/general/maps/tram.svg"
+  },
+  {
+    "name": "transfer_within_a_station",
+    "url": "icons/suint/general/maps/transfer_within_a_station.svg"
+  },
+  {
+    "name": "transit_enterexit",
+    "url": "icons/suint/general/maps/transit_enterexit.svg"
+  },
+  {
+    "name": "trip_origin",
+    "url": "icons/suint/general/maps/trip_origin.svg"
+  },
+  {
+    "name": "two_wheeler",
+    "url": "icons/suint/general/maps/two_wheeler.svg"
+  },
+  {
+    "name": "wine_bar",
+    "url": "icons/suint/general/maps/wine_bar.svg"
+  },
+  {
+    "name": "wrong_location",
+    "url": "icons/suint/general/maps/wrong_location.svg"
+  },
+  {
+    "name": "zoom_out_map",
+    "url": "icons/suint/general/maps/zoom_out_map.svg"
+  }
+]

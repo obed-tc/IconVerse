@@ -1,4 +1,0 @@
-<svg xmlns='http://www.w3.org/2000/svg' id='icons_play_track_prev_r' viewBox='0 0 24 24'>
-<path fill-rule='evenodd' clip-rule='evenodd' d='M16 8C15.448 8 15 8.448 15 9L15 15C15 15.552 15.448 16 16 16C16.552 16 17 15.552 17 15L17 9C17 8.448 16.552 8 16 8zM8 15.464L14 12L8 8.536L8 15.464z' />
-<path fill-rule='evenodd' clip-rule='evenodd' d='M5 3L19 3C20.105 3 21 3.895 21 5L21 19C21 20.105 20.105 21 19 21L5 21C3.895 21 3 20.105 3 19L3 5C3 3.895 3.895 3 5 3zM19 1C21.209 1 23 2.791 23 5L23 19C23 21.209 21.209 23 19 23L5 23C2.791 23 1 21.209 1 19L1 5C1 2.791 2.791 1 5 1L19 1z' />
-</svg>

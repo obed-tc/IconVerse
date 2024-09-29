@@ -1,7 +1,0 @@
-<svg xmlns='http://www.w3.org/2000/svg' id='icons_display_grid' viewBox='0 0 24 24'>
-<path d='M7 7L7 11L11 11L11 7L7 7z' />
-<path d='M13 7L17 7L17 11L13 11L13 7z' />
-<path d='M13 13L13 17L17 17L17 13L13 13z' />
-<path d='M7 13L11 13L11 17L7 17L7 13z' />
-<path fill-rule='evenodd' clip-rule='evenodd' d='M3 3L21 3L21 21L3 21L3 3zM5 5L5 19L19 19L19 5L5 5z' />
-</svg>

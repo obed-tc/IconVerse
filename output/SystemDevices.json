@@ -1,0 +1,474 @@
+[
+  {
+    "name": "AppWindow_fill",
+    "url": "icons/suint/solid/SystemDevices/AppWindow_fill.svg"
+  },
+  {
+    "name": "Backspace_fill",
+    "url": "icons/suint/solid/SystemDevices/Backspace_fill.svg"
+  },
+  {
+    "name": "BatteryChargingVertical_fill",
+    "url": "icons/suint/solid/SystemDevices/BatteryChargingVertical_fill.svg"
+  },
+  {
+    "name": "BatteryCharging_fill",
+    "url": "icons/suint/solid/SystemDevices/BatteryCharging_fill.svg"
+  },
+  {
+    "name": "BatteryEmpty_fill",
+    "url": "icons/suint/solid/SystemDevices/BatteryEmpty_fill.svg"
+  },
+  {
+    "name": "BatteryFull_fill",
+    "url": "icons/suint/solid/SystemDevices/BatteryFull_fill.svg"
+  },
+  {
+    "name": "BatteryHigh_fill",
+    "url": "icons/suint/solid/SystemDevices/BatteryHigh_fill.svg"
+  },
+  {
+    "name": "BatteryLow_fill",
+    "url": "icons/suint/solid/SystemDevices/BatteryLow_fill.svg"
+  },
+  {
+    "name": "BatteryMedium_fill",
+    "url": "icons/suint/solid/SystemDevices/BatteryMedium_fill.svg"
+  },
+  {
+    "name": "BatteryWarningVertical_fill",
+    "url": "icons/suint/solid/SystemDevices/BatteryWarningVertical_fill.svg"
+  },
+  {
+    "name": "BatteryWarning_fill",
+    "url": "icons/suint/solid/SystemDevices/BatteryWarning_fill.svg"
+  },
+  {
+    "name": "BellRinging_fill",
+    "url": "icons/suint/solid/SystemDevices/BellRinging_fill.svg"
+  },
+  {
+    "name": "BellSimpleRinging_fill",
+    "url": "icons/suint/solid/SystemDevices/BellSimpleRinging_fill.svg"
+  },
+  {
+    "name": "BellSimpleSlash_fill",
+    "url": "icons/suint/solid/SystemDevices/BellSimpleSlash_fill.svg"
+  },
+  {
+    "name": "BellSimpleZ_fill",
+    "url": "icons/suint/solid/SystemDevices/BellSimpleZ_fill.svg"
+  },
+  {
+    "name": "BellSimple_fill",
+    "url": "icons/suint/solid/SystemDevices/BellSimple_fill.svg"
+  },
+  {
+    "name": "BellSlash_fill",
+    "url": "icons/suint/solid/SystemDevices/BellSlash_fill.svg"
+  },
+  {
+    "name": "BellZ_fill",
+    "url": "icons/suint/solid/SystemDevices/BellZ_fill.svg"
+  },
+  {
+    "name": "Bell_fill",
+    "url": "icons/suint/solid/SystemDevices/Bell_fill.svg"
+  },
+  {
+    "name": "BluetoothConnected_fill",
+    "url": "icons/suint/solid/SystemDevices/BluetoothConnected_fill.svg"
+  },
+  {
+    "name": "BluetoothSlash_fill",
+    "url": "icons/suint/solid/SystemDevices/BluetoothSlash_fill.svg"
+  },
+  {
+    "name": "BluetoothX_fill",
+    "url": "icons/suint/solid/SystemDevices/BluetoothX_fill.svg"
+  },
+  {
+    "name": "Bluetooth_fill",
+    "url": "icons/suint/solid/SystemDevices/Bluetooth_fill.svg"
+  },
+  {
+    "name": "Browsers_fill",
+    "url": "icons/suint/solid/SystemDevices/Browsers_fill.svg"
+  },
+  {
+    "name": "Browser_fill",
+    "url": "icons/suint/solid/SystemDevices/Browser_fill.svg"
+  },
+  {
+    "name": "CellSignalFull_fill",
+    "url": "icons/suint/solid/SystemDevices/CellSignalFull_fill.svg"
+  },
+  {
+    "name": "CellSignalHigh_fill",
+    "url": "icons/suint/solid/SystemDevices/CellSignalHigh_fill.svg"
+  },
+  {
+    "name": "CellSignalLow_fill",
+    "url": "icons/suint/solid/SystemDevices/CellSignalLow_fill.svg"
+  },
+  {
+    "name": "CellSignalMedium_fill",
+    "url": "icons/suint/solid/SystemDevices/CellSignalMedium_fill.svg"
+  },
+  {
+    "name": "CellSignalNone_fill",
+    "url": "icons/suint/solid/SystemDevices/CellSignalNone_fill.svg"
+  },
+  {
+    "name": "CellSignalSlash_fill",
+    "url": "icons/suint/solid/SystemDevices/CellSignalSlash_fill.svg"
+  },
+  {
+    "name": "CellSignalX_fill",
+    "url": "icons/suint/solid/SystemDevices/CellSignalX_fill.svg"
+  },
+  {
+    "name": "CheckCircle_fill",
+    "url": "icons/suint/solid/SystemDevices/CheckCircle_fill.svg"
+  },
+  {
+    "name": "CheckSquareOffset_fill",
+    "url": "icons/suint/solid/SystemDevices/CheckSquareOffset_fill.svg"
+  },
+  {
+    "name": "CheckSquare_fill",
+    "url": "icons/suint/solid/SystemDevices/CheckSquare_fill.svg"
+  },
+  {
+    "name": "Checks_fill",
+    "url": "icons/suint/solid/SystemDevices/Checks_fill.svg"
+  },
+  {
+    "name": "Check_fill",
+    "url": "icons/suint/solid/SystemDevices/Check_fill.svg"
+  },
+  {
+    "name": "CloudArrowDown_fill",
+    "url": "icons/suint/solid/SystemDevices/CloudArrowDown_fill.svg"
+  },
+  {
+    "name": "CloudArrowUp_fill",
+    "url": "icons/suint/solid/SystemDevices/CloudArrowUp_fill.svg"
+  },
+  {
+    "name": "CloudCheck_fill",
+    "url": "icons/suint/solid/SystemDevices/CloudCheck_fill.svg"
+  },
+  {
+    "name": "CloudSlash_fill",
+    "url": "icons/suint/solid/SystemDevices/CloudSlash_fill.svg"
+  },
+  {
+    "name": "Command_fill",
+    "url": "icons/suint/solid/SystemDevices/Command_fill.svg"
+  },
+  {
+    "name": "ComputerTower_fill",
+    "url": "icons/suint/solid/SystemDevices/ComputerTower_fill.svg"
+  },
+  {
+    "name": "Cursor_fill",
+    "url": "icons/suint/solid/SystemDevices/Cursor_fill.svg"
+  },
+  {
+    "name": "DesktopTower_fill",
+    "url": "icons/suint/solid/SystemDevices/DesktopTower_fill.svg"
+  },
+  {
+    "name": "Desktop_fill",
+    "url": "icons/suint/solid/SystemDevices/Desktop_fill.svg"
+  },
+  {
+    "name": "DeviceMobileCamera_fill",
+    "url": "icons/suint/solid/SystemDevices/DeviceMobileCamera_fill.svg"
+  },
+  {
+    "name": "DeviceMobileSpeaker_fill",
+    "url": "icons/suint/solid/SystemDevices/DeviceMobileSpeaker_fill.svg"
+  },
+  {
+    "name": "DeviceMobile_fill",
+    "url": "icons/suint/solid/SystemDevices/DeviceMobile_fill.svg"
+  },
+  {
+    "name": "DeviceTabletCamera_fill",
+    "url": "icons/suint/solid/SystemDevices/DeviceTabletCamera_fill.svg"
+  },
+  {
+    "name": "DeviceTabletSpeaker_fill",
+    "url": "icons/suint/solid/SystemDevices/DeviceTabletSpeaker_fill.svg"
+  },
+  {
+    "name": "DeviceTablet_fill",
+    "url": "icons/suint/solid/SystemDevices/DeviceTablet_fill.svg"
+  },
+  {
+    "name": "DotsNine_fill",
+    "url": "icons/suint/solid/SystemDevices/DotsNine_fill.svg"
+  },
+  {
+    "name": "DotsSixVertical_fill",
+    "url": "icons/suint/solid/SystemDevices/DotsSixVertical_fill.svg"
+  },
+  {
+    "name": "DotsSix_fill",
+    "url": "icons/suint/solid/SystemDevices/DotsSix_fill.svg"
+  },
+  {
+    "name": "DotsThreeCircleVertical_fill",
+    "url": "icons/suint/solid/SystemDevices/DotsThreeCircleVertical_fill.svg"
+  },
+  {
+    "name": "DotsThreeCircle_fill",
+    "url": "icons/suint/solid/SystemDevices/DotsThreeCircle_fill.svg"
+  },
+  {
+    "name": "DotsThreeOutlineVertical_fill",
+    "url": "icons/suint/solid/SystemDevices/DotsThreeOutlineVertical_fill.svg"
+  },
+  {
+    "name": "DotsThreeOutline_fill",
+    "url": "icons/suint/solid/SystemDevices/DotsThreeOutline_fill.svg"
+  },
+  {
+    "name": "DotsThreeVertical_fill",
+    "url": "icons/suint/solid/SystemDevices/DotsThreeVertical_fill.svg"
+  },
+  {
+    "name": "DotsThree_fill",
+    "url": "icons/suint/solid/SystemDevices/DotsThree_fill.svg"
+  },
+  {
+    "name": "DownloadSimple_fill",
+    "url": "icons/suint/solid/SystemDevices/DownloadSimple_fill.svg"
+  },
+  {
+    "name": "Download_fill",
+    "url": "icons/suint/solid/SystemDevices/Download_fill.svg"
+  },
+  {
+    "name": "Flashlight_fill",
+    "url": "icons/suint/solid/SystemDevices/Flashlight_fill.svg"
+  },
+  {
+    "name": "FrameCorners_fill",
+    "url": "icons/suint/solid/SystemDevices/FrameCorners_fill.svg"
+  },
+  {
+    "name": "Gauge_fill",
+    "url": "icons/suint/solid/SystemDevices/Gauge_fill.svg"
+  },
+  {
+    "name": "GearSix_fill",
+    "url": "icons/suint/solid/SystemDevices/GearSix_fill.svg"
+  },
+  {
+    "name": "Gear_fill",
+    "url": "icons/suint/solid/SystemDevices/Gear_fill.svg"
+  },
+  {
+    "name": "HardDrives_fill",
+    "url": "icons/suint/solid/SystemDevices/HardDrives_fill.svg"
+  },
+  {
+    "name": "HardDrive_fill",
+    "url": "icons/suint/solid/SystemDevices/HardDrive_fill.svg"
+  },
+  {
+    "name": "Keyboard_fill",
+    "url": "icons/suint/solid/SystemDevices/Keyboard_fill.svg"
+  },
+  {
+    "name": "KeyReturn_fill",
+    "url": "icons/suint/solid/SystemDevices/KeyReturn_fill.svg"
+  },
+  {
+    "name": "Laptop_fill",
+    "url": "icons/suint/solid/SystemDevices/Laptop_fill.svg"
+  },
+  {
+    "name": "LightbulbFilament_fill",
+    "url": "icons/suint/solid/SystemDevices/LightbulbFilament_fill.svg"
+  },
+  {
+    "name": "Lightbulb_fill",
+    "url": "icons/suint/solid/SystemDevices/Lightbulb_fill.svg"
+  },
+  {
+    "name": "LightningSlash_fill",
+    "url": "icons/suint/solid/SystemDevices/LightningSlash_fill.svg"
+  },
+  {
+    "name": "Lightning_fill",
+    "url": "icons/suint/solid/SystemDevices/Lightning_fill.svg"
+  },
+  {
+    "name": "LinkBreak_fill",
+    "url": "icons/suint/solid/SystemDevices/LinkBreak_fill.svg"
+  },
+  {
+    "name": "LinkSimpleBreak_fill",
+    "url": "icons/suint/solid/SystemDevices/LinkSimpleBreak_fill.svg"
+  },
+  {
+    "name": "LinkSimpleHorizontalBreak_fill",
+    "url": "icons/suint/solid/SystemDevices/LinkSimpleHorizontalBreak_fill.svg"
+  },
+  {
+    "name": "LinkSimpleHorizontal_fill",
+    "url": "icons/suint/solid/SystemDevices/LinkSimpleHorizontal_fill.svg"
+  },
+  {
+    "name": "LinkSimple_fill",
+    "url": "icons/suint/solid/SystemDevices/LinkSimple_fill.svg"
+  },
+  {
+    "name": "Link_fill",
+    "url": "icons/suint/solid/SystemDevices/Link_fill.svg"
+  },
+  {
+    "name": "MagnifyingGlassMinus_fill",
+    "url": "icons/suint/solid/SystemDevices/MagnifyingGlassMinus_fill.svg"
+  },
+  {
+    "name": "MagnifyingGlassPlus_fill",
+    "url": "icons/suint/solid/SystemDevices/MagnifyingGlassPlus_fill.svg"
+  },
+  {
+    "name": "MagnifyingGlass_fill",
+    "url": "icons/suint/solid/SystemDevices/MagnifyingGlass_fill.svg"
+  },
+  {
+    "name": "MinusCircle_fill",
+    "url": "icons/suint/solid/SystemDevices/MinusCircle_fill.svg"
+  },
+  {
+    "name": "MonitorPlay_fill",
+    "url": "icons/suint/solid/SystemDevices/MonitorPlay_fill.svg"
+  },
+  {
+    "name": "Monitor_fill",
+    "url": "icons/suint/solid/SystemDevices/Monitor_fill.svg"
+  },
+  {
+    "name": "MouseSimple_fill",
+    "url": "icons/suint/solid/SystemDevices/MouseSimple_fill.svg"
+  },
+  {
+    "name": "Mouse_fill",
+    "url": "icons/suint/solid/SystemDevices/Mouse_fill.svg"
+  },
+  {
+    "name": "Notification_fill",
+    "url": "icons/suint/solid/SystemDevices/Notification_fill.svg"
+  },
+  {
+    "name": "Nut_fill",
+    "url": "icons/suint/solid/SystemDevices/Nut_fill.svg"
+  },
+  {
+    "name": "PlusCircle_fill",
+    "url": "icons/suint/solid/SystemDevices/PlusCircle_fill.svg"
+  },
+  {
+    "name": "Power_fill",
+    "url": "icons/suint/solid/SystemDevices/Power_fill.svg"
+  },
+  {
+    "name": "QrCode_fill",
+    "url": "icons/suint/solid/SystemDevices/QrCode_fill.svg"
+  },
+  {
+    "name": "SignIn_fill",
+    "url": "icons/suint/solid/SystemDevices/SignIn_fill.svg"
+  },
+  {
+    "name": "SignOut_fill",
+    "url": "icons/suint/solid/SystemDevices/SignOut_fill.svg"
+  },
+  {
+    "name": "SimCard_fill",
+    "url": "icons/suint/solid/SystemDevices/SimCard_fill.svg"
+  },
+  {
+    "name": "SpinnerGap_fill",
+    "url": "icons/suint/solid/SystemDevices/SpinnerGap_fill.svg"
+  },
+  {
+    "name": "Spinner_fill",
+    "url": "icons/suint/solid/SystemDevices/Spinner_fill.svg"
+  },
+  {
+    "name": "Swap_fill",
+    "url": "icons/suint/solid/SystemDevices/Swap_fill.svg"
+  },
+  {
+    "name": "TelevisionSimple_fill",
+    "url": "icons/suint/solid/SystemDevices/TelevisionSimple_fill.svg"
+  },
+  {
+    "name": "Television_fill",
+    "url": "icons/suint/solid/SystemDevices/Television_fill.svg"
+  },
+  {
+    "name": "ToggleLeft_fill",
+    "url": "icons/suint/solid/SystemDevices/ToggleLeft_fill.svg"
+  },
+  {
+    "name": "ToggleRight_fill",
+    "url": "icons/suint/solid/SystemDevices/ToggleRight_fill.svg"
+  },
+  {
+    "name": "UploadSimple_fill",
+    "url": "icons/suint/solid/SystemDevices/UploadSimple_fill.svg"
+  },
+  {
+    "name": "Upload_fill",
+    "url": "icons/suint/solid/SystemDevices/Upload_fill.svg"
+  },
+  {
+    "name": "Vibrate_fill",
+    "url": "icons/suint/solid/SystemDevices/Vibrate_fill.svg"
+  },
+  {
+    "name": "WifiHigh_fill",
+    "url": "icons/suint/solid/SystemDevices/WifiHigh_fill.svg"
+  },
+  {
+    "name": "WifiLow_fill",
+    "url": "icons/suint/solid/SystemDevices/WifiLow_fill.svg"
+  },
+  {
+    "name": "WifiMedium_fill",
+    "url": "icons/suint/solid/SystemDevices/WifiMedium_fill.svg"
+  },
+  {
+    "name": "WifiNone_fill",
+    "url": "icons/suint/solid/SystemDevices/WifiNone_fill.svg"
+  },
+  {
+    "name": "WifiSlash_fill",
+    "url": "icons/suint/solid/SystemDevices/WifiSlash_fill.svg"
+  },
+  {
+    "name": "WifiX_fill",
+    "url": "icons/suint/solid/SystemDevices/WifiX_fill.svg"
+  },
+  {
+    "name": "Wrench_fill",
+    "url": "icons/suint/solid/SystemDevices/Wrench_fill.svg"
+  },
+  {
+    "name": "XCircle_fill",
+    "url": "icons/suint/solid/SystemDevices/XCircle_fill.svg"
+  },
+  {
+    "name": "XSquare_fill",
+    "url": "icons/suint/solid/SystemDevices/XSquare_fill.svg"
+  }
+]

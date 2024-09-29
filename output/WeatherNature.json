@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Atom_fill",
+    "url": "icons/suint/solid/WeatherNature/Atom_fill.svg"
+  },
+  {
+    "name": "Bird_fill",
+    "url": "icons/suint/solid/WeatherNature/Bird_fill.svg"
+  },
+  {
+    "name": "Cat_fill",
+    "url": "icons/suint/solid/WeatherNature/Cat_fill.svg"
+  },
+  {
+    "name": "CloudFog_fill",
+    "url": "icons/suint/solid/WeatherNature/CloudFog_fill.svg"
+  },
+  {
+    "name": "CloudLightning_fill",
+    "url": "icons/suint/solid/WeatherNature/CloudLightning_fill.svg"
+  },
+  {
+    "name": "CloudMoon_fill",
+    "url": "icons/suint/solid/WeatherNature/CloudMoon_fill.svg"
+  },
+  {
+    "name": "CloudRain_fill",
+    "url": "icons/suint/solid/WeatherNature/CloudRain_fill.svg"
+  },
+  {
+    "name": "CloudSnow_fill",
+    "url": "icons/suint/solid/WeatherNature/CloudSnow_fill.svg"
+  },
+  {
+    "name": "CloudSun_fill",
+    "url": "icons/suint/solid/WeatherNature/CloudSun_fill.svg"
+  },
+  {
+    "name": "Cloud_fill",
+    "url": "icons/suint/solid/WeatherNature/Cloud_fill.svg"
+  },
+  {
+    "name": "Dog_fill",
+    "url": "icons/suint/solid/WeatherNature/Dog_fill.svg"
+  },
+  {
+    "name": "Drop_fill",
+    "url": "icons/suint/solid/WeatherNature/Drop_fill.svg"
+  },
+  {
+    "name": "FireSimple_fill",
+    "url": "icons/suint/solid/WeatherNature/FireSimple_fill.svg"
+  },
+  {
+    "name": "Fire_fill",
+    "url": "icons/suint/solid/WeatherNature/Fire_fill.svg"
+  },
+  {
+    "name": "FishSimple_fill",
+    "url": "icons/suint/solid/WeatherNature/FishSimple_fill.svg"
+  },
+  {
+    "name": "Fish_fill",
+    "url": "icons/suint/solid/WeatherNature/Fish_fill.svg"
+  },
+  {
+    "name": "Flame_fill",
+    "url": "icons/suint/solid/WeatherNature/Flame_fill.svg"
+  },
+  {
+    "name": "FlowerLotus_fill",
+    "url": "icons/suint/solid/WeatherNature/FlowerLotus_fill.svg"
+  },
+  {
+    "name": "Flower_fill",
+    "url": "icons/suint/solid/WeatherNature/Flower_fill.svg"
+  },
+  {
+    "name": "MoonStars_fill",
+    "url": "icons/suint/solid/WeatherNature/MoonStars_fill.svg"
+  },
+  {
+    "name": "Moon_fill",
+    "url": "icons/suint/solid/WeatherNature/Moon_fill.svg"
+  },
+  {
+    "name": "PawPrint_fill",
+    "url": "icons/suint/solid/WeatherNature/PawPrint_fill.svg"
+  },
+  {
+    "name": "Planet_fill",
+    "url": "icons/suint/solid/WeatherNature/Planet_fill.svg"
+  },
+  {
+    "name": "RainbowCloud_fill",
+    "url": "icons/suint/solid/WeatherNature/RainbowCloud_fill.svg"
+  },
+  {
+    "name": "Rainbow_fill",
+    "url": "icons/suint/solid/WeatherNature/Rainbow_fill.svg"
+  },
+  {
+    "name": "Snowflake_fill",
+    "url": "icons/suint/solid/WeatherNature/Snowflake_fill.svg"
+  },
+  {
+    "name": "Sparkle_fill",
+    "url": "icons/suint/solid/WeatherNature/Sparkle_fill.svg"
+  },
+  {
+    "name": "StarFour_fill",
+    "url": "icons/suint/solid/WeatherNature/StarFour_fill.svg"
+  },
+  {
+    "name": "Star_fill",
+    "url": "icons/suint/solid/WeatherNature/Star_fill.svg"
+  },
+  {
+    "name": "SunDim_fill",
+    "url": "icons/suint/solid/WeatherNature/SunDim_fill.svg"
+  },
+  {
+    "name": "SunHorizon_fill",
+    "url": "icons/suint/solid/WeatherNature/SunHorizon_fill.svg"
+  },
+  {
+    "name": "Sun_fill",
+    "url": "icons/suint/solid/WeatherNature/Sun_fill.svg"
+  },
+  {
+    "name": "ThermometerCold_fill",
+    "url": "icons/suint/solid/WeatherNature/ThermometerCold_fill.svg"
+  },
+  {
+    "name": "ThermometerHot_fill",
+    "url": "icons/suint/solid/WeatherNature/ThermometerHot_fill.svg"
+  },
+  {
+    "name": "ThermometerSimple_fill",
+    "url": "icons/suint/solid/WeatherNature/ThermometerSimple_fill.svg"
+  },
+  {
+    "name": "Thermometer_fill",
+    "url": "icons/suint/solid/WeatherNature/Thermometer_fill.svg"
+  },
+  {
+    "name": "TreeEvergreen_fill",
+    "url": "icons/suint/solid/WeatherNature/TreeEvergreen_fill.svg"
+  },
+  {
+    "name": "Tree_fill",
+    "url": "icons/suint/solid/WeatherNature/Tree_fill.svg"
+  },
+  {
+    "name": "UmbrellaSimple_fill",
+    "url": "icons/suint/solid/WeatherNature/UmbrellaSimple_fill.svg"
+  },
+  {
+    "name": "Umbrella_fill",
+    "url": "icons/suint/solid/WeatherNature/Umbrella_fill.svg"
+  },
+  {
+    "name": "Waves_fill",
+    "url": "icons/suint/solid/WeatherNature/Waves_fill.svg"
+  },
+  {
+    "name": "Wind_fill",
+    "url": "icons/suint/solid/WeatherNature/Wind_fill.svg"
+  }
+]

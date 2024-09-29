@@ -1,0 +1,202 @@
+[
+  {
+    "name": "AddressBook_fill",
+    "url": "icons/suint/solid/Communications/AddressBook_fill.svg"
+  },
+  {
+    "name": "Asterisk_fill",
+    "url": "icons/suint/solid/Communications/Asterisk_fill.svg"
+  },
+  {
+    "name": "At_fill",
+    "url": "icons/suint/solid/Communications/At_fill.svg"
+  },
+  {
+    "name": "Broadcast_fill",
+    "url": "icons/suint/solid/Communications/Broadcast_fill.svg"
+  },
+  {
+    "name": "ChatCenteredDots_fill",
+    "url": "icons/suint/solid/Communications/ChatCenteredDots_fill.svg"
+  },
+  {
+    "name": "ChatCenteredText_fill",
+    "url": "icons/suint/solid/Communications/ChatCenteredText_fill.svg"
+  },
+  {
+    "name": "ChatCentered_fill",
+    "url": "icons/suint/solid/Communications/ChatCentered_fill.svg"
+  },
+  {
+    "name": "ChatCircleDots_fill",
+    "url": "icons/suint/solid/Communications/ChatCircleDots_fill.svg"
+  },
+  {
+    "name": "ChatCircleText_fill",
+    "url": "icons/suint/solid/Communications/ChatCircleText_fill.svg"
+  },
+  {
+    "name": "ChatCircle_fill",
+    "url": "icons/suint/solid/Communications/ChatCircle_fill.svg"
+  },
+  {
+    "name": "ChatDots_fill",
+    "url": "icons/suint/solid/Communications/ChatDots_fill.svg"
+  },
+  {
+    "name": "ChatsCircle_fill",
+    "url": "icons/suint/solid/Communications/ChatsCircle_fill.svg"
+  },
+  {
+    "name": "ChatsTeardrop_fill",
+    "url": "icons/suint/solid/Communications/ChatsTeardrop_fill.svg"
+  },
+  {
+    "name": "Chats_fill",
+    "url": "icons/suint/solid/Communications/Chats_fill.svg"
+  },
+  {
+    "name": "ChatTeardropDots_fill",
+    "url": "icons/suint/solid/Communications/ChatTeardropDots_fill.svg"
+  },
+  {
+    "name": "ChatTeardropText_fill",
+    "url": "icons/suint/solid/Communications/ChatTeardropText_fill.svg"
+  },
+  {
+    "name": "ChatTeardrop_fill",
+    "url": "icons/suint/solid/Communications/ChatTeardrop_fill.svg"
+  },
+  {
+    "name": "ChatText_fill",
+    "url": "icons/suint/solid/Communications/ChatText_fill.svg"
+  },
+  {
+    "name": "Chat_fill",
+    "url": "icons/suint/solid/Communications/Chat_fill.svg"
+  },
+  {
+    "name": "EnvelopeOpen_fill",
+    "url": "icons/suint/solid/Communications/EnvelopeOpen_fill.svg"
+  },
+  {
+    "name": "EnvelopeSimpleOpen_fill",
+    "url": "icons/suint/solid/Communications/EnvelopeSimpleOpen_fill.svg"
+  },
+  {
+    "name": "EnvelopeSimple_fill",
+    "url": "icons/suint/solid/Communications/EnvelopeSimple_fill.svg"
+  },
+  {
+    "name": "Envelope_fill",
+    "url": "icons/suint/solid/Communications/Envelope_fill.svg"
+  },
+  {
+    "name": "Export_fill",
+    "url": "icons/suint/solid/Communications/Export_fill.svg"
+  },
+  {
+    "name": "HashStraight_fill",
+    "url": "icons/suint/solid/Communications/HashStraight_fill.svg"
+  },
+  {
+    "name": "Hash_fill",
+    "url": "icons/suint/solid/Communications/Hash_fill.svg"
+  },
+  {
+    "name": "MegaphoneSimple_fill",
+    "url": "icons/suint/solid/Communications/MegaphoneSimple_fill.svg"
+  },
+  {
+    "name": "Megaphone_fill",
+    "url": "icons/suint/solid/Communications/Megaphone_fill.svg"
+  },
+  {
+    "name": "PaperPlaneRight_fill",
+    "url": "icons/suint/solid/Communications/PaperPlaneRight_fill.svg"
+  },
+  {
+    "name": "PaperPlaneTilt_fill",
+    "url": "icons/suint/solid/Communications/PaperPlaneTilt_fill.svg"
+  },
+  {
+    "name": "PaperPlane_fill",
+    "url": "icons/suint/solid/Communications/PaperPlane_fill.svg"
+  },
+  {
+    "name": "Peace_fill",
+    "url": "icons/suint/solid/Communications/Peace_fill.svg"
+  },
+  {
+    "name": "PhoneCall_fill",
+    "url": "icons/suint/solid/Communications/PhoneCall_fill.svg"
+  },
+  {
+    "name": "PhoneDisconnect_fill",
+    "url": "icons/suint/solid/Communications/PhoneDisconnect_fill.svg"
+  },
+  {
+    "name": "PhoneIncoming_fill",
+    "url": "icons/suint/solid/Communications/PhoneIncoming_fill.svg"
+  },
+  {
+    "name": "PhoneOutgoing_fill",
+    "url": "icons/suint/solid/Communications/PhoneOutgoing_fill.svg"
+  },
+  {
+    "name": "PhoneSlash_fill",
+    "url": "icons/suint/solid/Communications/PhoneSlash_fill.svg"
+  },
+  {
+    "name": "PhoneX_fill",
+    "url": "icons/suint/solid/Communications/PhoneX_fill.svg"
+  },
+  {
+    "name": "Phone_fill",
+    "url": "icons/suint/solid/Communications/Phone_fill.svg"
+  },
+  {
+    "name": "Quotes_fill",
+    "url": "icons/suint/solid/Communications/Quotes_fill.svg"
+  },
+  {
+    "name": "Radio_fill",
+    "url": "icons/suint/solid/Communications/Radio_fill.svg"
+  },
+  {
+    "name": "RssSimple_fill",
+    "url": "icons/suint/solid/Communications/RssSimple_fill.svg"
+  },
+  {
+    "name": "Rss_fill",
+    "url": "icons/suint/solid/Communications/Rss_fill.svg"
+  },
+  {
+    "name": "ShareNetwork_fill",
+    "url": "icons/suint/solid/Communications/ShareNetwork_fill.svg"
+  },
+  {
+    "name": "Share_fill",
+    "url": "icons/suint/solid/Communications/Share_fill.svg"
+  },
+  {
+    "name": "Sticker_fill",
+    "url": "icons/suint/solid/Communications/Sticker_fill.svg"
+  },
+  {
+    "name": "ThumbsDown_fill",
+    "url": "icons/suint/solid/Communications/ThumbsDown_fill.svg"
+  },
+  {
+    "name": "ThumbsUp_fill",
+    "url": "icons/suint/solid/Communications/ThumbsUp_fill.svg"
+  },
+  {
+    "name": "Translate_fill",
+    "url": "icons/suint/solid/Communications/Translate_fill.svg"
+  },
+  {
+    "name": "Voicemail_fill",
+    "url": "icons/suint/solid/Communications/Voicemail_fill.svg"
+  }
+]

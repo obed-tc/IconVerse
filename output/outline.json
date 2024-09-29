@@ -1,0 +1,4574 @@
+[
+  {
+    "name": "ArrowArcLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowArcLeft_outline.svg"
+  },
+  {
+    "name": "ArrowArcRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowArcRight_outline.svg"
+  },
+  {
+    "name": "ArrowBendDoubleUpLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendDoubleUpLeft_outline.svg"
+  },
+  {
+    "name": "ArrowBendDoubleUpRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendDoubleUpRight_outline.svg"
+  },
+  {
+    "name": "ArrowBendDownLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendDownLeft_outline.svg"
+  },
+  {
+    "name": "ArrowBendDownRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendDownRight_outline.svg"
+  },
+  {
+    "name": "ArrowBendLeftDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendLeftDown_outline.svg"
+  },
+  {
+    "name": "ArrowBendLeftUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendLeftUp_outline.svg"
+  },
+  {
+    "name": "ArrowBendRightDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendRightDown_outline.svg"
+  },
+  {
+    "name": "ArrowBendRightUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendRightUp_outline.svg"
+  },
+  {
+    "name": "ArrowBendUpLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendUpLeft_outline.svg"
+  },
+  {
+    "name": "ArrowBendUpRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowBendUpRight_outline.svg"
+  },
+  {
+    "name": "ArrowCircleDownLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowCircleDownLeft_outline.svg"
+  },
+  {
+    "name": "ArrowCircleDownRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowCircleDownRight_outline.svg"
+  },
+  {
+    "name": "ArrowCircleDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowCircleDown_outline.svg"
+  },
+  {
+    "name": "ArrowCircleLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowCircleLeft_outline.svg"
+  },
+  {
+    "name": "ArrowCircleRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowCircleRight_outline.svg"
+  },
+  {
+    "name": "ArrowCircleUpLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowCircleUpLeft_outline.svg"
+  },
+  {
+    "name": "ArrowCircleUpRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowCircleUpRight_outline.svg"
+  },
+  {
+    "name": "ArrowCircleUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowCircleUp_outline.svg"
+  },
+  {
+    "name": "ArrowClockwise_outline",
+    "url": "icons/suint/outline/Arrows/ArrowClockwise_outline.svg"
+  },
+  {
+    "name": "ArrowCounterClockwise_outline",
+    "url": "icons/suint/outline/Arrows/ArrowCounterClockwise_outline.svg"
+  },
+  {
+    "name": "ArrowDownLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowDownLeft_outline.svg"
+  },
+  {
+    "name": "ArrowDownRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowDownRight_outline.svg"
+  },
+  {
+    "name": "ArrowDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowDown_outline.svg"
+  },
+  {
+    "name": "ArrowElbowDownLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowDownLeft_outline.svg"
+  },
+  {
+    "name": "ArrowElbowDownRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowDownRight_outline.svg"
+  },
+  {
+    "name": "ArrowElbowLeftDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowLeftDown_outline.svg"
+  },
+  {
+    "name": "ArrowElbowLeftUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowLeftUp_outline.svg"
+  },
+  {
+    "name": "ArrowElbowLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowLeft_outline.svg"
+  },
+  {
+    "name": "ArrowElbowRightDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowRightDown_outline.svg"
+  },
+  {
+    "name": "ArrowElbowRightUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowRightUp_outline.svg"
+  },
+  {
+    "name": "ArrowElbowRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowRight_outline.svg"
+  },
+  {
+    "name": "ArrowElbowUpLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowUpLeft_outline.svg"
+  },
+  {
+    "name": "ArrowElbowUpRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowElbowUpRight_outline.svg"
+  },
+  {
+    "name": "ArrowFatDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatDown_outline.svg"
+  },
+  {
+    "name": "ArrowFatLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatLeft_outline.svg"
+  },
+  {
+    "name": "ArrowFatLineDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatLineDown_outline.svg"
+  },
+  {
+    "name": "ArrowFatLineLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatLineLeft_outline.svg"
+  },
+  {
+    "name": "ArrowFatLineRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatLineRight_outline.svg"
+  },
+  {
+    "name": "ArrowFatLinesDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatLinesDown_outline.svg"
+  },
+  {
+    "name": "ArrowFatLinesLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatLinesLeft_outline.svg"
+  },
+  {
+    "name": "ArrowFatLinesRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatLinesRight_outline.svg"
+  },
+  {
+    "name": "ArrowFatLinesUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatLinesUp_outline.svg"
+  },
+  {
+    "name": "ArrowFatLineUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatLineUp_outline.svg"
+  },
+  {
+    "name": "ArrowFatRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatRight_outline.svg"
+  },
+  {
+    "name": "ArrowFatUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowFatUp_outline.svg"
+  },
+  {
+    "name": "ArrowLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowLeft_outline.svg"
+  },
+  {
+    "name": "ArrowLineDownLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowLineDownLeft_outline.svg"
+  },
+  {
+    "name": "ArrowLineDownRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowLineDownRight_outline.svg"
+  },
+  {
+    "name": "ArrowLineDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowLineDown_outline.svg"
+  },
+  {
+    "name": "ArrowLineLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowLineLeft_outline.svg"
+  },
+  {
+    "name": "ArrowLineRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowLineRight_outline.svg"
+  },
+  {
+    "name": "ArrowLineUpLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowLineUpLeft_outline.svg"
+  },
+  {
+    "name": "ArrowLineUpRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowLineUpRight_outline.svg"
+  },
+  {
+    "name": "ArrowLineUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowLineUp_outline.svg"
+  },
+  {
+    "name": "ArrowRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowRight_outline.svg"
+  },
+  {
+    "name": "ArrowsClockwise_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsClockwise_outline.svg"
+  },
+  {
+    "name": "ArrowsCounterClockwise_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsCounterClockwise_outline.svg"
+  },
+  {
+    "name": "ArrowsDownUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsDownUp_outline.svg"
+  },
+  {
+    "name": "ArrowsInCardinal_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsInCardinal_outline.svg"
+  },
+  {
+    "name": "ArrowsInLineHorizontal_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsInLineHorizontal_outline.svg"
+  },
+  {
+    "name": "ArrowsInLineVertical_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsInLineVertical_outline.svg"
+  },
+  {
+    "name": "ArrowsInSimple_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsInSimple_outline.svg"
+  },
+  {
+    "name": "ArrowsIn_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsIn_outline.svg"
+  },
+  {
+    "name": "ArrowsLeftRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsLeftRight_outline.svg"
+  },
+  {
+    "name": "ArrowsOutCardinal_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsOutCardinal_outline.svg"
+  },
+  {
+    "name": "ArrowsOutLineHorizontal_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsOutLineHorizontal_outline.svg"
+  },
+  {
+    "name": "ArrowsOutLineVertical_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsOutLineVertical_outline.svg"
+  },
+  {
+    "name": "ArrowsOutSimple_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsOutSimple_outline.svg"
+  },
+  {
+    "name": "ArrowsOut_outline",
+    "url": "icons/suint/outline/Arrows/ArrowsOut_outline.svg"
+  },
+  {
+    "name": "ArrowSquareDownLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareDownLeft_outline.svg"
+  },
+  {
+    "name": "ArrowSquareDownRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareDownRight_outline.svg"
+  },
+  {
+    "name": "ArrowSquareDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareDown_outline.svg"
+  },
+  {
+    "name": "ArrowSquareIn_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareIn_outline.svg"
+  },
+  {
+    "name": "ArrowSquareLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareLeft_outline.svg"
+  },
+  {
+    "name": "ArrowSquareOut_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareOut_outline.svg"
+  },
+  {
+    "name": "ArrowSquareRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareRight_outline.svg"
+  },
+  {
+    "name": "ArrowSquareUpLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareUpLeft_outline.svg"
+  },
+  {
+    "name": "ArrowSquareUpRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareUpRight_outline.svg"
+  },
+  {
+    "name": "ArrowSquareUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowSquareUp_outline.svg"
+  },
+  {
+    "name": "ArrowUDownLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowUDownLeft_outline.svg"
+  },
+  {
+    "name": "ArrowUDownRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowUDownRight_outline.svg"
+  },
+  {
+    "name": "ArrowULeftDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowULeftDown_outline.svg"
+  },
+  {
+    "name": "ArrowULeftUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowULeftUp_outline.svg"
+  },
+  {
+    "name": "ArrowUpLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowUpLeft_outline.svg"
+  },
+  {
+    "name": "ArrowUpRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowUpRight_outline.svg"
+  },
+  {
+    "name": "ArrowUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowUp_outline.svg"
+  },
+  {
+    "name": "ArrowURightDown_outline",
+    "url": "icons/suint/outline/Arrows/ArrowURightDown_outline.svg"
+  },
+  {
+    "name": "ArrowURightUp_outline",
+    "url": "icons/suint/outline/Arrows/ArrowURightUp_outline.svg"
+  },
+  {
+    "name": "ArrowUUpLeft_outline",
+    "url": "icons/suint/outline/Arrows/ArrowUUpLeft_outline.svg"
+  },
+  {
+    "name": "ArrowUUpRight_outline",
+    "url": "icons/suint/outline/Arrows/ArrowUUpRight_outline.svg"
+  },
+  {
+    "name": "CaretCircleDoubleDown_outline",
+    "url": "icons/suint/outline/Arrows/CaretCircleDoubleDown_outline.svg"
+  },
+  {
+    "name": "CaretCircleDoubleLeft_outline",
+    "url": "icons/suint/outline/Arrows/CaretCircleDoubleLeft_outline.svg"
+  },
+  {
+    "name": "CaretCircleDoubleRight_outline",
+    "url": "icons/suint/outline/Arrows/CaretCircleDoubleRight_outline.svg"
+  },
+  {
+    "name": "CaretCircleDoubleUp_outline",
+    "url": "icons/suint/outline/Arrows/CaretCircleDoubleUp_outline.svg"
+  },
+  {
+    "name": "CaretCircleDown_outline",
+    "url": "icons/suint/outline/Arrows/CaretCircleDown_outline.svg"
+  },
+  {
+    "name": "CaretCircleLeft_outline",
+    "url": "icons/suint/outline/Arrows/CaretCircleLeft_outline.svg"
+  },
+  {
+    "name": "CaretCircleRight_outline",
+    "url": "icons/suint/outline/Arrows/CaretCircleRight_outline.svg"
+  },
+  {
+    "name": "CaretCircleUp_outline",
+    "url": "icons/suint/outline/Arrows/CaretCircleUp_outline.svg"
+  },
+  {
+    "name": "CaretDoubleDown_outline",
+    "url": "icons/suint/outline/Arrows/CaretDoubleDown_outline.svg"
+  },
+  {
+    "name": "CaretDoubleLeft_outline",
+    "url": "icons/suint/outline/Arrows/CaretDoubleLeft_outline.svg"
+  },
+  {
+    "name": "CaretDoubleRight_outline",
+    "url": "icons/suint/outline/Arrows/CaretDoubleRight_outline.svg"
+  },
+  {
+    "name": "CaretDoubleUp_outline",
+    "url": "icons/suint/outline/Arrows/CaretDoubleUp_outline.svg"
+  },
+  {
+    "name": "CaretDown_outline",
+    "url": "icons/suint/outline/Arrows/CaretDown_outline.svg"
+  },
+  {
+    "name": "CaretLeft_outline",
+    "url": "icons/suint/outline/Arrows/CaretLeft_outline.svg"
+  },
+  {
+    "name": "CaretRight_outline",
+    "url": "icons/suint/outline/Arrows/CaretRight_outline.svg"
+  },
+  {
+    "name": "CaretUp_outline",
+    "url": "icons/suint/outline/Arrows/CaretUp_outline.svg"
+  },
+  {
+    "name": "Recycle_outline",
+    "url": "icons/suint/outline/Arrows/Recycle_outline.svg"
+  },
+  {
+    "name": "Adobe-After-effects",
+    "url": "icons/suint/outline/Brands/Adobe-After-effects.svg"
+  },
+  {
+    "name": "Adobe-Experince-design",
+    "url": "icons/suint/outline/Brands/Adobe-Experince-design.svg"
+  },
+  {
+    "name": "Adobe-Illustrator",
+    "url": "icons/suint/outline/Brands/Adobe-Illustrator.svg"
+  },
+  {
+    "name": "Adobe-Indesign-1",
+    "url": "icons/suint/outline/Brands/Adobe-Indesign-1.svg"
+  },
+  {
+    "name": "Adobe-Indesign",
+    "url": "icons/suint/outline/Brands/Adobe-Indesign.svg"
+  },
+  {
+    "name": "Adobe-Lightroom",
+    "url": "icons/suint/outline/Brands/Adobe-Lightroom.svg"
+  },
+  {
+    "name": "Adobe-Photoshop",
+    "url": "icons/suint/outline/Brands/Adobe-Photoshop.svg"
+  },
+  {
+    "name": "Adobe-Premiere",
+    "url": "icons/suint/outline/Brands/Adobe-Premiere.svg"
+  },
+  {
+    "name": "Android",
+    "url": "icons/suint/outline/Brands/Android.svg"
+  },
+  {
+    "name": "AndroidLogo_outline",
+    "url": "icons/suint/outline/Brands/AndroidLogo_outline.svg"
+  },
+  {
+    "name": "App-store",
+    "url": "icons/suint/outline/Brands/App-store.svg"
+  },
+  {
+    "name": "Apple",
+    "url": "icons/suint/outline/Brands/Apple.svg"
+  },
+  {
+    "name": "AppleLogo_outline",
+    "url": "icons/suint/outline/Brands/AppleLogo_outline.svg"
+  },
+  {
+    "name": "Asana",
+    "url": "icons/suint/outline/Brands/Asana.svg"
+  },
+  {
+    "name": "Behance",
+    "url": "icons/suint/outline/Brands/Behance.svg"
+  },
+  {
+    "name": "Chrome",
+    "url": "icons/suint/outline/Brands/Chrome.svg"
+  },
+  {
+    "name": "DiscordLogo_outline",
+    "url": "icons/suint/outline/Brands/DiscordLogo_outline.svg"
+  },
+  {
+    "name": "Dribbble",
+    "url": "icons/suint/outline/Brands/Dribbble.svg"
+  },
+  {
+    "name": "DribbbleLogo_outline",
+    "url": "icons/suint/outline/Brands/DribbbleLogo_outline.svg"
+  },
+  {
+    "name": "Dropbox",
+    "url": "icons/suint/outline/Brands/Dropbox.svg"
+  },
+  {
+    "name": "Facebook-messenger",
+    "url": "icons/suint/outline/Brands/Facebook-messenger.svg"
+  },
+  {
+    "name": "Facebook",
+    "url": "icons/suint/outline/Brands/Facebook.svg"
+  },
+  {
+    "name": "FacebookLogo_outline",
+    "url": "icons/suint/outline/Brands/FacebookLogo_outline.svg"
+  },
+  {
+    "name": "Figma",
+    "url": "icons/suint/outline/Brands/Figma.svg"
+  },
+  {
+    "name": "FigmaLogo_outline",
+    "url": "icons/suint/outline/Brands/FigmaLogo_outline.svg"
+  },
+  {
+    "name": "FramerLogo_outline",
+    "url": "icons/suint/outline/Brands/FramerLogo_outline.svg"
+  },
+  {
+    "name": "GithubLogo_outline",
+    "url": "icons/suint/outline/Brands/GithubLogo_outline.svg"
+  },
+  {
+    "name": "GitlabLogoSimple_outline",
+    "url": "icons/suint/outline/Brands/GitlabLogoSimple_outline.svg"
+  },
+  {
+    "name": "GitlabLogo_outline",
+    "url": "icons/suint/outline/Brands/GitlabLogo_outline.svg"
+  },
+  {
+    "name": "Gmail",
+    "url": "icons/suint/outline/Brands/Gmail.svg"
+  },
+  {
+    "name": "Google-alt",
+    "url": "icons/suint/outline/Brands/Google-alt.svg"
+  },
+  {
+    "name": "Google-drive",
+    "url": "icons/suint/outline/Brands/Google-drive.svg"
+  },
+  {
+    "name": "Google-play",
+    "url": "icons/suint/outline/Brands/Google-play.svg"
+  },
+  {
+    "name": "Google",
+    "url": "icons/suint/outline/Brands/Google.svg"
+  },
+  {
+    "name": "GoogleLogo_outline",
+    "url": "icons/suint/outline/Brands/GoogleLogo_outline.svg"
+  },
+  {
+    "name": "GooglePlayLogo_outline",
+    "url": "icons/suint/outline/Brands/GooglePlayLogo_outline.svg"
+  },
+  {
+    "name": "Group 151",
+    "url": "icons/suint/outline/Brands/Group 151.svg"
+  },
+  {
+    "name": "Instagram",
+    "url": "icons/suint/outline/Brands/Instagram.svg"
+  },
+  {
+    "name": "InstagramLogo_outline",
+    "url": "icons/suint/outline/Brands/InstagramLogo_outline.svg"
+  },
+  {
+    "name": "Linkedin",
+    "url": "icons/suint/outline/Brands/Linkedin.svg"
+  },
+  {
+    "name": "LinkedinLogo_outline",
+    "url": "icons/suint/outline/Brands/LinkedinLogo_outline.svg"
+  },
+  {
+    "name": "Medium",
+    "url": "icons/suint/outline/Brands/Medium.svg"
+  },
+  {
+    "name": "MediumLogo_outline",
+    "url": "icons/suint/outline/Brands/MediumLogo_outline.svg"
+  },
+  {
+    "name": "MessengerLogo_outline",
+    "url": "icons/suint/outline/Brands/MessengerLogo_outline.svg"
+  },
+  {
+    "name": "Notion",
+    "url": "icons/suint/outline/Brands/Notion.svg"
+  },
+  {
+    "name": "NyTimesLogo_outline",
+    "url": "icons/suint/outline/Brands/NyTimesLogo_outline.svg"
+  },
+  {
+    "name": "PhosphorLogo_outline",
+    "url": "icons/suint/outline/Brands/PhosphorLogo_outline.svg"
+  },
+  {
+    "name": "Pinterest",
+    "url": "icons/suint/outline/Brands/Pinterest.svg"
+  },
+  {
+    "name": "PinterestLogo_outline",
+    "url": "icons/suint/outline/Brands/PinterestLogo_outline.svg"
+  },
+  {
+    "name": "QQ",
+    "url": "icons/suint/outline/Brands/QQ.svg"
+  },
+  {
+    "name": "Reddit",
+    "url": "icons/suint/outline/Brands/Reddit.svg"
+  },
+  {
+    "name": "RedditLogo_outline",
+    "url": "icons/suint/outline/Brands/RedditLogo_outline.svg"
+  },
+  {
+    "name": "Sketch",
+    "url": "icons/suint/outline/Brands/Sketch.svg"
+  },
+  {
+    "name": "SketchLogo_outline",
+    "url": "icons/suint/outline/Brands/SketchLogo_outline.svg"
+  },
+  {
+    "name": "Skype",
+    "url": "icons/suint/outline/Brands/Skype.svg"
+  },
+  {
+    "name": "Slack",
+    "url": "icons/suint/outline/Brands/Slack.svg"
+  },
+  {
+    "name": "SlackLogo_outline",
+    "url": "icons/suint/outline/Brands/SlackLogo_outline.svg"
+  },
+  {
+    "name": "Snapchat",
+    "url": "icons/suint/outline/Brands/Snapchat.svg"
+  },
+  {
+    "name": "SnapchatLogo_outline",
+    "url": "icons/suint/outline/Brands/SnapchatLogo_outline.svg"
+  },
+  {
+    "name": "SpotifyLogo_outline",
+    "url": "icons/suint/outline/Brands/SpotifyLogo_outline.svg"
+  },
+  {
+    "name": "SquareLogo_outline",
+    "url": "icons/suint/outline/Brands/SquareLogo_outline.svg"
+  },
+  {
+    "name": "StripeLogo_outline",
+    "url": "icons/suint/outline/Brands/StripeLogo_outline.svg"
+  },
+  {
+    "name": "Telegram",
+    "url": "icons/suint/outline/Brands/Telegram.svg"
+  },
+  {
+    "name": "TelegramLogo_outline",
+    "url": "icons/suint/outline/Brands/TelegramLogo_outline.svg"
+  },
+  {
+    "name": "TiktokLogo_outline",
+    "url": "icons/suint/outline/Brands/TiktokLogo_outline.svg"
+  },
+  {
+    "name": "Trello",
+    "url": "icons/suint/outline/Brands/Trello.svg"
+  },
+  {
+    "name": "Tumblr",
+    "url": "icons/suint/outline/Brands/Tumblr.svg"
+  },
+  {
+    "name": "Twitch",
+    "url": "icons/suint/outline/Brands/Twitch.svg"
+  },
+  {
+    "name": "TwitchLogo_outline",
+    "url": "icons/suint/outline/Brands/TwitchLogo_outline.svg"
+  },
+  {
+    "name": "Twitter",
+    "url": "icons/suint/outline/Brands/Twitter.svg"
+  },
+  {
+    "name": "TwitterLogo_outline",
+    "url": "icons/suint/outline/Brands/TwitterLogo_outline.svg"
+  },
+  {
+    "name": "Viber",
+    "url": "icons/suint/outline/Brands/Viber.svg"
+  },
+  {
+    "name": "Vk",
+    "url": "icons/suint/outline/Brands/Vk.svg"
+  },
+  {
+    "name": "Whatsapp",
+    "url": "icons/suint/outline/Brands/Whatsapp.svg"
+  },
+  {
+    "name": "WhatsappLogo_outline",
+    "url": "icons/suint/outline/Brands/WhatsappLogo_outline.svg"
+  },
+  {
+    "name": "Windows",
+    "url": "icons/suint/outline/Brands/Windows.svg"
+  },
+  {
+    "name": "WindowsLogo_outline",
+    "url": "icons/suint/outline/Brands/WindowsLogo_outline.svg"
+  },
+  {
+    "name": "Youtube",
+    "url": "icons/suint/outline/Brands/Youtube.svg"
+  },
+  {
+    "name": "YoutubeLogo_outline",
+    "url": "icons/suint/outline/Brands/YoutubeLogo_outline.svg"
+  },
+  {
+    "name": "Armchair_outline",
+    "url": "icons/suint/outline/Commerce/Armchair_outline.svg"
+  },
+  {
+    "name": "BagSimple_outline",
+    "url": "icons/suint/outline/Commerce/BagSimple_outline.svg"
+  },
+  {
+    "name": "Bag_outline",
+    "url": "icons/suint/outline/Commerce/Bag_outline.svg"
+  },
+  {
+    "name": "Barcode_outline",
+    "url": "icons/suint/outline/Commerce/Barcode_outline.svg"
+  },
+  {
+    "name": "Brandy_outline",
+    "url": "icons/suint/outline/Commerce/Brandy_outline.svg"
+  },
+  {
+    "name": "Buildings_outline",
+    "url": "icons/suint/outline/Commerce/Buildings_outline.svg"
+  },
+  {
+    "name": "Cake_outline",
+    "url": "icons/suint/outline/Commerce/Cake_outline.svg"
+  },
+  {
+    "name": "Cardholder_outline",
+    "url": "icons/suint/outline/Commerce/Cardholder_outline.svg"
+  },
+  {
+    "name": "Coffee_outline",
+    "url": "icons/suint/outline/Commerce/Coffee_outline.svg"
+  },
+  {
+    "name": "Coin_outline",
+    "url": "icons/suint/outline/Commerce/Coin_outline.svg"
+  },
+  {
+    "name": "Cookie_outline",
+    "url": "icons/suint/outline/Commerce/Cookie_outline.svg"
+  },
+  {
+    "name": "CookingPot_outline",
+    "url": "icons/suint/outline/Commerce/CookingPot_outline.svg"
+  },
+  {
+    "name": "CreditCard_outline",
+    "url": "icons/suint/outline/Commerce/CreditCard_outline.svg"
+  },
+  {
+    "name": "CurrencyBtc_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyBtc_outline.svg"
+  },
+  {
+    "name": "CurrencyCircleDollar_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyCircleDollar_outline.svg"
+  },
+  {
+    "name": "CurrencyCny_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyCny_outline.svg"
+  },
+  {
+    "name": "CurrencyDollarSimple_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyDollarSimple_outline.svg"
+  },
+  {
+    "name": "CurrencyDollar_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyDollar_outline.svg"
+  },
+  {
+    "name": "CurrencyEur_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyEur_outline.svg"
+  },
+  {
+    "name": "CurrencyGbp_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyGbp_outline.svg"
+  },
+  {
+    "name": "CurrencyInr_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyInr_outline.svg"
+  },
+  {
+    "name": "CurrencyJpy_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyJpy_outline.svg"
+  },
+  {
+    "name": "CurrencyKrw_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyKrw_outline.svg"
+  },
+  {
+    "name": "CurrencyRub_outline",
+    "url": "icons/suint/outline/Commerce/CurrencyRub_outline.svg"
+  },
+  {
+    "name": "Factory_outline",
+    "url": "icons/suint/outline/Commerce/Factory_outline.svg"
+  },
+  {
+    "name": "ForkKnife_outline",
+    "url": "icons/suint/outline/Commerce/ForkKnife_outline.svg"
+  },
+  {
+    "name": "Gift_outline",
+    "url": "icons/suint/outline/Commerce/Gift_outline.svg"
+  },
+  {
+    "name": "HandbagSimple_outline",
+    "url": "icons/suint/outline/Commerce/HandbagSimple_outline.svg"
+  },
+  {
+    "name": "Handbag_outline",
+    "url": "icons/suint/outline/Commerce/Handbag_outline.svg"
+  },
+  {
+    "name": "Knife_outline",
+    "url": "icons/suint/outline/Commerce/Knife_outline.svg"
+  },
+  {
+    "name": "Lamp_outline",
+    "url": "icons/suint/outline/Commerce/Lamp_outline.svg"
+  },
+  {
+    "name": "Martini_outline",
+    "url": "icons/suint/outline/Commerce/Martini_outline.svg"
+  },
+  {
+    "name": "Money_outline",
+    "url": "icons/suint/outline/Commerce/Money_outline.svg"
+  },
+  {
+    "name": "Package_outline",
+    "url": "icons/suint/outline/Commerce/Package_outline.svg"
+  },
+  {
+    "name": "Pizza_outline",
+    "url": "icons/suint/outline/Commerce/Pizza_outline.svg"
+  },
+  {
+    "name": "Receipt_outline",
+    "url": "icons/suint/outline/Commerce/Receipt_outline.svg"
+  },
+  {
+    "name": "Scales_outline",
+    "url": "icons/suint/outline/Commerce/Scales_outline.svg"
+  },
+  {
+    "name": "ShoppingBagOpen_outline",
+    "url": "icons/suint/outline/Commerce/ShoppingBagOpen_outline.svg"
+  },
+  {
+    "name": "ShoppingBag_outline",
+    "url": "icons/suint/outline/Commerce/ShoppingBag_outline.svg"
+  },
+  {
+    "name": "ShoppingCartSimple_outline",
+    "url": "icons/suint/outline/Commerce/ShoppingCartSimple_outline.svg"
+  },
+  {
+    "name": "ShoppingCart_outline",
+    "url": "icons/suint/outline/Commerce/ShoppingCart_outline.svg"
+  },
+  {
+    "name": "Shower_outline",
+    "url": "icons/suint/outline/Commerce/Shower_outline.svg"
+  },
+  {
+    "name": "Storefront_outline",
+    "url": "icons/suint/outline/Commerce/Storefront_outline.svg"
+  },
+  {
+    "name": "TagChevron_outline",
+    "url": "icons/suint/outline/Commerce/TagChevron_outline.svg"
+  },
+  {
+    "name": "TagSimple_outline",
+    "url": "icons/suint/outline/Commerce/TagSimple_outline.svg"
+  },
+  {
+    "name": "Tag_outline",
+    "url": "icons/suint/outline/Commerce/Tag_outline.svg"
+  },
+  {
+    "name": "Ticket_outline",
+    "url": "icons/suint/outline/Commerce/Ticket_outline.svg"
+  },
+  {
+    "name": "ToteSimple_outline",
+    "url": "icons/suint/outline/Commerce/ToteSimple_outline.svg"
+  },
+  {
+    "name": "Tote_outline",
+    "url": "icons/suint/outline/Commerce/Tote_outline.svg"
+  },
+  {
+    "name": "TShirt_outline",
+    "url": "icons/suint/outline/Commerce/TShirt_outline.svg"
+  },
+  {
+    "name": "Wallet_outline",
+    "url": "icons/suint/outline/Commerce/Wallet_outline.svg"
+  },
+  {
+    "name": "Wine_outline",
+    "url": "icons/suint/outline/Commerce/Wine_outline.svg"
+  },
+  {
+    "name": "Bullhorn",
+    "url": "icons/suint/outline/Communication/Bullhorn.svg"
+  },
+  {
+    "name": "Chat",
+    "url": "icons/suint/outline/Communication/Chat.svg"
+  },
+  {
+    "name": "Comment-block",
+    "url": "icons/suint/outline/Communication/Comment-block.svg"
+  },
+  {
+    "name": "Comment-minus",
+    "url": "icons/suint/outline/Communication/Comment-minus.svg"
+  },
+  {
+    "name": "Comment-plus",
+    "url": "icons/suint/outline/Communication/Comment-plus.svg"
+  },
+  {
+    "name": "Comment",
+    "url": "icons/suint/outline/Communication/Comment.svg"
+  },
+  {
+    "name": "Contacts",
+    "url": "icons/suint/outline/Communication/Contacts.svg"
+  },
+  {
+    "name": "Dislike",
+    "url": "icons/suint/outline/Communication/Dislike.svg"
+  },
+  {
+    "name": "Envelope-open",
+    "url": "icons/suint/outline/Communication/Envelope-open.svg"
+  },
+  {
+    "name": "Envelope",
+    "url": "icons/suint/outline/Communication/Envelope.svg"
+  },
+  {
+    "name": "Forward",
+    "url": "icons/suint/outline/Communication/Forward.svg"
+  },
+  {
+    "name": "Like",
+    "url": "icons/suint/outline/Communication/Like.svg"
+  },
+  {
+    "name": "Phone-in",
+    "url": "icons/suint/outline/Communication/Phone-in.svg"
+  },
+  {
+    "name": "Phone-miss",
+    "url": "icons/suint/outline/Communication/Phone-miss.svg"
+  },
+  {
+    "name": "Phone-off",
+    "url": "icons/suint/outline/Communication/Phone-off.svg"
+  },
+  {
+    "name": "Phone-out",
+    "url": "icons/suint/outline/Communication/Phone-out.svg"
+  },
+  {
+    "name": "Phone",
+    "url": "icons/suint/outline/Communication/Phone.svg"
+  },
+  {
+    "name": "Reply",
+    "url": "icons/suint/outline/Communication/Reply.svg"
+  },
+  {
+    "name": "Send",
+    "url": "icons/suint/outline/Communication/Send.svg"
+  },
+  {
+    "name": "Share-box",
+    "url": "icons/suint/outline/Communication/Share-box.svg"
+  },
+  {
+    "name": "Share",
+    "url": "icons/suint/outline/Communication/Share.svg"
+  },
+  {
+    "name": "User-block",
+    "url": "icons/suint/outline/Communication/User-block.svg"
+  },
+  {
+    "name": "User-clock",
+    "url": "icons/suint/outline/Communication/User-clock.svg"
+  },
+  {
+    "name": "User-plus",
+    "url": "icons/suint/outline/Communication/User-plus.svg"
+  },
+  {
+    "name": "User",
+    "url": "icons/suint/outline/Communication/User.svg"
+  },
+  {
+    "name": "AddressBook_outline",
+    "url": "icons/suint/outline/Communications/AddressBook_outline.svg"
+  },
+  {
+    "name": "Asterisk_outline",
+    "url": "icons/suint/outline/Communications/Asterisk_outline.svg"
+  },
+  {
+    "name": "At_outline",
+    "url": "icons/suint/outline/Communications/At_outline.svg"
+  },
+  {
+    "name": "Broadcast_outline",
+    "url": "icons/suint/outline/Communications/Broadcast_outline.svg"
+  },
+  {
+    "name": "ChatCenteredDots_outline",
+    "url": "icons/suint/outline/Communications/ChatCenteredDots_outline.svg"
+  },
+  {
+    "name": "ChatCenteredText_outline",
+    "url": "icons/suint/outline/Communications/ChatCenteredText_outline.svg"
+  },
+  {
+    "name": "ChatCentered_outline",
+    "url": "icons/suint/outline/Communications/ChatCentered_outline.svg"
+  },
+  {
+    "name": "ChatCircleDots_outline",
+    "url": "icons/suint/outline/Communications/ChatCircleDots_outline.svg"
+  },
+  {
+    "name": "ChatCircleText_outline",
+    "url": "icons/suint/outline/Communications/ChatCircleText_outline.svg"
+  },
+  {
+    "name": "ChatCircle_outline",
+    "url": "icons/suint/outline/Communications/ChatCircle_outline.svg"
+  },
+  {
+    "name": "ChatDots_outline",
+    "url": "icons/suint/outline/Communications/ChatDots_outline.svg"
+  },
+  {
+    "name": "ChatsCircle_outline",
+    "url": "icons/suint/outline/Communications/ChatsCircle_outline.svg"
+  },
+  {
+    "name": "ChatsTeardrop_outline",
+    "url": "icons/suint/outline/Communications/ChatsTeardrop_outline.svg"
+  },
+  {
+    "name": "Chats_outline",
+    "url": "icons/suint/outline/Communications/Chats_outline.svg"
+  },
+  {
+    "name": "ChatTeardropDots_outline",
+    "url": "icons/suint/outline/Communications/ChatTeardropDots_outline.svg"
+  },
+  {
+    "name": "ChatTeardropText_outline",
+    "url": "icons/suint/outline/Communications/ChatTeardropText_outline.svg"
+  },
+  {
+    "name": "ChatTeardrop_outline",
+    "url": "icons/suint/outline/Communications/ChatTeardrop_outline.svg"
+  },
+  {
+    "name": "ChatText_outline",
+    "url": "icons/suint/outline/Communications/ChatText_outline.svg"
+  },
+  {
+    "name": "Chat_outline",
+    "url": "icons/suint/outline/Communications/Chat_outline.svg"
+  },
+  {
+    "name": "EnvelopeOpen_outline",
+    "url": "icons/suint/outline/Communications/EnvelopeOpen_outline.svg"
+  },
+  {
+    "name": "EnvelopeSimpleOpen_outline",
+    "url": "icons/suint/outline/Communications/EnvelopeSimpleOpen_outline.svg"
+  },
+  {
+    "name": "EnvelopeSimple_outline",
+    "url": "icons/suint/outline/Communications/EnvelopeSimple_outline.svg"
+  },
+  {
+    "name": "Envelope_outline",
+    "url": "icons/suint/outline/Communications/Envelope_outline.svg"
+  },
+  {
+    "name": "Export_outline",
+    "url": "icons/suint/outline/Communications/Export_outline.svg"
+  },
+  {
+    "name": "HashStraight_outline",
+    "url": "icons/suint/outline/Communications/HashStraight_outline.svg"
+  },
+  {
+    "name": "Hash_outline",
+    "url": "icons/suint/outline/Communications/Hash_outline.svg"
+  },
+  {
+    "name": "MegaphoneSimple_outline",
+    "url": "icons/suint/outline/Communications/MegaphoneSimple_outline.svg"
+  },
+  {
+    "name": "Megaphone_outline",
+    "url": "icons/suint/outline/Communications/Megaphone_outline.svg"
+  },
+  {
+    "name": "PaperPlaneRight_outline",
+    "url": "icons/suint/outline/Communications/PaperPlaneRight_outline.svg"
+  },
+  {
+    "name": "PaperPlaneTilt_outline",
+    "url": "icons/suint/outline/Communications/PaperPlaneTilt_outline.svg"
+  },
+  {
+    "name": "PaperPlane_outline",
+    "url": "icons/suint/outline/Communications/PaperPlane_outline.svg"
+  },
+  {
+    "name": "Peace_outline",
+    "url": "icons/suint/outline/Communications/Peace_outline.svg"
+  },
+  {
+    "name": "PhoneCall_outline",
+    "url": "icons/suint/outline/Communications/PhoneCall_outline.svg"
+  },
+  {
+    "name": "PhoneDisconnect_outline",
+    "url": "icons/suint/outline/Communications/PhoneDisconnect_outline.svg"
+  },
+  {
+    "name": "PhoneIncoming_outline",
+    "url": "icons/suint/outline/Communications/PhoneIncoming_outline.svg"
+  },
+  {
+    "name": "PhoneOutgoing_outline",
+    "url": "icons/suint/outline/Communications/PhoneOutgoing_outline.svg"
+  },
+  {
+    "name": "PhoneSlash_outline",
+    "url": "icons/suint/outline/Communications/PhoneSlash_outline.svg"
+  },
+  {
+    "name": "PhoneX_outline",
+    "url": "icons/suint/outline/Communications/PhoneX_outline.svg"
+  },
+  {
+    "name": "Phone_outline",
+    "url": "icons/suint/outline/Communications/Phone_outline.svg"
+  },
+  {
+    "name": "Quotes_outline",
+    "url": "icons/suint/outline/Communications/Quotes_outline.svg"
+  },
+  {
+    "name": "Radio_outline",
+    "url": "icons/suint/outline/Communications/Radio_outline.svg"
+  },
+  {
+    "name": "RssSimple_outline",
+    "url": "icons/suint/outline/Communications/RssSimple_outline.svg"
+  },
+  {
+    "name": "Rss_outline",
+    "url": "icons/suint/outline/Communications/Rss_outline.svg"
+  },
+  {
+    "name": "ShareNetwork_outline",
+    "url": "icons/suint/outline/Communications/ShareNetwork_outline.svg"
+  },
+  {
+    "name": "Share_outline",
+    "url": "icons/suint/outline/Communications/Share_outline.svg"
+  },
+  {
+    "name": "Sticker_outline",
+    "url": "icons/suint/outline/Communications/Sticker_outline.svg"
+  },
+  {
+    "name": "ThumbsDown_outline",
+    "url": "icons/suint/outline/Communications/ThumbsDown_outline.svg"
+  },
+  {
+    "name": "ThumbsUp_outline",
+    "url": "icons/suint/outline/Communications/ThumbsUp_outline.svg"
+  },
+  {
+    "name": "Translate_outline",
+    "url": "icons/suint/outline/Communications/Translate_outline.svg"
+  },
+  {
+    "name": "Voicemail_outline",
+    "url": "icons/suint/outline/Communications/Voicemail_outline.svg"
+  },
+  {
+    "name": "AlignBottom_outline",
+    "url": "icons/suint/outline/Design/AlignBottom_outline.svg"
+  },
+  {
+    "name": "AlignCenterHorizontal_outline",
+    "url": "icons/suint/outline/Design/AlignCenterHorizontal_outline.svg"
+  },
+  {
+    "name": "AlignCenterVertical_outline",
+    "url": "icons/suint/outline/Design/AlignCenterVertical_outline.svg"
+  },
+  {
+    "name": "AlignLeft_outline",
+    "url": "icons/suint/outline/Design/AlignLeft_outline.svg"
+  },
+  {
+    "name": "AlignRight_outline",
+    "url": "icons/suint/outline/Design/AlignRight_outline.svg"
+  },
+  {
+    "name": "AlignTop_outline",
+    "url": "icons/suint/outline/Design/AlignTop_outline.svg"
+  },
+  {
+    "name": "BoundingBox_outline",
+    "url": "icons/suint/outline/Design/BoundingBox_outline.svg"
+  },
+  {
+    "name": "CircleDashed_outline",
+    "url": "icons/suint/outline/Design/CircleDashed_outline.svg"
+  },
+  {
+    "name": "CircleHalfTilt_outline",
+    "url": "icons/suint/outline/Design/CircleHalfTilt_outline.svg"
+  },
+  {
+    "name": "CircleHalf_outline",
+    "url": "icons/suint/outline/Design/CircleHalf_outline.svg"
+  },
+  {
+    "name": "CirclesFour_outline",
+    "url": "icons/suint/outline/Design/CirclesFour_outline.svg"
+  },
+  {
+    "name": "CirclesThreePlus_outline",
+    "url": "icons/suint/outline/Design/CirclesThreePlus_outline.svg"
+  },
+  {
+    "name": "CirclesThree_outline",
+    "url": "icons/suint/outline/Design/CirclesThree_outline.svg"
+  },
+  {
+    "name": "Circle_outline",
+    "url": "icons/suint/outline/Design/Circle_outline.svg"
+  },
+  {
+    "name": "Columns_outline",
+    "url": "icons/suint/outline/Design/Columns_outline.svg"
+  },
+  {
+    "name": "Crop_outline",
+    "url": "icons/suint/outline/Design/Crop_outline.svg"
+  },
+  {
+    "name": "Cube_outline",
+    "url": "icons/suint/outline/Design/Cube_outline.svg"
+  },
+  {
+    "name": "DropHalf_outline",
+    "url": "icons/suint/outline/Design/DropHalf_outline.svg"
+  },
+  {
+    "name": "Eraser_outline",
+    "url": "icons/suint/outline/Design/Eraser_outline.svg"
+  },
+  {
+    "name": "EyeClosed_outline",
+    "url": "icons/suint/outline/Design/EyeClosed_outline.svg"
+  },
+  {
+    "name": "Eyedropper_outline",
+    "url": "icons/suint/outline/Design/Eyedropper_outline.svg"
+  },
+  {
+    "name": "EyeSlash_outline",
+    "url": "icons/suint/outline/Design/EyeSlash_outline.svg"
+  },
+  {
+    "name": "Eye_outline",
+    "url": "icons/suint/outline/Design/Eye_outline.svg"
+  },
+  {
+    "name": "FlowArrow_outline",
+    "url": "icons/suint/outline/Design/FlowArrow_outline.svg"
+  },
+  {
+    "name": "GridFour_outline",
+    "url": "icons/suint/outline/Design/GridFour_outline.svg"
+  },
+  {
+    "name": "Hexagon_outline",
+    "url": "icons/suint/outline/Design/Hexagon_outline.svg"
+  },
+  {
+    "name": "HighlighterCircle_outline",
+    "url": "icons/suint/outline/Design/HighlighterCircle_outline.svg"
+  },
+  {
+    "name": "Intersect_outline",
+    "url": "icons/suint/outline/Design/Intersect_outline.svg"
+  },
+  {
+    "name": "Layout_outline",
+    "url": "icons/suint/outline/Design/Layout_outline.svg"
+  },
+  {
+    "name": "LineSegments_outline",
+    "url": "icons/suint/outline/Design/LineSegments_outline.svg"
+  },
+  {
+    "name": "LineSegment_outline",
+    "url": "icons/suint/outline/Design/LineSegment_outline.svg"
+  },
+  {
+    "name": "MagicWand_outline",
+    "url": "icons/suint/outline/Design/MagicWand_outline.svg"
+  },
+  {
+    "name": "MarkerCircle_outline",
+    "url": "icons/suint/outline/Design/MarkerCircle_outline.svg"
+  },
+  {
+    "name": "Octagon_outline",
+    "url": "icons/suint/outline/Design/Octagon_outline.svg"
+  },
+  {
+    "name": "PaintBrushBroad_outline",
+    "url": "icons/suint/outline/Design/PaintBrushBroad_outline.svg"
+  },
+  {
+    "name": "PaintBrushHousehold_outline",
+    "url": "icons/suint/outline/Design/PaintBrushHousehold_outline.svg"
+  },
+  {
+    "name": "PaintBrush_outline",
+    "url": "icons/suint/outline/Design/PaintBrush_outline.svg"
+  },
+  {
+    "name": "PaintBucket_outline",
+    "url": "icons/suint/outline/Design/PaintBucket_outline.svg"
+  },
+  {
+    "name": "PaintRoller_outline",
+    "url": "icons/suint/outline/Design/PaintRoller_outline.svg"
+  },
+  {
+    "name": "Palette_outline",
+    "url": "icons/suint/outline/Design/Palette_outline.svg"
+  },
+  {
+    "name": "PencilCircle_outline",
+    "url": "icons/suint/outline/Design/PencilCircle_outline.svg"
+  },
+  {
+    "name": "PencilLine_outline",
+    "url": "icons/suint/outline/Design/PencilLine_outline.svg"
+  },
+  {
+    "name": "PencilSimple_outline",
+    "url": "icons/suint/outline/Design/PencilSimple_outline.svg"
+  },
+  {
+    "name": "Pencil_outline",
+    "url": "icons/suint/outline/Design/Pencil_outline.svg"
+  },
+  {
+    "name": "PenNibStraight_outline",
+    "url": "icons/suint/outline/Design/PenNibStraight_outline.svg"
+  },
+  {
+    "name": "PenNib_outline",
+    "url": "icons/suint/outline/Design/PenNib_outline.svg"
+  },
+  {
+    "name": "Pen_outline",
+    "url": "icons/suint/outline/Design/Pen_outline.svg"
+  },
+  {
+    "name": "Placeholder_outline",
+    "url": "icons/suint/outline/Design/Placeholder_outline.svg"
+  },
+  {
+    "name": "Polygon_outline",
+    "url": "icons/suint/outline/Design/Polygon_outline.svg"
+  },
+  {
+    "name": "Rectangle_outline",
+    "url": "icons/suint/outline/Design/Rectangle_outline.svg"
+  },
+  {
+    "name": "Rows_outline",
+    "url": "icons/suint/outline/Design/Rows_outline.svg"
+  },
+  {
+    "name": "Ruler_outline",
+    "url": "icons/suint/outline/Design/Ruler_outline.svg"
+  },
+  {
+    "name": "Scissors_outline",
+    "url": "icons/suint/outline/Design/Scissors_outline.svg"
+  },
+  {
+    "name": "ScribbleLoop_outline",
+    "url": "icons/suint/outline/Design/ScribbleLoop_outline.svg"
+  },
+  {
+    "name": "SelectionAll_outline",
+    "url": "icons/suint/outline/Design/SelectionAll_outline.svg"
+  },
+  {
+    "name": "SelectionBackground_outline",
+    "url": "icons/suint/outline/Design/SelectionBackground_outline.svg"
+  },
+  {
+    "name": "SelectionForeground_outline",
+    "url": "icons/suint/outline/Design/SelectionForeground_outline.svg"
+  },
+  {
+    "name": "SelectionInverse_outline",
+    "url": "icons/suint/outline/Design/SelectionInverse_outline.svg"
+  },
+  {
+    "name": "SelectionPlus_outline",
+    "url": "icons/suint/outline/Design/SelectionPlus_outline.svg"
+  },
+  {
+    "name": "SelectionSlash_outline",
+    "url": "icons/suint/outline/Design/SelectionSlash_outline.svg"
+  },
+  {
+    "name": "Selection_outline",
+    "url": "icons/suint/outline/Design/Selection_outline.svg"
+  },
+  {
+    "name": "SquareHalf_outline",
+    "url": "icons/suint/outline/Design/SquareHalf_outline.svg"
+  },
+  {
+    "name": "SquaresFour_outline",
+    "url": "icons/suint/outline/Design/SquaresFour_outline.svg"
+  },
+  {
+    "name": "Square_outline",
+    "url": "icons/suint/outline/Design/Square_outline.svg"
+  },
+  {
+    "name": "StackSimple_outline",
+    "url": "icons/suint/outline/Design/StackSimple_outline.svg"
+  },
+  {
+    "name": "Stack_outline",
+    "url": "icons/suint/outline/Design/Stack_outline.svg"
+  },
+  {
+    "name": "Swatches_outline",
+    "url": "icons/suint/outline/Design/Swatches_outline.svg"
+  },
+  {
+    "name": "Triangle_outline",
+    "url": "icons/suint/outline/Design/Triangle_outline.svg"
+  },
+  {
+    "name": "BracketsAngle_outline",
+    "url": "icons/suint/outline/Development/BracketsAngle_outline.svg"
+  },
+  {
+    "name": "BracketsCurly_outline",
+    "url": "icons/suint/outline/Development/BracketsCurly_outline.svg"
+  },
+  {
+    "name": "BracketsRound_outline",
+    "url": "icons/suint/outline/Development/BracketsRound_outline.svg"
+  },
+  {
+    "name": "BracketsSquare_outline",
+    "url": "icons/suint/outline/Development/BracketsSquare_outline.svg"
+  },
+  {
+    "name": "BugBeetle_outline",
+    "url": "icons/suint/outline/Development/BugBeetle_outline.svg"
+  },
+  {
+    "name": "BugDroid_outline",
+    "url": "icons/suint/outline/Development/BugDroid_outline.svg"
+  },
+  {
+    "name": "Bug_outline",
+    "url": "icons/suint/outline/Development/Bug_outline.svg"
+  },
+  {
+    "name": "CodeSimple_outline",
+    "url": "icons/suint/outline/Development/CodeSimple_outline.svg"
+  },
+  {
+    "name": "Code_outline",
+    "url": "icons/suint/outline/Development/Code_outline.svg"
+  },
+  {
+    "name": "Cpu_outline",
+    "url": "icons/suint/outline/Development/Cpu_outline.svg"
+  },
+  {
+    "name": "Database_outline",
+    "url": "icons/suint/outline/Development/Database_outline.svg"
+  },
+  {
+    "name": "GitBranch_outline",
+    "url": "icons/suint/outline/Development/GitBranch_outline.svg"
+  },
+  {
+    "name": "GitCommit_outline",
+    "url": "icons/suint/outline/Development/GitCommit_outline.svg"
+  },
+  {
+    "name": "GitDiff_outline",
+    "url": "icons/suint/outline/Development/GitDiff_outline.svg"
+  },
+  {
+    "name": "GitFork_outline",
+    "url": "icons/suint/outline/Development/GitFork_outline.svg"
+  },
+  {
+    "name": "GitMerge_outline",
+    "url": "icons/suint/outline/Development/GitMerge_outline.svg"
+  },
+  {
+    "name": "GitPullRequest_outline",
+    "url": "icons/suint/outline/Development/GitPullRequest_outline.svg"
+  },
+  {
+    "name": "MagnetStraight_outline",
+    "url": "icons/suint/outline/Development/MagnetStraight_outline.svg"
+  },
+  {
+    "name": "Magnet_outline",
+    "url": "icons/suint/outline/Development/Magnet_outline.svg"
+  },
+  {
+    "name": "Robot_outline",
+    "url": "icons/suint/outline/Development/Robot_outline.svg"
+  },
+  {
+    "name": "TerminalWindow_outline",
+    "url": "icons/suint/outline/Development/TerminalWindow_outline.svg"
+  },
+  {
+    "name": "Terminal_outline",
+    "url": "icons/suint/outline/Development/Terminal_outline.svg"
+  },
+  {
+    "name": "TreeStructure_outline",
+    "url": "icons/suint/outline/Development/TreeStructure_outline.svg"
+  },
+  {
+    "name": "Battery-empty",
+    "url": "icons/suint/outline/Devices/Battery-empty.svg"
+  },
+  {
+    "name": "Battery-full",
+    "url": "icons/suint/outline/Devices/Battery-full.svg"
+  },
+  {
+    "name": "Battery-low",
+    "url": "icons/suint/outline/Devices/Battery-low.svg"
+  },
+  {
+    "name": "Battery-most",
+    "url": "icons/suint/outline/Devices/Battery-most.svg"
+  },
+  {
+    "name": "Battery-quarter",
+    "url": "icons/suint/outline/Devices/Battery-quarter.svg"
+  },
+  {
+    "name": "Battry-half",
+    "url": "icons/suint/outline/Devices/Battry-half.svg"
+  },
+  {
+    "name": "Binocular",
+    "url": "icons/suint/outline/Devices/Binocular.svg"
+  },
+  {
+    "name": "Camera",
+    "url": "icons/suint/outline/Devices/Camera.svg"
+  },
+  {
+    "name": "Desktop",
+    "url": "icons/suint/outline/Devices/Desktop.svg"
+  },
+  {
+    "name": "Dialpad",
+    "url": "icons/suint/outline/Devices/Dialpad.svg"
+  },
+  {
+    "name": "Gamepad",
+    "url": "icons/suint/outline/Devices/Gamepad.svg"
+  },
+  {
+    "name": "Mobile-phone",
+    "url": "icons/suint/outline/Devices/Mobile-phone.svg"
+  },
+  {
+    "name": "Mouse-alt",
+    "url": "icons/suint/outline/Devices/Mouse-alt.svg"
+  },
+  {
+    "name": "Mouse",
+    "url": "icons/suint/outline/Devices/Mouse.svg"
+  },
+  {
+    "name": "Printer",
+    "url": "icons/suint/outline/Devices/Printer.svg"
+  },
+  {
+    "name": "Processor",
+    "url": "icons/suint/outline/Devices/Processor.svg"
+  },
+  {
+    "name": "Server",
+    "url": "icons/suint/outline/Devices/Server.svg"
+  },
+  {
+    "name": "Video",
+    "url": "icons/suint/outline/Devices/Video.svg"
+  },
+  {
+    "name": "Watch",
+    "url": "icons/suint/outline/Devices/Watch.svg"
+  },
+  {
+    "name": "docente icon",
+    "url": "icons/suint/outline/Docents/docente icon.svg"
+  },
+  {
+    "name": "Frame",
+    "url": "icons/suint/outline/Docents/Frame.svg"
+  },
+  {
+    "name": "icon-bloque",
+    "url": "icons/suint/outline/Docents/icon-bloque.svg"
+  },
+  {
+    "name": "BookBookmark_outline",
+    "url": "icons/suint/outline/Education/BookBookmark_outline.svg"
+  },
+  {
+    "name": "BookmarkSimple_outline",
+    "url": "icons/suint/outline/Education/BookmarkSimple_outline.svg"
+  },
+  {
+    "name": "BookmarksSimple_outline",
+    "url": "icons/suint/outline/Education/BookmarksSimple_outline.svg"
+  },
+  {
+    "name": "Bookmarks_outline",
+    "url": "icons/suint/outline/Education/Bookmarks_outline.svg"
+  },
+  {
+    "name": "Bookmark_outline",
+    "url": "icons/suint/outline/Education/Bookmark_outline.svg"
+  },
+  {
+    "name": "BookOpen_outline",
+    "url": "icons/suint/outline/Education/BookOpen_outline.svg"
+  },
+  {
+    "name": "Books_outline",
+    "url": "icons/suint/outline/Education/Books_outline.svg"
+  },
+  {
+    "name": "Book_outline",
+    "url": "icons/suint/outline/Education/Book_outline.svg"
+  },
+  {
+    "name": "ChalkboardSimple_outline",
+    "url": "icons/suint/outline/Education/ChalkboardSimple_outline.svg"
+  },
+  {
+    "name": "ChalkboardTeacher_outline",
+    "url": "icons/suint/outline/Education/ChalkboardTeacher_outline.svg"
+  },
+  {
+    "name": "Chalkboard_outline",
+    "url": "icons/suint/outline/Education/Chalkboard_outline.svg"
+  },
+  {
+    "name": "GraduationCap_outline",
+    "url": "icons/suint/outline/Education/GraduationCap_outline.svg"
+  },
+  {
+    "name": "Student_outline",
+    "url": "icons/suint/outline/Education/Student_outline.svg"
+  },
+  {
+    "name": "Book-check",
+    "url": "icons/suint/outline/Files/Book-check.svg"
+  },
+  {
+    "name": "Book-mark",
+    "url": "icons/suint/outline/Files/Book-mark.svg"
+  },
+  {
+    "name": "Book",
+    "url": "icons/suint/outline/Files/Book.svg"
+  },
+  {
+    "name": "Clipboard-alt",
+    "url": "icons/suint/outline/Files/Clipboard-alt.svg"
+  },
+  {
+    "name": "Clipboard",
+    "url": "icons/suint/outline/Files/Clipboard.svg"
+  },
+  {
+    "name": "Cloud-check",
+    "url": "icons/suint/outline/Files/Cloud-check.svg"
+  },
+  {
+    "name": "Cloud-download",
+    "url": "icons/suint/outline/Files/Cloud-download.svg"
+  },
+  {
+    "name": "Cloud-off",
+    "url": "icons/suint/outline/Files/Cloud-off.svg"
+  },
+  {
+    "name": "Cloud-upload",
+    "url": "icons/suint/outline/Files/Cloud-upload.svg"
+  },
+  {
+    "name": "Cloud",
+    "url": "icons/suint/outline/Files/Cloud.svg"
+  },
+  {
+    "name": "Copy",
+    "url": "icons/suint/outline/Files/Copy.svg"
+  },
+  {
+    "name": "Document",
+    "url": "icons/suint/outline/Files/Document.svg"
+  },
+  {
+    "name": "Download",
+    "url": "icons/suint/outline/Files/Download.svg"
+  },
+  {
+    "name": "File-download",
+    "url": "icons/suint/outline/Files/File-download.svg"
+  },
+  {
+    "name": "File-upload",
+    "url": "icons/suint/outline/Files/File-upload.svg"
+  },
+  {
+    "name": "File-user",
+    "url": "icons/suint/outline/Files/File-user.svg"
+  },
+  {
+    "name": "File",
+    "url": "icons/suint/outline/Files/File.svg"
+  },
+  {
+    "name": "Folder-block",
+    "url": "icons/suint/outline/Files/Folder-block.svg"
+  },
+  {
+    "name": "Folder-delete",
+    "url": "icons/suint/outline/Files/Folder-delete.svg"
+  },
+  {
+    "name": "Folder-lock",
+    "url": "icons/suint/outline/Files/Folder-lock.svg"
+  },
+  {
+    "name": "Folder-open",
+    "url": "icons/suint/outline/Files/Folder-open.svg"
+  },
+  {
+    "name": "Folder-plus",
+    "url": "icons/suint/outline/Files/Folder-plus.svg"
+  },
+  {
+    "name": "Folder-user",
+    "url": "icons/suint/outline/Files/Folder-user.svg"
+  },
+  {
+    "name": "Folder",
+    "url": "icons/suint/outline/Files/Folder.svg"
+  },
+  {
+    "name": "Image",
+    "url": "icons/suint/outline/Files/Image.svg"
+  },
+  {
+    "name": "Invoice",
+    "url": "icons/suint/outline/Files/Invoice.svg"
+  },
+  {
+    "name": "Picture",
+    "url": "icons/suint/outline/Files/Picture.svg"
+  },
+  {
+    "name": "Upload",
+    "url": "icons/suint/outline/Files/Upload.svg"
+  },
+  {
+    "name": "Baseball_outline",
+    "url": "icons/suint/outline/Games/Baseball_outline.svg"
+  },
+  {
+    "name": "Basketball_outline",
+    "url": "icons/suint/outline/Games/Basketball_outline.svg"
+  },
+  {
+    "name": "Club_outline",
+    "url": "icons/suint/outline/Games/Club_outline.svg"
+  },
+  {
+    "name": "CrownSimple_outline",
+    "url": "icons/suint/outline/Games/CrownSimple_outline.svg"
+  },
+  {
+    "name": "Crown_outline",
+    "url": "icons/suint/outline/Games/Crown_outline.svg"
+  },
+  {
+    "name": "Diamond_outline",
+    "url": "icons/suint/outline/Games/Diamond_outline.svg"
+  },
+  {
+    "name": "DiceFive_outline",
+    "url": "icons/suint/outline/Games/DiceFive_outline.svg"
+  },
+  {
+    "name": "DiceFour_outline",
+    "url": "icons/suint/outline/Games/DiceFour_outline.svg"
+  },
+  {
+    "name": "DiceOne_outline",
+    "url": "icons/suint/outline/Games/DiceOne_outline.svg"
+  },
+  {
+    "name": "DiceSix_outline",
+    "url": "icons/suint/outline/Games/DiceSix_outline.svg"
+  },
+  {
+    "name": "DiceThree_outline",
+    "url": "icons/suint/outline/Games/DiceThree_outline.svg"
+  },
+  {
+    "name": "DiceTwo_outline",
+    "url": "icons/suint/outline/Games/DiceTwo_outline.svg"
+  },
+  {
+    "name": "FinnTheHuman_outline",
+    "url": "icons/suint/outline/Games/FinnTheHuman_outline.svg"
+  },
+  {
+    "name": "Football_outline",
+    "url": "icons/suint/outline/Games/Football_outline.svg"
+  },
+  {
+    "name": "GameController_outline",
+    "url": "icons/suint/outline/Games/GameController_outline.svg"
+  },
+  {
+    "name": "Ghost_outline",
+    "url": "icons/suint/outline/Games/Ghost_outline.svg"
+  },
+  {
+    "name": "HeartStraight_outline",
+    "url": "icons/suint/outline/Games/HeartStraight_outline.svg"
+  },
+  {
+    "name": "Heart_outline",
+    "url": "icons/suint/outline/Games/Heart_outline.svg"
+  },
+  {
+    "name": "Horse_outline",
+    "url": "icons/suint/outline/Games/Horse_outline.svg"
+  },
+  {
+    "name": "Medal_outline",
+    "url": "icons/suint/outline/Games/Medal_outline.svg"
+  },
+  {
+    "name": "PokerChip_outline",
+    "url": "icons/suint/outline/Games/PokerChip_outline.svg"
+  },
+  {
+    "name": "PuzzlePiece_outline",
+    "url": "icons/suint/outline/Games/PuzzlePiece_outline.svg"
+  },
+  {
+    "name": "SoccerBall_outline",
+    "url": "icons/suint/outline/Games/SoccerBall_outline.svg"
+  },
+  {
+    "name": "Spade_outline",
+    "url": "icons/suint/outline/Games/Spade_outline.svg"
+  },
+  {
+    "name": "StarHalf_outline",
+    "url": "icons/suint/outline/Games/StarHalf_outline.svg"
+  },
+  {
+    "name": "Sword_outline",
+    "url": "icons/suint/outline/Games/Sword_outline.svg"
+  },
+  {
+    "name": "TennisBall_outline",
+    "url": "icons/suint/outline/Games/TennisBall_outline.svg"
+  },
+  {
+    "name": "Trophy_outline",
+    "url": "icons/suint/outline/Games/Trophy_outline.svg"
+  },
+  {
+    "name": "Volleyball_outline",
+    "url": "icons/suint/outline/Games/Volleyball_outline.svg"
+  },
+  {
+    "name": "Alarm",
+    "url": "icons/suint/outline/General/Alarm.svg"
+  },
+  {
+    "name": "Bag",
+    "url": "icons/suint/outline/General/Bag.svg"
+  },
+  {
+    "name": "Bank",
+    "url": "icons/suint/outline/General/Bank.svg"
+  },
+  {
+    "name": "Box",
+    "url": "icons/suint/outline/General/Box.svg"
+  },
+  {
+    "name": "Calendar",
+    "url": "icons/suint/outline/General/Calendar.svg"
+  },
+  {
+    "name": "Card",
+    "url": "icons/suint/outline/General/Card.svg"
+  },
+  {
+    "name": "Chart-pie-alt",
+    "url": "icons/suint/outline/General/Chart-pie-alt.svg"
+  },
+  {
+    "name": "Chart-pie",
+    "url": "icons/suint/outline/General/Chart-pie.svg"
+  },
+  {
+    "name": "Clock",
+    "url": "icons/suint/outline/General/Clock.svg"
+  },
+  {
+    "name": "Filter",
+    "url": "icons/suint/outline/General/Filter.svg"
+  },
+  {
+    "name": "Flask-alt",
+    "url": "icons/suint/outline/General/Flask-alt.svg"
+  },
+  {
+    "name": "Flask",
+    "url": "icons/suint/outline/General/Flask.svg"
+  },
+  {
+    "name": "Home",
+    "url": "icons/suint/outline/General/Home.svg"
+  },
+  {
+    "name": "Medkit",
+    "url": "icons/suint/outline/General/Medkit.svg"
+  },
+  {
+    "name": "Moon",
+    "url": "icons/suint/outline/General/Moon.svg"
+  },
+  {
+    "name": "Palette",
+    "url": "icons/suint/outline/General/Palette.svg"
+  },
+  {
+    "name": "Pulse",
+    "url": "icons/suint/outline/General/Pulse.svg"
+  },
+  {
+    "name": "Shopping-bag",
+    "url": "icons/suint/outline/General/Shopping-bag.svg"
+  },
+  {
+    "name": "Shopping-basket",
+    "url": "icons/suint/outline/General/Shopping-basket.svg"
+  },
+  {
+    "name": "Shopping-cart",
+    "url": "icons/suint/outline/General/Shopping-cart.svg"
+  },
+  {
+    "name": "Sun",
+    "url": "icons/suint/outline/General/Sun.svg"
+  },
+  {
+    "name": "Timer",
+    "url": "icons/suint/outline/General/Timer.svg"
+  },
+  {
+    "name": "Umbrella",
+    "url": "icons/suint/outline/General/Umbrella.svg"
+  },
+  {
+    "name": "Wallet",
+    "url": "icons/suint/outline/General/Wallet.svg"
+  },
+  {
+    "name": "Activity_outline",
+    "url": "icons/suint/outline/HealthWellness/Activity_outline.svg"
+  },
+  {
+    "name": "Bandaids_outline",
+    "url": "icons/suint/outline/HealthWellness/Bandaids_outline.svg"
+  },
+  {
+    "name": "Barbell_outline",
+    "url": "icons/suint/outline/HealthWellness/Barbell_outline.svg"
+  },
+  {
+    "name": "Bed_outline",
+    "url": "icons/suint/outline/HealthWellness/Bed_outline.svg"
+  },
+  {
+    "name": "Brain_outline",
+    "url": "icons/suint/outline/HealthWellness/Brain_outline.svg"
+  },
+  {
+    "name": "FaceMask_outline",
+    "url": "icons/suint/outline/HealthWellness/FaceMask_outline.svg"
+  },
+  {
+    "name": "FirstAidKit_outline",
+    "url": "icons/suint/outline/HealthWellness/FirstAidKit_outline.svg"
+  },
+  {
+    "name": "FirstAid_outline",
+    "url": "icons/suint/outline/HealthWellness/FirstAid_outline.svg"
+  },
+  {
+    "name": "Flask_outline",
+    "url": "icons/suint/outline/HealthWellness/Flask_outline.svg"
+  },
+  {
+    "name": "HandSoap_outline",
+    "url": "icons/suint/outline/HealthWellness/HandSoap_outline.svg"
+  },
+  {
+    "name": "Heartbeat_outline",
+    "url": "icons/suint/outline/HealthWellness/Heartbeat_outline.svg"
+  },
+  {
+    "name": "Lifebuoy_outline",
+    "url": "icons/suint/outline/HealthWellness/Lifebuoy_outline.svg"
+  },
+  {
+    "name": "Pill_outline",
+    "url": "icons/suint/outline/HealthWellness/Pill_outline.svg"
+  },
+  {
+    "name": "Prescription_outline",
+    "url": "icons/suint/outline/HealthWellness/Prescription_outline.svg"
+  },
+  {
+    "name": "TestTube_outline",
+    "url": "icons/suint/outline/HealthWellness/TestTube_outline.svg"
+  },
+  {
+    "name": "ToiletPaper_outline",
+    "url": "icons/suint/outline/HealthWellness/ToiletPaper_outline.svg"
+  },
+  {
+    "name": "Add",
+    "url": "icons/suint/outline/Interface/Add.svg"
+  },
+  {
+    "name": "Apps",
+    "url": "icons/suint/outline/Interface/Apps.svg"
+  },
+  {
+    "name": "Arrow down",
+    "url": "icons/suint/outline/Interface/Arrow down.svg"
+  },
+  {
+    "name": "Arrow left",
+    "url": "icons/suint/outline/Interface/Arrow left.svg"
+  },
+  {
+    "name": "Arrow right",
+    "url": "icons/suint/outline/Interface/Arrow right.svg"
+  },
+  {
+    "name": "Arrow up",
+    "url": "icons/suint/outline/Interface/Arrow up.svg"
+  },
+  {
+    "name": "At-sign",
+    "url": "icons/suint/outline/Interface/At-sign.svg"
+  },
+  {
+    "name": "Attach",
+    "url": "icons/suint/outline/Interface/Attach.svg"
+  },
+  {
+    "name": "Backspace",
+    "url": "icons/suint/outline/Interface/Backspace.svg"
+  },
+  {
+    "name": "Bluetooth",
+    "url": "icons/suint/outline/Interface/Bluetooth.svg"
+  },
+  {
+    "name": "Cancel",
+    "url": "icons/suint/outline/Interface/Cancel.svg"
+  },
+  {
+    "name": "Caret down",
+    "url": "icons/suint/outline/Interface/Caret down.svg"
+  },
+  {
+    "name": "Caret left",
+    "url": "icons/suint/outline/Interface/Caret left.svg"
+  },
+  {
+    "name": "Caret right",
+    "url": "icons/suint/outline/Interface/Caret right.svg"
+  },
+  {
+    "name": "Caret up",
+    "url": "icons/suint/outline/Interface/Caret up.svg"
+  },
+  {
+    "name": "Check",
+    "url": "icons/suint/outline/Interface/Check.svg"
+  },
+  {
+    "name": "Collapse",
+    "url": "icons/suint/outline/Interface/Collapse.svg"
+  },
+  {
+    "name": "Columns",
+    "url": "icons/suint/outline/Interface/Columns.svg"
+  },
+  {
+    "name": "Cross",
+    "url": "icons/suint/outline/Interface/Cross.svg"
+  },
+  {
+    "name": "Cursor",
+    "url": "icons/suint/outline/Interface/Cursor.svg"
+  },
+  {
+    "name": "Edit-alt",
+    "url": "icons/suint/outline/Interface/Edit-alt.svg"
+  },
+  {
+    "name": "Edit",
+    "url": "icons/suint/outline/Interface/Edit.svg"
+  },
+  {
+    "name": "Exchange",
+    "url": "icons/suint/outline/Interface/Exchange.svg"
+  },
+  {
+    "name": "Expand",
+    "url": "icons/suint/outline/Interface/Expand.svg"
+  },
+  {
+    "name": "History",
+    "url": "icons/suint/outline/Interface/History.svg"
+  },
+  {
+    "name": "Hotspot",
+    "url": "icons/suint/outline/Interface/Hotspot.svg"
+  },
+  {
+    "name": "Layout",
+    "url": "icons/suint/outline/Interface/Layout.svg"
+  },
+  {
+    "name": "Login",
+    "url": "icons/suint/outline/Interface/Login.svg"
+  },
+  {
+    "name": "Logout",
+    "url": "icons/suint/outline/Interface/Logout.svg"
+  },
+  {
+    "name": "Menu",
+    "url": "icons/suint/outline/Interface/Menu.svg"
+  },
+  {
+    "name": "Move",
+    "url": "icons/suint/outline/Interface/Move.svg"
+  },
+  {
+    "name": "Other 1",
+    "url": "icons/suint/outline/Interface/Other 1.svg"
+  },
+  {
+    "name": "Other 2",
+    "url": "icons/suint/outline/Interface/Other 2.svg"
+  },
+  {
+    "name": "Plus",
+    "url": "icons/suint/outline/Interface/Plus.svg"
+  },
+  {
+    "name": "Refresh",
+    "url": "icons/suint/outline/Interface/Refresh.svg"
+  },
+  {
+    "name": "Rows",
+    "url": "icons/suint/outline/Interface/Rows.svg"
+  },
+  {
+    "name": "Save",
+    "url": "icons/suint/outline/Interface/Save.svg"
+  },
+  {
+    "name": "Search",
+    "url": "icons/suint/outline/Interface/Search.svg"
+  },
+  {
+    "name": "Settings-adjust",
+    "url": "icons/suint/outline/Interface/Settings-adjust.svg"
+  },
+  {
+    "name": "Settings-alt",
+    "url": "icons/suint/outline/Interface/Settings-alt.svg"
+  },
+  {
+    "name": "Settings",
+    "url": "icons/suint/outline/Interface/Settings.svg"
+  },
+  {
+    "name": "Sort",
+    "url": "icons/suint/outline/Interface/Sort.svg"
+  },
+  {
+    "name": "Stack",
+    "url": "icons/suint/outline/Interface/Stack.svg"
+  },
+  {
+    "name": "Trash-alt",
+    "url": "icons/suint/outline/Interface/Trash-alt.svg"
+  },
+  {
+    "name": "Trash",
+    "url": "icons/suint/outline/Interface/Trash.svg"
+  },
+  {
+    "name": "Zoom-in",
+    "url": "icons/suint/outline/Interface/Zoom-in.svg"
+  },
+  {
+    "name": "Zoom-out",
+    "url": "icons/suint/outline/Interface/Zoom-out.svg"
+  },
+  {
+    "name": "AirplaneInFlight_outline",
+    "url": "icons/suint/outline/MapsTravel/AirplaneInFlight_outline.svg"
+  },
+  {
+    "name": "AirplaneLanding_outline",
+    "url": "icons/suint/outline/MapsTravel/AirplaneLanding_outline.svg"
+  },
+  {
+    "name": "AirplaneTakeoff_outline",
+    "url": "icons/suint/outline/MapsTravel/AirplaneTakeoff_outline.svg"
+  },
+  {
+    "name": "AirplaneTilt_outline",
+    "url": "icons/suint/outline/MapsTravel/AirplaneTilt_outline.svg"
+  },
+  {
+    "name": "Airplane_outline",
+    "url": "icons/suint/outline/MapsTravel/Airplane_outline.svg"
+  },
+  {
+    "name": "AnchorSimple_outline",
+    "url": "icons/suint/outline/MapsTravel/AnchorSimple_outline.svg"
+  },
+  {
+    "name": "Anchor_outline",
+    "url": "icons/suint/outline/MapsTravel/Anchor_outline.svg"
+  },
+  {
+    "name": "Bicycle_outline",
+    "url": "icons/suint/outline/MapsTravel/Bicycle_outline.svg"
+  },
+  {
+    "name": "Boat_outline",
+    "url": "icons/suint/outline/MapsTravel/Boat_outline.svg"
+  },
+  {
+    "name": "Bus_outline",
+    "url": "icons/suint/outline/MapsTravel/Bus_outline.svg"
+  },
+  {
+    "name": "CarSimple_outline",
+    "url": "icons/suint/outline/MapsTravel/CarSimple_outline.svg"
+  },
+  {
+    "name": "Car_outline",
+    "url": "icons/suint/outline/MapsTravel/Car_outline.svg"
+  },
+  {
+    "name": "Compass_outline",
+    "url": "icons/suint/outline/MapsTravel/Compass_outline.svg"
+  },
+  {
+    "name": "CrosshairSimple_outline",
+    "url": "icons/suint/outline/MapsTravel/CrosshairSimple_outline.svg"
+  },
+  {
+    "name": "Crosshair_outline",
+    "url": "icons/suint/outline/MapsTravel/Crosshair_outline.svg"
+  },
+  {
+    "name": "Door_outline",
+    "url": "icons/suint/outline/MapsTravel/Door_outline.svg"
+  },
+  {
+    "name": "FlagBanner_outline",
+    "url": "icons/suint/outline/MapsTravel/FlagBanner_outline.svg"
+  },
+  {
+    "name": "Flag_outline",
+    "url": "icons/suint/outline/MapsTravel/Flag_outline.svg"
+  },
+  {
+    "name": "GasPump_outline",
+    "url": "icons/suint/outline/MapsTravel/GasPump_outline.svg"
+  },
+  {
+    "name": "GlobeHemisphereEast_outline",
+    "url": "icons/suint/outline/MapsTravel/GlobeHemisphereEast_outline.svg"
+  },
+  {
+    "name": "GlobeHemisphereWest_outline",
+    "url": "icons/suint/outline/MapsTravel/GlobeHemisphereWest_outline.svg"
+  },
+  {
+    "name": "GlobeSimple_outline",
+    "url": "icons/suint/outline/MapsTravel/GlobeSimple_outline.svg"
+  },
+  {
+    "name": "GlobeStand_outline",
+    "url": "icons/suint/outline/MapsTravel/GlobeStand_outline.svg"
+  },
+  {
+    "name": "Globe_outline",
+    "url": "icons/suint/outline/MapsTravel/Globe_outline.svg"
+  },
+  {
+    "name": "Headlights_outline",
+    "url": "icons/suint/outline/MapsTravel/Headlights_outline.svg"
+  },
+  {
+    "name": "HouseLine_outline",
+    "url": "icons/suint/outline/MapsTravel/HouseLine_outline.svg"
+  },
+  {
+    "name": "HouseSimple_outline",
+    "url": "icons/suint/outline/MapsTravel/HouseSimple_outline.svg"
+  },
+  {
+    "name": "Jeep_outline",
+    "url": "icons/suint/outline/MapsTravel/Jeep_outline.svg"
+  },
+  {
+    "name": "MapPinLine_outline",
+    "url": "icons/suint/outline/MapsTravel/MapPinLine_outline.svg"
+  },
+  {
+    "name": "MapPin_outline",
+    "url": "icons/suint/outline/MapsTravel/MapPin_outline.svg"
+  },
+  {
+    "name": "MapTrifold_outline",
+    "url": "icons/suint/outline/MapsTravel/MapTrifold_outline.svg"
+  },
+  {
+    "name": "NavigationArrow_outline",
+    "url": "icons/suint/outline/MapsTravel/NavigationArrow_outline.svg"
+  },
+  {
+    "name": "Path_outline",
+    "url": "icons/suint/outline/MapsTravel/Path_outline.svg"
+  },
+  {
+    "name": "RocketLaunch_outline",
+    "url": "icons/suint/outline/MapsTravel/RocketLaunch_outline.svg"
+  },
+  {
+    "name": "Rocket_outline",
+    "url": "icons/suint/outline/MapsTravel/Rocket_outline.svg"
+  },
+  {
+    "name": "SuitcaseSimple_outline",
+    "url": "icons/suint/outline/MapsTravel/SuitcaseSimple_outline.svg"
+  },
+  {
+    "name": "Suitcase_outline",
+    "url": "icons/suint/outline/MapsTravel/Suitcase_outline.svg"
+  },
+  {
+    "name": "TrafficSign_outline",
+    "url": "icons/suint/outline/MapsTravel/TrafficSign_outline.svg"
+  },
+  {
+    "name": "TrainRegional_outline",
+    "url": "icons/suint/outline/MapsTravel/TrainRegional_outline.svg"
+  },
+  {
+    "name": "TrainSimple_outline",
+    "url": "icons/suint/outline/MapsTravel/TrainSimple_outline.svg"
+  },
+  {
+    "name": "Train_outline",
+    "url": "icons/suint/outline/MapsTravel/Train_outline.svg"
+  },
+  {
+    "name": "Truck_outline",
+    "url": "icons/suint/outline/MapsTravel/Truck_outline.svg"
+  },
+  {
+    "name": "Bank_outline",
+    "url": "icons/suint/outline/MathFinance/Bank_outline.svg"
+  },
+  {
+    "name": "Calculator_outline",
+    "url": "icons/suint/outline/MathFinance/Calculator_outline.svg"
+  },
+  {
+    "name": "ChartBarHorizontal_outline",
+    "url": "icons/suint/outline/MathFinance/ChartBarHorizontal_outline.svg"
+  },
+  {
+    "name": "ChartLineUp_outline",
+    "url": "icons/suint/outline/MathFinance/ChartLineUp_outline.svg"
+  },
+  {
+    "name": "ChartLine_outline",
+    "url": "icons/suint/outline/MathFinance/ChartLine_outline.svg"
+  },
+  {
+    "name": "ChartPieSlice_outline",
+    "url": "icons/suint/outline/MathFinance/ChartPieSlice_outline.svg"
+  },
+  {
+    "name": "ChartPie_outline",
+    "url": "icons/suint/outline/MathFinance/ChartPie_outline.svg"
+  },
+  {
+    "name": "Divide_outline",
+    "url": "icons/suint/outline/MathFinance/Divide_outline.svg"
+  },
+  {
+    "name": "Equals_outline",
+    "url": "icons/suint/outline/MathFinance/Equals_outline.svg"
+  },
+  {
+    "name": "Infinity_outline",
+    "url": "icons/suint/outline/MathFinance/Infinity_outline.svg"
+  },
+  {
+    "name": "MathOperations_outline",
+    "url": "icons/suint/outline/MathFinance/MathOperations_outline.svg"
+  },
+  {
+    "name": "Minus_outline",
+    "url": "icons/suint/outline/MathFinance/Minus_outline.svg"
+  },
+  {
+    "name": "NumberCircleEight_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleEight_outline.svg"
+  },
+  {
+    "name": "NumberCircleFive_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleFive_outline.svg"
+  },
+  {
+    "name": "NumberCircleFour_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleFour_outline.svg"
+  },
+  {
+    "name": "NumberCircleNine_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleNine_outline.svg"
+  },
+  {
+    "name": "NumberCircleOne_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleOne_outline.svg"
+  },
+  {
+    "name": "NumberCircleSeven_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleSeven_outline.svg"
+  },
+  {
+    "name": "NumberCircleSix_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleSix_outline.svg"
+  },
+  {
+    "name": "NumberCircleThree_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleThree_outline.svg"
+  },
+  {
+    "name": "NumberCircleTwo_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleTwo_outline.svg"
+  },
+  {
+    "name": "NumberCircleZero_outline",
+    "url": "icons/suint/outline/MathFinance/NumberCircleZero_outline.svg"
+  },
+  {
+    "name": "NumberEight_outline",
+    "url": "icons/suint/outline/MathFinance/NumberEight_outline.svg"
+  },
+  {
+    "name": "NumberFive_outline",
+    "url": "icons/suint/outline/MathFinance/NumberFive_outline.svg"
+  },
+  {
+    "name": "NumberFour_outline",
+    "url": "icons/suint/outline/MathFinance/NumberFour_outline.svg"
+  },
+  {
+    "name": "NumberNine_outline",
+    "url": "icons/suint/outline/MathFinance/NumberNine_outline.svg"
+  },
+  {
+    "name": "NumberOne_outline",
+    "url": "icons/suint/outline/MathFinance/NumberOne_outline.svg"
+  },
+  {
+    "name": "NumberSeven_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSeven_outline.svg"
+  },
+  {
+    "name": "NumberSix_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSix_outline.svg"
+  },
+  {
+    "name": "NumberSquareEight_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareEight_outline.svg"
+  },
+  {
+    "name": "NumberSquareFive_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareFive_outline.svg"
+  },
+  {
+    "name": "NumberSquareFour_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareFour_outline.svg"
+  },
+  {
+    "name": "NumberSquareNine_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareNine_outline.svg"
+  },
+  {
+    "name": "NumberSquareOne_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareOne_outline.svg"
+  },
+  {
+    "name": "NumberSquareSeven_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareSeven_outline.svg"
+  },
+  {
+    "name": "NumberSquareSix_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareSix_outline.svg"
+  },
+  {
+    "name": "NumberSquareThree_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareThree_outline.svg"
+  },
+  {
+    "name": "NumberSquareTwo_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareTwo_outline.svg"
+  },
+  {
+    "name": "NumberSquareZero_outline",
+    "url": "icons/suint/outline/MathFinance/NumberSquareZero_outline.svg"
+  },
+  {
+    "name": "NumberThree_outline",
+    "url": "icons/suint/outline/MathFinance/NumberThree_outline.svg"
+  },
+  {
+    "name": "NumberTwo_outline",
+    "url": "icons/suint/outline/MathFinance/NumberTwo_outline.svg"
+  },
+  {
+    "name": "NumberZero_outline",
+    "url": "icons/suint/outline/MathFinance/NumberZero_outline.svg"
+  },
+  {
+    "name": "Percent_outline",
+    "url": "icons/suint/outline/MathFinance/Percent_outline.svg"
+  },
+  {
+    "name": "PlusMinus_outline",
+    "url": "icons/suint/outline/MathFinance/PlusMinus_outline.svg"
+  },
+  {
+    "name": "Plus_outline",
+    "url": "icons/suint/outline/MathFinance/Plus_outline.svg"
+  },
+  {
+    "name": "Radical_outline",
+    "url": "icons/suint/outline/MathFinance/Radical_outline.svg"
+  },
+  {
+    "name": "Table_outline",
+    "url": "icons/suint/outline/MathFinance/Table_outline.svg"
+  },
+  {
+    "name": "TrendDown_outline",
+    "url": "icons/suint/outline/MathFinance/TrendDown_outline.svg"
+  },
+  {
+    "name": "TrendUp_outline",
+    "url": "icons/suint/outline/MathFinance/TrendUp_outline.svg"
+  },
+  {
+    "name": "X_outline",
+    "url": "icons/suint/outline/MathFinance/X_outline.svg"
+  },
+  {
+    "name": "Airplay_outline",
+    "url": "icons/suint/outline/Media/Airplay_outline.svg"
+  },
+  {
+    "name": "Aperture_outline",
+    "url": "icons/suint/outline/Media/Aperture_outline.svg"
+  },
+  {
+    "name": "ArticleMedium_outline",
+    "url": "icons/suint/outline/Media/ArticleMedium_outline.svg"
+  },
+  {
+    "name": "ArticleNyTimes_outline",
+    "url": "icons/suint/outline/Media/ArticleNyTimes_outline.svg"
+  },
+  {
+    "name": "Article_outline",
+    "url": "icons/suint/outline/Media/Article_outline.svg"
+  },
+  {
+    "name": "CameraSlash_outline",
+    "url": "icons/suint/outline/Media/CameraSlash_outline.svg"
+  },
+  {
+    "name": "Camera_outline",
+    "url": "icons/suint/outline/Media/Camera_outline.svg"
+  },
+  {
+    "name": "ClosedCaptioning_outline",
+    "url": "icons/suint/outline/Media/ClosedCaptioning_outline.svg"
+  },
+  {
+    "name": "Copyright_outline",
+    "url": "icons/suint/outline/Media/Copyright_outline.svg"
+  },
+  {
+    "name": "CornersIn_outline",
+    "url": "icons/suint/outline/Media/CornersIn_outline.svg"
+  },
+  {
+    "name": "CornersOut_outline",
+    "url": "icons/suint/outline/Media/CornersOut_outline.svg"
+  },
+  {
+    "name": "Disc_outline",
+    "url": "icons/suint/outline/Media/Disc_outline.svg"
+  },
+  {
+    "name": "EarSlash_outline",
+    "url": "icons/suint/outline/Media/EarSlash_outline.svg"
+  },
+  {
+    "name": "Ear_outline",
+    "url": "icons/suint/outline/Media/Ear_outline.svg"
+  },
+  {
+    "name": "EjectSimple_outline",
+    "url": "icons/suint/outline/Media/EjectSimple_outline.svg"
+  },
+  {
+    "name": "Eject_outline",
+    "url": "icons/suint/outline/Media/Eject_outline.svg"
+  },
+  {
+    "name": "FadersHorizontal_outline",
+    "url": "icons/suint/outline/Media/FadersHorizontal_outline.svg"
+  },
+  {
+    "name": "Faders_outline",
+    "url": "icons/suint/outline/Media/Faders_outline.svg"
+  },
+  {
+    "name": "Fast-forward",
+    "url": "icons/suint/outline/Media/Fast-forward.svg"
+  },
+  {
+    "name": "Fast-rewind",
+    "url": "icons/suint/outline/Media/Fast-rewind.svg"
+  },
+  {
+    "name": "FastForwardCircle_outline",
+    "url": "icons/suint/outline/Media/FastForwardCircle_outline.svg"
+  },
+  {
+    "name": "FastForward_outline",
+    "url": "icons/suint/outline/Media/FastForward_outline.svg"
+  },
+  {
+    "name": "FilmStrip_outline",
+    "url": "icons/suint/outline/Media/FilmStrip_outline.svg"
+  },
+  {
+    "name": "Gif_outline",
+    "url": "icons/suint/outline/Media/Gif_outline.svg"
+  },
+  {
+    "name": "Headphone",
+    "url": "icons/suint/outline/Media/Headphone.svg"
+  },
+  {
+    "name": "Headphones_outline",
+    "url": "icons/suint/outline/Media/Headphones_outline.svg"
+  },
+  {
+    "name": "Headset",
+    "url": "icons/suint/outline/Media/Headset.svg"
+  },
+  {
+    "name": "Headset_outline",
+    "url": "icons/suint/outline/Media/Headset_outline.svg"
+  },
+  {
+    "name": "ImageSquare_outline",
+    "url": "icons/suint/outline/Media/ImageSquare_outline.svg"
+  },
+  {
+    "name": "Image_outline",
+    "url": "icons/suint/outline/Media/Image_outline.svg"
+  },
+  {
+    "name": "Microphone-off",
+    "url": "icons/suint/outline/Media/Microphone-off.svg"
+  },
+  {
+    "name": "Microphone",
+    "url": "icons/suint/outline/Media/Microphone.svg"
+  },
+  {
+    "name": "MicrophoneSlash_outline",
+    "url": "icons/suint/outline/Media/MicrophoneSlash_outline.svg"
+  },
+  {
+    "name": "Microphone_outline",
+    "url": "icons/suint/outline/Media/Microphone_outline.svg"
+  },
+  {
+    "name": "Music",
+    "url": "icons/suint/outline/Media/Music.svg"
+  },
+  {
+    "name": "MusicNoteSimple_outline",
+    "url": "icons/suint/outline/Media/MusicNoteSimple_outline.svg"
+  },
+  {
+    "name": "MusicNotesSimple_outline",
+    "url": "icons/suint/outline/Media/MusicNotesSimple_outline.svg"
+  },
+  {
+    "name": "MusicNotes_outline",
+    "url": "icons/suint/outline/Media/MusicNotes_outline.svg"
+  },
+  {
+    "name": "MusicNote_outline",
+    "url": "icons/suint/outline/Media/MusicNote_outline.svg"
+  },
+  {
+    "name": "NewspaperClipping_outline",
+    "url": "icons/suint/outline/Media/NewspaperClipping_outline.svg"
+  },
+  {
+    "name": "Newspaper_outline",
+    "url": "icons/suint/outline/Media/Newspaper_outline.svg"
+  },
+  {
+    "name": "Pause",
+    "url": "icons/suint/outline/Media/Pause.svg"
+  },
+  {
+    "name": "PauseCircle_outline",
+    "url": "icons/suint/outline/Media/PauseCircle_outline.svg"
+  },
+  {
+    "name": "Pause_outline",
+    "url": "icons/suint/outline/Media/Pause_outline.svg"
+  },
+  {
+    "name": "PictureInPicture_outline",
+    "url": "icons/suint/outline/Media/PictureInPicture_outline.svg"
+  },
+  {
+    "name": "Play",
+    "url": "icons/suint/outline/Media/Play.svg"
+  },
+  {
+    "name": "PlayCircle_outline",
+    "url": "icons/suint/outline/Media/PlayCircle_outline.svg"
+  },
+  {
+    "name": "Playlist_outline",
+    "url": "icons/suint/outline/Media/Playlist_outline.svg"
+  },
+  {
+    "name": "Play_outline",
+    "url": "icons/suint/outline/Media/Play_outline.svg"
+  },
+  {
+    "name": "Queue_outline",
+    "url": "icons/suint/outline/Media/Queue_outline.svg"
+  },
+  {
+    "name": "Record_outline",
+    "url": "icons/suint/outline/Media/Record_outline.svg"
+  },
+  {
+    "name": "RepeatOnce_outline",
+    "url": "icons/suint/outline/Media/RepeatOnce_outline.svg"
+  },
+  {
+    "name": "Repeat_outline",
+    "url": "icons/suint/outline/Media/Repeat_outline.svg"
+  },
+  {
+    "name": "RewindCircle_outline",
+    "url": "icons/suint/outline/Media/RewindCircle_outline.svg"
+  },
+  {
+    "name": "Rewind_outline",
+    "url": "icons/suint/outline/Media/Rewind_outline.svg"
+  },
+  {
+    "name": "Screencast_outline",
+    "url": "icons/suint/outline/Media/Screencast_outline.svg"
+  },
+  {
+    "name": "Shuffle",
+    "url": "icons/suint/outline/Media/Shuffle.svg"
+  },
+  {
+    "name": "ShuffleAngular_outline",
+    "url": "icons/suint/outline/Media/ShuffleAngular_outline.svg"
+  },
+  {
+    "name": "ShuffleSimple_outline",
+    "url": "icons/suint/outline/Media/ShuffleSimple_outline.svg"
+  },
+  {
+    "name": "Shuffle_outline",
+    "url": "icons/suint/outline/Media/Shuffle_outline.svg"
+  },
+  {
+    "name": "Skip-next",
+    "url": "icons/suint/outline/Media/Skip-next.svg"
+  },
+  {
+    "name": "Skip-prev",
+    "url": "icons/suint/outline/Media/Skip-prev.svg"
+  },
+  {
+    "name": "SkipBackCircle_outline",
+    "url": "icons/suint/outline/Media/SkipBackCircle_outline.svg"
+  },
+  {
+    "name": "SkipBack_outline",
+    "url": "icons/suint/outline/Media/SkipBack_outline.svg"
+  },
+  {
+    "name": "SkipForwardCircle_outline",
+    "url": "icons/suint/outline/Media/SkipForwardCircle_outline.svg"
+  },
+  {
+    "name": "SkipForward_outline",
+    "url": "icons/suint/outline/Media/SkipForward_outline.svg"
+  },
+  {
+    "name": "SlidersHorizontal_outline",
+    "url": "icons/suint/outline/Media/SlidersHorizontal_outline.svg"
+  },
+  {
+    "name": "Sliders_outline",
+    "url": "icons/suint/outline/Media/Sliders_outline.svg"
+  },
+  {
+    "name": "SpeakerHigh_outline",
+    "url": "icons/suint/outline/Media/SpeakerHigh_outline.svg"
+  },
+  {
+    "name": "SpeakerLow_outline",
+    "url": "icons/suint/outline/Media/SpeakerLow_outline.svg"
+  },
+  {
+    "name": "SpeakerNone_outline",
+    "url": "icons/suint/outline/Media/SpeakerNone_outline.svg"
+  },
+  {
+    "name": "SpeakerSimpleHigh_outline",
+    "url": "icons/suint/outline/Media/SpeakerSimpleHigh_outline.svg"
+  },
+  {
+    "name": "SpeakerSimpleLow_outline",
+    "url": "icons/suint/outline/Media/SpeakerSimpleLow_outline.svg"
+  },
+  {
+    "name": "SpeakerSimpleNone_outline",
+    "url": "icons/suint/outline/Media/SpeakerSimpleNone_outline.svg"
+  },
+  {
+    "name": "SpeakerSimpleSlash_outline",
+    "url": "icons/suint/outline/Media/SpeakerSimpleSlash_outline.svg"
+  },
+  {
+    "name": "SpeakerSimpleX_outline",
+    "url": "icons/suint/outline/Media/SpeakerSimpleX_outline.svg"
+  },
+  {
+    "name": "SpeakerSlash_outline",
+    "url": "icons/suint/outline/Media/SpeakerSlash_outline.svg"
+  },
+  {
+    "name": "SpeakerX_outline",
+    "url": "icons/suint/outline/Media/SpeakerX_outline.svg"
+  },
+  {
+    "name": "StopCircle_outline",
+    "url": "icons/suint/outline/Media/StopCircle_outline.svg"
+  },
+  {
+    "name": "Stop_outline",
+    "url": "icons/suint/outline/Media/Stop_outline.svg"
+  },
+  {
+    "name": "VideoCameraSlash_outline",
+    "url": "icons/suint/outline/Media/VideoCameraSlash_outline.svg"
+  },
+  {
+    "name": "VideoCamera_outline",
+    "url": "icons/suint/outline/Media/VideoCamera_outline.svg"
+  },
+  {
+    "name": "Volume-down",
+    "url": "icons/suint/outline/Media/Volume-down.svg"
+  },
+  {
+    "name": "Volume-off",
+    "url": "icons/suint/outline/Media/Volume-off.svg"
+  },
+  {
+    "name": "Volume-up",
+    "url": "icons/suint/outline/Media/Volume-up.svg"
+  },
+  {
+    "name": "Current-location",
+    "url": "icons/suint/outline/Navigation/Current-location.svg"
+  },
+  {
+    "name": "Explore",
+    "url": "icons/suint/outline/Navigation/Explore.svg"
+  },
+  {
+    "name": "Globe",
+    "url": "icons/suint/outline/Navigation/Globe.svg"
+  },
+  {
+    "name": "Location-check",
+    "url": "icons/suint/outline/Navigation/Location-check.svg"
+  },
+  {
+    "name": "Location-plus",
+    "url": "icons/suint/outline/Navigation/Location-plus.svg"
+  },
+  {
+    "name": "Location-question",
+    "url": "icons/suint/outline/Navigation/Location-question.svg"
+  },
+  {
+    "name": "Location",
+    "url": "icons/suint/outline/Navigation/Location.svg"
+  },
+  {
+    "name": "Map-location",
+    "url": "icons/suint/outline/Navigation/Map-location.svg"
+  },
+  {
+    "name": "Navigation",
+    "url": "icons/suint/outline/Navigation/Navigation.svg"
+  },
+  {
+    "name": "ArchiveBox_outline",
+    "url": "icons/suint/outline/OfficeEditing/ArchiveBox_outline.svg"
+  },
+  {
+    "name": "ArchiveTray_outline",
+    "url": "icons/suint/outline/OfficeEditing/ArchiveTray_outline.svg"
+  },
+  {
+    "name": "Archive_outline",
+    "url": "icons/suint/outline/OfficeEditing/Archive_outline.svg"
+  },
+  {
+    "name": "BriefcaseMetal_outline",
+    "url": "icons/suint/outline/OfficeEditing/BriefcaseMetal_outline.svg"
+  },
+  {
+    "name": "Briefcase_outline",
+    "url": "icons/suint/outline/OfficeEditing/Briefcase_outline.svg"
+  },
+  {
+    "name": "Cards_outline",
+    "url": "icons/suint/outline/OfficeEditing/Cards_outline.svg"
+  },
+  {
+    "name": "ClipboardText_outline",
+    "url": "icons/suint/outline/OfficeEditing/ClipboardText_outline.svg"
+  },
+  {
+    "name": "Clipboard_outline",
+    "url": "icons/suint/outline/OfficeEditing/Clipboard_outline.svg"
+  },
+  {
+    "name": "CopySimple_outline",
+    "url": "icons/suint/outline/OfficeEditing/CopySimple_outline.svg"
+  },
+  {
+    "name": "Copy_outline",
+    "url": "icons/suint/outline/OfficeEditing/Copy_outline.svg"
+  },
+  {
+    "name": "FileArrowDown_outline",
+    "url": "icons/suint/outline/OfficeEditing/FileArrowDown_outline.svg"
+  },
+  {
+    "name": "FileArrowUp_outline",
+    "url": "icons/suint/outline/OfficeEditing/FileArrowUp_outline.svg"
+  },
+  {
+    "name": "FileDotted_outline",
+    "url": "icons/suint/outline/OfficeEditing/FileDotted_outline.svg"
+  },
+  {
+    "name": "FileMinus_outline",
+    "url": "icons/suint/outline/OfficeEditing/FileMinus_outline.svg"
+  },
+  {
+    "name": "FilePdf_outline",
+    "url": "icons/suint/outline/OfficeEditing/FilePdf_outline.svg"
+  },
+  {
+    "name": "FilePlus_outline",
+    "url": "icons/suint/outline/OfficeEditing/FilePlus_outline.svg"
+  },
+  {
+    "name": "FileSearch_outline",
+    "url": "icons/suint/outline/OfficeEditing/FileSearch_outline.svg"
+  },
+  {
+    "name": "Files_outline",
+    "url": "icons/suint/outline/OfficeEditing/Files_outline.svg"
+  },
+  {
+    "name": "FileText_outline",
+    "url": "icons/suint/outline/OfficeEditing/FileText_outline.svg"
+  },
+  {
+    "name": "FileX_outline",
+    "url": "icons/suint/outline/OfficeEditing/FileX_outline.svg"
+  },
+  {
+    "name": "File_outline",
+    "url": "icons/suint/outline/OfficeEditing/File_outline.svg"
+  },
+  {
+    "name": "FloppyDiskBack_outline",
+    "url": "icons/suint/outline/OfficeEditing/FloppyDiskBack_outline.svg"
+  },
+  {
+    "name": "FloppyDisk_outline",
+    "url": "icons/suint/outline/OfficeEditing/FloppyDisk_outline.svg"
+  },
+  {
+    "name": "FolderMinus_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderMinus_outline.svg"
+  },
+  {
+    "name": "FolderNotchMinus_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderNotchMinus_outline.svg"
+  },
+  {
+    "name": "FolderNotchOpen_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderNotchOpen_outline.svg"
+  },
+  {
+    "name": "FolderNotchPlus_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderNotchPlus_outline.svg"
+  },
+  {
+    "name": "FolderNotch_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderNotch_outline.svg"
+  },
+  {
+    "name": "FolderOpen_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderOpen_outline.svg"
+  },
+  {
+    "name": "FolderPlus_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderPlus_outline.svg"
+  },
+  {
+    "name": "FolderSimpleMinus_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderSimpleMinus_outline.svg"
+  },
+  {
+    "name": "FolderSimplePlus_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderSimplePlus_outline.svg"
+  },
+  {
+    "name": "FolderSimple_outline",
+    "url": "icons/suint/outline/OfficeEditing/FolderSimple_outline.svg"
+  },
+  {
+    "name": "Folders_outline",
+    "url": "icons/suint/outline/OfficeEditing/Folders_outline.svg"
+  },
+  {
+    "name": "Folder_outline",
+    "url": "icons/suint/outline/OfficeEditing/Folder_outline.svg"
+  },
+  {
+    "name": "FunnelSimple_outline",
+    "url": "icons/suint/outline/OfficeEditing/FunnelSimple_outline.svg"
+  },
+  {
+    "name": "Funnel_outline",
+    "url": "icons/suint/outline/OfficeEditing/Funnel_outline.svg"
+  },
+  {
+    "name": "ListBullets_outline",
+    "url": "icons/suint/outline/OfficeEditing/ListBullets_outline.svg"
+  },
+  {
+    "name": "ListDashes_outline",
+    "url": "icons/suint/outline/OfficeEditing/ListDashes_outline.svg"
+  },
+  {
+    "name": "ListNumbers_outline",
+    "url": "icons/suint/outline/OfficeEditing/ListNumbers_outline.svg"
+  },
+  {
+    "name": "ListPlus_outline",
+    "url": "icons/suint/outline/OfficeEditing/ListPlus_outline.svg"
+  },
+  {
+    "name": "List_outline",
+    "url": "icons/suint/outline/OfficeEditing/List_outline.svg"
+  },
+  {
+    "name": "NoteBlank_outline",
+    "url": "icons/suint/outline/OfficeEditing/NoteBlank_outline.svg"
+  },
+  {
+    "name": "Notebook_outline",
+    "url": "icons/suint/outline/OfficeEditing/Notebook_outline.svg"
+  },
+  {
+    "name": "Notepad_outline",
+    "url": "icons/suint/outline/OfficeEditing/Notepad_outline.svg"
+  },
+  {
+    "name": "NotePencil_outline",
+    "url": "icons/suint/outline/OfficeEditing/NotePencil_outline.svg"
+  },
+  {
+    "name": "Note_outline",
+    "url": "icons/suint/outline/OfficeEditing/Note_outline.svg"
+  },
+  {
+    "name": "PaperclipHorizontal_outline",
+    "url": "icons/suint/outline/OfficeEditing/PaperclipHorizontal_outline.svg"
+  },
+  {
+    "name": "Paperclip_outline",
+    "url": "icons/suint/outline/OfficeEditing/Paperclip_outline.svg"
+  },
+  {
+    "name": "PresentationChart_outline",
+    "url": "icons/suint/outline/OfficeEditing/PresentationChart_outline.svg"
+  },
+  {
+    "name": "Presentation_outline",
+    "url": "icons/suint/outline/OfficeEditing/Presentation_outline.svg"
+  },
+  {
+    "name": "Printer_outline",
+    "url": "icons/suint/outline/OfficeEditing/Printer_outline.svg"
+  },
+  {
+    "name": "ProjectorScreenChart_outline",
+    "url": "icons/suint/outline/OfficeEditing/ProjectorScreenChart_outline.svg"
+  },
+  {
+    "name": "ProjectorScreen_outline",
+    "url": "icons/suint/outline/OfficeEditing/ProjectorScreen_outline.svg"
+  },
+  {
+    "name": "PushPinSimpleSlash_outline",
+    "url": "icons/suint/outline/OfficeEditing/PushPinSimpleSlash_outline.svg"
+  },
+  {
+    "name": "PushPinSimple_outline",
+    "url": "icons/suint/outline/OfficeEditing/PushPinSimple_outline.svg"
+  },
+  {
+    "name": "PushPinSlash_outline",
+    "url": "icons/suint/outline/OfficeEditing/PushPinSlash_outline.svg"
+  },
+  {
+    "name": "PushPin_outline",
+    "url": "icons/suint/outline/OfficeEditing/PushPin_outline.svg"
+  },
+  {
+    "name": "SortAscending_outline",
+    "url": "icons/suint/outline/OfficeEditing/SortAscending_outline.svg"
+  },
+  {
+    "name": "SortDescending_outline",
+    "url": "icons/suint/outline/OfficeEditing/SortDescending_outline.svg"
+  },
+  {
+    "name": "TextAa_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextAa_outline.svg"
+  },
+  {
+    "name": "TextAlignCenter_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextAlignCenter_outline.svg"
+  },
+  {
+    "name": "TextAlignJustify_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextAlignJustify_outline.svg"
+  },
+  {
+    "name": "TextAlignLeft_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextAlignLeft_outline.svg"
+  },
+  {
+    "name": "TextAlignRight_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextAlignRight_outline.svg"
+  },
+  {
+    "name": "TextBolder_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextBolder_outline.svg"
+  },
+  {
+    "name": "TextHFive_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextHFive_outline.svg"
+  },
+  {
+    "name": "TextHFour_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextHFour_outline.svg"
+  },
+  {
+    "name": "TextHOne_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextHOne_outline.svg"
+  },
+  {
+    "name": "TextHSix_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextHSix_outline.svg"
+  },
+  {
+    "name": "TextHThree_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextHThree_outline.svg"
+  },
+  {
+    "name": "TextHTwo_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextHTwo_outline.svg"
+  },
+  {
+    "name": "TextH_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextH_outline.svg"
+  },
+  {
+    "name": "TextItalic_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextItalic_outline.svg"
+  },
+  {
+    "name": "TextStrikethrough_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextStrikethrough_outline.svg"
+  },
+  {
+    "name": "TextT_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextT_outline.svg"
+  },
+  {
+    "name": "TextUnderline_outline",
+    "url": "icons/suint/outline/OfficeEditing/TextUnderline_outline.svg"
+  },
+  {
+    "name": "TrashSimple_outline",
+    "url": "icons/suint/outline/OfficeEditing/TrashSimple_outline.svg"
+  },
+  {
+    "name": "Trash_outline",
+    "url": "icons/suint/outline/OfficeEditing/Trash_outline.svg"
+  },
+  {
+    "name": "Tray_outline",
+    "url": "icons/suint/outline/OfficeEditing/Tray_outline.svg"
+  },
+  {
+    "name": "Baby_outline",
+    "url": "icons/suint/outline/People/Baby_outline.svg"
+  },
+  {
+    "name": "GenderFemale_outline",
+    "url": "icons/suint/outline/People/GenderFemale_outline.svg"
+  },
+  {
+    "name": "GenderIntersex_outline",
+    "url": "icons/suint/outline/People/GenderIntersex_outline.svg"
+  },
+  {
+    "name": "GenderMale_outline",
+    "url": "icons/suint/outline/People/GenderMale_outline.svg"
+  },
+  {
+    "name": "GenderNeuter_outline",
+    "url": "icons/suint/outline/People/GenderNeuter_outline.svg"
+  },
+  {
+    "name": "GenderNonbinary_outline",
+    "url": "icons/suint/outline/People/GenderNonbinary_outline.svg"
+  },
+  {
+    "name": "GenderTransgender_outline",
+    "url": "icons/suint/outline/People/GenderTransgender_outline.svg"
+  },
+  {
+    "name": "HandFist_outline",
+    "url": "icons/suint/outline/People/HandFist_outline.svg"
+  },
+  {
+    "name": "HandGrabbing_outline",
+    "url": "icons/suint/outline/People/HandGrabbing_outline.svg"
+  },
+  {
+    "name": "HandPalm_outline",
+    "url": "icons/suint/outline/People/HandPalm_outline.svg"
+  },
+  {
+    "name": "HandPointing_outline",
+    "url": "icons/suint/outline/People/HandPointing_outline.svg"
+  },
+  {
+    "name": "HandsClapping_outline",
+    "url": "icons/suint/outline/People/HandsClapping_outline.svg"
+  },
+  {
+    "name": "Handshake_outline",
+    "url": "icons/suint/outline/People/Handshake_outline.svg"
+  },
+  {
+    "name": "HandWaving_outline",
+    "url": "icons/suint/outline/People/HandWaving_outline.svg"
+  },
+  {
+    "name": "Hand_outline",
+    "url": "icons/suint/outline/People/Hand_outline.svg"
+  },
+  {
+    "name": "IdentificationBadge_outline",
+    "url": "icons/suint/outline/People/IdentificationBadge_outline.svg"
+  },
+  {
+    "name": "IdentificationCard_outline",
+    "url": "icons/suint/outline/People/IdentificationCard_outline.svg"
+  },
+  {
+    "name": "PersonSimpleRun_outline",
+    "url": "icons/suint/outline/People/PersonSimpleRun_outline.svg"
+  },
+  {
+    "name": "PersonSimpleWalk_outline",
+    "url": "icons/suint/outline/People/PersonSimpleWalk_outline.svg"
+  },
+  {
+    "name": "PersonSimple_outline",
+    "url": "icons/suint/outline/People/PersonSimple_outline.svg"
+  },
+  {
+    "name": "Person_outline",
+    "url": "icons/suint/outline/People/Person_outline.svg"
+  },
+  {
+    "name": "SmileyBlank_outline",
+    "url": "icons/suint/outline/People/SmileyBlank_outline.svg"
+  },
+  {
+    "name": "SmileyMeh_outline",
+    "url": "icons/suint/outline/People/SmileyMeh_outline.svg"
+  },
+  {
+    "name": "SmileyNervous_outline",
+    "url": "icons/suint/outline/People/SmileyNervous_outline.svg"
+  },
+  {
+    "name": "SmileySad_outline",
+    "url": "icons/suint/outline/People/SmileySad_outline.svg"
+  },
+  {
+    "name": "SmileySticker_outline",
+    "url": "icons/suint/outline/People/SmileySticker_outline.svg"
+  },
+  {
+    "name": "SmileyWink_outline",
+    "url": "icons/suint/outline/People/SmileyWink_outline.svg"
+  },
+  {
+    "name": "SmileyXEyes_outline",
+    "url": "icons/suint/outline/People/SmileyXEyes_outline.svg"
+  },
+  {
+    "name": "Smiley_outline",
+    "url": "icons/suint/outline/People/Smiley_outline.svg"
+  },
+  {
+    "name": "UserCircleGear_outline",
+    "url": "icons/suint/outline/People/UserCircleGear_outline.svg"
+  },
+  {
+    "name": "UserCircleMinus_outline",
+    "url": "icons/suint/outline/People/UserCircleMinus_outline.svg"
+  },
+  {
+    "name": "UserCirclePlus_outline",
+    "url": "icons/suint/outline/People/UserCirclePlus_outline.svg"
+  },
+  {
+    "name": "UserCircle_outline",
+    "url": "icons/suint/outline/People/UserCircle_outline.svg"
+  },
+  {
+    "name": "UserFocus_outline",
+    "url": "icons/suint/outline/People/UserFocus_outline.svg"
+  },
+  {
+    "name": "UserGear_outline",
+    "url": "icons/suint/outline/People/UserGear_outline.svg"
+  },
+  {
+    "name": "UserList_outline",
+    "url": "icons/suint/outline/People/UserList_outline.svg"
+  },
+  {
+    "name": "UserMinus_outline",
+    "url": "icons/suint/outline/People/UserMinus_outline.svg"
+  },
+  {
+    "name": "UserPlus_outline",
+    "url": "icons/suint/outline/People/UserPlus_outline.svg"
+  },
+  {
+    "name": "UserRectangle_outline",
+    "url": "icons/suint/outline/People/UserRectangle_outline.svg"
+  },
+  {
+    "name": "UsersFour_outline",
+    "url": "icons/suint/outline/People/UsersFour_outline.svg"
+  },
+  {
+    "name": "UserSquare_outline",
+    "url": "icons/suint/outline/People/UserSquare_outline.svg"
+  },
+  {
+    "name": "UsersThree_outline",
+    "url": "icons/suint/outline/People/UsersThree_outline.svg"
+  },
+  {
+    "name": "Users_outline",
+    "url": "icons/suint/outline/People/Users_outline.svg"
+  },
+  {
+    "name": "User_outline",
+    "url": "icons/suint/outline/People/User_outline.svg"
+  },
+  {
+    "name": "Wheelchair_outline",
+    "url": "icons/suint/outline/People/Wheelchair_outline.svg"
+  },
+  {
+    "name": "CircleWavyCheck_outline",
+    "url": "icons/suint/outline/SecurityWarnings/CircleWavyCheck_outline.svg"
+  },
+  {
+    "name": "CircleWavyQuestion_outline",
+    "url": "icons/suint/outline/SecurityWarnings/CircleWavyQuestion_outline.svg"
+  },
+  {
+    "name": "CircleWavyWarning_outline",
+    "url": "icons/suint/outline/SecurityWarnings/CircleWavyWarning_outline.svg"
+  },
+  {
+    "name": "CircleWavy_outline",
+    "url": "icons/suint/outline/SecurityWarnings/CircleWavy_outline.svg"
+  },
+  {
+    "name": "FingerprintSimple_outline",
+    "url": "icons/suint/outline/SecurityWarnings/FingerprintSimple_outline.svg"
+  },
+  {
+    "name": "Fingerprint_outline",
+    "url": "icons/suint/outline/SecurityWarnings/Fingerprint_outline.svg"
+  },
+  {
+    "name": "Info_outline",
+    "url": "icons/suint/outline/SecurityWarnings/Info_outline.svg"
+  },
+  {
+    "name": "Key_outline",
+    "url": "icons/suint/outline/SecurityWarnings/Key_outline.svg"
+  },
+  {
+    "name": "LockKeyOpen_outline",
+    "url": "icons/suint/outline/SecurityWarnings/LockKeyOpen_outline.svg"
+  },
+  {
+    "name": "LockKey_outline",
+    "url": "icons/suint/outline/SecurityWarnings/LockKey_outline.svg"
+  },
+  {
+    "name": "LockLaminatedOpen_outline",
+    "url": "icons/suint/outline/SecurityWarnings/LockLaminatedOpen_outline.svg"
+  },
+  {
+    "name": "LockLaminated_outline",
+    "url": "icons/suint/outline/SecurityWarnings/LockLaminated_outline.svg"
+  },
+  {
+    "name": "LockOpen_outline",
+    "url": "icons/suint/outline/SecurityWarnings/LockOpen_outline.svg"
+  },
+  {
+    "name": "LockSimpleOpen_outline",
+    "url": "icons/suint/outline/SecurityWarnings/LockSimpleOpen_outline.svg"
+  },
+  {
+    "name": "LockSimple_outline",
+    "url": "icons/suint/outline/SecurityWarnings/LockSimple_outline.svg"
+  },
+  {
+    "name": "Lock_outline",
+    "url": "icons/suint/outline/SecurityWarnings/Lock_outline.svg"
+  },
+  {
+    "name": "ProhibitInset_outline",
+    "url": "icons/suint/outline/SecurityWarnings/ProhibitInset_outline.svg"
+  },
+  {
+    "name": "Prohibit_outline",
+    "url": "icons/suint/outline/SecurityWarnings/Prohibit_outline.svg"
+  },
+  {
+    "name": "Question_outline",
+    "url": "icons/suint/outline/SecurityWarnings/Question_outline.svg"
+  },
+  {
+    "name": "ShieldCheckered_outline",
+    "url": "icons/suint/outline/SecurityWarnings/ShieldCheckered_outline.svg"
+  },
+  {
+    "name": "ShieldCheck_outline",
+    "url": "icons/suint/outline/SecurityWarnings/ShieldCheck_outline.svg"
+  },
+  {
+    "name": "ShieldChevron_outline",
+    "url": "icons/suint/outline/SecurityWarnings/ShieldChevron_outline.svg"
+  },
+  {
+    "name": "ShieldPlus_outline",
+    "url": "icons/suint/outline/SecurityWarnings/ShieldPlus_outline.svg"
+  },
+  {
+    "name": "ShieldSlash_outline",
+    "url": "icons/suint/outline/SecurityWarnings/ShieldSlash_outline.svg"
+  },
+  {
+    "name": "ShieldWarning_outline",
+    "url": "icons/suint/outline/SecurityWarnings/ShieldWarning_outline.svg"
+  },
+  {
+    "name": "Shield_outline",
+    "url": "icons/suint/outline/SecurityWarnings/Shield_outline.svg"
+  },
+  {
+    "name": "Wall_outline",
+    "url": "icons/suint/outline/SecurityWarnings/Wall_outline.svg"
+  },
+  {
+    "name": "WarningCircle_outline",
+    "url": "icons/suint/outline/SecurityWarnings/WarningCircle_outline.svg"
+  },
+  {
+    "name": "WarningOctagon_outline",
+    "url": "icons/suint/outline/SecurityWarnings/WarningOctagon_outline.svg"
+  },
+  {
+    "name": "Warning_outline",
+    "url": "icons/suint/outline/SecurityWarnings/Warning_outline.svg"
+  },
+  {
+    "name": "Award",
+    "url": "icons/suint/outline/Status/Award.svg"
+  },
+  {
+    "name": "Book-open",
+    "url": "icons/suint/outline/Status/Book-open.svg"
+  },
+  {
+    "name": "Bookmark",
+    "url": "icons/suint/outline/Status/Bookmark.svg"
+  },
+  {
+    "name": "Checked-box",
+    "url": "icons/suint/outline/Status/Checked-box.svg"
+  },
+  {
+    "name": "Diamond",
+    "url": "icons/suint/outline/Status/Diamond.svg"
+  },
+  {
+    "name": "Eye-closed",
+    "url": "icons/suint/outline/Status/Eye-closed.svg"
+  },
+  {
+    "name": "Eye",
+    "url": "icons/suint/outline/Status/Eye.svg"
+  },
+  {
+    "name": "Fire",
+    "url": "icons/suint/outline/Status/Fire.svg"
+  },
+  {
+    "name": "Heart-off",
+    "url": "icons/suint/outline/Status/Heart-off.svg"
+  },
+  {
+    "name": "Heart-plus",
+    "url": "icons/suint/outline/Status/Heart-plus.svg"
+  },
+  {
+    "name": "Heart",
+    "url": "icons/suint/outline/Status/Heart.svg"
+  },
+  {
+    "name": "Heartbeat",
+    "url": "icons/suint/outline/Status/Heartbeat.svg"
+  },
+  {
+    "name": "Info-circle",
+    "url": "icons/suint/outline/Status/Info-circle.svg"
+  },
+  {
+    "name": "Info-rect",
+    "url": "icons/suint/outline/Status/Info-rect.svg"
+  },
+  {
+    "name": "Info-triangle",
+    "url": "icons/suint/outline/Status/Info-triangle.svg"
+  },
+  {
+    "name": "Key",
+    "url": "icons/suint/outline/Status/Key.svg"
+  },
+  {
+    "name": "Lightbulb-alt",
+    "url": "icons/suint/outline/Status/Lightbulb-alt.svg"
+  },
+  {
+    "name": "Lightbulb-off",
+    "url": "icons/suint/outline/Status/Lightbulb-off.svg"
+  },
+  {
+    "name": "Lightbulb",
+    "url": "icons/suint/outline/Status/Lightbulb.svg"
+  },
+  {
+    "name": "Lightning-alt",
+    "url": "icons/suint/outline/Status/Lightning-alt.svg"
+  },
+  {
+    "name": "Lightning",
+    "url": "icons/suint/outline/Status/Lightning.svg"
+  },
+  {
+    "name": "Lock-time",
+    "url": "icons/suint/outline/Status/Lock-time.svg"
+  },
+  {
+    "name": "Lock",
+    "url": "icons/suint/outline/Status/Lock.svg"
+  },
+  {
+    "name": "Notification-off",
+    "url": "icons/suint/outline/Status/Notification-off.svg"
+  },
+  {
+    "name": "Notification-on",
+    "url": "icons/suint/outline/Status/Notification-on.svg"
+  },
+  {
+    "name": "Notification",
+    "url": "icons/suint/outline/Status/Notification.svg"
+  },
+  {
+    "name": "Pin",
+    "url": "icons/suint/outline/Status/Pin.svg"
+  },
+  {
+    "name": "Power-button",
+    "url": "icons/suint/outline/Status/Power-button.svg"
+  },
+  {
+    "name": "Present",
+    "url": "icons/suint/outline/Status/Present.svg"
+  },
+  {
+    "name": "Sand-watch",
+    "url": "icons/suint/outline/Status/Sand-watch.svg"
+  },
+  {
+    "name": "Shield",
+    "url": "icons/suint/outline/Status/Shield.svg"
+  },
+  {
+    "name": "Star-half",
+    "url": "icons/suint/outline/Status/Star-half.svg"
+  },
+  {
+    "name": "Star",
+    "url": "icons/suint/outline/Status/Star.svg"
+  },
+  {
+    "name": "Toggle-off",
+    "url": "icons/suint/outline/Status/Toggle-off.svg"
+  },
+  {
+    "name": "Toggle-on",
+    "url": "icons/suint/outline/Status/Toggle-on.svg"
+  },
+  {
+    "name": "University",
+    "url": "icons/suint/outline/Status/University.svg"
+  },
+  {
+    "name": "Unlock",
+    "url": "icons/suint/outline/Status/Unlock.svg"
+  },
+  {
+    "name": "AppWindow_outline",
+    "url": "icons/suint/outline/SystemDevices/AppWindow_outline.svg"
+  },
+  {
+    "name": "Backspace_outline",
+    "url": "icons/suint/outline/SystemDevices/Backspace_outline.svg"
+  },
+  {
+    "name": "BatteryChargingVertical_outline",
+    "url": "icons/suint/outline/SystemDevices/BatteryChargingVertical_outline.svg"
+  },
+  {
+    "name": "BatteryCharging_outline",
+    "url": "icons/suint/outline/SystemDevices/BatteryCharging_outline.svg"
+  },
+  {
+    "name": "BatteryEmpty_outline",
+    "url": "icons/suint/outline/SystemDevices/BatteryEmpty_outline.svg"
+  },
+  {
+    "name": "BatteryFull_outline",
+    "url": "icons/suint/outline/SystemDevices/BatteryFull_outline.svg"
+  },
+  {
+    "name": "BatteryHigh_outline",
+    "url": "icons/suint/outline/SystemDevices/BatteryHigh_outline.svg"
+  },
+  {
+    "name": "BatteryLow_outline",
+    "url": "icons/suint/outline/SystemDevices/BatteryLow_outline.svg"
+  },
+  {
+    "name": "BatteryMedium_outline",
+    "url": "icons/suint/outline/SystemDevices/BatteryMedium_outline.svg"
+  },
+  {
+    "name": "BatteryWarningVertical_outline",
+    "url": "icons/suint/outline/SystemDevices/BatteryWarningVertical_outline.svg"
+  },
+  {
+    "name": "BatteryWarning_outline",
+    "url": "icons/suint/outline/SystemDevices/BatteryWarning_outline.svg"
+  },
+  {
+    "name": "BellRinging_outline",
+    "url": "icons/suint/outline/SystemDevices/BellRinging_outline.svg"
+  },
+  {
+    "name": "BellSimpleRinging_outline",
+    "url": "icons/suint/outline/SystemDevices/BellSimpleRinging_outline.svg"
+  },
+  {
+    "name": "BellSimpleSlash_outline",
+    "url": "icons/suint/outline/SystemDevices/BellSimpleSlash_outline.svg"
+  },
+  {
+    "name": "BellSimpleZ_outline",
+    "url": "icons/suint/outline/SystemDevices/BellSimpleZ_outline.svg"
+  },
+  {
+    "name": "BellSimple_outline",
+    "url": "icons/suint/outline/SystemDevices/BellSimple_outline.svg"
+  },
+  {
+    "name": "BellSlash_outline",
+    "url": "icons/suint/outline/SystemDevices/BellSlash_outline.svg"
+  },
+  {
+    "name": "BellZ_outline",
+    "url": "icons/suint/outline/SystemDevices/BellZ_outline.svg"
+  },
+  {
+    "name": "Bell_outline",
+    "url": "icons/suint/outline/SystemDevices/Bell_outline.svg"
+  },
+  {
+    "name": "BluetoothConnected_outline",
+    "url": "icons/suint/outline/SystemDevices/BluetoothConnected_outline.svg"
+  },
+  {
+    "name": "BluetoothSlash_outline",
+    "url": "icons/suint/outline/SystemDevices/BluetoothSlash_outline.svg"
+  },
+  {
+    "name": "BluetoothX_outline",
+    "url": "icons/suint/outline/SystemDevices/BluetoothX_outline.svg"
+  },
+  {
+    "name": "Bluetooth_outline",
+    "url": "icons/suint/outline/SystemDevices/Bluetooth_outline.svg"
+  },
+  {
+    "name": "Browsers_outline",
+    "url": "icons/suint/outline/SystemDevices/Browsers_outline.svg"
+  },
+  {
+    "name": "Browser_outline",
+    "url": "icons/suint/outline/SystemDevices/Browser_outline.svg"
+  },
+  {
+    "name": "CellSignalFull_outline",
+    "url": "icons/suint/outline/SystemDevices/CellSignalFull_outline.svg"
+  },
+  {
+    "name": "CellSignalHigh_outline",
+    "url": "icons/suint/outline/SystemDevices/CellSignalHigh_outline.svg"
+  },
+  {
+    "name": "CellSignalLow_outline",
+    "url": "icons/suint/outline/SystemDevices/CellSignalLow_outline.svg"
+  },
+  {
+    "name": "CellSignalMedium_outline",
+    "url": "icons/suint/outline/SystemDevices/CellSignalMedium_outline.svg"
+  },
+  {
+    "name": "CellSignalNone_outline",
+    "url": "icons/suint/outline/SystemDevices/CellSignalNone_outline.svg"
+  },
+  {
+    "name": "CellSignalSlash_outline",
+    "url": "icons/suint/outline/SystemDevices/CellSignalSlash_outline.svg"
+  },
+  {
+    "name": "CellSignalX_outline",
+    "url": "icons/suint/outline/SystemDevices/CellSignalX_outline.svg"
+  },
+  {
+    "name": "CheckCircle_outline",
+    "url": "icons/suint/outline/SystemDevices/CheckCircle_outline.svg"
+  },
+  {
+    "name": "CheckSquareOffset_outline",
+    "url": "icons/suint/outline/SystemDevices/CheckSquareOffset_outline.svg"
+  },
+  {
+    "name": "CheckSquare_outline",
+    "url": "icons/suint/outline/SystemDevices/CheckSquare_outline.svg"
+  },
+  {
+    "name": "Checks_outline",
+    "url": "icons/suint/outline/SystemDevices/Checks_outline.svg"
+  },
+  {
+    "name": "Check_outline",
+    "url": "icons/suint/outline/SystemDevices/Check_outline.svg"
+  },
+  {
+    "name": "CloudArrowDown_outline",
+    "url": "icons/suint/outline/SystemDevices/CloudArrowDown_outline.svg"
+  },
+  {
+    "name": "CloudArrowUp_outline",
+    "url": "icons/suint/outline/SystemDevices/CloudArrowUp_outline.svg"
+  },
+  {
+    "name": "CloudCheck_outline",
+    "url": "icons/suint/outline/SystemDevices/CloudCheck_outline.svg"
+  },
+  {
+    "name": "CloudSlash_outline",
+    "url": "icons/suint/outline/SystemDevices/CloudSlash_outline.svg"
+  },
+  {
+    "name": "Command_outline",
+    "url": "icons/suint/outline/SystemDevices/Command_outline.svg"
+  },
+  {
+    "name": "ComputerTower_outline",
+    "url": "icons/suint/outline/SystemDevices/ComputerTower_outline.svg"
+  },
+  {
+    "name": "Cursor_outline",
+    "url": "icons/suint/outline/SystemDevices/Cursor_outline.svg"
+  },
+  {
+    "name": "DesktopTower_outline",
+    "url": "icons/suint/outline/SystemDevices/DesktopTower_outline.svg"
+  },
+  {
+    "name": "Desktop_outline",
+    "url": "icons/suint/outline/SystemDevices/Desktop_outline.svg"
+  },
+  {
+    "name": "DeviceMobileCamera_outline",
+    "url": "icons/suint/outline/SystemDevices/DeviceMobileCamera_outline.svg"
+  },
+  {
+    "name": "DeviceMobileSpeaker_outline",
+    "url": "icons/suint/outline/SystemDevices/DeviceMobileSpeaker_outline.svg"
+  },
+  {
+    "name": "DeviceMobile_outline",
+    "url": "icons/suint/outline/SystemDevices/DeviceMobile_outline.svg"
+  },
+  {
+    "name": "DeviceTabletCamera_outline",
+    "url": "icons/suint/outline/SystemDevices/DeviceTabletCamera_outline.svg"
+  },
+  {
+    "name": "DeviceTabletSpeaker_outline",
+    "url": "icons/suint/outline/SystemDevices/DeviceTabletSpeaker_outline.svg"
+  },
+  {
+    "name": "DeviceTablet_outline",
+    "url": "icons/suint/outline/SystemDevices/DeviceTablet_outline.svg"
+  },
+  {
+    "name": "DotsNine_outline",
+    "url": "icons/suint/outline/SystemDevices/DotsNine_outline.svg"
+  },
+  {
+    "name": "DotsSixVertical_outline",
+    "url": "icons/suint/outline/SystemDevices/DotsSixVertical_outline.svg"
+  },
+  {
+    "name": "DotsSix_outline",
+    "url": "icons/suint/outline/SystemDevices/DotsSix_outline.svg"
+  },
+  {
+    "name": "DotsThreeCircleVertical_outline",
+    "url": "icons/suint/outline/SystemDevices/DotsThreeCircleVertical_outline.svg"
+  },
+  {
+    "name": "DotsThreeCircle_outline",
+    "url": "icons/suint/outline/SystemDevices/DotsThreeCircle_outline.svg"
+  },
+  {
+    "name": "DotsThreeOutlineVertical_outline",
+    "url": "icons/suint/outline/SystemDevices/DotsThreeOutlineVertical_outline.svg"
+  },
+  {
+    "name": "DotsThreeOutline_outline",
+    "url": "icons/suint/outline/SystemDevices/DotsThreeOutline_outline.svg"
+  },
+  {
+    "name": "DotsThreeVertical_outline",
+    "url": "icons/suint/outline/SystemDevices/DotsThreeVertical_outline.svg"
+  },
+  {
+    "name": "DotsThree_outline",
+    "url": "icons/suint/outline/SystemDevices/DotsThree_outline.svg"
+  },
+  {
+    "name": "DownloadSimple_outline",
+    "url": "icons/suint/outline/SystemDevices/DownloadSimple_outline.svg"
+  },
+  {
+    "name": "Download_outline",
+    "url": "icons/suint/outline/SystemDevices/Download_outline.svg"
+  },
+  {
+    "name": "Flashlight_outline",
+    "url": "icons/suint/outline/SystemDevices/Flashlight_outline.svg"
+  },
+  {
+    "name": "FrameCorners_outline",
+    "url": "icons/suint/outline/SystemDevices/FrameCorners_outline.svg"
+  },
+  {
+    "name": "Gauge_outline",
+    "url": "icons/suint/outline/SystemDevices/Gauge_outline.svg"
+  },
+  {
+    "name": "GearSix_outline",
+    "url": "icons/suint/outline/SystemDevices/GearSix_outline.svg"
+  },
+  {
+    "name": "Gear_outline",
+    "url": "icons/suint/outline/SystemDevices/Gear_outline.svg"
+  },
+  {
+    "name": "HardDrives_outline",
+    "url": "icons/suint/outline/SystemDevices/HardDrives_outline.svg"
+  },
+  {
+    "name": "HardDrive_outline",
+    "url": "icons/suint/outline/SystemDevices/HardDrive_outline.svg"
+  },
+  {
+    "name": "Keyboard_outline",
+    "url": "icons/suint/outline/SystemDevices/Keyboard_outline.svg"
+  },
+  {
+    "name": "KeyReturn_outline",
+    "url": "icons/suint/outline/SystemDevices/KeyReturn_outline.svg"
+  },
+  {
+    "name": "Laptop_outline",
+    "url": "icons/suint/outline/SystemDevices/Laptop_outline.svg"
+  },
+  {
+    "name": "LightbulbFilament_outline",
+    "url": "icons/suint/outline/SystemDevices/LightbulbFilament_outline.svg"
+  },
+  {
+    "name": "Lightbulb_outline",
+    "url": "icons/suint/outline/SystemDevices/Lightbulb_outline.svg"
+  },
+  {
+    "name": "LightningSlash_outline",
+    "url": "icons/suint/outline/SystemDevices/LightningSlash_outline.svg"
+  },
+  {
+    "name": "Lightning_outline",
+    "url": "icons/suint/outline/SystemDevices/Lightning_outline.svg"
+  },
+  {
+    "name": "LinkBreak_outline",
+    "url": "icons/suint/outline/SystemDevices/LinkBreak_outline.svg"
+  },
+  {
+    "name": "LinkSimpleBreak_outline",
+    "url": "icons/suint/outline/SystemDevices/LinkSimpleBreak_outline.svg"
+  },
+  {
+    "name": "LinkSimpleHorizontalBreak_outline",
+    "url": "icons/suint/outline/SystemDevices/LinkSimpleHorizontalBreak_outline.svg"
+  },
+  {
+    "name": "LinkSimpleHorizontal_outline",
+    "url": "icons/suint/outline/SystemDevices/LinkSimpleHorizontal_outline.svg"
+  },
+  {
+    "name": "LinkSimple_outline",
+    "url": "icons/suint/outline/SystemDevices/LinkSimple_outline.svg"
+  },
+  {
+    "name": "Link_outline",
+    "url": "icons/suint/outline/SystemDevices/Link_outline.svg"
+  },
+  {
+    "name": "MagnifyingGlassMinus_outline",
+    "url": "icons/suint/outline/SystemDevices/MagnifyingGlassMinus_outline.svg"
+  },
+  {
+    "name": "MagnifyingGlassPlus_outline",
+    "url": "icons/suint/outline/SystemDevices/MagnifyingGlassPlus_outline.svg"
+  },
+  {
+    "name": "MagnifyingGlass_outline",
+    "url": "icons/suint/outline/SystemDevices/MagnifyingGlass_outline.svg"
+  },
+  {
+    "name": "MinusCircle_outline",
+    "url": "icons/suint/outline/SystemDevices/MinusCircle_outline.svg"
+  },
+  {
+    "name": "MonitorPlay_outline",
+    "url": "icons/suint/outline/SystemDevices/MonitorPlay_outline.svg"
+  },
+  {
+    "name": "Monitor_outline",
+    "url": "icons/suint/outline/SystemDevices/Monitor_outline.svg"
+  },
+  {
+    "name": "MouseSimple_outline",
+    "url": "icons/suint/outline/SystemDevices/MouseSimple_outline.svg"
+  },
+  {
+    "name": "Mouse_outline",
+    "url": "icons/suint/outline/SystemDevices/Mouse_outline.svg"
+  },
+  {
+    "name": "Notification_outline",
+    "url": "icons/suint/outline/SystemDevices/Notification_outline.svg"
+  },
+  {
+    "name": "Nut_outline",
+    "url": "icons/suint/outline/SystemDevices/Nut_outline.svg"
+  },
+  {
+    "name": "PlusCircle_outline",
+    "url": "icons/suint/outline/SystemDevices/PlusCircle_outline.svg"
+  },
+  {
+    "name": "Power_outline",
+    "url": "icons/suint/outline/SystemDevices/Power_outline.svg"
+  },
+  {
+    "name": "QrCode_outline",
+    "url": "icons/suint/outline/SystemDevices/QrCode_outline.svg"
+  },
+  {
+    "name": "SignIn_outline",
+    "url": "icons/suint/outline/SystemDevices/SignIn_outline.svg"
+  },
+  {
+    "name": "SignOut_outline",
+    "url": "icons/suint/outline/SystemDevices/SignOut_outline.svg"
+  },
+  {
+    "name": "SimCard_outline",
+    "url": "icons/suint/outline/SystemDevices/SimCard_outline.svg"
+  },
+  {
+    "name": "SpinnerGap_outline",
+    "url": "icons/suint/outline/SystemDevices/SpinnerGap_outline.svg"
+  },
+  {
+    "name": "Spinner_outline",
+    "url": "icons/suint/outline/SystemDevices/Spinner_outline.svg"
+  },
+  {
+    "name": "Swap_outline",
+    "url": "icons/suint/outline/SystemDevices/Swap_outline.svg"
+  },
+  {
+    "name": "TelevisionSimple_outline",
+    "url": "icons/suint/outline/SystemDevices/TelevisionSimple_outline.svg"
+  },
+  {
+    "name": "Television_outline",
+    "url": "icons/suint/outline/SystemDevices/Television_outline.svg"
+  },
+  {
+    "name": "ToggleLeft_outline",
+    "url": "icons/suint/outline/SystemDevices/ToggleLeft_outline.svg"
+  },
+  {
+    "name": "ToggleRight_outline",
+    "url": "icons/suint/outline/SystemDevices/ToggleRight_outline.svg"
+  },
+  {
+    "name": "UploadSimple_outline",
+    "url": "icons/suint/outline/SystemDevices/UploadSimple_outline.svg"
+  },
+  {
+    "name": "Upload_outline",
+    "url": "icons/suint/outline/SystemDevices/Upload_outline.svg"
+  },
+  {
+    "name": "Vibrate_outline",
+    "url": "icons/suint/outline/SystemDevices/Vibrate_outline.svg"
+  },
+  {
+    "name": "WifiHigh_outline",
+    "url": "icons/suint/outline/SystemDevices/WifiHigh_outline.svg"
+  },
+  {
+    "name": "WifiLow_outline",
+    "url": "icons/suint/outline/SystemDevices/WifiLow_outline.svg"
+  },
+  {
+    "name": "WifiMedium_outline",
+    "url": "icons/suint/outline/SystemDevices/WifiMedium_outline.svg"
+  },
+  {
+    "name": "WifiNone_outline",
+    "url": "icons/suint/outline/SystemDevices/WifiNone_outline.svg"
+  },
+  {
+    "name": "WifiSlash_outline",
+    "url": "icons/suint/outline/SystemDevices/WifiSlash_outline.svg"
+  },
+  {
+    "name": "WifiX_outline",
+    "url": "icons/suint/outline/SystemDevices/WifiX_outline.svg"
+  },
+  {
+    "name": "Wrench_outline",
+    "url": "icons/suint/outline/SystemDevices/Wrench_outline.svg"
+  },
+  {
+    "name": "XCircle_outline",
+    "url": "icons/suint/outline/SystemDevices/XCircle_outline.svg"
+  },
+  {
+    "name": "XSquare_outline",
+    "url": "icons/suint/outline/SystemDevices/XSquare_outline.svg"
+  },
+  {
+    "name": "Alarm_outline",
+    "url": "icons/suint/outline/Time/Alarm_outline.svg"
+  },
+  {
+    "name": "CalendarBlank_outline",
+    "url": "icons/suint/outline/Time/CalendarBlank_outline.svg"
+  },
+  {
+    "name": "CalendarCheck_outline",
+    "url": "icons/suint/outline/Time/CalendarCheck_outline.svg"
+  },
+  {
+    "name": "CalendarPlus_outline",
+    "url": "icons/suint/outline/Time/CalendarPlus_outline.svg"
+  },
+  {
+    "name": "CalendarX_outline",
+    "url": "icons/suint/outline/Time/CalendarX_outline.svg"
+  },
+  {
+    "name": "Calendar_outline",
+    "url": "icons/suint/outline/Time/Calendar_outline.svg"
+  },
+  {
+    "name": "ClockAfternoon_outline",
+    "url": "icons/suint/outline/Time/ClockAfternoon_outline.svg"
+  },
+  {
+    "name": "ClockClockwise_outline",
+    "url": "icons/suint/outline/Time/ClockClockwise_outline.svg"
+  },
+  {
+    "name": "ClockCounterClockwise_outline",
+    "url": "icons/suint/outline/Time/ClockCounterClockwise_outline.svg"
+  },
+  {
+    "name": "Clock_outline",
+    "url": "icons/suint/outline/Time/Clock_outline.svg"
+  },
+  {
+    "name": "HourglassHigh_outline",
+    "url": "icons/suint/outline/Time/HourglassHigh_outline.svg"
+  },
+  {
+    "name": "HourglassLow_outline",
+    "url": "icons/suint/outline/Time/HourglassLow_outline.svg"
+  },
+  {
+    "name": "HourglassMedium_outline",
+    "url": "icons/suint/outline/Time/HourglassMedium_outline.svg"
+  },
+  {
+    "name": "HourglassSimpleHigh_outline",
+    "url": "icons/suint/outline/Time/HourglassSimpleHigh_outline.svg"
+  },
+  {
+    "name": "HourglassSimpleLow_outline",
+    "url": "icons/suint/outline/Time/HourglassSimpleLow_outline.svg"
+  },
+  {
+    "name": "HourglassSimpleMedium_outline",
+    "url": "icons/suint/outline/Time/HourglassSimpleMedium_outline.svg"
+  },
+  {
+    "name": "HourglassSimple_outline",
+    "url": "icons/suint/outline/Time/HourglassSimple_outline.svg"
+  },
+  {
+    "name": "Hourglass_outline",
+    "url": "icons/suint/outline/Time/Hourglass_outline.svg"
+  },
+  {
+    "name": "Timer_outline",
+    "url": "icons/suint/outline/Time/Timer_outline.svg"
+  },
+  {
+    "name": "Watch_outline",
+    "url": "icons/suint/outline/Time/Watch_outline.svg"
+  },
+  {
+    "name": "Atom_outline",
+    "url": "icons/suint/outline/WeatherNature/Atom_outline.svg"
+  },
+  {
+    "name": "Bird_outline",
+    "url": "icons/suint/outline/WeatherNature/Bird_outline.svg"
+  },
+  {
+    "name": "Cat_outline",
+    "url": "icons/suint/outline/WeatherNature/Cat_outline.svg"
+  },
+  {
+    "name": "CloudFog_outline",
+    "url": "icons/suint/outline/WeatherNature/CloudFog_outline.svg"
+  },
+  {
+    "name": "CloudLightning_outline",
+    "url": "icons/suint/outline/WeatherNature/CloudLightning_outline.svg"
+  },
+  {
+    "name": "CloudMoon_outline",
+    "url": "icons/suint/outline/WeatherNature/CloudMoon_outline.svg"
+  },
+  {
+    "name": "CloudRain_outline",
+    "url": "icons/suint/outline/WeatherNature/CloudRain_outline.svg"
+  },
+  {
+    "name": "CloudSnow_outline",
+    "url": "icons/suint/outline/WeatherNature/CloudSnow_outline.svg"
+  },
+  {
+    "name": "CloudSun_outline",
+    "url": "icons/suint/outline/WeatherNature/CloudSun_outline.svg"
+  },
+  {
+    "name": "Cloud_outline",
+    "url": "icons/suint/outline/WeatherNature/Cloud_outline.svg"
+  },
+  {
+    "name": "Dog_outline",
+    "url": "icons/suint/outline/WeatherNature/Dog_outline.svg"
+  },
+  {
+    "name": "Drop_outline",
+    "url": "icons/suint/outline/WeatherNature/Drop_outline.svg"
+  },
+  {
+    "name": "FireSimple_outline",
+    "url": "icons/suint/outline/WeatherNature/FireSimple_outline.svg"
+  },
+  {
+    "name": "Fire_outline",
+    "url": "icons/suint/outline/WeatherNature/Fire_outline.svg"
+  },
+  {
+    "name": "FishSimple_outline",
+    "url": "icons/suint/outline/WeatherNature/FishSimple_outline.svg"
+  },
+  {
+    "name": "Fish_outline",
+    "url": "icons/suint/outline/WeatherNature/Fish_outline.svg"
+  },
+  {
+    "name": "Flame_outline",
+    "url": "icons/suint/outline/WeatherNature/Flame_outline.svg"
+  },
+  {
+    "name": "FlowerLotus_outline",
+    "url": "icons/suint/outline/WeatherNature/FlowerLotus_outline.svg"
+  },
+  {
+    "name": "Flower_outline",
+    "url": "icons/suint/outline/WeatherNature/Flower_outline.svg"
+  },
+  {
+    "name": "MoonStars_outline",
+    "url": "icons/suint/outline/WeatherNature/MoonStars_outline.svg"
+  },
+  {
+    "name": "Moon_outline",
+    "url": "icons/suint/outline/WeatherNature/Moon_outline.svg"
+  },
+  {
+    "name": "PawPrint_outline",
+    "url": "icons/suint/outline/WeatherNature/PawPrint_outline.svg"
+  },
+  {
+    "name": "Planet_outline",
+    "url": "icons/suint/outline/WeatherNature/Planet_outline.svg"
+  },
+  {
+    "name": "RainbowCloud_outline",
+    "url": "icons/suint/outline/WeatherNature/RainbowCloud_outline.svg"
+  },
+  {
+    "name": "Rainbow_outline",
+    "url": "icons/suint/outline/WeatherNature/Rainbow_outline.svg"
+  },
+  {
+    "name": "Snowflake_outline",
+    "url": "icons/suint/outline/WeatherNature/Snowflake_outline.svg"
+  },
+  {
+    "name": "Sparkle_outline",
+    "url": "icons/suint/outline/WeatherNature/Sparkle_outline.svg"
+  },
+  {
+    "name": "StarFour_outline",
+    "url": "icons/suint/outline/WeatherNature/StarFour_outline.svg"
+  },
+  {
+    "name": "Star_outline",
+    "url": "icons/suint/outline/WeatherNature/Star_outline.svg"
+  },
+  {
+    "name": "SunDim_outline",
+    "url": "icons/suint/outline/WeatherNature/SunDim_outline.svg"
+  },
+  {
+    "name": "SunHorizon_outline",
+    "url": "icons/suint/outline/WeatherNature/SunHorizon_outline.svg"
+  },
+  {
+    "name": "Sun_outline",
+    "url": "icons/suint/outline/WeatherNature/Sun_outline.svg"
+  },
+  {
+    "name": "ThermometerCold_outline",
+    "url": "icons/suint/outline/WeatherNature/ThermometerCold_outline.svg"
+  },
+  {
+    "name": "ThermometerHot_outline",
+    "url": "icons/suint/outline/WeatherNature/ThermometerHot_outline.svg"
+  },
+  {
+    "name": "ThermometerSimple_outline",
+    "url": "icons/suint/outline/WeatherNature/ThermometerSimple_outline.svg"
+  },
+  {
+    "name": "Thermometer_outline",
+    "url": "icons/suint/outline/WeatherNature/Thermometer_outline.svg"
+  },
+  {
+    "name": "TreeEvergreen_outline",
+    "url": "icons/suint/outline/WeatherNature/TreeEvergreen_outline.svg"
+  },
+  {
+    "name": "Tree_outline",
+    "url": "icons/suint/outline/WeatherNature/Tree_outline.svg"
+  },
+  {
+    "name": "UmbrellaSimple_outline",
+    "url": "icons/suint/outline/WeatherNature/UmbrellaSimple_outline.svg"
+  },
+  {
+    "name": "Umbrella_outline",
+    "url": "icons/suint/outline/WeatherNature/Umbrella_outline.svg"
+  },
+  {
+    "name": "Waves_outline",
+    "url": "icons/suint/outline/WeatherNature/Waves_outline.svg"
+  },
+  {
+    "name": "Wind_outline",
+    "url": "icons/suint/outline/WeatherNature/Wind_outline.svg"
+  }
+]

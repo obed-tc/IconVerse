@@ -1,0 +1,1270 @@
+[
+  {
+    "name": "3d_rotation",
+    "url": "icons/suint/general/action/3d_rotation.svg"
+  },
+  {
+    "name": "accessibility",
+    "url": "icons/suint/general/action/accessibility.svg"
+  },
+  {
+    "name": "accessibility_new",
+    "url": "icons/suint/general/action/accessibility_new.svg"
+  },
+  {
+    "name": "accessible",
+    "url": "icons/suint/general/action/accessible.svg"
+  },
+  {
+    "name": "accessible_forward",
+    "url": "icons/suint/general/action/accessible_forward.svg"
+  },
+  {
+    "name": "account_balance",
+    "url": "icons/suint/general/action/account_balance.svg"
+  },
+  {
+    "name": "account_balance_wallet",
+    "url": "icons/suint/general/action/account_balance_wallet.svg"
+  },
+  {
+    "name": "account_box",
+    "url": "icons/suint/general/action/account_box.svg"
+  },
+  {
+    "name": "account_circle",
+    "url": "icons/suint/general/action/account_circle.svg"
+  },
+  {
+    "name": "addchart",
+    "url": "icons/suint/general/action/addchart.svg"
+  },
+  {
+    "name": "add_shopping_cart",
+    "url": "icons/suint/general/action/add_shopping_cart.svg"
+  },
+  {
+    "name": "add_task",
+    "url": "icons/suint/general/action/add_task.svg"
+  },
+  {
+    "name": "admin_panel_settings",
+    "url": "icons/suint/general/action/admin_panel_settings.svg"
+  },
+  {
+    "name": "alarm",
+    "url": "icons/suint/general/action/alarm.svg"
+  },
+  {
+    "name": "alarm_add",
+    "url": "icons/suint/general/action/alarm_add.svg"
+  },
+  {
+    "name": "alarm_off",
+    "url": "icons/suint/general/action/alarm_off.svg"
+  },
+  {
+    "name": "alarm_on",
+    "url": "icons/suint/general/action/alarm_on.svg"
+  },
+  {
+    "name": "all_inbox",
+    "url": "icons/suint/general/action/all_inbox.svg"
+  },
+  {
+    "name": "all_out",
+    "url": "icons/suint/general/action/all_out.svg"
+  },
+  {
+    "name": "analytics",
+    "url": "icons/suint/general/action/analytics.svg"
+  },
+  {
+    "name": "anchor",
+    "url": "icons/suint/general/action/anchor.svg"
+  },
+  {
+    "name": "android",
+    "url": "icons/suint/general/action/android.svg"
+  },
+  {
+    "name": "announcement",
+    "url": "icons/suint/general/action/announcement.svg"
+  },
+  {
+    "name": "api",
+    "url": "icons/suint/general/action/api.svg"
+  },
+  {
+    "name": "app_blocking",
+    "url": "icons/suint/general/action/app_blocking.svg"
+  },
+  {
+    "name": "arrow_circle_down",
+    "url": "icons/suint/general/action/arrow_circle_down.svg"
+  },
+  {
+    "name": "arrow_circle_up",
+    "url": "icons/suint/general/action/arrow_circle_up.svg"
+  },
+  {
+    "name": "arrow_right_alt",
+    "url": "icons/suint/general/action/arrow_right_alt.svg"
+  },
+  {
+    "name": "article",
+    "url": "icons/suint/general/action/article.svg"
+  },
+  {
+    "name": "aspect_ratio",
+    "url": "icons/suint/general/action/aspect_ratio.svg"
+  },
+  {
+    "name": "assessment",
+    "url": "icons/suint/general/action/assessment.svg"
+  },
+  {
+    "name": "assignment",
+    "url": "icons/suint/general/action/assignment.svg"
+  },
+  {
+    "name": "assignment_ind",
+    "url": "icons/suint/general/action/assignment_ind.svg"
+  },
+  {
+    "name": "assignment_late",
+    "url": "icons/suint/general/action/assignment_late.svg"
+  },
+  {
+    "name": "assignment_return",
+    "url": "icons/suint/general/action/assignment_return.svg"
+  },
+  {
+    "name": "assignment_returned",
+    "url": "icons/suint/general/action/assignment_returned.svg"
+  },
+  {
+    "name": "assignment_turned_in",
+    "url": "icons/suint/general/action/assignment_turned_in.svg"
+  },
+  {
+    "name": "autorenew",
+    "url": "icons/suint/general/action/autorenew.svg"
+  },
+  {
+    "name": "backup",
+    "url": "icons/suint/general/action/backup.svg"
+  },
+  {
+    "name": "backup_table",
+    "url": "icons/suint/general/action/backup_table.svg"
+  },
+  {
+    "name": "batch_prediction",
+    "url": "icons/suint/general/action/batch_prediction.svg"
+  },
+  {
+    "name": "book",
+    "url": "icons/suint/general/action/book.svg"
+  },
+  {
+    "name": "bookmark",
+    "url": "icons/suint/general/action/bookmark.svg"
+  },
+  {
+    "name": "bookmarks",
+    "url": "icons/suint/general/action/bookmarks.svg"
+  },
+  {
+    "name": "bookmark_border",
+    "url": "icons/suint/general/action/bookmark_border.svg"
+  },
+  {
+    "name": "book_online",
+    "url": "icons/suint/general/action/book_online.svg"
+  },
+  {
+    "name": "bug_report",
+    "url": "icons/suint/general/action/bug_report.svg"
+  },
+  {
+    "name": "build",
+    "url": "icons/suint/general/action/build.svg"
+  },
+  {
+    "name": "build_circle",
+    "url": "icons/suint/general/action/build_circle.svg"
+  },
+  {
+    "name": "cached",
+    "url": "icons/suint/general/action/cached.svg"
+  },
+  {
+    "name": "calendar_today",
+    "url": "icons/suint/general/action/calendar_today.svg"
+  },
+  {
+    "name": "calendar_view_day",
+    "url": "icons/suint/general/action/calendar_view_day.svg"
+  },
+  {
+    "name": "camera_enhance",
+    "url": "icons/suint/general/action/camera_enhance.svg"
+  },
+  {
+    "name": "cancel_schedule_send",
+    "url": "icons/suint/general/action/cancel_schedule_send.svg"
+  },
+  {
+    "name": "card_giftcard",
+    "url": "icons/suint/general/action/card_giftcard.svg"
+  },
+  {
+    "name": "card_membership",
+    "url": "icons/suint/general/action/card_membership.svg"
+  },
+  {
+    "name": "card_travel",
+    "url": "icons/suint/general/action/card_travel.svg"
+  },
+  {
+    "name": "change_history",
+    "url": "icons/suint/general/action/change_history.svg"
+  },
+  {
+    "name": "check_circle",
+    "url": "icons/suint/general/action/check_circle.svg"
+  },
+  {
+    "name": "check_circle_outline",
+    "url": "icons/suint/general/action/check_circle_outline.svg"
+  },
+  {
+    "name": "chrome_reader_mode",
+    "url": "icons/suint/general/action/chrome_reader_mode.svg"
+  },
+  {
+    "name": "class",
+    "url": "icons/suint/general/action/class.svg"
+  },
+  {
+    "name": "close_fullscreen",
+    "url": "icons/suint/general/action/close_fullscreen.svg"
+  },
+  {
+    "name": "code",
+    "url": "icons/suint/general/action/code.svg"
+  },
+  {
+    "name": "comment_bank",
+    "url": "icons/suint/general/action/comment_bank.svg"
+  },
+  {
+    "name": "commute",
+    "url": "icons/suint/general/action/commute.svg"
+  },
+  {
+    "name": "compare_arrows",
+    "url": "icons/suint/general/action/compare_arrows.svg"
+  },
+  {
+    "name": "contactless",
+    "url": "icons/suint/general/action/contactless.svg"
+  },
+  {
+    "name": "contact_page",
+    "url": "icons/suint/general/action/contact_page.svg"
+  },
+  {
+    "name": "contact_support",
+    "url": "icons/suint/general/action/contact_support.svg"
+  },
+  {
+    "name": "copyright",
+    "url": "icons/suint/general/action/copyright.svg"
+  },
+  {
+    "name": "credit_card",
+    "url": "icons/suint/general/action/credit_card.svg"
+  },
+  {
+    "name": "dashboard",
+    "url": "icons/suint/general/action/dashboard.svg"
+  },
+  {
+    "name": "date_range",
+    "url": "icons/suint/general/action/date_range.svg"
+  },
+  {
+    "name": "delete",
+    "url": "icons/suint/general/action/delete.svg"
+  },
+  {
+    "name": "delete_forever",
+    "url": "icons/suint/general/action/delete_forever.svg"
+  },
+  {
+    "name": "delete_outline",
+    "url": "icons/suint/general/action/delete_outline.svg"
+  },
+  {
+    "name": "description",
+    "url": "icons/suint/general/action/description.svg"
+  },
+  {
+    "name": "disabled_by_default",
+    "url": "icons/suint/general/action/disabled_by_default.svg"
+  },
+  {
+    "name": "dns",
+    "url": "icons/suint/general/action/dns.svg"
+  },
+  {
+    "name": "done",
+    "url": "icons/suint/general/action/done.svg"
+  },
+  {
+    "name": "done_all",
+    "url": "icons/suint/general/action/done_all.svg"
+  },
+  {
+    "name": "done_outline",
+    "url": "icons/suint/general/action/done_outline.svg"
+  },
+  {
+    "name": "donut_large",
+    "url": "icons/suint/general/action/donut_large.svg"
+  },
+  {
+    "name": "donut_small",
+    "url": "icons/suint/general/action/donut_small.svg"
+  },
+  {
+    "name": "drag_indicator",
+    "url": "icons/suint/general/action/drag_indicator.svg"
+  },
+  {
+    "name": "dynamic_form",
+    "url": "icons/suint/general/action/dynamic_form.svg"
+  },
+  {
+    "name": "eco",
+    "url": "icons/suint/general/action/eco.svg"
+  },
+  {
+    "name": "eject",
+    "url": "icons/suint/general/action/eject.svg"
+  },
+  {
+    "name": "euro_symbol",
+    "url": "icons/suint/general/action/euro_symbol.svg"
+  },
+  {
+    "name": "event",
+    "url": "icons/suint/general/action/event.svg"
+  },
+  {
+    "name": "event_seat",
+    "url": "icons/suint/general/action/event_seat.svg"
+  },
+  {
+    "name": "exit_to_app",
+    "url": "icons/suint/general/action/exit_to_app.svg"
+  },
+  {
+    "name": "explore",
+    "url": "icons/suint/general/action/explore.svg"
+  },
+  {
+    "name": "explore_off",
+    "url": "icons/suint/general/action/explore_off.svg"
+  },
+  {
+    "name": "extension",
+    "url": "icons/suint/general/action/extension.svg"
+  },
+  {
+    "name": "face",
+    "url": "icons/suint/general/action/face.svg"
+  },
+  {
+    "name": "face_unlock",
+    "url": "icons/suint/general/action/face_unlock.svg"
+  },
+  {
+    "name": "fact_check",
+    "url": "icons/suint/general/action/fact_check.svg"
+  },
+  {
+    "name": "favorite",
+    "url": "icons/suint/general/action/favorite.svg"
+  },
+  {
+    "name": "favorite_border",
+    "url": "icons/suint/general/action/favorite_border.svg"
+  },
+  {
+    "name": "feedback",
+    "url": "icons/suint/general/action/feedback.svg"
+  },
+  {
+    "name": "filter_alt",
+    "url": "icons/suint/general/action/filter_alt.svg"
+  },
+  {
+    "name": "find_in_page",
+    "url": "icons/suint/general/action/find_in_page.svg"
+  },
+  {
+    "name": "find_replace",
+    "url": "icons/suint/general/action/find_replace.svg"
+  },
+  {
+    "name": "fingerprint",
+    "url": "icons/suint/general/action/fingerprint.svg"
+  },
+  {
+    "name": "flaky",
+    "url": "icons/suint/general/action/flaky.svg"
+  },
+  {
+    "name": "flight_land",
+    "url": "icons/suint/general/action/flight_land.svg"
+  },
+  {
+    "name": "flight_takeoff",
+    "url": "icons/suint/general/action/flight_takeoff.svg"
+  },
+  {
+    "name": "flip_to_back",
+    "url": "icons/suint/general/action/flip_to_back.svg"
+  },
+  {
+    "name": "flip_to_front",
+    "url": "icons/suint/general/action/flip_to_front.svg"
+  },
+  {
+    "name": "gavel",
+    "url": "icons/suint/general/action/gavel.svg"
+  },
+  {
+    "name": "get_app",
+    "url": "icons/suint/general/action/get_app.svg"
+  },
+  {
+    "name": "gif",
+    "url": "icons/suint/general/action/gif.svg"
+  },
+  {
+    "name": "grade",
+    "url": "icons/suint/general/action/grade.svg"
+  },
+  {
+    "name": "grading",
+    "url": "icons/suint/general/action/grading.svg"
+  },
+  {
+    "name": "group_work",
+    "url": "icons/suint/general/action/group_work.svg"
+  },
+  {
+    "name": "g_translate",
+    "url": "icons/suint/general/action/g_translate.svg"
+  },
+  {
+    "name": "help",
+    "url": "icons/suint/general/action/help.svg"
+  },
+  {
+    "name": "help_center",
+    "url": "icons/suint/general/action/help_center.svg"
+  },
+  {
+    "name": "help_outline",
+    "url": "icons/suint/general/action/help_outline.svg"
+  },
+  {
+    "name": "highlight_alt",
+    "url": "icons/suint/general/action/highlight_alt.svg"
+  },
+  {
+    "name": "highlight_off",
+    "url": "icons/suint/general/action/highlight_off.svg"
+  },
+  {
+    "name": "history",
+    "url": "icons/suint/general/action/history.svg"
+  },
+  {
+    "name": "history_toggle_off",
+    "url": "icons/suint/general/action/history_toggle_off.svg"
+  },
+  {
+    "name": "home",
+    "url": "icons/suint/general/action/home.svg"
+  },
+  {
+    "name": "horizontal_split",
+    "url": "icons/suint/general/action/horizontal_split.svg"
+  },
+  {
+    "name": "hourglass_disabled",
+    "url": "icons/suint/general/action/hourglass_disabled.svg"
+  },
+  {
+    "name": "hourglass_empty",
+    "url": "icons/suint/general/action/hourglass_empty.svg"
+  },
+  {
+    "name": "hourglass_full",
+    "url": "icons/suint/general/action/hourglass_full.svg"
+  },
+  {
+    "name": "http",
+    "url": "icons/suint/general/action/http.svg"
+  },
+  {
+    "name": "https",
+    "url": "icons/suint/general/action/https.svg"
+  },
+  {
+    "name": "important_devices",
+    "url": "icons/suint/general/action/important_devices.svg"
+  },
+  {
+    "name": "info",
+    "url": "icons/suint/general/action/info.svg"
+  },
+  {
+    "name": "info_outline",
+    "url": "icons/suint/general/action/info_outline.svg"
+  },
+  {
+    "name": "input",
+    "url": "icons/suint/general/action/input.svg"
+  },
+  {
+    "name": "integration_instructions",
+    "url": "icons/suint/general/action/integration_instructions.svg"
+  },
+  {
+    "name": "invert_colors",
+    "url": "icons/suint/general/action/invert_colors.svg"
+  },
+  {
+    "name": "label",
+    "url": "icons/suint/general/action/label.svg"
+  },
+  {
+    "name": "label_important",
+    "url": "icons/suint/general/action/label_important.svg"
+  },
+  {
+    "name": "label_important_outline",
+    "url": "icons/suint/general/action/label_important_outline.svg"
+  },
+  {
+    "name": "label_off",
+    "url": "icons/suint/general/action/label_off.svg"
+  },
+  {
+    "name": "label_outline",
+    "url": "icons/suint/general/action/label_outline.svg"
+  },
+  {
+    "name": "language",
+    "url": "icons/suint/general/action/language.svg"
+  },
+  {
+    "name": "launch",
+    "url": "icons/suint/general/action/launch.svg"
+  },
+  {
+    "name": "leaderboard",
+    "url": "icons/suint/general/action/leaderboard.svg"
+  },
+  {
+    "name": "lightbulb_outline",
+    "url": "icons/suint/general/action/lightbulb_outline.svg"
+  },
+  {
+    "name": "line_style",
+    "url": "icons/suint/general/action/line_style.svg"
+  },
+  {
+    "name": "line_weight",
+    "url": "icons/suint/general/action/line_weight.svg"
+  },
+  {
+    "name": "list",
+    "url": "icons/suint/general/action/list.svg"
+  },
+  {
+    "name": "lock",
+    "url": "icons/suint/general/action/lock.svg"
+  },
+  {
+    "name": "lock_open",
+    "url": "icons/suint/general/action/lock_open.svg"
+  },
+  {
+    "name": "lock_outline",
+    "url": "icons/suint/general/action/lock_outline.svg"
+  },
+  {
+    "name": "login",
+    "url": "icons/suint/general/action/login.svg"
+  },
+  {
+    "name": "loyalty",
+    "url": "icons/suint/general/action/loyalty.svg"
+  },
+  {
+    "name": "markunread_mailbox",
+    "url": "icons/suint/general/action/markunread_mailbox.svg"
+  },
+  {
+    "name": "maximize",
+    "url": "icons/suint/general/action/maximize.svg"
+  },
+  {
+    "name": "mediation",
+    "url": "icons/suint/general/action/mediation.svg"
+  },
+  {
+    "name": "minimize",
+    "url": "icons/suint/general/action/minimize.svg"
+  },
+  {
+    "name": "model_training",
+    "url": "icons/suint/general/action/model_training.svg"
+  },
+  {
+    "name": "next_plan",
+    "url": "icons/suint/general/action/next_plan.svg"
+  },
+  {
+    "name": "note_add",
+    "url": "icons/suint/general/action/note_add.svg"
+  },
+  {
+    "name": "not_accessible",
+    "url": "icons/suint/general/action/not_accessible.svg"
+  },
+  {
+    "name": "not_started",
+    "url": "icons/suint/general/action/not_started.svg"
+  },
+  {
+    "name": "offline_bolt",
+    "url": "icons/suint/general/action/offline_bolt.svg"
+  },
+  {
+    "name": "offline_pin",
+    "url": "icons/suint/general/action/offline_pin.svg"
+  },
+  {
+    "name": "online_prediction",
+    "url": "icons/suint/general/action/online_prediction.svg"
+  },
+  {
+    "name": "opacity",
+    "url": "icons/suint/general/action/opacity.svg"
+  },
+  {
+    "name": "open_in_browser",
+    "url": "icons/suint/general/action/open_in_browser.svg"
+  },
+  {
+    "name": "open_in_full",
+    "url": "icons/suint/general/action/open_in_full.svg"
+  },
+  {
+    "name": "open_in_new",
+    "url": "icons/suint/general/action/open_in_new.svg"
+  },
+  {
+    "name": "open_with",
+    "url": "icons/suint/general/action/open_with.svg"
+  },
+  {
+    "name": "outbond",
+    "url": "icons/suint/general/action/outbond.svg"
+  },
+  {
+    "name": "outlet",
+    "url": "icons/suint/general/action/outlet.svg"
+  },
+  {
+    "name": "pageview",
+    "url": "icons/suint/general/action/pageview.svg"
+  },
+  {
+    "name": "pan_tool",
+    "url": "icons/suint/general/action/pan_tool.svg"
+  },
+  {
+    "name": "payment",
+    "url": "icons/suint/general/action/payment.svg"
+  },
+  {
+    "name": "pending",
+    "url": "icons/suint/general/action/pending.svg"
+  },
+  {
+    "name": "pending_actions",
+    "url": "icons/suint/general/action/pending_actions.svg"
+  },
+  {
+    "name": "perm_camera_mic",
+    "url": "icons/suint/general/action/perm_camera_mic.svg"
+  },
+  {
+    "name": "perm_contact_calendar",
+    "url": "icons/suint/general/action/perm_contact_calendar.svg"
+  },
+  {
+    "name": "perm_data_setting",
+    "url": "icons/suint/general/action/perm_data_setting.svg"
+  },
+  {
+    "name": "perm_device_information",
+    "url": "icons/suint/general/action/perm_device_information.svg"
+  },
+  {
+    "name": "perm_identity",
+    "url": "icons/suint/general/action/perm_identity.svg"
+  },
+  {
+    "name": "perm_media",
+    "url": "icons/suint/general/action/perm_media.svg"
+  },
+  {
+    "name": "perm_phone_msg",
+    "url": "icons/suint/general/action/perm_phone_msg.svg"
+  },
+  {
+    "name": "perm_scan_wifi",
+    "url": "icons/suint/general/action/perm_scan_wifi.svg"
+  },
+  {
+    "name": "pets",
+    "url": "icons/suint/general/action/pets.svg"
+  },
+  {
+    "name": "picture_in_picture",
+    "url": "icons/suint/general/action/picture_in_picture.svg"
+  },
+  {
+    "name": "picture_in_picture_alt",
+    "url": "icons/suint/general/action/picture_in_picture_alt.svg"
+  },
+  {
+    "name": "plagiarism",
+    "url": "icons/suint/general/action/plagiarism.svg"
+  },
+  {
+    "name": "play_for_work",
+    "url": "icons/suint/general/action/play_for_work.svg"
+  },
+  {
+    "name": "polymer",
+    "url": "icons/suint/general/action/polymer.svg"
+  },
+  {
+    "name": "power_settings_new",
+    "url": "icons/suint/general/action/power_settings_new.svg"
+  },
+  {
+    "name": "pregnant_woman",
+    "url": "icons/suint/general/action/pregnant_woman.svg"
+  },
+  {
+    "name": "preview",
+    "url": "icons/suint/general/action/preview.svg"
+  },
+  {
+    "name": "print",
+    "url": "icons/suint/general/action/print.svg"
+  },
+  {
+    "name": "privacy_tip",
+    "url": "icons/suint/general/action/privacy_tip.svg"
+  },
+  {
+    "name": "published_with_changes",
+    "url": "icons/suint/general/action/published_with_changes.svg"
+  },
+  {
+    "name": "query_builder",
+    "url": "icons/suint/general/action/query_builder.svg"
+  },
+  {
+    "name": "question_answer",
+    "url": "icons/suint/general/action/question_answer.svg"
+  },
+  {
+    "name": "quickreply",
+    "url": "icons/suint/general/action/quickreply.svg"
+  },
+  {
+    "name": "receipt",
+    "url": "icons/suint/general/action/receipt.svg"
+  },
+  {
+    "name": "record_voice_over",
+    "url": "icons/suint/general/action/record_voice_over.svg"
+  },
+  {
+    "name": "redeem",
+    "url": "icons/suint/general/action/redeem.svg"
+  },
+  {
+    "name": "remove_shopping_cart",
+    "url": "icons/suint/general/action/remove_shopping_cart.svg"
+  },
+  {
+    "name": "reorder",
+    "url": "icons/suint/general/action/reorder.svg"
+  },
+  {
+    "name": "report_problem",
+    "url": "icons/suint/general/action/report_problem.svg"
+  },
+  {
+    "name": "request_page",
+    "url": "icons/suint/general/action/request_page.svg"
+  },
+  {
+    "name": "restore",
+    "url": "icons/suint/general/action/restore.svg"
+  },
+  {
+    "name": "restore_from_trash",
+    "url": "icons/suint/general/action/restore_from_trash.svg"
+  },
+  {
+    "name": "restore_page",
+    "url": "icons/suint/general/action/restore_page.svg"
+  },
+  {
+    "name": "room",
+    "url": "icons/suint/general/action/room.svg"
+  },
+  {
+    "name": "rounded_corner",
+    "url": "icons/suint/general/action/rounded_corner.svg"
+  },
+  {
+    "name": "rowing",
+    "url": "icons/suint/general/action/rowing.svg"
+  },
+  {
+    "name": "rule",
+    "url": "icons/suint/general/action/rule.svg"
+  },
+  {
+    "name": "schedule",
+    "url": "icons/suint/general/action/schedule.svg"
+  },
+  {
+    "name": "search",
+    "url": "icons/suint/general/action/search.svg"
+  },
+  {
+    "name": "search_off",
+    "url": "icons/suint/general/action/search_off.svg"
+  },
+  {
+    "name": "settings",
+    "url": "icons/suint/general/action/settings.svg"
+  },
+  {
+    "name": "settings_applications",
+    "url": "icons/suint/general/action/settings_applications.svg"
+  },
+  {
+    "name": "settings_backup_restore",
+    "url": "icons/suint/general/action/settings_backup_restore.svg"
+  },
+  {
+    "name": "settings_bluetooth",
+    "url": "icons/suint/general/action/settings_bluetooth.svg"
+  },
+  {
+    "name": "settings_brightness",
+    "url": "icons/suint/general/action/settings_brightness.svg"
+  },
+  {
+    "name": "settings_cell",
+    "url": "icons/suint/general/action/settings_cell.svg"
+  },
+  {
+    "name": "settings_ethernet",
+    "url": "icons/suint/general/action/settings_ethernet.svg"
+  },
+  {
+    "name": "settings_input_antenna",
+    "url": "icons/suint/general/action/settings_input_antenna.svg"
+  },
+  {
+    "name": "settings_input_component",
+    "url": "icons/suint/general/action/settings_input_component.svg"
+  },
+  {
+    "name": "settings_input_composite",
+    "url": "icons/suint/general/action/settings_input_composite.svg"
+  },
+  {
+    "name": "settings_input_hdmi",
+    "url": "icons/suint/general/action/settings_input_hdmi.svg"
+  },
+  {
+    "name": "settings_input_svideo",
+    "url": "icons/suint/general/action/settings_input_svideo.svg"
+  },
+  {
+    "name": "settings_overscan",
+    "url": "icons/suint/general/action/settings_overscan.svg"
+  },
+  {
+    "name": "settings_phone",
+    "url": "icons/suint/general/action/settings_phone.svg"
+  },
+  {
+    "name": "settings_power",
+    "url": "icons/suint/general/action/settings_power.svg"
+  },
+  {
+    "name": "settings_remote",
+    "url": "icons/suint/general/action/settings_remote.svg"
+  },
+  {
+    "name": "settings_voice",
+    "url": "icons/suint/general/action/settings_voice.svg"
+  },
+  {
+    "name": "shop",
+    "url": "icons/suint/general/action/shop.svg"
+  },
+  {
+    "name": "shopping_bag",
+    "url": "icons/suint/general/action/shopping_bag.svg"
+  },
+  {
+    "name": "shopping_basket",
+    "url": "icons/suint/general/action/shopping_basket.svg"
+  },
+  {
+    "name": "shopping_cart",
+    "url": "icons/suint/general/action/shopping_cart.svg"
+  },
+  {
+    "name": "shop_two",
+    "url": "icons/suint/general/action/shop_two.svg"
+  },
+  {
+    "name": "smart_button",
+    "url": "icons/suint/general/action/smart_button.svg"
+  },
+  {
+    "name": "source",
+    "url": "icons/suint/general/action/source.svg"
+  },
+  {
+    "name": "speaker_notes",
+    "url": "icons/suint/general/action/speaker_notes.svg"
+  },
+  {
+    "name": "speaker_notes_off",
+    "url": "icons/suint/general/action/speaker_notes_off.svg"
+  },
+  {
+    "name": "spellcheck",
+    "url": "icons/suint/general/action/spellcheck.svg"
+  },
+  {
+    "name": "stars",
+    "url": "icons/suint/general/action/stars.svg"
+  },
+  {
+    "name": "star_rate",
+    "url": "icons/suint/general/action/star_rate.svg"
+  },
+  {
+    "name": "sticky_note_2",
+    "url": "icons/suint/general/action/sticky_note_2.svg"
+  },
+  {
+    "name": "store",
+    "url": "icons/suint/general/action/store.svg"
+  },
+  {
+    "name": "subject",
+    "url": "icons/suint/general/action/subject.svg"
+  },
+  {
+    "name": "subtitles_off",
+    "url": "icons/suint/general/action/subtitles_off.svg"
+  },
+  {
+    "name": "supervised_user_circle",
+    "url": "icons/suint/general/action/supervised_user_circle.svg"
+  },
+  {
+    "name": "supervisor_account",
+    "url": "icons/suint/general/action/supervisor_account.svg"
+  },
+  {
+    "name": "support",
+    "url": "icons/suint/general/action/support.svg"
+  },
+  {
+    "name": "swap_horiz",
+    "url": "icons/suint/general/action/swap_horiz.svg"
+  },
+  {
+    "name": "swap_horizontal_circle",
+    "url": "icons/suint/general/action/swap_horizontal_circle.svg"
+  },
+  {
+    "name": "swap_vert",
+    "url": "icons/suint/general/action/swap_vert.svg"
+  },
+  {
+    "name": "swap_vertical_circle",
+    "url": "icons/suint/general/action/swap_vertical_circle.svg"
+  },
+  {
+    "name": "sync_alt",
+    "url": "icons/suint/general/action/sync_alt.svg"
+  },
+  {
+    "name": "system_update_alt",
+    "url": "icons/suint/general/action/system_update_alt.svg"
+  },
+  {
+    "name": "tab",
+    "url": "icons/suint/general/action/tab.svg"
+  },
+  {
+    "name": "table_view",
+    "url": "icons/suint/general/action/table_view.svg"
+  },
+  {
+    "name": "tab_unselected",
+    "url": "icons/suint/general/action/tab_unselected.svg"
+  },
+  {
+    "name": "text_rotate_up",
+    "url": "icons/suint/general/action/text_rotate_up.svg"
+  },
+  {
+    "name": "text_rotate_vertical",
+    "url": "icons/suint/general/action/text_rotate_vertical.svg"
+  },
+  {
+    "name": "text_rotation_angledown",
+    "url": "icons/suint/general/action/text_rotation_angledown.svg"
+  },
+  {
+    "name": "text_rotation_angleup",
+    "url": "icons/suint/general/action/text_rotation_angleup.svg"
+  },
+  {
+    "name": "text_rotation_down",
+    "url": "icons/suint/general/action/text_rotation_down.svg"
+  },
+  {
+    "name": "text_rotation_none",
+    "url": "icons/suint/general/action/text_rotation_none.svg"
+  },
+  {
+    "name": "theaters",
+    "url": "icons/suint/general/action/theaters.svg"
+  },
+  {
+    "name": "thumbs_up_down",
+    "url": "icons/suint/general/action/thumbs_up_down.svg"
+  },
+  {
+    "name": "thumb_down",
+    "url": "icons/suint/general/action/thumb_down.svg"
+  },
+  {
+    "name": "thumb_up",
+    "url": "icons/suint/general/action/thumb_up.svg"
+  },
+  {
+    "name": "timeline",
+    "url": "icons/suint/general/action/timeline.svg"
+  },
+  {
+    "name": "toc",
+    "url": "icons/suint/general/action/toc.svg"
+  },
+  {
+    "name": "today",
+    "url": "icons/suint/general/action/today.svg"
+  },
+  {
+    "name": "toll",
+    "url": "icons/suint/general/action/toll.svg"
+  },
+  {
+    "name": "touch_app",
+    "url": "icons/suint/general/action/touch_app.svg"
+  },
+  {
+    "name": "tour",
+    "url": "icons/suint/general/action/tour.svg"
+  },
+  {
+    "name": "track_changes",
+    "url": "icons/suint/general/action/track_changes.svg"
+  },
+  {
+    "name": "translate",
+    "url": "icons/suint/general/action/translate.svg"
+  },
+  {
+    "name": "trending_down",
+    "url": "icons/suint/general/action/trending_down.svg"
+  },
+  {
+    "name": "trending_flat",
+    "url": "icons/suint/general/action/trending_flat.svg"
+  },
+  {
+    "name": "trending_up",
+    "url": "icons/suint/general/action/trending_up.svg"
+  },
+  {
+    "name": "turned_in",
+    "url": "icons/suint/general/action/turned_in.svg"
+  },
+  {
+    "name": "turned_in_not",
+    "url": "icons/suint/general/action/turned_in_not.svg"
+  },
+  {
+    "name": "unpublished",
+    "url": "icons/suint/general/action/unpublished.svg"
+  },
+  {
+    "name": "update",
+    "url": "icons/suint/general/action/update.svg"
+  },
+  {
+    "name": "upgrade",
+    "url": "icons/suint/general/action/upgrade.svg"
+  },
+  {
+    "name": "verified",
+    "url": "icons/suint/general/action/verified.svg"
+  },
+  {
+    "name": "verified_user",
+    "url": "icons/suint/general/action/verified_user.svg"
+  },
+  {
+    "name": "vertical_split",
+    "url": "icons/suint/general/action/vertical_split.svg"
+  },
+  {
+    "name": "view_agenda",
+    "url": "icons/suint/general/action/view_agenda.svg"
+  },
+  {
+    "name": "view_array",
+    "url": "icons/suint/general/action/view_array.svg"
+  },
+  {
+    "name": "view_carousel",
+    "url": "icons/suint/general/action/view_carousel.svg"
+  },
+  {
+    "name": "view_column",
+    "url": "icons/suint/general/action/view_column.svg"
+  },
+  {
+    "name": "view_day",
+    "url": "icons/suint/general/action/view_day.svg"
+  },
+  {
+    "name": "view_headline",
+    "url": "icons/suint/general/action/view_headline.svg"
+  },
+  {
+    "name": "view_list",
+    "url": "icons/suint/general/action/view_list.svg"
+  },
+  {
+    "name": "view_module",
+    "url": "icons/suint/general/action/view_module.svg"
+  },
+  {
+    "name": "view_quilt",
+    "url": "icons/suint/general/action/view_quilt.svg"
+  },
+  {
+    "name": "view_sidebar",
+    "url": "icons/suint/general/action/view_sidebar.svg"
+  },
+  {
+    "name": "view_stream",
+    "url": "icons/suint/general/action/view_stream.svg"
+  },
+  {
+    "name": "view_week",
+    "url": "icons/suint/general/action/view_week.svg"
+  },
+  {
+    "name": "visibility",
+    "url": "icons/suint/general/action/visibility.svg"
+  },
+  {
+    "name": "visibility_off",
+    "url": "icons/suint/general/action/visibility_off.svg"
+  },
+  {
+    "name": "voice_over_off",
+    "url": "icons/suint/general/action/voice_over_off.svg"
+  },
+  {
+    "name": "watch_later",
+    "url": "icons/suint/general/action/watch_later.svg"
+  },
+  {
+    "name": "wifi_protected_setup",
+    "url": "icons/suint/general/action/wifi_protected_setup.svg"
+  },
+  {
+    "name": "work",
+    "url": "icons/suint/general/action/work.svg"
+  },
+  {
+    "name": "work_off",
+    "url": "icons/suint/general/action/work_off.svg"
+  },
+  {
+    "name": "work_outline",
+    "url": "icons/suint/general/action/work_outline.svg"
+  },
+  {
+    "name": "wysiwyg",
+    "url": "icons/suint/general/action/wysiwyg.svg"
+  },
+  {
+    "name": "youtube_searched_for",
+    "url": "icons/suint/general/action/youtube_searched_for.svg"
+  },
+  {
+    "name": "zoom_in",
+    "url": "icons/suint/general/action/zoom_in.svg"
+  },
+  {
+    "name": "zoom_out",
+    "url": "icons/suint/general/action/zoom_out.svg"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "name": "AirplaneInFlight_fill",
+    "url": "icons/suint/solid/MapsTravel/AirplaneInFlight_fill.svg"
+  },
+  {
+    "name": "AirplaneLanding_fill",
+    "url": "icons/suint/solid/MapsTravel/AirplaneLanding_fill.svg"
+  },
+  {
+    "name": "AirplaneTakeoff_fill",
+    "url": "icons/suint/solid/MapsTravel/AirplaneTakeoff_fill.svg"
+  },
+  {
+    "name": "AirplaneTilt_fill",
+    "url": "icons/suint/solid/MapsTravel/AirplaneTilt_fill.svg"
+  },
+  {
+    "name": "Airplane_fill",
+    "url": "icons/suint/solid/MapsTravel/Airplane_fill.svg"
+  },
+  {
+    "name": "AnchorSimple_fill",
+    "url": "icons/suint/solid/MapsTravel/AnchorSimple_fill.svg"
+  },
+  {
+    "name": "Anchor_fill",
+    "url": "icons/suint/solid/MapsTravel/Anchor_fill.svg"
+  },
+  {
+    "name": "Bicycle_fill",
+    "url": "icons/suint/solid/MapsTravel/Bicycle_fill.svg"
+  },
+  {
+    "name": "Boat_fill",
+    "url": "icons/suint/solid/MapsTravel/Boat_fill.svg"
+  },
+  {
+    "name": "Bus_fill",
+    "url": "icons/suint/solid/MapsTravel/Bus_fill.svg"
+  },
+  {
+    "name": "CarSimple_fill",
+    "url": "icons/suint/solid/MapsTravel/CarSimple_fill.svg"
+  },
+  {
+    "name": "Car_fill",
+    "url": "icons/suint/solid/MapsTravel/Car_fill.svg"
+  },
+  {
+    "name": "Compass_fill",
+    "url": "icons/suint/solid/MapsTravel/Compass_fill.svg"
+  },
+  {
+    "name": "CrosshairSimple_fill",
+    "url": "icons/suint/solid/MapsTravel/CrosshairSimple_fill.svg"
+  },
+  {
+    "name": "Crosshair_fill",
+    "url": "icons/suint/solid/MapsTravel/Crosshair_fill.svg"
+  },
+  {
+    "name": "Door_fill",
+    "url": "icons/suint/solid/MapsTravel/Door_fill.svg"
+  },
+  {
+    "name": "FlagBanner_fill",
+    "url": "icons/suint/solid/MapsTravel/FlagBanner_fill.svg"
+  },
+  {
+    "name": "Flag_fill",
+    "url": "icons/suint/solid/MapsTravel/Flag_fill.svg"
+  },
+  {
+    "name": "GasPump_fill",
+    "url": "icons/suint/solid/MapsTravel/GasPump_fill.svg"
+  },
+  {
+    "name": "GlobeHemisphereEast_fill",
+    "url": "icons/suint/solid/MapsTravel/GlobeHemisphereEast_fill.svg"
+  },
+  {
+    "name": "GlobeHemisphereWest_fill",
+    "url": "icons/suint/solid/MapsTravel/GlobeHemisphereWest_fill.svg"
+  },
+  {
+    "name": "GlobeSimple_fill",
+    "url": "icons/suint/solid/MapsTravel/GlobeSimple_fill.svg"
+  },
+  {
+    "name": "GlobeStand_fill",
+    "url": "icons/suint/solid/MapsTravel/GlobeStand_fill.svg"
+  },
+  {
+    "name": "Globe_fill",
+    "url": "icons/suint/solid/MapsTravel/Globe_fill.svg"
+  },
+  {
+    "name": "Headlights_fill",
+    "url": "icons/suint/solid/MapsTravel/Headlights_fill.svg"
+  },
+  {
+    "name": "HouseLine_fill",
+    "url": "icons/suint/solid/MapsTravel/HouseLine_fill.svg"
+  },
+  {
+    "name": "HouseSimple_fill",
+    "url": "icons/suint/solid/MapsTravel/HouseSimple_fill.svg"
+  },
+  {
+    "name": "Jeep_fill",
+    "url": "icons/suint/solid/MapsTravel/Jeep_fill.svg"
+  },
+  {
+    "name": "MapPinLine_fill",
+    "url": "icons/suint/solid/MapsTravel/MapPinLine_fill.svg"
+  },
+  {
+    "name": "MapPin_fill",
+    "url": "icons/suint/solid/MapsTravel/MapPin_fill.svg"
+  },
+  {
+    "name": "MapTrifold_fill",
+    "url": "icons/suint/solid/MapsTravel/MapTrifold_fill.svg"
+  },
+  {
+    "name": "NavigationArrow_fill",
+    "url": "icons/suint/solid/MapsTravel/NavigationArrow_fill.svg"
+  },
+  {
+    "name": "Path_fill",
+    "url": "icons/suint/solid/MapsTravel/Path_fill.svg"
+  },
+  {
+    "name": "RocketLaunch_fill",
+    "url": "icons/suint/solid/MapsTravel/RocketLaunch_fill.svg"
+  },
+  {
+    "name": "Rocket_fill",
+    "url": "icons/suint/solid/MapsTravel/Rocket_fill.svg"
+  },
+  {
+    "name": "SuitcaseSimple_fill",
+    "url": "icons/suint/solid/MapsTravel/SuitcaseSimple_fill.svg"
+  },
+  {
+    "name": "Suitcase_fill",
+    "url": "icons/suint/solid/MapsTravel/Suitcase_fill.svg"
+  },
+  {
+    "name": "TrafficSign_fill",
+    "url": "icons/suint/solid/MapsTravel/TrafficSign_fill.svg"
+  },
+  {
+    "name": "TrainRegional_fill",
+    "url": "icons/suint/solid/MapsTravel/TrainRegional_fill.svg"
+  },
+  {
+    "name": "TrainSimple_fill",
+    "url": "icons/suint/solid/MapsTravel/TrainSimple_fill.svg"
+  },
+  {
+    "name": "Train_fill",
+    "url": "icons/suint/solid/MapsTravel/Train_fill.svg"
+  },
+  {
+    "name": "Truck_fill",
+    "url": "icons/suint/solid/MapsTravel/Truck_fill.svg"
+  }
+]

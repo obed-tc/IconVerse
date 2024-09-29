@@ -1,0 +1,274 @@
+[
+  {
+    "name": "ac_unit",
+    "url": "icons/suint/general/places/ac_unit.svg"
+  },
+  {
+    "name": "airport_shuttle",
+    "url": "icons/suint/general/places/airport_shuttle.svg"
+  },
+  {
+    "name": "all_inclusive",
+    "url": "icons/suint/general/places/all_inclusive.svg"
+  },
+  {
+    "name": "apartment",
+    "url": "icons/suint/general/places/apartment.svg"
+  },
+  {
+    "name": "baby_changing_station",
+    "url": "icons/suint/general/places/baby_changing_station.svg"
+  },
+  {
+    "name": "backpack",
+    "url": "icons/suint/general/places/backpack.svg"
+  },
+  {
+    "name": "bathtub",
+    "url": "icons/suint/general/places/bathtub.svg"
+  },
+  {
+    "name": "beach_access",
+    "url": "icons/suint/general/places/beach_access.svg"
+  },
+  {
+    "name": "bento",
+    "url": "icons/suint/general/places/bento.svg"
+  },
+  {
+    "name": "business_center",
+    "url": "icons/suint/general/places/business_center.svg"
+  },
+  {
+    "name": "carpenter",
+    "url": "icons/suint/general/places/carpenter.svg"
+  },
+  {
+    "name": "casino",
+    "url": "icons/suint/general/places/casino.svg"
+  },
+  {
+    "name": "charging_station",
+    "url": "icons/suint/general/places/charging_station.svg"
+  },
+  {
+    "name": "checkroom",
+    "url": "icons/suint/general/places/checkroom.svg"
+  },
+  {
+    "name": "child_care",
+    "url": "icons/suint/general/places/child_care.svg"
+  },
+  {
+    "name": "child_friendly",
+    "url": "icons/suint/general/places/child_friendly.svg"
+  },
+  {
+    "name": "corporate_fare",
+    "url": "icons/suint/general/places/corporate_fare.svg"
+  },
+  {
+    "name": "countertops",
+    "url": "icons/suint/general/places/countertops.svg"
+  },
+  {
+    "name": "do_not_step",
+    "url": "icons/suint/general/places/do_not_step.svg"
+  },
+  {
+    "name": "do_not_touch",
+    "url": "icons/suint/general/places/do_not_touch.svg"
+  },
+  {
+    "name": "dry",
+    "url": "icons/suint/general/places/dry.svg"
+  },
+  {
+    "name": "elevator",
+    "url": "icons/suint/general/places/elevator.svg"
+  },
+  {
+    "name": "escalator",
+    "url": "icons/suint/general/places/escalator.svg"
+  },
+  {
+    "name": "escalator_warning",
+    "url": "icons/suint/general/places/escalator_warning.svg"
+  },
+  {
+    "name": "family_restroom",
+    "url": "icons/suint/general/places/family_restroom.svg"
+  },
+  {
+    "name": "fence",
+    "url": "icons/suint/general/places/fence.svg"
+  },
+  {
+    "name": "fire_extinguisher",
+    "url": "icons/suint/general/places/fire_extinguisher.svg"
+  },
+  {
+    "name": "fitness_center",
+    "url": "icons/suint/general/places/fitness_center.svg"
+  },
+  {
+    "name": "food_bank",
+    "url": "icons/suint/general/places/food_bank.svg"
+  },
+  {
+    "name": "foundation",
+    "url": "icons/suint/general/places/foundation.svg"
+  },
+  {
+    "name": "free_breakfast",
+    "url": "icons/suint/general/places/free_breakfast.svg"
+  },
+  {
+    "name": "golf_course",
+    "url": "icons/suint/general/places/golf_course.svg"
+  },
+  {
+    "name": "grass",
+    "url": "icons/suint/general/places/grass.svg"
+  },
+  {
+    "name": "hot_tub",
+    "url": "icons/suint/general/places/hot_tub.svg"
+  },
+  {
+    "name": "house",
+    "url": "icons/suint/general/places/house.svg"
+  },
+  {
+    "name": "house_siding",
+    "url": "icons/suint/general/places/house_siding.svg"
+  },
+  {
+    "name": "kitchen",
+    "url": "icons/suint/general/places/kitchen.svg"
+  },
+  {
+    "name": "meeting_room",
+    "url": "icons/suint/general/places/meeting_room.svg"
+  },
+  {
+    "name": "microwave",
+    "url": "icons/suint/general/places/microwave.svg"
+  },
+  {
+    "name": "night_shelter",
+    "url": "icons/suint/general/places/night_shelter.svg"
+  },
+  {
+    "name": "no_backpack",
+    "url": "icons/suint/general/places/no_backpack.svg"
+  },
+  {
+    "name": "no_cell",
+    "url": "icons/suint/general/places/no_cell.svg"
+  },
+  {
+    "name": "no_drinks",
+    "url": "icons/suint/general/places/no_drinks.svg"
+  },
+  {
+    "name": "no_flash",
+    "url": "icons/suint/general/places/no_flash.svg"
+  },
+  {
+    "name": "no_food",
+    "url": "icons/suint/general/places/no_food.svg"
+  },
+  {
+    "name": "no_meeting_room",
+    "url": "icons/suint/general/places/no_meeting_room.svg"
+  },
+  {
+    "name": "no_photography",
+    "url": "icons/suint/general/places/no_photography.svg"
+  },
+  {
+    "name": "no_stroller",
+    "url": "icons/suint/general/places/no_stroller.svg"
+  },
+  {
+    "name": "pool",
+    "url": "icons/suint/general/places/pool.svg"
+  },
+  {
+    "name": "rice_bowl",
+    "url": "icons/suint/general/places/rice_bowl.svg"
+  },
+  {
+    "name": "roofing",
+    "url": "icons/suint/general/places/roofing.svg"
+  },
+  {
+    "name": "room_preferences",
+    "url": "icons/suint/general/places/room_preferences.svg"
+  },
+  {
+    "name": "room_service",
+    "url": "icons/suint/general/places/room_service.svg"
+  },
+  {
+    "name": "rv_hookup",
+    "url": "icons/suint/general/places/rv_hookup.svg"
+  },
+  {
+    "name": "smoke_free",
+    "url": "icons/suint/general/places/smoke_free.svg"
+  },
+  {
+    "name": "smoking_rooms",
+    "url": "icons/suint/general/places/smoking_rooms.svg"
+  },
+  {
+    "name": "soap",
+    "url": "icons/suint/general/places/soap.svg"
+  },
+  {
+    "name": "spa",
+    "url": "icons/suint/general/places/spa.svg"
+  },
+  {
+    "name": "sports_bar",
+    "url": "icons/suint/general/places/sports_bar.svg"
+  },
+  {
+    "name": "stairs",
+    "url": "icons/suint/general/places/stairs.svg"
+  },
+  {
+    "name": "storefront",
+    "url": "icons/suint/general/places/storefront.svg"
+  },
+  {
+    "name": "stroller",
+    "url": "icons/suint/general/places/stroller.svg"
+  },
+  {
+    "name": "tapas",
+    "url": "icons/suint/general/places/tapas.svg"
+  },
+  {
+    "name": "tty",
+    "url": "icons/suint/general/places/tty.svg"
+  },
+  {
+    "name": "umbrella",
+    "url": "icons/suint/general/places/umbrella.svg"
+  },
+  {
+    "name": "wash",
+    "url": "icons/suint/general/places/wash.svg"
+  },
+  {
+    "name": "water_damage",
+    "url": "icons/suint/general/places/water_damage.svg"
+  },
+  {
+    "name": "wheelchair_pickup",
+    "url": "icons/suint/general/places/wheelchair_pickup.svg"
+  }
+]

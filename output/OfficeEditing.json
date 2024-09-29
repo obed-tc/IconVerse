@@ -1,0 +1,322 @@
+[
+  {
+    "name": "ArchiveBox_fill",
+    "url": "icons/suint/solid/OfficeEditing/ArchiveBox_fill.svg"
+  },
+  {
+    "name": "ArchiveTray_fill",
+    "url": "icons/suint/solid/OfficeEditing/ArchiveTray_fill.svg"
+  },
+  {
+    "name": "Archive_fill",
+    "url": "icons/suint/solid/OfficeEditing/Archive_fill.svg"
+  },
+  {
+    "name": "BriefcaseMetal_fill",
+    "url": "icons/suint/solid/OfficeEditing/BriefcaseMetal_fill.svg"
+  },
+  {
+    "name": "Briefcase_fill",
+    "url": "icons/suint/solid/OfficeEditing/Briefcase_fill.svg"
+  },
+  {
+    "name": "Cards_fill",
+    "url": "icons/suint/solid/OfficeEditing/Cards_fill.svg"
+  },
+  {
+    "name": "ClipboardText_fill",
+    "url": "icons/suint/solid/OfficeEditing/ClipboardText_fill.svg"
+  },
+  {
+    "name": "Clipboard_fill",
+    "url": "icons/suint/solid/OfficeEditing/Clipboard_fill.svg"
+  },
+  {
+    "name": "CopySimple_fill",
+    "url": "icons/suint/solid/OfficeEditing/CopySimple_fill.svg"
+  },
+  {
+    "name": "Copy_fill",
+    "url": "icons/suint/solid/OfficeEditing/Copy_fill.svg"
+  },
+  {
+    "name": "FileArrowDown_fill",
+    "url": "icons/suint/solid/OfficeEditing/FileArrowDown_fill.svg"
+  },
+  {
+    "name": "FileArrowUp_fill",
+    "url": "icons/suint/solid/OfficeEditing/FileArrowUp_fill.svg"
+  },
+  {
+    "name": "FileDotted_fill",
+    "url": "icons/suint/solid/OfficeEditing/FileDotted_fill.svg"
+  },
+  {
+    "name": "FileMinus_fill",
+    "url": "icons/suint/solid/OfficeEditing/FileMinus_fill.svg"
+  },
+  {
+    "name": "FilePdf_fill",
+    "url": "icons/suint/solid/OfficeEditing/FilePdf_fill.svg"
+  },
+  {
+    "name": "FilePlus_fill",
+    "url": "icons/suint/solid/OfficeEditing/FilePlus_fill.svg"
+  },
+  {
+    "name": "FileSearch_fill",
+    "url": "icons/suint/solid/OfficeEditing/FileSearch_fill.svg"
+  },
+  {
+    "name": "Files_fill",
+    "url": "icons/suint/solid/OfficeEditing/Files_fill.svg"
+  },
+  {
+    "name": "FileText_fill",
+    "url": "icons/suint/solid/OfficeEditing/FileText_fill.svg"
+  },
+  {
+    "name": "FileX_fill",
+    "url": "icons/suint/solid/OfficeEditing/FileX_fill.svg"
+  },
+  {
+    "name": "File_fill",
+    "url": "icons/suint/solid/OfficeEditing/File_fill.svg"
+  },
+  {
+    "name": "FloppyDiskBack_fill",
+    "url": "icons/suint/solid/OfficeEditing/FloppyDiskBack_fill.svg"
+  },
+  {
+    "name": "FloppyDisk_fill",
+    "url": "icons/suint/solid/OfficeEditing/FloppyDisk_fill.svg"
+  },
+  {
+    "name": "FolderMinus_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderMinus_fill.svg"
+  },
+  {
+    "name": "FolderNotchMinus_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderNotchMinus_fill.svg"
+  },
+  {
+    "name": "FolderNotchOpen_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderNotchOpen_fill.svg"
+  },
+  {
+    "name": "FolderNotchPlus_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderNotchPlus_fill.svg"
+  },
+  {
+    "name": "FolderNotch_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderNotch_fill.svg"
+  },
+  {
+    "name": "FolderOpen_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderOpen_fill.svg"
+  },
+  {
+    "name": "FolderPlus_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderPlus_fill.svg"
+  },
+  {
+    "name": "FolderSimpleMinus_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderSimpleMinus_fill.svg"
+  },
+  {
+    "name": "FolderSimplePlus_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderSimplePlus_fill.svg"
+  },
+  {
+    "name": "FolderSimple_fill",
+    "url": "icons/suint/solid/OfficeEditing/FolderSimple_fill.svg"
+  },
+  {
+    "name": "Folders_fill",
+    "url": "icons/suint/solid/OfficeEditing/Folders_fill.svg"
+  },
+  {
+    "name": "Folder_fill",
+    "url": "icons/suint/solid/OfficeEditing/Folder_fill.svg"
+  },
+  {
+    "name": "FunnelSimple_fill",
+    "url": "icons/suint/solid/OfficeEditing/FunnelSimple_fill.svg"
+  },
+  {
+    "name": "Funnel_fill",
+    "url": "icons/suint/solid/OfficeEditing/Funnel_fill.svg"
+  },
+  {
+    "name": "ListBullets_fill",
+    "url": "icons/suint/solid/OfficeEditing/ListBullets_fill.svg"
+  },
+  {
+    "name": "ListDashes_fill",
+    "url": "icons/suint/solid/OfficeEditing/ListDashes_fill.svg"
+  },
+  {
+    "name": "ListNumbers_fill",
+    "url": "icons/suint/solid/OfficeEditing/ListNumbers_fill.svg"
+  },
+  {
+    "name": "ListPlus_fill",
+    "url": "icons/suint/solid/OfficeEditing/ListPlus_fill.svg"
+  },
+  {
+    "name": "List_fill",
+    "url": "icons/suint/solid/OfficeEditing/List_fill.svg"
+  },
+  {
+    "name": "NoteBlank_fill",
+    "url": "icons/suint/solid/OfficeEditing/NoteBlank_fill.svg"
+  },
+  {
+    "name": "Notebook_fill",
+    "url": "icons/suint/solid/OfficeEditing/Notebook_fill.svg"
+  },
+  {
+    "name": "Notepad_fill",
+    "url": "icons/suint/solid/OfficeEditing/Notepad_fill.svg"
+  },
+  {
+    "name": "NotePencil_fill",
+    "url": "icons/suint/solid/OfficeEditing/NotePencil_fill.svg"
+  },
+  {
+    "name": "Note_fill",
+    "url": "icons/suint/solid/OfficeEditing/Note_fill.svg"
+  },
+  {
+    "name": "PaperclipHorizontal_fill",
+    "url": "icons/suint/solid/OfficeEditing/PaperclipHorizontal_fill.svg"
+  },
+  {
+    "name": "Paperclip_fill",
+    "url": "icons/suint/solid/OfficeEditing/Paperclip_fill.svg"
+  },
+  {
+    "name": "PresentationChart_fill",
+    "url": "icons/suint/solid/OfficeEditing/PresentationChart_fill.svg"
+  },
+  {
+    "name": "Presentation_fill",
+    "url": "icons/suint/solid/OfficeEditing/Presentation_fill.svg"
+  },
+  {
+    "name": "Printer_fill",
+    "url": "icons/suint/solid/OfficeEditing/Printer_fill.svg"
+  },
+  {
+    "name": "ProjectorScreenChart_fill",
+    "url": "icons/suint/solid/OfficeEditing/ProjectorScreenChart_fill.svg"
+  },
+  {
+    "name": "ProjectorScreen_fill",
+    "url": "icons/suint/solid/OfficeEditing/ProjectorScreen_fill.svg"
+  },
+  {
+    "name": "PushPinSimpleSlash_fill",
+    "url": "icons/suint/solid/OfficeEditing/PushPinSimpleSlash_fill.svg"
+  },
+  {
+    "name": "PushPinSimple_fill",
+    "url": "icons/suint/solid/OfficeEditing/PushPinSimple_fill.svg"
+  },
+  {
+    "name": "PushPinSlash_fill",
+    "url": "icons/suint/solid/OfficeEditing/PushPinSlash_fill.svg"
+  },
+  {
+    "name": "PushPin_fill",
+    "url": "icons/suint/solid/OfficeEditing/PushPin_fill.svg"
+  },
+  {
+    "name": "SortAscending_fill",
+    "url": "icons/suint/solid/OfficeEditing/SortAscending_fill.svg"
+  },
+  {
+    "name": "SortDescending_fill",
+    "url": "icons/suint/solid/OfficeEditing/SortDescending_fill.svg"
+  },
+  {
+    "name": "TextAa_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextAa_fill.svg"
+  },
+  {
+    "name": "TextAlignCenter_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextAlignCenter_fill.svg"
+  },
+  {
+    "name": "TextAlignJustify_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextAlignJustify_fill.svg"
+  },
+  {
+    "name": "TextAlignLeft_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextAlignLeft_fill.svg"
+  },
+  {
+    "name": "TextAlignRight_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextAlignRight_fill.svg"
+  },
+  {
+    "name": "TextBolder_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextBolder_fill.svg"
+  },
+  {
+    "name": "TextHFive_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextHFive_fill.svg"
+  },
+  {
+    "name": "TextHFour_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextHFour_fill.svg"
+  },
+  {
+    "name": "TextHOne_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextHOne_fill.svg"
+  },
+  {
+    "name": "TextHSix_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextHSix_fill.svg"
+  },
+  {
+    "name": "TextHThree_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextHThree_fill.svg"
+  },
+  {
+    "name": "TextHTwo_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextHTwo_fill.svg"
+  },
+  {
+    "name": "TextH_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextH_fill.svg"
+  },
+  {
+    "name": "TextItalic_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextItalic_fill.svg"
+  },
+  {
+    "name": "TextStrikethrough_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextStrikethrough_fill.svg"
+  },
+  {
+    "name": "TextT_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextT_fill.svg"
+  },
+  {
+    "name": "TextUnderline_fill",
+    "url": "icons/suint/solid/OfficeEditing/TextUnderline_fill.svg"
+  },
+  {
+    "name": "TrashSimple_fill",
+    "url": "icons/suint/solid/OfficeEditing/TrashSimple_fill.svg"
+  },
+  {
+    "name": "Trash_fill",
+    "url": "icons/suint/solid/OfficeEditing/Trash_fill.svg"
+  },
+  {
+    "name": "Tray_fill",
+    "url": "icons/suint/solid/OfficeEditing/Tray_fill.svg"
+  }
+]

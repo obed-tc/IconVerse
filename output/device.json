@@ -1,0 +1,226 @@
+[
+  {
+    "name": "access_alarm",
+    "url": "icons/suint/general/device/access_alarm.svg"
+  },
+  {
+    "name": "access_alarms",
+    "url": "icons/suint/general/device/access_alarms.svg"
+  },
+  {
+    "name": "access_time",
+    "url": "icons/suint/general/device/access_time.svg"
+  },
+  {
+    "name": "add_alarm",
+    "url": "icons/suint/general/device/add_alarm.svg"
+  },
+  {
+    "name": "add_to_home_screen",
+    "url": "icons/suint/general/device/add_to_home_screen.svg"
+  },
+  {
+    "name": "ad_units",
+    "url": "icons/suint/general/device/ad_units.svg"
+  },
+  {
+    "name": "airplanemode_active",
+    "url": "icons/suint/general/device/airplanemode_active.svg"
+  },
+  {
+    "name": "airplanemode_inactive",
+    "url": "icons/suint/general/device/airplanemode_inactive.svg"
+  },
+  {
+    "name": "battery_alert",
+    "url": "icons/suint/general/device/battery_alert.svg"
+  },
+  {
+    "name": "battery_charging_full",
+    "url": "icons/suint/general/device/battery_charging_full.svg"
+  },
+  {
+    "name": "battery_full",
+    "url": "icons/suint/general/device/battery_full.svg"
+  },
+  {
+    "name": "battery_std",
+    "url": "icons/suint/general/device/battery_std.svg"
+  },
+  {
+    "name": "battery_unknown",
+    "url": "icons/suint/general/device/battery_unknown.svg"
+  },
+  {
+    "name": "bluetooth",
+    "url": "icons/suint/general/device/bluetooth.svg"
+  },
+  {
+    "name": "bluetooth_connected",
+    "url": "icons/suint/general/device/bluetooth_connected.svg"
+  },
+  {
+    "name": "bluetooth_disabled",
+    "url": "icons/suint/general/device/bluetooth_disabled.svg"
+  },
+  {
+    "name": "bluetooth_searching",
+    "url": "icons/suint/general/device/bluetooth_searching.svg"
+  },
+  {
+    "name": "brightness_auto",
+    "url": "icons/suint/general/device/brightness_auto.svg"
+  },
+  {
+    "name": "brightness_high",
+    "url": "icons/suint/general/device/brightness_high.svg"
+  },
+  {
+    "name": "brightness_low",
+    "url": "icons/suint/general/device/brightness_low.svg"
+  },
+  {
+    "name": "brightness_medium",
+    "url": "icons/suint/general/device/brightness_medium.svg"
+  },
+  {
+    "name": "data_usage",
+    "url": "icons/suint/general/device/data_usage.svg"
+  },
+  {
+    "name": "developer_mode",
+    "url": "icons/suint/general/device/developer_mode.svg"
+  },
+  {
+    "name": "devices",
+    "url": "icons/suint/general/device/devices.svg"
+  },
+  {
+    "name": "dvr",
+    "url": "icons/suint/general/device/dvr.svg"
+  },
+  {
+    "name": "gps_fixed",
+    "url": "icons/suint/general/device/gps_fixed.svg"
+  },
+  {
+    "name": "gps_not_fixed",
+    "url": "icons/suint/general/device/gps_not_fixed.svg"
+  },
+  {
+    "name": "gps_off",
+    "url": "icons/suint/general/device/gps_off.svg"
+  },
+  {
+    "name": "graphic_eq",
+    "url": "icons/suint/general/device/graphic_eq.svg"
+  },
+  {
+    "name": "location_disabled",
+    "url": "icons/suint/general/device/location_disabled.svg"
+  },
+  {
+    "name": "location_searching",
+    "url": "icons/suint/general/device/location_searching.svg"
+  },
+  {
+    "name": "mobile_friendly",
+    "url": "icons/suint/general/device/mobile_friendly.svg"
+  },
+  {
+    "name": "mobile_off",
+    "url": "icons/suint/general/device/mobile_off.svg"
+  },
+  {
+    "name": "nfc",
+    "url": "icons/suint/general/device/nfc.svg"
+  },
+  {
+    "name": "screen_lock_landscape",
+    "url": "icons/suint/general/device/screen_lock_landscape.svg"
+  },
+  {
+    "name": "screen_lock_portrait",
+    "url": "icons/suint/general/device/screen_lock_portrait.svg"
+  },
+  {
+    "name": "screen_lock_rotation",
+    "url": "icons/suint/general/device/screen_lock_rotation.svg"
+  },
+  {
+    "name": "screen_rotation",
+    "url": "icons/suint/general/device/screen_rotation.svg"
+  },
+  {
+    "name": "sd_storage",
+    "url": "icons/suint/general/device/sd_storage.svg"
+  },
+  {
+    "name": "settings_system_daydream",
+    "url": "icons/suint/general/device/settings_system_daydream.svg"
+  },
+  {
+    "name": "signal_cellular_4_bar",
+    "url": "icons/suint/general/device/signal_cellular_4_bar.svg"
+  },
+  {
+    "name": "signal_cellular_alt",
+    "url": "icons/suint/general/device/signal_cellular_alt.svg"
+  },
+  {
+    "name": "signal_cellular_connected_no_internet_4_bar",
+    "url": "icons/suint/general/device/signal_cellular_connected_no_internet_4_bar.svg"
+  },
+  {
+    "name": "signal_cellular_no_sim",
+    "url": "icons/suint/general/device/signal_cellular_no_sim.svg"
+  },
+  {
+    "name": "signal_cellular_null",
+    "url": "icons/suint/general/device/signal_cellular_null.svg"
+  },
+  {
+    "name": "signal_cellular_off",
+    "url": "icons/suint/general/device/signal_cellular_off.svg"
+  },
+  {
+    "name": "signal_wifi_4_bar",
+    "url": "icons/suint/general/device/signal_wifi_4_bar.svg"
+  },
+  {
+    "name": "signal_wifi_4_bar_lock",
+    "url": "icons/suint/general/device/signal_wifi_4_bar_lock.svg"
+  },
+  {
+    "name": "signal_wifi_off",
+    "url": "icons/suint/general/device/signal_wifi_off.svg"
+  },
+  {
+    "name": "storage",
+    "url": "icons/suint/general/device/storage.svg"
+  },
+  {
+    "name": "thermostat",
+    "url": "icons/suint/general/device/thermostat.svg"
+  },
+  {
+    "name": "usb",
+    "url": "icons/suint/general/device/usb.svg"
+  },
+  {
+    "name": "wallpaper",
+    "url": "icons/suint/general/device/wallpaper.svg"
+  },
+  {
+    "name": "widgets",
+    "url": "icons/suint/general/device/widgets.svg"
+  },
+  {
+    "name": "wifi_lock",
+    "url": "icons/suint/general/device/wifi_lock.svg"
+  },
+  {
+    "name": "wifi_tethering",
+    "url": "icons/suint/general/device/wifi_tethering.svg"
+  }
+]

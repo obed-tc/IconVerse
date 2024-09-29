@@ -1,0 +1,274 @@
+[
+  {
+    "name": "AlignBottom_fill",
+    "url": "icons/suint/solid/Design/AlignBottom_fill.svg"
+  },
+  {
+    "name": "AlignCenterHorizontal_fill",
+    "url": "icons/suint/solid/Design/AlignCenterHorizontal_fill.svg"
+  },
+  {
+    "name": "AlignCenterVertical_fill",
+    "url": "icons/suint/solid/Design/AlignCenterVertical_fill.svg"
+  },
+  {
+    "name": "AlignLeft_fill",
+    "url": "icons/suint/solid/Design/AlignLeft_fill.svg"
+  },
+  {
+    "name": "AlignRight_fill",
+    "url": "icons/suint/solid/Design/AlignRight_fill.svg"
+  },
+  {
+    "name": "AlignTop_fill",
+    "url": "icons/suint/solid/Design/AlignTop_fill.svg"
+  },
+  {
+    "name": "BoundingBox_fill",
+    "url": "icons/suint/solid/Design/BoundingBox_fill.svg"
+  },
+  {
+    "name": "CircleDashed_fill",
+    "url": "icons/suint/solid/Design/CircleDashed_fill.svg"
+  },
+  {
+    "name": "CircleHalfTilt_fill",
+    "url": "icons/suint/solid/Design/CircleHalfTilt_fill.svg"
+  },
+  {
+    "name": "CircleHalf_fill",
+    "url": "icons/suint/solid/Design/CircleHalf_fill.svg"
+  },
+  {
+    "name": "CirclesFour_fill",
+    "url": "icons/suint/solid/Design/CirclesFour_fill.svg"
+  },
+  {
+    "name": "CirclesThreePlus_fill",
+    "url": "icons/suint/solid/Design/CirclesThreePlus_fill.svg"
+  },
+  {
+    "name": "CirclesThree_fill",
+    "url": "icons/suint/solid/Design/CirclesThree_fill.svg"
+  },
+  {
+    "name": "Circle_fill",
+    "url": "icons/suint/solid/Design/Circle_fill.svg"
+  },
+  {
+    "name": "Columns_fill",
+    "url": "icons/suint/solid/Design/Columns_fill.svg"
+  },
+  {
+    "name": "Crop_fill",
+    "url": "icons/suint/solid/Design/Crop_fill.svg"
+  },
+  {
+    "name": "Cube_fill",
+    "url": "icons/suint/solid/Design/Cube_fill.svg"
+  },
+  {
+    "name": "DropHalf_fill",
+    "url": "icons/suint/solid/Design/DropHalf_fill.svg"
+  },
+  {
+    "name": "Eraser_fill",
+    "url": "icons/suint/solid/Design/Eraser_fill.svg"
+  },
+  {
+    "name": "EyeClosed_fill",
+    "url": "icons/suint/solid/Design/EyeClosed_fill.svg"
+  },
+  {
+    "name": "Eyedropper_fill",
+    "url": "icons/suint/solid/Design/Eyedropper_fill.svg"
+  },
+  {
+    "name": "EyeSlash_fill",
+    "url": "icons/suint/solid/Design/EyeSlash_fill.svg"
+  },
+  {
+    "name": "Eye_fill",
+    "url": "icons/suint/solid/Design/Eye_fill.svg"
+  },
+  {
+    "name": "FlowArrow_fill",
+    "url": "icons/suint/solid/Design/FlowArrow_fill.svg"
+  },
+  {
+    "name": "GridFour_fill",
+    "url": "icons/suint/solid/Design/GridFour_fill.svg"
+  },
+  {
+    "name": "Hexagon_fill",
+    "url": "icons/suint/solid/Design/Hexagon_fill.svg"
+  },
+  {
+    "name": "HighlighterCircle_fill",
+    "url": "icons/suint/solid/Design/HighlighterCircle_fill.svg"
+  },
+  {
+    "name": "Intersect_fill",
+    "url": "icons/suint/solid/Design/Intersect_fill.svg"
+  },
+  {
+    "name": "Layout_fill",
+    "url": "icons/suint/solid/Design/Layout_fill.svg"
+  },
+  {
+    "name": "LineSegments_fill",
+    "url": "icons/suint/solid/Design/LineSegments_fill.svg"
+  },
+  {
+    "name": "LineSegment_fill",
+    "url": "icons/suint/solid/Design/LineSegment_fill.svg"
+  },
+  {
+    "name": "MagicWand_fill",
+    "url": "icons/suint/solid/Design/MagicWand_fill.svg"
+  },
+  {
+    "name": "MarkerCircle_fill",
+    "url": "icons/suint/solid/Design/MarkerCircle_fill.svg"
+  },
+  {
+    "name": "Octagon_fill",
+    "url": "icons/suint/solid/Design/Octagon_fill.svg"
+  },
+  {
+    "name": "PaintBrushBroad_fill",
+    "url": "icons/suint/solid/Design/PaintBrushBroad_fill.svg"
+  },
+  {
+    "name": "PaintBrushHousehold_fill",
+    "url": "icons/suint/solid/Design/PaintBrushHousehold_fill.svg"
+  },
+  {
+    "name": "PaintBrush_fill",
+    "url": "icons/suint/solid/Design/PaintBrush_fill.svg"
+  },
+  {
+    "name": "PaintBucket_fill",
+    "url": "icons/suint/solid/Design/PaintBucket_fill.svg"
+  },
+  {
+    "name": "PaintRoller_fill",
+    "url": "icons/suint/solid/Design/PaintRoller_fill.svg"
+  },
+  {
+    "name": "Palette_fill",
+    "url": "icons/suint/solid/Design/Palette_fill.svg"
+  },
+  {
+    "name": "PencilCircle_fill",
+    "url": "icons/suint/solid/Design/PencilCircle_fill.svg"
+  },
+  {
+    "name": "PencilLine_fill",
+    "url": "icons/suint/solid/Design/PencilLine_fill.svg"
+  },
+  {
+    "name": "PencilSimple_fill",
+    "url": "icons/suint/solid/Design/PencilSimple_fill.svg"
+  },
+  {
+    "name": "Pencil_fill",
+    "url": "icons/suint/solid/Design/Pencil_fill.svg"
+  },
+  {
+    "name": "PenNibStraight_fill",
+    "url": "icons/suint/solid/Design/PenNibStraight_fill.svg"
+  },
+  {
+    "name": "PenNib_fill",
+    "url": "icons/suint/solid/Design/PenNib_fill.svg"
+  },
+  {
+    "name": "Pen_fill",
+    "url": "icons/suint/solid/Design/Pen_fill.svg"
+  },
+  {
+    "name": "Placeholder_fill",
+    "url": "icons/suint/solid/Design/Placeholder_fill.svg"
+  },
+  {
+    "name": "Polygon_fill",
+    "url": "icons/suint/solid/Design/Polygon_fill.svg"
+  },
+  {
+    "name": "Rectangle_fill",
+    "url": "icons/suint/solid/Design/Rectangle_fill.svg"
+  },
+  {
+    "name": "Rows_fill",
+    "url": "icons/suint/solid/Design/Rows_fill.svg"
+  },
+  {
+    "name": "Ruler_fill",
+    "url": "icons/suint/solid/Design/Ruler_fill.svg"
+  },
+  {
+    "name": "Scissors_fill",
+    "url": "icons/suint/solid/Design/Scissors_fill.svg"
+  },
+  {
+    "name": "ScribbleLoop_fill",
+    "url": "icons/suint/solid/Design/ScribbleLoop_fill.svg"
+  },
+  {
+    "name": "SelectionAll_fill",
+    "url": "icons/suint/solid/Design/SelectionAll_fill.svg"
+  },
+  {
+    "name": "SelectionBackground_fill",
+    "url": "icons/suint/solid/Design/SelectionBackground_fill.svg"
+  },
+  {
+    "name": "SelectionForeground_fill",
+    "url": "icons/suint/solid/Design/SelectionForeground_fill.svg"
+  },
+  {
+    "name": "SelectionInverse_fill",
+    "url": "icons/suint/solid/Design/SelectionInverse_fill.svg"
+  },
+  {
+    "name": "SelectionPlus_fill",
+    "url": "icons/suint/solid/Design/SelectionPlus_fill.svg"
+  },
+  {
+    "name": "SelectionSlash_fill",
+    "url": "icons/suint/solid/Design/SelectionSlash_fill.svg"
+  },
+  {
+    "name": "Selection_fill",
+    "url": "icons/suint/solid/Design/Selection_fill.svg"
+  },
+  {
+    "name": "SquareHalf_fill",
+    "url": "icons/suint/solid/Design/SquareHalf_fill.svg"
+  },
+  {
+    "name": "SquaresFour_fill",
+    "url": "icons/suint/solid/Design/SquaresFour_fill.svg"
+  },
+  {
+    "name": "Square_fill",
+    "url": "icons/suint/solid/Design/Square_fill.svg"
+  },
+  {
+    "name": "StackSimple_fill",
+    "url": "icons/suint/solid/Design/StackSimple_fill.svg"
+  },
+  {
+    "name": "Stack_fill",
+    "url": "icons/suint/solid/Design/Stack_fill.svg"
+  },
+  {
+    "name": "Swatches_fill",
+    "url": "icons/suint/solid/Design/Swatches_fill.svg"
+  },
+  {
+    "name": "Triangle_fill",
+    "url": "icons/suint/solid/Design/Triangle_fill.svg"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Book-check",
+    "url": "icons/suint/solid/Files/Book-check.svg"
+  },
+  {
+    "name": "Book-mark",
+    "url": "icons/suint/solid/Files/Book-mark.svg"
+  },
+  {
+    "name": "Book",
+    "url": "icons/suint/solid/Files/Book.svg"
+  },
+  {
+    "name": "Clipboard-alt",
+    "url": "icons/suint/solid/Files/Clipboard-alt.svg"
+  },
+  {
+    "name": "Clipboard",
+    "url": "icons/suint/solid/Files/Clipboard.svg"
+  },
+  {
+    "name": "Cloud-check",
+    "url": "icons/suint/solid/Files/Cloud-check.svg"
+  },
+  {
+    "name": "Cloud-download",
+    "url": "icons/suint/solid/Files/Cloud-download.svg"
+  },
+  {
+    "name": "Cloud-off",
+    "url": "icons/suint/solid/Files/Cloud-off.svg"
+  },
+  {
+    "name": "Cloud-upload",
+    "url": "icons/suint/solid/Files/Cloud-upload.svg"
+  },
+  {
+    "name": "Cloud",
+    "url": "icons/suint/solid/Files/Cloud.svg"
+  },
+  {
+    "name": "Copy",
+    "url": "icons/suint/solid/Files/Copy.svg"
+  },
+  {
+    "name": "Document",
+    "url": "icons/suint/solid/Files/Document.svg"
+  },
+  {
+    "name": "Download",
+    "url": "icons/suint/solid/Files/Download.svg"
+  },
+  {
+    "name": "File-download",
+    "url": "icons/suint/solid/Files/File-download.svg"
+  },
+  {
+    "name": "File-upload",
+    "url": "icons/suint/solid/Files/File-upload.svg"
+  },
+  {
+    "name": "File-user",
+    "url": "icons/suint/solid/Files/File-user.svg"
+  },
+  {
+    "name": "File",
+    "url": "icons/suint/solid/Files/File.svg"
+  },
+  {
+    "name": "Folder-block",
+    "url": "icons/suint/solid/Files/Folder-block.svg"
+  },
+  {
+    "name": "Folder-delete",
+    "url": "icons/suint/solid/Files/Folder-delete.svg"
+  },
+  {
+    "name": "Folder-lock",
+    "url": "icons/suint/solid/Files/Folder-lock.svg"
+  },
+  {
+    "name": "Folder-open",
+    "url": "icons/suint/solid/Files/Folder-open.svg"
+  },
+  {
+    "name": "Folder-plus",
+    "url": "icons/suint/solid/Files/Folder-plus.svg"
+  },
+  {
+    "name": "Folder-user",
+    "url": "icons/suint/solid/Files/Folder-user.svg"
+  },
+  {
+    "name": "Folder",
+    "url": "icons/suint/solid/Files/Folder.svg"
+  },
+  {
+    "name": "Image",
+    "url": "icons/suint/solid/Files/Image.svg"
+  },
+  {
+    "name": "Invoice",
+    "url": "icons/suint/solid/Files/Invoice.svg"
+  },
+  {
+    "name": "Picture",
+    "url": "icons/suint/solid/Files/Picture.svg"
+  },
+  {
+    "name": "Upload",
+    "url": "icons/suint/solid/Files/Upload.svg"
+  }
+]

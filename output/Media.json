@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Airplay_fill",
+    "url": "icons/suint/solid/Media/Airplay_fill.svg"
+  },
+  {
+    "name": "Aperture_fill",
+    "url": "icons/suint/solid/Media/Aperture_fill.svg"
+  },
+  {
+    "name": "ArticleMedium_fill",
+    "url": "icons/suint/solid/Media/ArticleMedium_fill.svg"
+  },
+  {
+    "name": "ArticleNyTimes_fill",
+    "url": "icons/suint/solid/Media/ArticleNyTimes_fill.svg"
+  },
+  {
+    "name": "Article_fill",
+    "url": "icons/suint/solid/Media/Article_fill.svg"
+  },
+  {
+    "name": "CameraSlash_fill",
+    "url": "icons/suint/solid/Media/CameraSlash_fill.svg"
+  },
+  {
+    "name": "Camera_fill",
+    "url": "icons/suint/solid/Media/Camera_fill.svg"
+  },
+  {
+    "name": "ClosedCaptioning_fill",
+    "url": "icons/suint/solid/Media/ClosedCaptioning_fill.svg"
+  },
+  {
+    "name": "Copyright_fill",
+    "url": "icons/suint/solid/Media/Copyright_fill.svg"
+  },
+  {
+    "name": "CornersIn_fill",
+    "url": "icons/suint/solid/Media/CornersIn_fill.svg"
+  },
+  {
+    "name": "CornersOut_fill",
+    "url": "icons/suint/solid/Media/CornersOut_fill.svg"
+  },
+  {
+    "name": "Disc_fill",
+    "url": "icons/suint/solid/Media/Disc_fill.svg"
+  },
+  {
+    "name": "EarSlash_fill",
+    "url": "icons/suint/solid/Media/EarSlash_fill.svg"
+  },
+  {
+    "name": "Ear_fill",
+    "url": "icons/suint/solid/Media/Ear_fill.svg"
+  },
+  {
+    "name": "EjectSimple_fill",
+    "url": "icons/suint/solid/Media/EjectSimple_fill.svg"
+  },
+  {
+    "name": "Eject_fill",
+    "url": "icons/suint/solid/Media/Eject_fill.svg"
+  },
+  {
+    "name": "FadersHorizontal_fill",
+    "url": "icons/suint/solid/Media/FadersHorizontal_fill.svg"
+  },
+  {
+    "name": "Faders_fill",
+    "url": "icons/suint/solid/Media/Faders_fill.svg"
+  },
+  {
+    "name": "Fast-forward",
+    "url": "icons/suint/solid/Media/Fast-forward.svg"
+  },
+  {
+    "name": "Fast-rewind",
+    "url": "icons/suint/solid/Media/Fast-rewind.svg"
+  },
+  {
+    "name": "FastForwardCircle_fill",
+    "url": "icons/suint/solid/Media/FastForwardCircle_fill.svg"
+  },
+  {
+    "name": "FastForward_fill",
+    "url": "icons/suint/solid/Media/FastForward_fill.svg"
+  },
+  {
+    "name": "FilmStrip_fill",
+    "url": "icons/suint/solid/Media/FilmStrip_fill.svg"
+  },
+  {
+    "name": "Gif_fill",
+    "url": "icons/suint/solid/Media/Gif_fill.svg"
+  },
+  {
+    "name": "Headphone",
+    "url": "icons/suint/solid/Media/Headphone.svg"
+  },
+  {
+    "name": "Headphones_fill",
+    "url": "icons/suint/solid/Media/Headphones_fill.svg"
+  },
+  {
+    "name": "Headset",
+    "url": "icons/suint/solid/Media/Headset.svg"
+  },
+  {
+    "name": "Headset_fill",
+    "url": "icons/suint/solid/Media/Headset_fill.svg"
+  },
+  {
+    "name": "ImageSquare_fill",
+    "url": "icons/suint/solid/Media/ImageSquare_fill.svg"
+  },
+  {
+    "name": "Image_fill",
+    "url": "icons/suint/solid/Media/Image_fill.svg"
+  },
+  {
+    "name": "Microphone-off",
+    "url": "icons/suint/solid/Media/Microphone-off.svg"
+  },
+  {
+    "name": "Microphone",
+    "url": "icons/suint/solid/Media/Microphone.svg"
+  },
+  {
+    "name": "MicrophoneSlash_fill",
+    "url": "icons/suint/solid/Media/MicrophoneSlash_fill.svg"
+  },
+  {
+    "name": "Microphone_fill",
+    "url": "icons/suint/solid/Media/Microphone_fill.svg"
+  },
+  {
+    "name": "Music",
+    "url": "icons/suint/solid/Media/Music.svg"
+  },
+  {
+    "name": "MusicNoteSimple_fill",
+    "url": "icons/suint/solid/Media/MusicNoteSimple_fill.svg"
+  },
+  {
+    "name": "MusicNotesSimple_fill",
+    "url": "icons/suint/solid/Media/MusicNotesSimple_fill.svg"
+  },
+  {
+    "name": "MusicNotes_fill",
+    "url": "icons/suint/solid/Media/MusicNotes_fill.svg"
+  },
+  {
+    "name": "MusicNote_fill",
+    "url": "icons/suint/solid/Media/MusicNote_fill.svg"
+  },
+  {
+    "name": "NewspaperClipping_fill",
+    "url": "icons/suint/solid/Media/NewspaperClipping_fill.svg"
+  },
+  {
+    "name": "Newspaper_fill",
+    "url": "icons/suint/solid/Media/Newspaper_fill.svg"
+  },
+  {
+    "name": "Pause",
+    "url": "icons/suint/solid/Media/Pause.svg"
+  },
+  {
+    "name": "PauseCircle_fill",
+    "url": "icons/suint/solid/Media/PauseCircle_fill.svg"
+  },
+  {
+    "name": "Pause_fill",
+    "url": "icons/suint/solid/Media/Pause_fill.svg"
+  },
+  {
+    "name": "PictureInPicture_fill",
+    "url": "icons/suint/solid/Media/PictureInPicture_fill.svg"
+  },
+  {
+    "name": "Play",
+    "url": "icons/suint/solid/Media/Play.svg"
+  },
+  {
+    "name": "PlayCircle_fill",
+    "url": "icons/suint/solid/Media/PlayCircle_fill.svg"
+  },
+  {
+    "name": "Playlist_fill",
+    "url": "icons/suint/solid/Media/Playlist_fill.svg"
+  },
+  {
+    "name": "Play_fill",
+    "url": "icons/suint/solid/Media/Play_fill.svg"
+  },
+  {
+    "name": "Queue_fill",
+    "url": "icons/suint/solid/Media/Queue_fill.svg"
+  },
+  {
+    "name": "Record_fill",
+    "url": "icons/suint/solid/Media/Record_fill.svg"
+  },
+  {
+    "name": "RepeatOnce_fill",
+    "url": "icons/suint/solid/Media/RepeatOnce_fill.svg"
+  },
+  {
+    "name": "Repeat_fill",
+    "url": "icons/suint/solid/Media/Repeat_fill.svg"
+  },
+  {
+    "name": "RewindCircle_fill",
+    "url": "icons/suint/solid/Media/RewindCircle_fill.svg"
+  },
+  {
+    "name": "Rewind_fill",
+    "url": "icons/suint/solid/Media/Rewind_fill.svg"
+  },
+  {
+    "name": "Screencast_fill",
+    "url": "icons/suint/solid/Media/Screencast_fill.svg"
+  },
+  {
+    "name": "Shuffle",
+    "url": "icons/suint/solid/Media/Shuffle.svg"
+  },
+  {
+    "name": "ShuffleAngular_fill",
+    "url": "icons/suint/solid/Media/ShuffleAngular_fill.svg"
+  },
+  {
+    "name": "ShuffleSimple_fill",
+    "url": "icons/suint/solid/Media/ShuffleSimple_fill.svg"
+  },
+  {
+    "name": "Shuffle_fill",
+    "url": "icons/suint/solid/Media/Shuffle_fill.svg"
+  },
+  {
+    "name": "Skip-next",
+    "url": "icons/suint/solid/Media/Skip-next.svg"
+  },
+  {
+    "name": "Skip-prev",
+    "url": "icons/suint/solid/Media/Skip-prev.svg"
+  },
+  {
+    "name": "SkipBackCircle_fill",
+    "url": "icons/suint/solid/Media/SkipBackCircle_fill.svg"
+  },
+  {
+    "name": "SkipBack_fill",
+    "url": "icons/suint/solid/Media/SkipBack_fill.svg"
+  },
+  {
+    "name": "SkipForwardCircle_fill",
+    "url": "icons/suint/solid/Media/SkipForwardCircle_fill.svg"
+  },
+  {
+    "name": "SkipForward_fill",
+    "url": "icons/suint/solid/Media/SkipForward_fill.svg"
+  },
+  {
+    "name": "SlidersHorizontal_fill",
+    "url": "icons/suint/solid/Media/SlidersHorizontal_fill.svg"
+  },
+  {
+    "name": "Sliders_fill",
+    "url": "icons/suint/solid/Media/Sliders_fill.svg"
+  },
+  {
+    "name": "SpeakerHigh_fill",
+    "url": "icons/suint/solid/Media/SpeakerHigh_fill.svg"
+  },
+  {
+    "name": "SpeakerLow_fill",
+    "url": "icons/suint/solid/Media/SpeakerLow_fill.svg"
+  },
+  {
+    "name": "SpeakerNone_fill",
+    "url": "icons/suint/solid/Media/SpeakerNone_fill.svg"
+  },
+  {
+    "name": "SpeakerSimpleHigh_fill",
+    "url": "icons/suint/solid/Media/SpeakerSimpleHigh_fill.svg"
+  },
+  {
+    "name": "SpeakerSimpleLow_fill",
+    "url": "icons/suint/solid/Media/SpeakerSimpleLow_fill.svg"
+  },
+  {
+    "name": "SpeakerSimpleNone_fill",
+    "url": "icons/suint/solid/Media/SpeakerSimpleNone_fill.svg"
+  },
+  {
+    "name": "SpeakerSimpleSlash_fill",
+    "url": "icons/suint/solid/Media/SpeakerSimpleSlash_fill.svg"
+  },
+  {
+    "name": "SpeakerSimpleX_fill",
+    "url": "icons/suint/solid/Media/SpeakerSimpleX_fill.svg"
+  },
+  {
+    "name": "SpeakerSlash_fill",
+    "url": "icons/suint/solid/Media/SpeakerSlash_fill.svg"
+  },
+  {
+    "name": "SpeakerX_fill",
+    "url": "icons/suint/solid/Media/SpeakerX_fill.svg"
+  },
+  {
+    "name": "StopCircle_fill",
+    "url": "icons/suint/solid/Media/StopCircle_fill.svg"
+  },
+  {
+    "name": "Stop_fill",
+    "url": "icons/suint/solid/Media/Stop_fill.svg"
+  },
+  {
+    "name": "VideoCameraSlash_fill",
+    "url": "icons/suint/solid/Media/VideoCameraSlash_fill.svg"
+  },
+  {
+    "name": "VideoCamera_fill",
+    "url": "icons/suint/solid/Media/VideoCamera_fill.svg"
+  },
+  {
+    "name": "Volume-down",
+    "url": "icons/suint/solid/Media/Volume-down.svg"
+  },
+  {
+    "name": "Volume-off",
+    "url": "icons/suint/solid/Media/Volume-off.svg"
+  },
+  {
+    "name": "Volume-up",
+    "url": "icons/suint/solid/Media/Volume-up.svg"
+  }
+]

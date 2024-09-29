@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Battery-full-1",
+    "url": "icons/suint/solid/Devices/Battery-full-1.svg"
+  },
+  {
+    "name": "Battery-full",
+    "url": "icons/suint/solid/Devices/Battery-full.svg"
+  },
+  {
+    "name": "Battery-low",
+    "url": "icons/suint/solid/Devices/Battery-low.svg"
+  },
+  {
+    "name": "Battery-most",
+    "url": "icons/suint/solid/Devices/Battery-most.svg"
+  },
+  {
+    "name": "Battery-quarter",
+    "url": "icons/suint/solid/Devices/Battery-quarter.svg"
+  },
+  {
+    "name": "Battry-half",
+    "url": "icons/suint/solid/Devices/Battry-half.svg"
+  },
+  {
+    "name": "Binocular",
+    "url": "icons/suint/solid/Devices/Binocular.svg"
+  },
+  {
+    "name": "Camera",
+    "url": "icons/suint/solid/Devices/Camera.svg"
+  },
+  {
+    "name": "Desktop",
+    "url": "icons/suint/solid/Devices/Desktop.svg"
+  },
+  {
+    "name": "Dialpad",
+    "url": "icons/suint/solid/Devices/Dialpad.svg"
+  },
+  {
+    "name": "Gamepad",
+    "url": "icons/suint/solid/Devices/Gamepad.svg"
+  },
+  {
+    "name": "Mobile-phone",
+    "url": "icons/suint/solid/Devices/Mobile-phone.svg"
+  },
+  {
+    "name": "Mouse-alt",
+    "url": "icons/suint/solid/Devices/Mouse-alt.svg"
+  },
+  {
+    "name": "Mouse",
+    "url": "icons/suint/solid/Devices/Mouse.svg"
+  },
+  {
+    "name": "Printer",
+    "url": "icons/suint/solid/Devices/Printer.svg"
+  },
+  {
+    "name": "Processor",
+    "url": "icons/suint/solid/Devices/Processor.svg"
+  },
+  {
+    "name": "Server",
+    "url": "icons/suint/solid/Devices/Server.svg"
+  },
+  {
+    "name": "Video",
+    "url": "icons/suint/solid/Devices/Video.svg"
+  },
+  {
+    "name": "Watch",
+    "url": "icons/suint/solid/Devices/Watch.svg"
+  }
+]

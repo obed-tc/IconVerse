@@ -1,0 +1,210 @@
+[
+  {
+    "name": "browser_not_supported",
+    "url": "icons/suint/general/hardware/browser_not_supported.svg"
+  },
+  {
+    "name": "cast",
+    "url": "icons/suint/general/hardware/cast.svg"
+  },
+  {
+    "name": "cast_connected",
+    "url": "icons/suint/general/hardware/cast_connected.svg"
+  },
+  {
+    "name": "cast_for_education",
+    "url": "icons/suint/general/hardware/cast_for_education.svg"
+  },
+  {
+    "name": "computer",
+    "url": "icons/suint/general/hardware/computer.svg"
+  },
+  {
+    "name": "desktop_mac",
+    "url": "icons/suint/general/hardware/desktop_mac.svg"
+  },
+  {
+    "name": "desktop_windows",
+    "url": "icons/suint/general/hardware/desktop_windows.svg"
+  },
+  {
+    "name": "developer_board",
+    "url": "icons/suint/general/hardware/developer_board.svg"
+  },
+  {
+    "name": "devices_other",
+    "url": "icons/suint/general/hardware/devices_other.svg"
+  },
+  {
+    "name": "device_hub",
+    "url": "icons/suint/general/hardware/device_hub.svg"
+  },
+  {
+    "name": "device_unknown",
+    "url": "icons/suint/general/hardware/device_unknown.svg"
+  },
+  {
+    "name": "dock",
+    "url": "icons/suint/general/hardware/dock.svg"
+  },
+  {
+    "name": "gamepad",
+    "url": "icons/suint/general/hardware/gamepad.svg"
+  },
+  {
+    "name": "headset",
+    "url": "icons/suint/general/hardware/headset.svg"
+  },
+  {
+    "name": "headset_mic",
+    "url": "icons/suint/general/hardware/headset_mic.svg"
+  },
+  {
+    "name": "keyboard",
+    "url": "icons/suint/general/hardware/keyboard.svg"
+  },
+  {
+    "name": "keyboard_arrow_down",
+    "url": "icons/suint/general/hardware/keyboard_arrow_down.svg"
+  },
+  {
+    "name": "keyboard_arrow_left",
+    "url": "icons/suint/general/hardware/keyboard_arrow_left.svg"
+  },
+  {
+    "name": "keyboard_arrow_right",
+    "url": "icons/suint/general/hardware/keyboard_arrow_right.svg"
+  },
+  {
+    "name": "keyboard_arrow_up",
+    "url": "icons/suint/general/hardware/keyboard_arrow_up.svg"
+  },
+  {
+    "name": "keyboard_backspace",
+    "url": "icons/suint/general/hardware/keyboard_backspace.svg"
+  },
+  {
+    "name": "keyboard_capslock",
+    "url": "icons/suint/general/hardware/keyboard_capslock.svg"
+  },
+  {
+    "name": "keyboard_hide",
+    "url": "icons/suint/general/hardware/keyboard_hide.svg"
+  },
+  {
+    "name": "keyboard_return",
+    "url": "icons/suint/general/hardware/keyboard_return.svg"
+  },
+  {
+    "name": "keyboard_tab",
+    "url": "icons/suint/general/hardware/keyboard_tab.svg"
+  },
+  {
+    "name": "keyboard_voice",
+    "url": "icons/suint/general/hardware/keyboard_voice.svg"
+  },
+  {
+    "name": "laptop",
+    "url": "icons/suint/general/hardware/laptop.svg"
+  },
+  {
+    "name": "laptop_chromebook",
+    "url": "icons/suint/general/hardware/laptop_chromebook.svg"
+  },
+  {
+    "name": "laptop_mac",
+    "url": "icons/suint/general/hardware/laptop_mac.svg"
+  },
+  {
+    "name": "laptop_windows",
+    "url": "icons/suint/general/hardware/laptop_windows.svg"
+  },
+  {
+    "name": "memory",
+    "url": "icons/suint/general/hardware/memory.svg"
+  },
+  {
+    "name": "mouse",
+    "url": "icons/suint/general/hardware/mouse.svg"
+  },
+  {
+    "name": "phonelink",
+    "url": "icons/suint/general/hardware/phonelink.svg"
+  },
+  {
+    "name": "phonelink_off",
+    "url": "icons/suint/general/hardware/phonelink_off.svg"
+  },
+  {
+    "name": "phone_android",
+    "url": "icons/suint/general/hardware/phone_android.svg"
+  },
+  {
+    "name": "phone_iphone",
+    "url": "icons/suint/general/hardware/phone_iphone.svg"
+  },
+  {
+    "name": "point_of_sale",
+    "url": "icons/suint/general/hardware/point_of_sale.svg"
+  },
+  {
+    "name": "power_input",
+    "url": "icons/suint/general/hardware/power_input.svg"
+  },
+  {
+    "name": "router",
+    "url": "icons/suint/general/hardware/router.svg"
+  },
+  {
+    "name": "scanner",
+    "url": "icons/suint/general/hardware/scanner.svg"
+  },
+  {
+    "name": "security",
+    "url": "icons/suint/general/hardware/security.svg"
+  },
+  {
+    "name": "sim_card",
+    "url": "icons/suint/general/hardware/sim_card.svg"
+  },
+  {
+    "name": "smartphone",
+    "url": "icons/suint/general/hardware/smartphone.svg"
+  },
+  {
+    "name": "speaker",
+    "url": "icons/suint/general/hardware/speaker.svg"
+  },
+  {
+    "name": "speaker_group",
+    "url": "icons/suint/general/hardware/speaker_group.svg"
+  },
+  {
+    "name": "tablet",
+    "url": "icons/suint/general/hardware/tablet.svg"
+  },
+  {
+    "name": "tablet_android",
+    "url": "icons/suint/general/hardware/tablet_android.svg"
+  },
+  {
+    "name": "tablet_mac",
+    "url": "icons/suint/general/hardware/tablet_mac.svg"
+  },
+  {
+    "name": "toys",
+    "url": "icons/suint/general/hardware/toys.svg"
+  },
+  {
+    "name": "tv",
+    "url": "icons/suint/general/hardware/tv.svg"
+  },
+  {
+    "name": "videogame_asset",
+    "url": "icons/suint/general/hardware/videogame_asset.svg"
+  },
+  {
+    "name": "watch",
+    "url": "icons/suint/general/hardware/watch.svg"
+  }
+]

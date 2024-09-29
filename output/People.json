@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Baby_fill",
+    "url": "icons/suint/solid/People/Baby_fill.svg"
+  },
+  {
+    "name": "GenderFemale_fill",
+    "url": "icons/suint/solid/People/GenderFemale_fill.svg"
+  },
+  {
+    "name": "GenderIntersex_fill",
+    "url": "icons/suint/solid/People/GenderIntersex_fill.svg"
+  },
+  {
+    "name": "GenderMale_fill",
+    "url": "icons/suint/solid/People/GenderMale_fill.svg"
+  },
+  {
+    "name": "GenderNeuter_fill",
+    "url": "icons/suint/solid/People/GenderNeuter_fill.svg"
+  },
+  {
+    "name": "GenderNonbinary_fill",
+    "url": "icons/suint/solid/People/GenderNonbinary_fill.svg"
+  },
+  {
+    "name": "GenderTransgender_fill",
+    "url": "icons/suint/solid/People/GenderTransgender_fill.svg"
+  },
+  {
+    "name": "HandFist_fill",
+    "url": "icons/suint/solid/People/HandFist_fill.svg"
+  },
+  {
+    "name": "HandGrabbing_fill",
+    "url": "icons/suint/solid/People/HandGrabbing_fill.svg"
+  },
+  {
+    "name": "HandPalm_fill",
+    "url": "icons/suint/solid/People/HandPalm_fill.svg"
+  },
+  {
+    "name": "HandPointing_fill",
+    "url": "icons/suint/solid/People/HandPointing_fill.svg"
+  },
+  {
+    "name": "HandsClapping_fill",
+    "url": "icons/suint/solid/People/HandsClapping_fill.svg"
+  },
+  {
+    "name": "Handshake_fill",
+    "url": "icons/suint/solid/People/Handshake_fill.svg"
+  },
+  {
+    "name": "HandWaving_fill",
+    "url": "icons/suint/solid/People/HandWaving_fill.svg"
+  },
+  {
+    "name": "Hand_fill",
+    "url": "icons/suint/solid/People/Hand_fill.svg"
+  },
+  {
+    "name": "IdentificationBadge_fill",
+    "url": "icons/suint/solid/People/IdentificationBadge_fill.svg"
+  },
+  {
+    "name": "IdentificationCard_fill",
+    "url": "icons/suint/solid/People/IdentificationCard_fill.svg"
+  },
+  {
+    "name": "PersonSimpleRun_fill",
+    "url": "icons/suint/solid/People/PersonSimpleRun_fill.svg"
+  },
+  {
+    "name": "PersonSimpleWalk_fill",
+    "url": "icons/suint/solid/People/PersonSimpleWalk_fill.svg"
+  },
+  {
+    "name": "PersonSimple_fill",
+    "url": "icons/suint/solid/People/PersonSimple_fill.svg"
+  },
+  {
+    "name": "Person_fill",
+    "url": "icons/suint/solid/People/Person_fill.svg"
+  },
+  {
+    "name": "SmileyBlank_fill",
+    "url": "icons/suint/solid/People/SmileyBlank_fill.svg"
+  },
+  {
+    "name": "SmileyMeh_fill",
+    "url": "icons/suint/solid/People/SmileyMeh_fill.svg"
+  },
+  {
+    "name": "SmileyNervous_fill",
+    "url": "icons/suint/solid/People/SmileyNervous_fill.svg"
+  },
+  {
+    "name": "SmileySad_fill",
+    "url": "icons/suint/solid/People/SmileySad_fill.svg"
+  },
+  {
+    "name": "SmileySticker_fill",
+    "url": "icons/suint/solid/People/SmileySticker_fill.svg"
+  },
+  {
+    "name": "SmileyWink_fill",
+    "url": "icons/suint/solid/People/SmileyWink_fill.svg"
+  },
+  {
+    "name": "SmileyXEyes_fill",
+    "url": "icons/suint/solid/People/SmileyXEyes_fill.svg"
+  },
+  {
+    "name": "Smiley_fill",
+    "url": "icons/suint/solid/People/Smiley_fill.svg"
+  },
+  {
+    "name": "UserCircleGear_fill",
+    "url": "icons/suint/solid/People/UserCircleGear_fill.svg"
+  },
+  {
+    "name": "UserCircleMinus_fill",
+    "url": "icons/suint/solid/People/UserCircleMinus_fill.svg"
+  },
+  {
+    "name": "UserCirclePlus_fill",
+    "url": "icons/suint/solid/People/UserCirclePlus_fill.svg"
+  },
+  {
+    "name": "UserCircle_fill",
+    "url": "icons/suint/solid/People/UserCircle_fill.svg"
+  },
+  {
+    "name": "UserFocus_fill",
+    "url": "icons/suint/solid/People/UserFocus_fill.svg"
+  },
+  {
+    "name": "UserGear_fill",
+    "url": "icons/suint/solid/People/UserGear_fill.svg"
+  },
+  {
+    "name": "UserList_fill",
+    "url": "icons/suint/solid/People/UserList_fill.svg"
+  },
+  {
+    "name": "UserMinus_fill",
+    "url": "icons/suint/solid/People/UserMinus_fill.svg"
+  },
+  {
+    "name": "UserPlus_fill",
+    "url": "icons/suint/solid/People/UserPlus_fill.svg"
+  },
+  {
+    "name": "UserRectangle_fill",
+    "url": "icons/suint/solid/People/UserRectangle_fill.svg"
+  },
+  {
+    "name": "UsersFour_fill",
+    "url": "icons/suint/solid/People/UsersFour_fill.svg"
+  },
+  {
+    "name": "UserSquare_fill",
+    "url": "icons/suint/solid/People/UserSquare_fill.svg"
+  },
+  {
+    "name": "UsersThree_fill",
+    "url": "icons/suint/solid/People/UsersThree_fill.svg"
+  },
+  {
+    "name": "Users_fill",
+    "url": "icons/suint/solid/People/Users_fill.svg"
+  },
+  {
+    "name": "User_fill",
+    "url": "icons/suint/solid/People/User_fill.svg"
+  },
+  {
+    "name": "Wheelchair_fill",
+    "url": "icons/suint/solid/People/Wheelchair_fill.svg"
+  }
+]

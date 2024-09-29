@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Add",
+    "url": "icons/suint/solid/Interface/Add.svg"
+  },
+  {
+    "name": "Apps",
+    "url": "icons/suint/solid/Interface/Apps.svg"
+  },
+  {
+    "name": "Arrow down",
+    "url": "icons/suint/solid/Interface/Arrow down.svg"
+  },
+  {
+    "name": "Arrow left",
+    "url": "icons/suint/solid/Interface/Arrow left.svg"
+  },
+  {
+    "name": "Arrow right",
+    "url": "icons/suint/solid/Interface/Arrow right.svg"
+  },
+  {
+    "name": "Arrow up",
+    "url": "icons/suint/solid/Interface/Arrow up.svg"
+  },
+  {
+    "name": "At-sign",
+    "url": "icons/suint/solid/Interface/At-sign.svg"
+  },
+  {
+    "name": "Attach",
+    "url": "icons/suint/solid/Interface/Attach.svg"
+  },
+  {
+    "name": "Backspace",
+    "url": "icons/suint/solid/Interface/Backspace.svg"
+  },
+  {
+    "name": "Bluetooth",
+    "url": "icons/suint/solid/Interface/Bluetooth.svg"
+  },
+  {
+    "name": "Cancel",
+    "url": "icons/suint/solid/Interface/Cancel.svg"
+  },
+  {
+    "name": "Caret down",
+    "url": "icons/suint/solid/Interface/Caret down.svg"
+  },
+  {
+    "name": "Caret left",
+    "url": "icons/suint/solid/Interface/Caret left.svg"
+  },
+  {
+    "name": "Caret right",
+    "url": "icons/suint/solid/Interface/Caret right.svg"
+  },
+  {
+    "name": "Caret up",
+    "url": "icons/suint/solid/Interface/Caret up.svg"
+  },
+  {
+    "name": "Check",
+    "url": "icons/suint/solid/Interface/Check.svg"
+  },
+  {
+    "name": "Collapse",
+    "url": "icons/suint/solid/Interface/Collapse.svg"
+  },
+  {
+    "name": "Columns",
+    "url": "icons/suint/solid/Interface/Columns.svg"
+  },
+  {
+    "name": "Cross",
+    "url": "icons/suint/solid/Interface/Cross.svg"
+  },
+  {
+    "name": "Cursor",
+    "url": "icons/suint/solid/Interface/Cursor.svg"
+  },
+  {
+    "name": "Edit-alt",
+    "url": "icons/suint/solid/Interface/Edit-alt.svg"
+  },
+  {
+    "name": "Edit",
+    "url": "icons/suint/solid/Interface/Edit.svg"
+  },
+  {
+    "name": "Exchange",
+    "url": "icons/suint/solid/Interface/Exchange.svg"
+  },
+  {
+    "name": "Expand",
+    "url": "icons/suint/solid/Interface/Expand.svg"
+  },
+  {
+    "name": "History",
+    "url": "icons/suint/solid/Interface/History.svg"
+  },
+  {
+    "name": "Hotspot",
+    "url": "icons/suint/solid/Interface/Hotspot.svg"
+  },
+  {
+    "name": "Layout",
+    "url": "icons/suint/solid/Interface/Layout.svg"
+  },
+  {
+    "name": "Login",
+    "url": "icons/suint/solid/Interface/Login.svg"
+  },
+  {
+    "name": "Logout",
+    "url": "icons/suint/solid/Interface/Logout.svg"
+  },
+  {
+    "name": "Menu",
+    "url": "icons/suint/solid/Interface/Menu.svg"
+  },
+  {
+    "name": "Move",
+    "url": "icons/suint/solid/Interface/Move.svg"
+  },
+  {
+    "name": "Other 1",
+    "url": "icons/suint/solid/Interface/Other 1.svg"
+  },
+  {
+    "name": "Other 2",
+    "url": "icons/suint/solid/Interface/Other 2.svg"
+  },
+  {
+    "name": "Plus",
+    "url": "icons/suint/solid/Interface/Plus.svg"
+  },
+  {
+    "name": "Refresh",
+    "url": "icons/suint/solid/Interface/Refresh.svg"
+  },
+  {
+    "name": "Rows",
+    "url": "icons/suint/solid/Interface/Rows.svg"
+  },
+  {
+    "name": "Save",
+    "url": "icons/suint/solid/Interface/Save.svg"
+  },
+  {
+    "name": "Search",
+    "url": "icons/suint/solid/Interface/Search.svg"
+  },
+  {
+    "name": "Settings-adjust",
+    "url": "icons/suint/solid/Interface/Settings-adjust.svg"
+  },
+  {
+    "name": "Settings-alt",
+    "url": "icons/suint/solid/Interface/Settings-alt.svg"
+  },
+  {
+    "name": "Settings",
+    "url": "icons/suint/solid/Interface/Settings.svg"
+  },
+  {
+    "name": "Sort",
+    "url": "icons/suint/solid/Interface/Sort.svg"
+  },
+  {
+    "name": "Stack",
+    "url": "icons/suint/solid/Interface/Stack.svg"
+  },
+  {
+    "name": "Trash-alt",
+    "url": "icons/suint/solid/Interface/Trash-alt.svg"
+  },
+  {
+    "name": "Trash",
+    "url": "icons/suint/solid/Interface/Trash.svg"
+  },
+  {
+    "name": "Zoom-in",
+    "url": "icons/suint/solid/Interface/Zoom-in.svg"
+  },
+  {
+    "name": "Zoom-out",
+    "url": "icons/suint/solid/Interface/Zoom-out.svg"
+  }
+]

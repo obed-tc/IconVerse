@@ -1,0 +1,10 @@
+[
+  {
+    "name": "sensor_door",
+    "url": "icons/suint/general/home/sensor_door.svg"
+  },
+  {
+    "name": "sensor_window",
+    "url": "icons/suint/general/home/sensor_window.svg"
+  }
+]

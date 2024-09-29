@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Current-location",
+    "url": "icons/suint/solid/Navigation/Current-location.svg"
+  },
+  {
+    "name": "Explore",
+    "url": "icons/suint/solid/Navigation/Explore.svg"
+  },
+  {
+    "name": "Globe",
+    "url": "icons/suint/solid/Navigation/Globe.svg"
+  },
+  {
+    "name": "Location-check",
+    "url": "icons/suint/solid/Navigation/Location-check.svg"
+  },
+  {
+    "name": "Location-plus",
+    "url": "icons/suint/solid/Navigation/Location-plus.svg"
+  },
+  {
+    "name": "Location-question",
+    "url": "icons/suint/solid/Navigation/Location-question.svg"
+  },
+  {
+    "name": "Location",
+    "url": "icons/suint/solid/Navigation/Location.svg"
+  },
+  {
+    "name": "Map-location",
+    "url": "icons/suint/solid/Navigation/Map-location.svg"
+  },
+  {
+    "name": "Navigation",
+    "url": "icons/suint/solid/Navigation/Navigation.svg"
+  }
+]

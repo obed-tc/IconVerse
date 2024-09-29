@@ -1,0 +1,2814 @@
+[
+  {
+    "name": "abstract",
+    "url": "icons/suint/general/css/abstract.svg"
+  },
+  {
+    "name": "add-r",
+    "url": "icons/suint/general/css/add-r.svg"
+  },
+  {
+    "name": "add",
+    "url": "icons/suint/general/css/add.svg"
+  },
+  {
+    "name": "adidas",
+    "url": "icons/suint/general/css/adidas.svg"
+  },
+  {
+    "name": "airplane",
+    "url": "icons/suint/general/css/airplane.svg"
+  },
+  {
+    "name": "alarm",
+    "url": "icons/suint/general/css/alarm.svg"
+  },
+  {
+    "name": "album",
+    "url": "icons/suint/general/css/album.svg"
+  },
+  {
+    "name": "align-bottom",
+    "url": "icons/suint/general/css/align-bottom.svg"
+  },
+  {
+    "name": "align-center",
+    "url": "icons/suint/general/css/align-center.svg"
+  },
+  {
+    "name": "align-left",
+    "url": "icons/suint/general/css/align-left.svg"
+  },
+  {
+    "name": "align-middle",
+    "url": "icons/suint/general/css/align-middle.svg"
+  },
+  {
+    "name": "align-right",
+    "url": "icons/suint/general/css/align-right.svg"
+  },
+  {
+    "name": "align-top",
+    "url": "icons/suint/general/css/align-top.svg"
+  },
+  {
+    "name": "anchor",
+    "url": "icons/suint/general/css/anchor.svg"
+  },
+  {
+    "name": "apple-watch",
+    "url": "icons/suint/general/css/apple-watch.svg"
+  },
+  {
+    "name": "arrange-back",
+    "url": "icons/suint/general/css/arrange-back.svg"
+  },
+  {
+    "name": "arrange-front",
+    "url": "icons/suint/general/css/arrange-front.svg"
+  },
+  {
+    "name": "arrow-align-h",
+    "url": "icons/suint/general/css/arrow-align-h.svg"
+  },
+  {
+    "name": "arrow-align-v",
+    "url": "icons/suint/general/css/arrow-align-v.svg"
+  },
+  {
+    "name": "arrow-bottom-left-o",
+    "url": "icons/suint/general/css/arrow-bottom-left-o.svg"
+  },
+  {
+    "name": "arrow-bottom-left-r",
+    "url": "icons/suint/general/css/arrow-bottom-left-r.svg"
+  },
+  {
+    "name": "arrow-bottom-left",
+    "url": "icons/suint/general/css/arrow-bottom-left.svg"
+  },
+  {
+    "name": "arrow-bottom-right-o",
+    "url": "icons/suint/general/css/arrow-bottom-right-o.svg"
+  },
+  {
+    "name": "arrow-bottom-right-r",
+    "url": "icons/suint/general/css/arrow-bottom-right-r.svg"
+  },
+  {
+    "name": "arrow-bottom-right",
+    "url": "icons/suint/general/css/arrow-bottom-right.svg"
+  },
+  {
+    "name": "arrow-down-o",
+    "url": "icons/suint/general/css/arrow-down-o.svg"
+  },
+  {
+    "name": "arrow-down-r",
+    "url": "icons/suint/general/css/arrow-down-r.svg"
+  },
+  {
+    "name": "arrow-down",
+    "url": "icons/suint/general/css/arrow-down.svg"
+  },
+  {
+    "name": "arrow-left-o",
+    "url": "icons/suint/general/css/arrow-left-o.svg"
+  },
+  {
+    "name": "arrow-left-r",
+    "url": "icons/suint/general/css/arrow-left-r.svg"
+  },
+  {
+    "name": "arrow-left",
+    "url": "icons/suint/general/css/arrow-left.svg"
+  },
+  {
+    "name": "arrow-long-down-c",
+    "url": "icons/suint/general/css/arrow-long-down-c.svg"
+  },
+  {
+    "name": "arrow-long-down-e",
+    "url": "icons/suint/general/css/arrow-long-down-e.svg"
+  },
+  {
+    "name": "arrow-long-down-l",
+    "url": "icons/suint/general/css/arrow-long-down-l.svg"
+  },
+  {
+    "name": "arrow-long-down-r",
+    "url": "icons/suint/general/css/arrow-long-down-r.svg"
+  },
+  {
+    "name": "arrow-long-down",
+    "url": "icons/suint/general/css/arrow-long-down.svg"
+  },
+  {
+    "name": "arrow-long-left-c",
+    "url": "icons/suint/general/css/arrow-long-left-c.svg"
+  },
+  {
+    "name": "arrow-long-left-e",
+    "url": "icons/suint/general/css/arrow-long-left-e.svg"
+  },
+  {
+    "name": "arrow-long-left-l",
+    "url": "icons/suint/general/css/arrow-long-left-l.svg"
+  },
+  {
+    "name": "arrow-long-left-r",
+    "url": "icons/suint/general/css/arrow-long-left-r.svg"
+  },
+  {
+    "name": "arrow-long-left",
+    "url": "icons/suint/general/css/arrow-long-left.svg"
+  },
+  {
+    "name": "arrow-long-right-c",
+    "url": "icons/suint/general/css/arrow-long-right-c.svg"
+  },
+  {
+    "name": "arrow-long-right-e",
+    "url": "icons/suint/general/css/arrow-long-right-e.svg"
+  },
+  {
+    "name": "arrow-long-right-l",
+    "url": "icons/suint/general/css/arrow-long-right-l.svg"
+  },
+  {
+    "name": "arrow-long-right-r",
+    "url": "icons/suint/general/css/arrow-long-right-r.svg"
+  },
+  {
+    "name": "arrow-long-right",
+    "url": "icons/suint/general/css/arrow-long-right.svg"
+  },
+  {
+    "name": "arrow-long-up-c",
+    "url": "icons/suint/general/css/arrow-long-up-c.svg"
+  },
+  {
+    "name": "arrow-long-up-e",
+    "url": "icons/suint/general/css/arrow-long-up-e.svg"
+  },
+  {
+    "name": "arrow-long-up-l",
+    "url": "icons/suint/general/css/arrow-long-up-l.svg"
+  },
+  {
+    "name": "arrow-long-up-r",
+    "url": "icons/suint/general/css/arrow-long-up-r.svg"
+  },
+  {
+    "name": "arrow-long-up",
+    "url": "icons/suint/general/css/arrow-long-up.svg"
+  },
+  {
+    "name": "arrow-right-o",
+    "url": "icons/suint/general/css/arrow-right-o.svg"
+  },
+  {
+    "name": "arrow-right-r",
+    "url": "icons/suint/general/css/arrow-right-r.svg"
+  },
+  {
+    "name": "arrow-right",
+    "url": "icons/suint/general/css/arrow-right.svg"
+  },
+  {
+    "name": "arrow-top-left-o",
+    "url": "icons/suint/general/css/arrow-top-left-o.svg"
+  },
+  {
+    "name": "arrow-top-left-r",
+    "url": "icons/suint/general/css/arrow-top-left-r.svg"
+  },
+  {
+    "name": "arrow-top-left",
+    "url": "icons/suint/general/css/arrow-top-left.svg"
+  },
+  {
+    "name": "arrow-top-right-o",
+    "url": "icons/suint/general/css/arrow-top-right-o.svg"
+  },
+  {
+    "name": "arrow-top-right-r",
+    "url": "icons/suint/general/css/arrow-top-right-r.svg"
+  },
+  {
+    "name": "arrow-top-right",
+    "url": "icons/suint/general/css/arrow-top-right.svg"
+  },
+  {
+    "name": "arrow-up-o",
+    "url": "icons/suint/general/css/arrow-up-o.svg"
+  },
+  {
+    "name": "arrow-up-r",
+    "url": "icons/suint/general/css/arrow-up-r.svg"
+  },
+  {
+    "name": "arrow-up",
+    "url": "icons/suint/general/css/arrow-up.svg"
+  },
+  {
+    "name": "arrows-breake-h",
+    "url": "icons/suint/general/css/arrows-breake-h.svg"
+  },
+  {
+    "name": "arrows-breake-v",
+    "url": "icons/suint/general/css/arrows-breake-v.svg"
+  },
+  {
+    "name": "arrows-exchange-alt-v",
+    "url": "icons/suint/general/css/arrows-exchange-alt-v.svg"
+  },
+  {
+    "name": "arrows-exchange-alt",
+    "url": "icons/suint/general/css/arrows-exchange-alt.svg"
+  },
+  {
+    "name": "arrows-exchange-v",
+    "url": "icons/suint/general/css/arrows-exchange-v.svg"
+  },
+  {
+    "name": "arrows-exchange",
+    "url": "icons/suint/general/css/arrows-exchange.svg"
+  },
+  {
+    "name": "arrows-expand-down-left",
+    "url": "icons/suint/general/css/arrows-expand-down-left.svg"
+  },
+  {
+    "name": "arrows-expand-down-right",
+    "url": "icons/suint/general/css/arrows-expand-down-right.svg"
+  },
+  {
+    "name": "arrows-expand-left-alt",
+    "url": "icons/suint/general/css/arrows-expand-left-alt.svg"
+  },
+  {
+    "name": "arrows-expand-left",
+    "url": "icons/suint/general/css/arrows-expand-left.svg"
+  },
+  {
+    "name": "arrows-expand-right-alt",
+    "url": "icons/suint/general/css/arrows-expand-right-alt.svg"
+  },
+  {
+    "name": "arrows-expand-right",
+    "url": "icons/suint/general/css/arrows-expand-right.svg"
+  },
+  {
+    "name": "arrows-expand-up-left",
+    "url": "icons/suint/general/css/arrows-expand-up-left.svg"
+  },
+  {
+    "name": "arrows-expand-up-right",
+    "url": "icons/suint/general/css/arrows-expand-up-right.svg"
+  },
+  {
+    "name": "arrows-h-alt",
+    "url": "icons/suint/general/css/arrows-h-alt.svg"
+  },
+  {
+    "name": "arrows-h",
+    "url": "icons/suint/general/css/arrows-h.svg"
+  },
+  {
+    "name": "arrows-merge-alt-h",
+    "url": "icons/suint/general/css/arrows-merge-alt-h.svg"
+  },
+  {
+    "name": "arrows-merge-alt-v",
+    "url": "icons/suint/general/css/arrows-merge-alt-v.svg"
+  },
+  {
+    "name": "arrows-scroll-h",
+    "url": "icons/suint/general/css/arrows-scroll-h.svg"
+  },
+  {
+    "name": "arrows-scroll-v",
+    "url": "icons/suint/general/css/arrows-scroll-v.svg"
+  },
+  {
+    "name": "arrows-shrink-h",
+    "url": "icons/suint/general/css/arrows-shrink-h.svg"
+  },
+  {
+    "name": "arrows-shrink-v",
+    "url": "icons/suint/general/css/arrows-shrink-v.svg"
+  },
+  {
+    "name": "arrows-v-alt",
+    "url": "icons/suint/general/css/arrows-v-alt.svg"
+  },
+  {
+    "name": "arrows-v",
+    "url": "icons/suint/general/css/arrows-v.svg"
+  },
+  {
+    "name": "assign",
+    "url": "icons/suint/general/css/assign.svg"
+  },
+  {
+    "name": "asterisk",
+    "url": "icons/suint/general/css/asterisk.svg"
+  },
+  {
+    "name": "atlasian",
+    "url": "icons/suint/general/css/atlasian.svg"
+  },
+  {
+    "name": "attachment",
+    "url": "icons/suint/general/css/attachment.svg"
+  },
+  {
+    "name": "attribution",
+    "url": "icons/suint/general/css/attribution.svg"
+  },
+  {
+    "name": "awards",
+    "url": "icons/suint/general/css/awards.svg"
+  },
+  {
+    "name": "backspace",
+    "url": "icons/suint/general/css/backspace.svg"
+  },
+  {
+    "name": "band-aid",
+    "url": "icons/suint/general/css/band-aid.svg"
+  },
+  {
+    "name": "battery-empty",
+    "url": "icons/suint/general/css/battery-empty.svg"
+  },
+  {
+    "name": "battery-full",
+    "url": "icons/suint/general/css/battery-full.svg"
+  },
+  {
+    "name": "battery",
+    "url": "icons/suint/general/css/battery.svg"
+  },
+  {
+    "name": "bee",
+    "url": "icons/suint/general/css/bee.svg"
+  },
+  {
+    "name": "bell",
+    "url": "icons/suint/general/css/bell.svg"
+  },
+  {
+    "name": "bitbucket",
+    "url": "icons/suint/general/css/bitbucket.svg"
+  },
+  {
+    "name": "block",
+    "url": "icons/suint/general/css/block.svg"
+  },
+  {
+    "name": "bmw",
+    "url": "icons/suint/general/css/bmw.svg"
+  },
+  {
+    "name": "board",
+    "url": "icons/suint/general/css/board.svg"
+  },
+  {
+    "name": "bolt",
+    "url": "icons/suint/general/css/bolt.svg"
+  },
+  {
+    "name": "bookmark",
+    "url": "icons/suint/general/css/bookmark.svg"
+  },
+  {
+    "name": "border-all",
+    "url": "icons/suint/general/css/border-all.svg"
+  },
+  {
+    "name": "border-bottom",
+    "url": "icons/suint/general/css/border-bottom.svg"
+  },
+  {
+    "name": "border-left",
+    "url": "icons/suint/general/css/border-left.svg"
+  },
+  {
+    "name": "border-right",
+    "url": "icons/suint/general/css/border-right.svg"
+  },
+  {
+    "name": "border-style-dashed",
+    "url": "icons/suint/general/css/border-style-dashed.svg"
+  },
+  {
+    "name": "border-style-dotted",
+    "url": "icons/suint/general/css/border-style-dotted.svg"
+  },
+  {
+    "name": "border-style-solid",
+    "url": "icons/suint/general/css/border-style-solid.svg"
+  },
+  {
+    "name": "border-top",
+    "url": "icons/suint/general/css/border-top.svg"
+  },
+  {
+    "name": "bot",
+    "url": "icons/suint/general/css/bot.svg"
+  },
+  {
+    "name": "bowl",
+    "url": "icons/suint/general/css/bowl.svg"
+  },
+  {
+    "name": "box",
+    "url": "icons/suint/general/css/box.svg"
+  },
+  {
+    "name": "boy",
+    "url": "icons/suint/general/css/boy.svg"
+  },
+  {
+    "name": "brackets",
+    "url": "icons/suint/general/css/brackets.svg"
+  },
+  {
+    "name": "briefcase",
+    "url": "icons/suint/general/css/briefcase.svg"
+  },
+  {
+    "name": "browse",
+    "url": "icons/suint/general/css/browse.svg"
+  },
+  {
+    "name": "browser",
+    "url": "icons/suint/general/css/browser.svg"
+  },
+  {
+    "name": "brush",
+    "url": "icons/suint/general/css/brush.svg"
+  },
+  {
+    "name": "bulb",
+    "url": "icons/suint/general/css/bulb.svg"
+  },
+  {
+    "name": "c-plus-plus",
+    "url": "icons/suint/general/css/c-plus-plus.svg"
+  },
+  {
+    "name": "calculator",
+    "url": "icons/suint/general/css/calculator.svg"
+  },
+  {
+    "name": "calendar-dates",
+    "url": "icons/suint/general/css/calendar-dates.svg"
+  },
+  {
+    "name": "calendar-due",
+    "url": "icons/suint/general/css/calendar-due.svg"
+  },
+  {
+    "name": "calendar-next",
+    "url": "icons/suint/general/css/calendar-next.svg"
+  },
+  {
+    "name": "calendar-today",
+    "url": "icons/suint/general/css/calendar-today.svg"
+  },
+  {
+    "name": "calendar-two",
+    "url": "icons/suint/general/css/calendar-two.svg"
+  },
+  {
+    "name": "calendar",
+    "url": "icons/suint/general/css/calendar.svg"
+  },
+  {
+    "name": "calibrate",
+    "url": "icons/suint/general/css/calibrate.svg"
+  },
+  {
+    "name": "camera",
+    "url": "icons/suint/general/css/camera.svg"
+  },
+  {
+    "name": "cap",
+    "url": "icons/suint/general/css/cap.svg"
+  },
+  {
+    "name": "captions",
+    "url": "icons/suint/general/css/captions.svg"
+  },
+  {
+    "name": "card-clubs",
+    "url": "icons/suint/general/css/card-clubs.svg"
+  },
+  {
+    "name": "card-diamonds",
+    "url": "icons/suint/general/css/card-diamonds.svg"
+  },
+  {
+    "name": "card-hearts",
+    "url": "icons/suint/general/css/card-hearts.svg"
+  },
+  {
+    "name": "card-spades",
+    "url": "icons/suint/general/css/card-spades.svg"
+  },
+  {
+    "name": "carousel",
+    "url": "icons/suint/general/css/carousel.svg"
+  },
+  {
+    "name": "cast",
+    "url": "icons/suint/general/css/cast.svg"
+  },
+  {
+    "name": "chanel",
+    "url": "icons/suint/general/css/chanel.svg"
+  },
+  {
+    "name": "chart",
+    "url": "icons/suint/general/css/chart.svg"
+  },
+  {
+    "name": "check-o",
+    "url": "icons/suint/general/css/check-o.svg"
+  },
+  {
+    "name": "check-r",
+    "url": "icons/suint/general/css/check-r.svg"
+  },
+  {
+    "name": "check",
+    "url": "icons/suint/general/css/check.svg"
+  },
+  {
+    "name": "chevron-double-down-o",
+    "url": "icons/suint/general/css/chevron-double-down-o.svg"
+  },
+  {
+    "name": "chevron-double-down-r",
+    "url": "icons/suint/general/css/chevron-double-down-r.svg"
+  },
+  {
+    "name": "chevron-double-down",
+    "url": "icons/suint/general/css/chevron-double-down.svg"
+  },
+  {
+    "name": "chevron-double-left-o",
+    "url": "icons/suint/general/css/chevron-double-left-o.svg"
+  },
+  {
+    "name": "chevron-double-left-r",
+    "url": "icons/suint/general/css/chevron-double-left-r.svg"
+  },
+  {
+    "name": "chevron-double-left",
+    "url": "icons/suint/general/css/chevron-double-left.svg"
+  },
+  {
+    "name": "chevron-double-right-o",
+    "url": "icons/suint/general/css/chevron-double-right-o.svg"
+  },
+  {
+    "name": "chevron-double-right-r",
+    "url": "icons/suint/general/css/chevron-double-right-r.svg"
+  },
+  {
+    "name": "chevron-double-right",
+    "url": "icons/suint/general/css/chevron-double-right.svg"
+  },
+  {
+    "name": "chevron-double-up-o",
+    "url": "icons/suint/general/css/chevron-double-up-o.svg"
+  },
+  {
+    "name": "chevron-double-up-r",
+    "url": "icons/suint/general/css/chevron-double-up-r.svg"
+  },
+  {
+    "name": "chevron-double-up",
+    "url": "icons/suint/general/css/chevron-double-up.svg"
+  },
+  {
+    "name": "chevron-down-o",
+    "url": "icons/suint/general/css/chevron-down-o.svg"
+  },
+  {
+    "name": "chevron-down-r",
+    "url": "icons/suint/general/css/chevron-down-r.svg"
+  },
+  {
+    "name": "chevron-down",
+    "url": "icons/suint/general/css/chevron-down.svg"
+  },
+  {
+    "name": "chevron-left-o",
+    "url": "icons/suint/general/css/chevron-left-o.svg"
+  },
+  {
+    "name": "chevron-left-r",
+    "url": "icons/suint/general/css/chevron-left-r.svg"
+  },
+  {
+    "name": "chevron-left",
+    "url": "icons/suint/general/css/chevron-left.svg"
+  },
+  {
+    "name": "chevron-right-o",
+    "url": "icons/suint/general/css/chevron-right-o.svg"
+  },
+  {
+    "name": "chevron-right-r",
+    "url": "icons/suint/general/css/chevron-right-r.svg"
+  },
+  {
+    "name": "chevron-right",
+    "url": "icons/suint/general/css/chevron-right.svg"
+  },
+  {
+    "name": "chevron-up-o",
+    "url": "icons/suint/general/css/chevron-up-o.svg"
+  },
+  {
+    "name": "chevron-up-r",
+    "url": "icons/suint/general/css/chevron-up-r.svg"
+  },
+  {
+    "name": "chevron-up",
+    "url": "icons/suint/general/css/chevron-up.svg"
+  },
+  {
+    "name": "circleci",
+    "url": "icons/suint/general/css/circleci.svg"
+  },
+  {
+    "name": "clapper-board",
+    "url": "icons/suint/general/css/clapper-board.svg"
+  },
+  {
+    "name": "clipboard",
+    "url": "icons/suint/general/css/clipboard.svg"
+  },
+  {
+    "name": "close-o",
+    "url": "icons/suint/general/css/close-o.svg"
+  },
+  {
+    "name": "close-r",
+    "url": "icons/suint/general/css/close-r.svg"
+  },
+  {
+    "name": "close",
+    "url": "icons/suint/general/css/close.svg"
+  },
+  {
+    "name": "cloud",
+    "url": "icons/suint/general/css/cloud.svg"
+  },
+  {
+    "name": "code-slash",
+    "url": "icons/suint/general/css/code-slash.svg"
+  },
+  {
+    "name": "code",
+    "url": "icons/suint/general/css/code.svg"
+  },
+  {
+    "name": "coffee",
+    "url": "icons/suint/general/css/coffee.svg"
+  },
+  {
+    "name": "collage",
+    "url": "icons/suint/general/css/collage.svg"
+  },
+  {
+    "name": "color-bucket",
+    "url": "icons/suint/general/css/color-bucket.svg"
+  },
+  {
+    "name": "color-picker",
+    "url": "icons/suint/general/css/color-picker.svg"
+  },
+  {
+    "name": "comedy-central",
+    "url": "icons/suint/general/css/comedy-central.svg"
+  },
+  {
+    "name": "comment",
+    "url": "icons/suint/general/css/comment.svg"
+  },
+  {
+    "name": "community",
+    "url": "icons/suint/general/css/community.svg"
+  },
+  {
+    "name": "components",
+    "url": "icons/suint/general/css/components.svg"
+  },
+  {
+    "name": "compress-left",
+    "url": "icons/suint/general/css/compress-left.svg"
+  },
+  {
+    "name": "compress-right",
+    "url": "icons/suint/general/css/compress-right.svg"
+  },
+  {
+    "name": "compress-v",
+    "url": "icons/suint/general/css/compress-v.svg"
+  },
+  {
+    "name": "compress",
+    "url": "icons/suint/general/css/compress.svg"
+  },
+  {
+    "name": "controller",
+    "url": "icons/suint/general/css/controller.svg"
+  },
+  {
+    "name": "copy",
+    "url": "icons/suint/general/css/copy.svg"
+  },
+  {
+    "name": "copyright",
+    "url": "icons/suint/general/css/copyright.svg"
+  },
+  {
+    "name": "corner-double-down-left",
+    "url": "icons/suint/general/css/corner-double-down-left.svg"
+  },
+  {
+    "name": "corner-double-down-right",
+    "url": "icons/suint/general/css/corner-double-down-right.svg"
+  },
+  {
+    "name": "corner-double-left-down",
+    "url": "icons/suint/general/css/corner-double-left-down.svg"
+  },
+  {
+    "name": "corner-double-left-up",
+    "url": "icons/suint/general/css/corner-double-left-up.svg"
+  },
+  {
+    "name": "corner-double-right-down",
+    "url": "icons/suint/general/css/corner-double-right-down.svg"
+  },
+  {
+    "name": "corner-double-right-up",
+    "url": "icons/suint/general/css/corner-double-right-up.svg"
+  },
+  {
+    "name": "corner-double-up-left",
+    "url": "icons/suint/general/css/corner-double-up-left.svg"
+  },
+  {
+    "name": "corner-double-up-right",
+    "url": "icons/suint/general/css/corner-double-up-right.svg"
+  },
+  {
+    "name": "corner-down-left",
+    "url": "icons/suint/general/css/corner-down-left.svg"
+  },
+  {
+    "name": "corner-down-right",
+    "url": "icons/suint/general/css/corner-down-right.svg"
+  },
+  {
+    "name": "corner-left-down",
+    "url": "icons/suint/general/css/corner-left-down.svg"
+  },
+  {
+    "name": "corner-left-up",
+    "url": "icons/suint/general/css/corner-left-up.svg"
+  },
+  {
+    "name": "corner-right-down",
+    "url": "icons/suint/general/css/corner-right-down.svg"
+  },
+  {
+    "name": "corner-right-up",
+    "url": "icons/suint/general/css/corner-right-up.svg"
+  },
+  {
+    "name": "corner-up-left",
+    "url": "icons/suint/general/css/corner-up-left.svg"
+  },
+  {
+    "name": "corner-up-right",
+    "url": "icons/suint/general/css/corner-up-right.svg"
+  },
+  {
+    "name": "credit-card",
+    "url": "icons/suint/general/css/credit-card.svg"
+  },
+  {
+    "name": "crop",
+    "url": "icons/suint/general/css/crop.svg"
+  },
+  {
+    "name": "cross",
+    "url": "icons/suint/general/css/cross.svg"
+  },
+  {
+    "name": "crowdfire",
+    "url": "icons/suint/general/css/crowdfire.svg"
+  },
+  {
+    "name": "crown",
+    "url": "icons/suint/general/css/crown.svg"
+  },
+  {
+    "name": "danger",
+    "url": "icons/suint/general/css/danger.svg"
+  },
+  {
+    "name": "dark-mode",
+    "url": "icons/suint/general/css/dark-mode.svg"
+  },
+  {
+    "name": "data",
+    "url": "icons/suint/general/css/data.svg"
+  },
+  {
+    "name": "database",
+    "url": "icons/suint/general/css/database.svg"
+  },
+  {
+    "name": "debug",
+    "url": "icons/suint/general/css/debug.svg"
+  },
+  {
+    "name": "designmodo",
+    "url": "icons/suint/general/css/designmodo.svg"
+  },
+  {
+    "name": "desktop",
+    "url": "icons/suint/general/css/desktop.svg"
+  },
+  {
+    "name": "details-less",
+    "url": "icons/suint/general/css/details-less.svg"
+  },
+  {
+    "name": "details-more",
+    "url": "icons/suint/general/css/details-more.svg"
+  },
+  {
+    "name": "dialpad",
+    "url": "icons/suint/general/css/dialpad.svg"
+  },
+  {
+    "name": "dice-1",
+    "url": "icons/suint/general/css/dice-1.svg"
+  },
+  {
+    "name": "dice-2",
+    "url": "icons/suint/general/css/dice-2.svg"
+  },
+  {
+    "name": "dice-3",
+    "url": "icons/suint/general/css/dice-3.svg"
+  },
+  {
+    "name": "dice-4",
+    "url": "icons/suint/general/css/dice-4.svg"
+  },
+  {
+    "name": "dice-5",
+    "url": "icons/suint/general/css/dice-5.svg"
+  },
+  {
+    "name": "dice-6",
+    "url": "icons/suint/general/css/dice-6.svg"
+  },
+  {
+    "name": "digitalocean",
+    "url": "icons/suint/general/css/digitalocean.svg"
+  },
+  {
+    "name": "disc",
+    "url": "icons/suint/general/css/disc.svg"
+  },
+  {
+    "name": "display-flex",
+    "url": "icons/suint/general/css/display-flex.svg"
+  },
+  {
+    "name": "display-fullwidth",
+    "url": "icons/suint/general/css/display-fullwidth.svg"
+  },
+  {
+    "name": "display-grid",
+    "url": "icons/suint/general/css/display-grid.svg"
+  },
+  {
+    "name": "display-spacing",
+    "url": "icons/suint/general/css/display-spacing.svg"
+  },
+  {
+    "name": "distribute-horizontal",
+    "url": "icons/suint/general/css/distribute-horizontal.svg"
+  },
+  {
+    "name": "distribute-vertical",
+    "url": "icons/suint/general/css/distribute-vertical.svg"
+  },
+  {
+    "name": "dock-bottom",
+    "url": "icons/suint/general/css/dock-bottom.svg"
+  },
+  {
+    "name": "dock-left",
+    "url": "icons/suint/general/css/dock-left.svg"
+  },
+  {
+    "name": "dock-right",
+    "url": "icons/suint/general/css/dock-right.svg"
+  },
+  {
+    "name": "dock-window",
+    "url": "icons/suint/general/css/dock-window.svg"
+  },
+  {
+    "name": "dolby",
+    "url": "icons/suint/general/css/dolby.svg"
+  },
+  {
+    "name": "dollar",
+    "url": "icons/suint/general/css/dollar.svg"
+  },
+  {
+    "name": "dribbble",
+    "url": "icons/suint/general/css/dribbble.svg"
+  },
+  {
+    "name": "drive",
+    "url": "icons/suint/general/css/drive.svg"
+  },
+  {
+    "name": "drop-invert",
+    "url": "icons/suint/general/css/drop-invert.svg"
+  },
+  {
+    "name": "drop-opacity",
+    "url": "icons/suint/general/css/drop-opacity.svg"
+  },
+  {
+    "name": "drop",
+    "url": "icons/suint/general/css/drop.svg"
+  },
+  {
+    "name": "duplicate",
+    "url": "icons/suint/general/css/duplicate.svg"
+  },
+  {
+    "name": "edit-black-point",
+    "url": "icons/suint/general/css/edit-black-point.svg"
+  },
+  {
+    "name": "edit-contrast",
+    "url": "icons/suint/general/css/edit-contrast.svg"
+  },
+  {
+    "name": "edit-exposure",
+    "url": "icons/suint/general/css/edit-exposure.svg"
+  },
+  {
+    "name": "edit-fade",
+    "url": "icons/suint/general/css/edit-fade.svg"
+  },
+  {
+    "name": "edit-flip-h",
+    "url": "icons/suint/general/css/edit-flip-h.svg"
+  },
+  {
+    "name": "edit-flip-v",
+    "url": "icons/suint/general/css/edit-flip-v.svg"
+  },
+  {
+    "name": "edit-highlight",
+    "url": "icons/suint/general/css/edit-highlight.svg"
+  },
+  {
+    "name": "edit-markup",
+    "url": "icons/suint/general/css/edit-markup.svg"
+  },
+  {
+    "name": "edit-mask",
+    "url": "icons/suint/general/css/edit-mask.svg"
+  },
+  {
+    "name": "edit-noise",
+    "url": "icons/suint/general/css/edit-noise.svg"
+  },
+  {
+    "name": "edit-shadows",
+    "url": "icons/suint/general/css/edit-shadows.svg"
+  },
+  {
+    "name": "edit-straight",
+    "url": "icons/suint/general/css/edit-straight.svg"
+  },
+  {
+    "name": "edit-unmask",
+    "url": "icons/suint/general/css/edit-unmask.svg"
+  },
+  {
+    "name": "eject",
+    "url": "icons/suint/general/css/eject.svg"
+  },
+  {
+    "name": "enter",
+    "url": "icons/suint/general/css/enter.svg"
+  },
+  {
+    "name": "erase",
+    "url": "icons/suint/general/css/erase.svg"
+  },
+  {
+    "name": "ereader",
+    "url": "icons/suint/general/css/ereader.svg"
+  },
+  {
+    "name": "ericsson",
+    "url": "icons/suint/general/css/ericsson.svg"
+  },
+  {
+    "name": "ethernet",
+    "url": "icons/suint/general/css/ethernet.svg"
+  },
+  {
+    "name": "euro",
+    "url": "icons/suint/general/css/euro.svg"
+  },
+  {
+    "name": "eventbrite",
+    "url": "icons/suint/general/css/eventbrite.svg"
+  },
+  {
+    "name": "expand",
+    "url": "icons/suint/general/css/expand.svg"
+  },
+  {
+    "name": "export",
+    "url": "icons/suint/general/css/export.svg"
+  },
+  {
+    "name": "extension-add",
+    "url": "icons/suint/general/css/extension-add.svg"
+  },
+  {
+    "name": "extension-alt",
+    "url": "icons/suint/general/css/extension-alt.svg"
+  },
+  {
+    "name": "extension-remove",
+    "url": "icons/suint/general/css/extension-remove.svg"
+  },
+  {
+    "name": "extension",
+    "url": "icons/suint/general/css/extension.svg"
+  },
+  {
+    "name": "external",
+    "url": "icons/suint/general/css/external.svg"
+  },
+  {
+    "name": "eye-alt",
+    "url": "icons/suint/general/css/eye-alt.svg"
+  },
+  {
+    "name": "eye",
+    "url": "icons/suint/general/css/eye.svg"
+  },
+  {
+    "name": "facebook",
+    "url": "icons/suint/general/css/facebook.svg"
+  },
+  {
+    "name": "feed",
+    "url": "icons/suint/general/css/feed.svg"
+  },
+  {
+    "name": "figma",
+    "url": "icons/suint/general/css/figma.svg"
+  },
+  {
+    "name": "file-add",
+    "url": "icons/suint/general/css/file-add.svg"
+  },
+  {
+    "name": "file-document",
+    "url": "icons/suint/general/css/file-document.svg"
+  },
+  {
+    "name": "file-remove",
+    "url": "icons/suint/general/css/file-remove.svg"
+  },
+  {
+    "name": "file",
+    "url": "icons/suint/general/css/file.svg"
+  },
+  {
+    "name": "film",
+    "url": "icons/suint/general/css/film.svg"
+  },
+  {
+    "name": "filters",
+    "url": "icons/suint/general/css/filters.svg"
+  },
+  {
+    "name": "flag-alt",
+    "url": "icons/suint/general/css/flag-alt.svg"
+  },
+  {
+    "name": "flag",
+    "url": "icons/suint/general/css/flag.svg"
+  },
+  {
+    "name": "folder-add",
+    "url": "icons/suint/general/css/folder-add.svg"
+  },
+  {
+    "name": "folder-remove",
+    "url": "icons/suint/general/css/folder-remove.svg"
+  },
+  {
+    "name": "folder",
+    "url": "icons/suint/general/css/folder.svg"
+  },
+  {
+    "name": "font-height",
+    "url": "icons/suint/general/css/font-height.svg"
+  },
+  {
+    "name": "font-spacing",
+    "url": "icons/suint/general/css/font-spacing.svg"
+  },
+  {
+    "name": "format-bold",
+    "url": "icons/suint/general/css/format-bold.svg"
+  },
+  {
+    "name": "format-center",
+    "url": "icons/suint/general/css/format-center.svg"
+  },
+  {
+    "name": "format-color",
+    "url": "icons/suint/general/css/format-color.svg"
+  },
+  {
+    "name": "format-heading",
+    "url": "icons/suint/general/css/format-heading.svg"
+  },
+  {
+    "name": "format-indent-decrease",
+    "url": "icons/suint/general/css/format-indent-decrease.svg"
+  },
+  {
+    "name": "format-indent-increase",
+    "url": "icons/suint/general/css/format-indent-increase.svg"
+  },
+  {
+    "name": "format-italic",
+    "url": "icons/suint/general/css/format-italic.svg"
+  },
+  {
+    "name": "format-justify",
+    "url": "icons/suint/general/css/format-justify.svg"
+  },
+  {
+    "name": "format-left",
+    "url": "icons/suint/general/css/format-left.svg"
+  },
+  {
+    "name": "format-line-height",
+    "url": "icons/suint/general/css/format-line-height.svg"
+  },
+  {
+    "name": "format-right",
+    "url": "icons/suint/general/css/format-right.svg"
+  },
+  {
+    "name": "format-separator",
+    "url": "icons/suint/general/css/format-separator.svg"
+  },
+  {
+    "name": "format-slash",
+    "url": "icons/suint/general/css/format-slash.svg"
+  },
+  {
+    "name": "format-strike",
+    "url": "icons/suint/general/css/format-strike.svg"
+  },
+  {
+    "name": "format-text",
+    "url": "icons/suint/general/css/format-text.svg"
+  },
+  {
+    "name": "format-underline",
+    "url": "icons/suint/general/css/format-underline.svg"
+  },
+  {
+    "name": "format-uppercase",
+    "url": "icons/suint/general/css/format-uppercase.svg"
+  },
+  {
+    "name": "framer",
+    "url": "icons/suint/general/css/framer.svg"
+  },
+  {
+    "name": "games",
+    "url": "icons/suint/general/css/games.svg"
+  },
+  {
+    "name": "gender-female",
+    "url": "icons/suint/general/css/gender-female.svg"
+  },
+  {
+    "name": "gender-male",
+    "url": "icons/suint/general/css/gender-male.svg"
+  },
+  {
+    "name": "ghost-character",
+    "url": "icons/suint/general/css/ghost-character.svg"
+  },
+  {
+    "name": "ghost",
+    "url": "icons/suint/general/css/ghost.svg"
+  },
+  {
+    "name": "gift",
+    "url": "icons/suint/general/css/gift.svg"
+  },
+  {
+    "name": "girl",
+    "url": "icons/suint/general/css/girl.svg"
+  },
+  {
+    "name": "git-branch",
+    "url": "icons/suint/general/css/git-branch.svg"
+  },
+  {
+    "name": "git-commit",
+    "url": "icons/suint/general/css/git-commit.svg"
+  },
+  {
+    "name": "git-fork",
+    "url": "icons/suint/general/css/git-fork.svg"
+  },
+  {
+    "name": "git-pull",
+    "url": "icons/suint/general/css/git-pull.svg"
+  },
+  {
+    "name": "gitter",
+    "url": "icons/suint/general/css/gitter.svg"
+  },
+  {
+    "name": "glass-alt",
+    "url": "icons/suint/general/css/glass-alt.svg"
+  },
+  {
+    "name": "glass",
+    "url": "icons/suint/general/css/glass.svg"
+  },
+  {
+    "name": "globe-alt",
+    "url": "icons/suint/general/css/globe-alt.svg"
+  },
+  {
+    "name": "globe",
+    "url": "icons/suint/general/css/globe.svg"
+  },
+  {
+    "name": "google-tasks",
+    "url": "icons/suint/general/css/google-tasks.svg"
+  },
+  {
+    "name": "google",
+    "url": "icons/suint/general/css/google.svg"
+  },
+  {
+    "name": "gym",
+    "url": "icons/suint/general/css/gym.svg"
+  },
+  {
+    "name": "hashtag",
+    "url": "icons/suint/general/css/hashtag.svg"
+  },
+  {
+    "name": "headset",
+    "url": "icons/suint/general/css/headset.svg"
+  },
+  {
+    "name": "heart",
+    "url": "icons/suint/general/css/heart.svg"
+  },
+  {
+    "name": "hello",
+    "url": "icons/suint/general/css/hello.svg"
+  },
+  {
+    "name": "home-alt",
+    "url": "icons/suint/general/css/home-alt.svg"
+  },
+  {
+    "name": "home-screen",
+    "url": "icons/suint/general/css/home-screen.svg"
+  },
+  {
+    "name": "home",
+    "url": "icons/suint/general/css/home.svg"
+  },
+  {
+    "name": "icecream",
+    "url": "icons/suint/general/css/icecream.svg"
+  },
+  {
+    "name": "if-design",
+    "url": "icons/suint/general/css/if-design.svg"
+  },
+  {
+    "name": "image",
+    "url": "icons/suint/general/css/image.svg"
+  },
+  {
+    "name": "import",
+    "url": "icons/suint/general/css/import.svg"
+  },
+  {
+    "name": "inbox",
+    "url": "icons/suint/general/css/inbox.svg"
+  },
+  {
+    "name": "indie-hackers",
+    "url": "icons/suint/general/css/indie-hackers.svg"
+  },
+  {
+    "name": "infinity",
+    "url": "icons/suint/general/css/infinity.svg"
+  },
+  {
+    "name": "info",
+    "url": "icons/suint/general/css/info.svg"
+  },
+  {
+    "name": "inpicture",
+    "url": "icons/suint/general/css/inpicture.svg"
+  },
+  {
+    "name": "insert-after-o",
+    "url": "icons/suint/general/css/insert-after-o.svg"
+  },
+  {
+    "name": "insert-after-r",
+    "url": "icons/suint/general/css/insert-after-r.svg"
+  },
+  {
+    "name": "insert-after",
+    "url": "icons/suint/general/css/insert-after.svg"
+  },
+  {
+    "name": "insert-before-o",
+    "url": "icons/suint/general/css/insert-before-o.svg"
+  },
+  {
+    "name": "insert-before-r",
+    "url": "icons/suint/general/css/insert-before-r.svg"
+  },
+  {
+    "name": "insert-before",
+    "url": "icons/suint/general/css/insert-before.svg"
+  },
+  {
+    "name": "insights",
+    "url": "icons/suint/general/css/insights.svg"
+  },
+  {
+    "name": "instagram",
+    "url": "icons/suint/general/css/instagram.svg"
+  },
+  {
+    "name": "internal",
+    "url": "icons/suint/general/css/internal.svg"
+  },
+  {
+    "name": "key",
+    "url": "icons/suint/general/css/key.svg"
+  },
+  {
+    "name": "keyboard",
+    "url": "icons/suint/general/css/keyboard.svg"
+  },
+  {
+    "name": "keyhole",
+    "url": "icons/suint/general/css/keyhole.svg"
+  },
+  {
+    "name": "laptop",
+    "url": "icons/suint/general/css/laptop.svg"
+  },
+  {
+    "name": "lastpass",
+    "url": "icons/suint/general/css/lastpass.svg"
+  },
+  {
+    "name": "layout-grid-small",
+    "url": "icons/suint/general/css/layout-grid-small.svg"
+  },
+  {
+    "name": "layout-grid",
+    "url": "icons/suint/general/css/layout-grid.svg"
+  },
+  {
+    "name": "layout-list",
+    "url": "icons/suint/general/css/layout-list.svg"
+  },
+  {
+    "name": "layout-pin",
+    "url": "icons/suint/general/css/layout-pin.svg"
+  },
+  {
+    "name": "linear",
+    "url": "icons/suint/general/css/linear.svg"
+  },
+  {
+    "name": "link",
+    "url": "icons/suint/general/css/link.svg"
+  },
+  {
+    "name": "list-tree",
+    "url": "icons/suint/general/css/list-tree.svg"
+  },
+  {
+    "name": "list",
+    "url": "icons/suint/general/css/list.svg"
+  },
+  {
+    "name": "live-photo",
+    "url": "icons/suint/general/css/live-photo.svg"
+  },
+  {
+    "name": "loadbar-alt",
+    "url": "icons/suint/general/css/loadbar-alt.svg"
+  },
+  {
+    "name": "loadbar-doc",
+    "url": "icons/suint/general/css/loadbar-doc.svg"
+  },
+  {
+    "name": "loadbar-sound",
+    "url": "icons/suint/general/css/loadbar-sound.svg"
+  },
+  {
+    "name": "loadbar",
+    "url": "icons/suint/general/css/loadbar.svg"
+  },
+  {
+    "name": "lock-unlock",
+    "url": "icons/suint/general/css/lock-unlock.svg"
+  },
+  {
+    "name": "lock",
+    "url": "icons/suint/general/css/lock.svg"
+  },
+  {
+    "name": "log-in",
+    "url": "icons/suint/general/css/log-in.svg"
+  },
+  {
+    "name": "log-off",
+    "url": "icons/suint/general/css/log-off.svg"
+  },
+  {
+    "name": "log-out",
+    "url": "icons/suint/general/css/log-out.svg"
+  },
+  {
+    "name": "loupe",
+    "url": "icons/suint/general/css/loupe.svg"
+  },
+  {
+    "name": "magnet",
+    "url": "icons/suint/general/css/magnet.svg"
+  },
+  {
+    "name": "mail-forward",
+    "url": "icons/suint/general/css/mail-forward.svg"
+  },
+  {
+    "name": "mail-open",
+    "url": "icons/suint/general/css/mail-open.svg"
+  },
+  {
+    "name": "mail-reply",
+    "url": "icons/suint/general/css/mail-reply.svg"
+  },
+  {
+    "name": "mail",
+    "url": "icons/suint/general/css/mail.svg"
+  },
+  {
+    "name": "math-divide",
+    "url": "icons/suint/general/css/math-divide.svg"
+  },
+  {
+    "name": "math-equal",
+    "url": "icons/suint/general/css/math-equal.svg"
+  },
+  {
+    "name": "math-minus",
+    "url": "icons/suint/general/css/math-minus.svg"
+  },
+  {
+    "name": "math-percent",
+    "url": "icons/suint/general/css/math-percent.svg"
+  },
+  {
+    "name": "math-plus",
+    "url": "icons/suint/general/css/math-plus.svg"
+  },
+  {
+    "name": "maximize-alt",
+    "url": "icons/suint/general/css/maximize-alt.svg"
+  },
+  {
+    "name": "maximize",
+    "url": "icons/suint/general/css/maximize.svg"
+  },
+  {
+    "name": "maze",
+    "url": "icons/suint/general/css/maze.svg"
+  },
+  {
+    "name": "media-live",
+    "url": "icons/suint/general/css/media-live.svg"
+  },
+  {
+    "name": "media-podcast",
+    "url": "icons/suint/general/css/media-podcast.svg"
+  },
+  {
+    "name": "menu-boxed",
+    "url": "icons/suint/general/css/menu-boxed.svg"
+  },
+  {
+    "name": "menu-cake",
+    "url": "icons/suint/general/css/menu-cake.svg"
+  },
+  {
+    "name": "menu-cheese",
+    "url": "icons/suint/general/css/menu-cheese.svg"
+  },
+  {
+    "name": "menu-grid-o",
+    "url": "icons/suint/general/css/menu-grid-o.svg"
+  },
+  {
+    "name": "menu-grid-r",
+    "url": "icons/suint/general/css/menu-grid-r.svg"
+  },
+  {
+    "name": "menu-hotdog",
+    "url": "icons/suint/general/css/menu-hotdog.svg"
+  },
+  {
+    "name": "menu-left-alt",
+    "url": "icons/suint/general/css/menu-left-alt.svg"
+  },
+  {
+    "name": "menu-left",
+    "url": "icons/suint/general/css/menu-left.svg"
+  },
+  {
+    "name": "menu-motion",
+    "url": "icons/suint/general/css/menu-motion.svg"
+  },
+  {
+    "name": "menu-oreos",
+    "url": "icons/suint/general/css/menu-oreos.svg"
+  },
+  {
+    "name": "menu-right-alt",
+    "url": "icons/suint/general/css/menu-right-alt.svg"
+  },
+  {
+    "name": "menu-right",
+    "url": "icons/suint/general/css/menu-right.svg"
+  },
+  {
+    "name": "menu-round",
+    "url": "icons/suint/general/css/menu-round.svg"
+  },
+  {
+    "name": "menu",
+    "url": "icons/suint/general/css/menu.svg"
+  },
+  {
+    "name": "merge-horizontal",
+    "url": "icons/suint/general/css/merge-horizontal.svg"
+  },
+  {
+    "name": "merge-vertical",
+    "url": "icons/suint/general/css/merge-vertical.svg"
+  },
+  {
+    "name": "mic",
+    "url": "icons/suint/general/css/mic.svg"
+  },
+  {
+    "name": "microbit",
+    "url": "icons/suint/general/css/microbit.svg"
+  },
+  {
+    "name": "microsoft",
+    "url": "icons/suint/general/css/microsoft.svg"
+  },
+  {
+    "name": "mini-player",
+    "url": "icons/suint/general/css/mini-player.svg"
+  },
+  {
+    "name": "minimize-alt",
+    "url": "icons/suint/general/css/minimize-alt.svg"
+  },
+  {
+    "name": "minimize",
+    "url": "icons/suint/general/css/minimize.svg"
+  },
+  {
+    "name": "modem",
+    "url": "icons/suint/general/css/modem.svg"
+  },
+  {
+    "name": "monday",
+    "url": "icons/suint/general/css/monday.svg"
+  },
+  {
+    "name": "moon",
+    "url": "icons/suint/general/css/moon.svg"
+  },
+  {
+    "name": "more-alt",
+    "url": "icons/suint/general/css/more-alt.svg"
+  },
+  {
+    "name": "more-o",
+    "url": "icons/suint/general/css/more-o.svg"
+  },
+  {
+    "name": "more-r",
+    "url": "icons/suint/general/css/more-r.svg"
+  },
+  {
+    "name": "more-vertical-alt",
+    "url": "icons/suint/general/css/more-vertical-alt.svg"
+  },
+  {
+    "name": "more-vertical-o",
+    "url": "icons/suint/general/css/more-vertical-o.svg"
+  },
+  {
+    "name": "more-vertical-r",
+    "url": "icons/suint/general/css/more-vertical-r.svg"
+  },
+  {
+    "name": "more-vertical",
+    "url": "icons/suint/general/css/more-vertical.svg"
+  },
+  {
+    "name": "more",
+    "url": "icons/suint/general/css/more.svg"
+  },
+  {
+    "name": "mouse",
+    "url": "icons/suint/general/css/mouse.svg"
+  },
+  {
+    "name": "move-down",
+    "url": "icons/suint/general/css/move-down.svg"
+  },
+  {
+    "name": "move-left",
+    "url": "icons/suint/general/css/move-left.svg"
+  },
+  {
+    "name": "move-right",
+    "url": "icons/suint/general/css/move-right.svg"
+  },
+  {
+    "name": "move-task",
+    "url": "icons/suint/general/css/move-task.svg"
+  },
+  {
+    "name": "move-up",
+    "url": "icons/suint/general/css/move-up.svg"
+  },
+  {
+    "name": "music-note",
+    "url": "icons/suint/general/css/music-note.svg"
+  },
+  {
+    "name": "music-speaker",
+    "url": "icons/suint/general/css/music-speaker.svg"
+  },
+  {
+    "name": "music",
+    "url": "icons/suint/general/css/music.svg"
+  },
+  {
+    "name": "nametag",
+    "url": "icons/suint/general/css/nametag.svg"
+  },
+  {
+    "name": "notes",
+    "url": "icons/suint/general/css/notes.svg"
+  },
+  {
+    "name": "notifications",
+    "url": "icons/suint/general/css/notifications.svg"
+  },
+  {
+    "name": "npm",
+    "url": "icons/suint/general/css/npm.svg"
+  },
+  {
+    "name": "oculus",
+    "url": "icons/suint/general/css/oculus.svg"
+  },
+  {
+    "name": "open-collective",
+    "url": "icons/suint/general/css/open-collective.svg"
+  },
+  {
+    "name": "options",
+    "url": "icons/suint/general/css/options.svg"
+  },
+  {
+    "name": "organisation",
+    "url": "icons/suint/general/css/organisation.svg"
+  },
+  {
+    "name": "overflow",
+    "url": "icons/suint/general/css/overflow.svg"
+  },
+  {
+    "name": "pacman",
+    "url": "icons/suint/general/css/pacman.svg"
+  },
+  {
+    "name": "password",
+    "url": "icons/suint/general/css/password.svg"
+  },
+  {
+    "name": "path-back",
+    "url": "icons/suint/general/css/path-back.svg"
+  },
+  {
+    "name": "path-crop",
+    "url": "icons/suint/general/css/path-crop.svg"
+  },
+  {
+    "name": "path-divide",
+    "url": "icons/suint/general/css/path-divide.svg"
+  },
+  {
+    "name": "path-exclude",
+    "url": "icons/suint/general/css/path-exclude.svg"
+  },
+  {
+    "name": "path-front",
+    "url": "icons/suint/general/css/path-front.svg"
+  },
+  {
+    "name": "path-intersect",
+    "url": "icons/suint/general/css/path-intersect.svg"
+  },
+  {
+    "name": "path-outline",
+    "url": "icons/suint/general/css/path-outline.svg"
+  },
+  {
+    "name": "path-trim",
+    "url": "icons/suint/general/css/path-trim.svg"
+  },
+  {
+    "name": "path-unite",
+    "url": "icons/suint/general/css/path-unite.svg"
+  },
+  {
+    "name": "patreon",
+    "url": "icons/suint/general/css/patreon.svg"
+  },
+  {
+    "name": "paypal",
+    "url": "icons/suint/general/css/paypal.svg"
+  },
+  {
+    "name": "pen",
+    "url": "icons/suint/general/css/pen.svg"
+  },
+  {
+    "name": "pentagon-bottom-left",
+    "url": "icons/suint/general/css/pentagon-bottom-left.svg"
+  },
+  {
+    "name": "pentagon-bottom-right",
+    "url": "icons/suint/general/css/pentagon-bottom-right.svg"
+  },
+  {
+    "name": "pentagon-down",
+    "url": "icons/suint/general/css/pentagon-down.svg"
+  },
+  {
+    "name": "pentagon-left",
+    "url": "icons/suint/general/css/pentagon-left.svg"
+  },
+  {
+    "name": "pentagon-right",
+    "url": "icons/suint/general/css/pentagon-right.svg"
+  },
+  {
+    "name": "pentagon-top-left",
+    "url": "icons/suint/general/css/pentagon-top-left.svg"
+  },
+  {
+    "name": "pentagon-top-right",
+    "url": "icons/suint/general/css/pentagon-top-right.svg"
+  },
+  {
+    "name": "pentagon-up",
+    "url": "icons/suint/general/css/pentagon-up.svg"
+  },
+  {
+    "name": "performance",
+    "url": "icons/suint/general/css/performance.svg"
+  },
+  {
+    "name": "pexels",
+    "url": "icons/suint/general/css/pexels.svg"
+  },
+  {
+    "name": "phone",
+    "url": "icons/suint/general/css/phone.svg"
+  },
+  {
+    "name": "photoscan",
+    "url": "icons/suint/general/css/photoscan.svg"
+  },
+  {
+    "name": "piano",
+    "url": "icons/suint/general/css/piano.svg"
+  },
+  {
+    "name": "pill",
+    "url": "icons/suint/general/css/pill.svg"
+  },
+  {
+    "name": "pin-alt",
+    "url": "icons/suint/general/css/pin-alt.svg"
+  },
+  {
+    "name": "pin-bottom",
+    "url": "icons/suint/general/css/pin-bottom.svg"
+  },
+  {
+    "name": "pin-top",
+    "url": "icons/suint/general/css/pin-top.svg"
+  },
+  {
+    "name": "pin",
+    "url": "icons/suint/general/css/pin.svg"
+  },
+  {
+    "name": "play-backwards",
+    "url": "icons/suint/general/css/play-backwards.svg"
+  },
+  {
+    "name": "play-button-o",
+    "url": "icons/suint/general/css/play-button-o.svg"
+  },
+  {
+    "name": "play-button-r",
+    "url": "icons/suint/general/css/play-button-r.svg"
+  },
+  {
+    "name": "play-button",
+    "url": "icons/suint/general/css/play-button.svg"
+  },
+  {
+    "name": "play-forwards",
+    "url": "icons/suint/general/css/play-forwards.svg"
+  },
+  {
+    "name": "play-list-add",
+    "url": "icons/suint/general/css/play-list-add.svg"
+  },
+  {
+    "name": "play-list-check",
+    "url": "icons/suint/general/css/play-list-check.svg"
+  },
+  {
+    "name": "play-list-remove",
+    "url": "icons/suint/general/css/play-list-remove.svg"
+  },
+  {
+    "name": "play-list-search",
+    "url": "icons/suint/general/css/play-list-search.svg"
+  },
+  {
+    "name": "play-list",
+    "url": "icons/suint/general/css/play-list.svg"
+  },
+  {
+    "name": "play-pause-o",
+    "url": "icons/suint/general/css/play-pause-o.svg"
+  },
+  {
+    "name": "play-pause-r",
+    "url": "icons/suint/general/css/play-pause-r.svg"
+  },
+  {
+    "name": "play-pause",
+    "url": "icons/suint/general/css/play-pause.svg"
+  },
+  {
+    "name": "play-stop-o",
+    "url": "icons/suint/general/css/play-stop-o.svg"
+  },
+  {
+    "name": "play-stop-r",
+    "url": "icons/suint/general/css/play-stop-r.svg"
+  },
+  {
+    "name": "play-stop",
+    "url": "icons/suint/general/css/play-stop.svg"
+  },
+  {
+    "name": "play-track-next-o",
+    "url": "icons/suint/general/css/play-track-next-o.svg"
+  },
+  {
+    "name": "play-track-next-r",
+    "url": "icons/suint/general/css/play-track-next-r.svg"
+  },
+  {
+    "name": "play-track-next",
+    "url": "icons/suint/general/css/play-track-next.svg"
+  },
+  {
+    "name": "play-track-prev-o",
+    "url": "icons/suint/general/css/play-track-prev-o.svg"
+  },
+  {
+    "name": "play-track-prev-r",
+    "url": "icons/suint/general/css/play-track-prev-r.svg"
+  },
+  {
+    "name": "play-track-prev",
+    "url": "icons/suint/general/css/play-track-prev.svg"
+  },
+  {
+    "name": "plug",
+    "url": "icons/suint/general/css/plug.svg"
+  },
+  {
+    "name": "pocket",
+    "url": "icons/suint/general/css/pocket.svg"
+  },
+  {
+    "name": "pokemon",
+    "url": "icons/suint/general/css/pokemon.svg"
+  },
+  {
+    "name": "polaroid",
+    "url": "icons/suint/general/css/polaroid.svg"
+  },
+  {
+    "name": "poll",
+    "url": "icons/suint/general/css/poll.svg"
+  },
+  {
+    "name": "presentation",
+    "url": "icons/suint/general/css/presentation.svg"
+  },
+  {
+    "name": "printer",
+    "url": "icons/suint/general/css/printer.svg"
+  },
+  {
+    "name": "product-hunt",
+    "url": "icons/suint/general/css/product-hunt.svg"
+  },
+  {
+    "name": "profile",
+    "url": "icons/suint/general/css/profile.svg"
+  },
+  {
+    "name": "pull-clear",
+    "url": "icons/suint/general/css/pull-clear.svg"
+  },
+  {
+    "name": "push-chevron-down-o",
+    "url": "icons/suint/general/css/push-chevron-down-o.svg"
+  },
+  {
+    "name": "push-chevron-down-r",
+    "url": "icons/suint/general/css/push-chevron-down-r.svg"
+  },
+  {
+    "name": "push-chevron-down",
+    "url": "icons/suint/general/css/push-chevron-down.svg"
+  },
+  {
+    "name": "push-chevron-left-o",
+    "url": "icons/suint/general/css/push-chevron-left-o.svg"
+  },
+  {
+    "name": "push-chevron-left-r",
+    "url": "icons/suint/general/css/push-chevron-left-r.svg"
+  },
+  {
+    "name": "push-chevron-left",
+    "url": "icons/suint/general/css/push-chevron-left.svg"
+  },
+  {
+    "name": "push-chevron-right-o",
+    "url": "icons/suint/general/css/push-chevron-right-o.svg"
+  },
+  {
+    "name": "push-chevron-right-r",
+    "url": "icons/suint/general/css/push-chevron-right-r.svg"
+  },
+  {
+    "name": "push-chevron-right",
+    "url": "icons/suint/general/css/push-chevron-right.svg"
+  },
+  {
+    "name": "push-chevron-up-o",
+    "url": "icons/suint/general/css/push-chevron-up-o.svg"
+  },
+  {
+    "name": "push-chevron-up-r",
+    "url": "icons/suint/general/css/push-chevron-up-r.svg"
+  },
+  {
+    "name": "push-chevron-up",
+    "url": "icons/suint/general/css/push-chevron-up.svg"
+  },
+  {
+    "name": "push-down",
+    "url": "icons/suint/general/css/push-down.svg"
+  },
+  {
+    "name": "push-left",
+    "url": "icons/suint/general/css/push-left.svg"
+  },
+  {
+    "name": "push-right",
+    "url": "icons/suint/general/css/push-right.svg"
+  },
+  {
+    "name": "push-up",
+    "url": "icons/suint/general/css/push-up.svg"
+  },
+  {
+    "name": "qr",
+    "url": "icons/suint/general/css/qr.svg"
+  },
+  {
+    "name": "quote-o",
+    "url": "icons/suint/general/css/quote-o.svg"
+  },
+  {
+    "name": "quote",
+    "url": "icons/suint/general/css/quote.svg"
+  },
+  {
+    "name": "radio-check",
+    "url": "icons/suint/general/css/radio-check.svg"
+  },
+  {
+    "name": "radio-checked",
+    "url": "icons/suint/general/css/radio-checked.svg"
+  },
+  {
+    "name": "ratio",
+    "url": "icons/suint/general/css/ratio.svg"
+  },
+  {
+    "name": "read",
+    "url": "icons/suint/general/css/read.svg"
+  },
+  {
+    "name": "readme",
+    "url": "icons/suint/general/css/readme.svg"
+  },
+  {
+    "name": "record",
+    "url": "icons/suint/general/css/record.svg"
+  },
+  {
+    "name": "redo",
+    "url": "icons/suint/general/css/redo.svg"
+  },
+  {
+    "name": "remote",
+    "url": "icons/suint/general/css/remote.svg"
+  },
+  {
+    "name": "remove-r",
+    "url": "icons/suint/general/css/remove-r.svg"
+  },
+  {
+    "name": "remove",
+    "url": "icons/suint/general/css/remove.svg"
+  },
+  {
+    "name": "rename",
+    "url": "icons/suint/general/css/rename.svg"
+  },
+  {
+    "name": "reorder",
+    "url": "icons/suint/general/css/reorder.svg"
+  },
+  {
+    "name": "repeat",
+    "url": "icons/suint/general/css/repeat.svg"
+  },
+  {
+    "name": "ring",
+    "url": "icons/suint/general/css/ring.svg"
+  },
+  {
+    "name": "row-first",
+    "url": "icons/suint/general/css/row-first.svg"
+  },
+  {
+    "name": "row-last",
+    "url": "icons/suint/general/css/row-last.svg"
+  },
+  {
+    "name": "ruler",
+    "url": "icons/suint/general/css/ruler.svg"
+  },
+  {
+    "name": "sand-clock",
+    "url": "icons/suint/general/css/sand-clock.svg"
+  },
+  {
+    "name": "scan",
+    "url": "icons/suint/general/css/scan.svg"
+  },
+  {
+    "name": "screen-mirror",
+    "url": "icons/suint/general/css/screen-mirror.svg"
+  },
+  {
+    "name": "screen-shot",
+    "url": "icons/suint/general/css/screen-shot.svg"
+  },
+  {
+    "name": "screen-wide",
+    "url": "icons/suint/general/css/screen-wide.svg"
+  },
+  {
+    "name": "screen",
+    "url": "icons/suint/general/css/screen.svg"
+  },
+  {
+    "name": "scroll-h",
+    "url": "icons/suint/general/css/scroll-h.svg"
+  },
+  {
+    "name": "scroll-v",
+    "url": "icons/suint/general/css/scroll-v.svg"
+  },
+  {
+    "name": "search-found",
+    "url": "icons/suint/general/css/search-found.svg"
+  },
+  {
+    "name": "search-loading",
+    "url": "icons/suint/general/css/search-loading.svg"
+  },
+  {
+    "name": "search",
+    "url": "icons/suint/general/css/search.svg"
+  },
+  {
+    "name": "select-o",
+    "url": "icons/suint/general/css/select-o.svg"
+  },
+  {
+    "name": "select-r",
+    "url": "icons/suint/general/css/select-r.svg"
+  },
+  {
+    "name": "select",
+    "url": "icons/suint/general/css/select.svg"
+  },
+  {
+    "name": "server",
+    "url": "icons/suint/general/css/server.svg"
+  },
+  {
+    "name": "serverless",
+    "url": "icons/suint/general/css/serverless.svg"
+  },
+  {
+    "name": "shape-circle",
+    "url": "icons/suint/general/css/shape-circle.svg"
+  },
+  {
+    "name": "shape-half-circle",
+    "url": "icons/suint/general/css/shape-half-circle.svg"
+  },
+  {
+    "name": "shape-hexagon",
+    "url": "icons/suint/general/css/shape-hexagon.svg"
+  },
+  {
+    "name": "shape-rhombus",
+    "url": "icons/suint/general/css/shape-rhombus.svg"
+  },
+  {
+    "name": "shape-square",
+    "url": "icons/suint/general/css/shape-square.svg"
+  },
+  {
+    "name": "shape-triangle",
+    "url": "icons/suint/general/css/shape-triangle.svg"
+  },
+  {
+    "name": "shape-zigzag",
+    "url": "icons/suint/general/css/shape-zigzag.svg"
+  },
+  {
+    "name": "share",
+    "url": "icons/suint/general/css/share.svg"
+  },
+  {
+    "name": "shield",
+    "url": "icons/suint/general/css/shield.svg"
+  },
+  {
+    "name": "shopping-bag",
+    "url": "icons/suint/general/css/shopping-bag.svg"
+  },
+  {
+    "name": "shopping-cart",
+    "url": "icons/suint/general/css/shopping-cart.svg"
+  },
+  {
+    "name": "shortcut",
+    "url": "icons/suint/general/css/shortcut.svg"
+  },
+  {
+    "name": "shutterstock",
+    "url": "icons/suint/general/css/shutterstock.svg"
+  },
+  {
+    "name": "sidebar-open",
+    "url": "icons/suint/general/css/sidebar-open.svg"
+  },
+  {
+    "name": "sidebar-right",
+    "url": "icons/suint/general/css/sidebar-right.svg"
+  },
+  {
+    "name": "sidebar",
+    "url": "icons/suint/general/css/sidebar.svg"
+  },
+  {
+    "name": "signal",
+    "url": "icons/suint/general/css/signal.svg"
+  },
+  {
+    "name": "size",
+    "url": "icons/suint/general/css/size.svg"
+  },
+  {
+    "name": "sketch",
+    "url": "icons/suint/general/css/sketch.svg"
+  },
+  {
+    "name": "slack",
+    "url": "icons/suint/general/css/slack.svg"
+  },
+  {
+    "name": "sleep",
+    "url": "icons/suint/general/css/sleep.svg"
+  },
+  {
+    "name": "smart-home-boiler",
+    "url": "icons/suint/general/css/smart-home-boiler.svg"
+  },
+  {
+    "name": "smart-home-cooker",
+    "url": "icons/suint/general/css/smart-home-cooker.svg"
+  },
+  {
+    "name": "smart-home-heat",
+    "url": "icons/suint/general/css/smart-home-heat.svg"
+  },
+  {
+    "name": "smart-home-light",
+    "url": "icons/suint/general/css/smart-home-light.svg"
+  },
+  {
+    "name": "smart-home-refrigerator",
+    "url": "icons/suint/general/css/smart-home-refrigerator.svg"
+  },
+  {
+    "name": "smart-home-wash-machine",
+    "url": "icons/suint/general/css/smart-home-wash-machine.svg"
+  },
+  {
+    "name": "smartphone-chip",
+    "url": "icons/suint/general/css/smartphone-chip.svg"
+  },
+  {
+    "name": "smartphone-ram",
+    "url": "icons/suint/general/css/smartphone-ram.svg"
+  },
+  {
+    "name": "smartphone-shake",
+    "url": "icons/suint/general/css/smartphone-shake.svg"
+  },
+  {
+    "name": "smartphone",
+    "url": "icons/suint/general/css/smartphone.svg"
+  },
+  {
+    "name": "smile-mouth-open",
+    "url": "icons/suint/general/css/smile-mouth-open.svg"
+  },
+  {
+    "name": "smile-neutral",
+    "url": "icons/suint/general/css/smile-neutral.svg"
+  },
+  {
+    "name": "smile-no-mouth",
+    "url": "icons/suint/general/css/smile-no-mouth.svg"
+  },
+  {
+    "name": "smile-none",
+    "url": "icons/suint/general/css/smile-none.svg"
+  },
+  {
+    "name": "smile-sad",
+    "url": "icons/suint/general/css/smile-sad.svg"
+  },
+  {
+    "name": "smile-upside",
+    "url": "icons/suint/general/css/smile-upside.svg"
+  },
+  {
+    "name": "smile",
+    "url": "icons/suint/general/css/smile.svg"
+  },
+  {
+    "name": "software-download",
+    "url": "icons/suint/general/css/software-download.svg"
+  },
+  {
+    "name": "software-upload",
+    "url": "icons/suint/general/css/software-upload.svg"
+  },
+  {
+    "name": "sort-az",
+    "url": "icons/suint/general/css/sort-az.svg"
+  },
+  {
+    "name": "sort-za",
+    "url": "icons/suint/general/css/sort-za.svg"
+  },
+  {
+    "name": "space-between-v",
+    "url": "icons/suint/general/css/space-between-v.svg"
+  },
+  {
+    "name": "space-between",
+    "url": "icons/suint/general/css/space-between.svg"
+  },
+  {
+    "name": "spectrum",
+    "url": "icons/suint/general/css/spectrum.svg"
+  },
+  {
+    "name": "spinner-alt",
+    "url": "icons/suint/general/css/spinner-alt.svg"
+  },
+  {
+    "name": "spinner-two-alt",
+    "url": "icons/suint/general/css/spinner-two-alt.svg"
+  },
+  {
+    "name": "spinner-two",
+    "url": "icons/suint/general/css/spinner-two.svg"
+  },
+  {
+    "name": "spinner",
+    "url": "icons/suint/general/css/spinner.svg"
+  },
+  {
+    "name": "square",
+    "url": "icons/suint/general/css/square.svg"
+  },
+  {
+    "name": "stack",
+    "url": "icons/suint/general/css/stack.svg"
+  },
+  {
+    "name": "stark",
+    "url": "icons/suint/general/css/stark.svg"
+  },
+  {
+    "name": "stopwatch",
+    "url": "icons/suint/general/css/stopwatch.svg"
+  },
+  {
+    "name": "stories",
+    "url": "icons/suint/general/css/stories.svg"
+  },
+  {
+    "name": "studio",
+    "url": "icons/suint/general/css/studio.svg"
+  },
+  {
+    "name": "style",
+    "url": "icons/suint/general/css/style.svg"
+  },
+  {
+    "name": "sun",
+    "url": "icons/suint/general/css/sun.svg"
+  },
+  {
+    "name": "support",
+    "url": "icons/suint/general/css/support.svg"
+  },
+  {
+    "name": "swap-vertical",
+    "url": "icons/suint/general/css/swap-vertical.svg"
+  },
+  {
+    "name": "swap",
+    "url": "icons/suint/general/css/swap.svg"
+  },
+  {
+    "name": "sweden",
+    "url": "icons/suint/general/css/sweden.svg"
+  },
+  {
+    "name": "swiss",
+    "url": "icons/suint/general/css/swiss.svg"
+  },
+  {
+    "name": "sync",
+    "url": "icons/suint/general/css/sync.svg"
+  },
+  {
+    "name": "tab",
+    "url": "icons/suint/general/css/tab.svg"
+  },
+  {
+    "name": "tag",
+    "url": "icons/suint/general/css/tag.svg"
+  },
+  {
+    "name": "tally",
+    "url": "icons/suint/general/css/tally.svg"
+  },
+  {
+    "name": "tap-double",
+    "url": "icons/suint/general/css/tap-double.svg"
+  },
+  {
+    "name": "tap-single",
+    "url": "icons/suint/general/css/tap-single.svg"
+  },
+  {
+    "name": "template",
+    "url": "icons/suint/general/css/template.svg"
+  },
+  {
+    "name": "tennis",
+    "url": "icons/suint/general/css/tennis.svg"
+  },
+  {
+    "name": "terminal",
+    "url": "icons/suint/general/css/terminal.svg"
+  },
+  {
+    "name": "terrain",
+    "url": "icons/suint/general/css/terrain.svg"
+  },
+  {
+    "name": "thermometer",
+    "url": "icons/suint/general/css/thermometer.svg"
+  },
+  {
+    "name": "thermostat",
+    "url": "icons/suint/general/css/thermostat.svg"
+  },
+  {
+    "name": "tikcode",
+    "url": "icons/suint/general/css/tikcode.svg"
+  },
+  {
+    "name": "time",
+    "url": "icons/suint/general/css/time.svg"
+  },
+  {
+    "name": "timelapse",
+    "url": "icons/suint/general/css/timelapse.svg"
+  },
+  {
+    "name": "timer",
+    "url": "icons/suint/general/css/timer.svg"
+  },
+  {
+    "name": "today",
+    "url": "icons/suint/general/css/today.svg"
+  },
+  {
+    "name": "toggle-off",
+    "url": "icons/suint/general/css/toggle-off.svg"
+  },
+  {
+    "name": "toggle-on",
+    "url": "icons/suint/general/css/toggle-on.svg"
+  },
+  {
+    "name": "toggle-square-off",
+    "url": "icons/suint/general/css/toggle-square-off.svg"
+  },
+  {
+    "name": "toggle-square",
+    "url": "icons/suint/general/css/toggle-square.svg"
+  },
+  {
+    "name": "toolbar-bottom",
+    "url": "icons/suint/general/css/toolbar-bottom.svg"
+  },
+  {
+    "name": "toolbar-left",
+    "url": "icons/suint/general/css/toolbar-left.svg"
+  },
+  {
+    "name": "toolbar-right",
+    "url": "icons/suint/general/css/toolbar-right.svg"
+  },
+  {
+    "name": "toolbar-top",
+    "url": "icons/suint/general/css/toolbar-top.svg"
+  },
+  {
+    "name": "toolbox",
+    "url": "icons/suint/general/css/toolbox.svg"
+  },
+  {
+    "name": "touchpad",
+    "url": "icons/suint/general/css/touchpad.svg"
+  },
+  {
+    "name": "track",
+    "url": "icons/suint/general/css/track.svg"
+  },
+  {
+    "name": "transcript",
+    "url": "icons/suint/general/css/transcript.svg"
+  },
+  {
+    "name": "trash-empty",
+    "url": "icons/suint/general/css/trash-empty.svg"
+  },
+  {
+    "name": "trash",
+    "url": "icons/suint/general/css/trash.svg"
+  },
+  {
+    "name": "tree",
+    "url": "icons/suint/general/css/tree.svg"
+  },
+  {
+    "name": "trees",
+    "url": "icons/suint/general/css/trees.svg"
+  },
+  {
+    "name": "trello",
+    "url": "icons/suint/general/css/trello.svg"
+  },
+  {
+    "name": "trending-down",
+    "url": "icons/suint/general/css/trending-down.svg"
+  },
+  {
+    "name": "trending",
+    "url": "icons/suint/general/css/trending.svg"
+  },
+  {
+    "name": "trophy",
+    "url": "icons/suint/general/css/trophy.svg"
+  },
+  {
+    "name": "tv",
+    "url": "icons/suint/general/css/tv.svg"
+  },
+  {
+    "name": "twilio",
+    "url": "icons/suint/general/css/twilio.svg"
+  },
+  {
+    "name": "twitter",
+    "url": "icons/suint/general/css/twitter.svg"
+  },
+  {
+    "name": "ui-kit",
+    "url": "icons/suint/general/css/ui-kit.svg"
+  },
+  {
+    "name": "umbrella",
+    "url": "icons/suint/general/css/umbrella.svg"
+  },
+  {
+    "name": "unavailable",
+    "url": "icons/suint/general/css/unavailable.svg"
+  },
+  {
+    "name": "unblock",
+    "url": "icons/suint/general/css/unblock.svg"
+  },
+  {
+    "name": "undo",
+    "url": "icons/suint/general/css/undo.svg"
+  },
+  {
+    "name": "unfold",
+    "url": "icons/suint/general/css/unfold.svg"
+  },
+  {
+    "name": "unsplash",
+    "url": "icons/suint/general/css/unsplash.svg"
+  },
+  {
+    "name": "usb-c",
+    "url": "icons/suint/general/css/usb-c.svg"
+  },
+  {
+    "name": "usb",
+    "url": "icons/suint/general/css/usb.svg"
+  },
+  {
+    "name": "user-add",
+    "url": "icons/suint/general/css/user-add.svg"
+  },
+  {
+    "name": "user-list",
+    "url": "icons/suint/general/css/user-list.svg"
+  },
+  {
+    "name": "user-remove",
+    "url": "icons/suint/general/css/user-remove.svg"
+  },
+  {
+    "name": "user",
+    "url": "icons/suint/general/css/user.svg"
+  },
+  {
+    "name": "userlane",
+    "url": "icons/suint/general/css/userlane.svg"
+  },
+  {
+    "name": "view-cols",
+    "url": "icons/suint/general/css/view-cols.svg"
+  },
+  {
+    "name": "view-comfortable",
+    "url": "icons/suint/general/css/view-comfortable.svg"
+  },
+  {
+    "name": "view-day",
+    "url": "icons/suint/general/css/view-day.svg"
+  },
+  {
+    "name": "view-grid",
+    "url": "icons/suint/general/css/view-grid.svg"
+  },
+  {
+    "name": "view-list",
+    "url": "icons/suint/general/css/view-list.svg"
+  },
+  {
+    "name": "view-month",
+    "url": "icons/suint/general/css/view-month.svg"
+  },
+  {
+    "name": "view-split",
+    "url": "icons/suint/general/css/view-split.svg"
+  },
+  {
+    "name": "vinyl",
+    "url": "icons/suint/general/css/vinyl.svg"
+  },
+  {
+    "name": "voicemail-o",
+    "url": "icons/suint/general/css/voicemail-o.svg"
+  },
+  {
+    "name": "voicemail-r",
+    "url": "icons/suint/general/css/voicemail-r.svg"
+  },
+  {
+    "name": "voicemail",
+    "url": "icons/suint/general/css/voicemail.svg"
+  },
+  {
+    "name": "volume",
+    "url": "icons/suint/general/css/volume.svg"
+  },
+  {
+    "name": "webcam",
+    "url": "icons/suint/general/css/webcam.svg"
+  },
+  {
+    "name": "website",
+    "url": "icons/suint/general/css/website.svg"
+  },
+  {
+    "name": "windows",
+    "url": "icons/suint/general/css/windows.svg"
+  },
+  {
+    "name": "work-alt",
+    "url": "icons/suint/general/css/work-alt.svg"
+  },
+  {
+    "name": "yinyang",
+    "url": "icons/suint/general/css/yinyang.svg"
+  },
+  {
+    "name": "youtube",
+    "url": "icons/suint/general/css/youtube.svg"
+  },
+  {
+    "name": "zeit",
+    "url": "icons/suint/general/css/zeit.svg"
+  },
+  {
+    "name": "zoom-in",
+    "url": "icons/suint/general/css/zoom-in.svg"
+  },
+  {
+    "name": "zoom-out",
+    "url": "icons/suint/general/css/zoom-out.svg"
+  }
+]

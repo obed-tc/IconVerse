@@ -1,0 +1,362 @@
+[
+  {
+    "name": "4k",
+    "url": "icons/suint/general/AV/4k.svg"
+  },
+  {
+    "name": "5g",
+    "url": "icons/suint/general/AV/5g.svg"
+  },
+  {
+    "name": "add_to_queue",
+    "url": "icons/suint/general/AV/add_to_queue.svg"
+  },
+  {
+    "name": "airplay",
+    "url": "icons/suint/general/AV/airplay.svg"
+  },
+  {
+    "name": "album",
+    "url": "icons/suint/general/AV/album.svg"
+  },
+  {
+    "name": "art_track",
+    "url": "icons/suint/general/AV/art_track.svg"
+  },
+  {
+    "name": "av_timer",
+    "url": "icons/suint/general/AV/av_timer.svg"
+  },
+  {
+    "name": "branding_watermark",
+    "url": "icons/suint/general/AV/branding_watermark.svg"
+  },
+  {
+    "name": "call_to_action",
+    "url": "icons/suint/general/AV/call_to_action.svg"
+  },
+  {
+    "name": "closed_caption",
+    "url": "icons/suint/general/AV/closed_caption.svg"
+  },
+  {
+    "name": "closed_caption_disabled",
+    "url": "icons/suint/general/AV/closed_caption_disabled.svg"
+  },
+  {
+    "name": "control_camera",
+    "url": "icons/suint/general/AV/control_camera.svg"
+  },
+  {
+    "name": "equalizer",
+    "url": "icons/suint/general/AV/equalizer.svg"
+  },
+  {
+    "name": "explicit",
+    "url": "icons/suint/general/AV/explicit.svg"
+  },
+  {
+    "name": "fast_forward",
+    "url": "icons/suint/general/AV/fast_forward.svg"
+  },
+  {
+    "name": "fast_rewind",
+    "url": "icons/suint/general/AV/fast_rewind.svg"
+  },
+  {
+    "name": "featured_play_list",
+    "url": "icons/suint/general/AV/featured_play_list.svg"
+  },
+  {
+    "name": "featured_video",
+    "url": "icons/suint/general/AV/featured_video.svg"
+  },
+  {
+    "name": "fiber_dvr",
+    "url": "icons/suint/general/AV/fiber_dvr.svg"
+  },
+  {
+    "name": "fiber_manual_record",
+    "url": "icons/suint/general/AV/fiber_manual_record.svg"
+  },
+  {
+    "name": "fiber_new",
+    "url": "icons/suint/general/AV/fiber_new.svg"
+  },
+  {
+    "name": "fiber_pin",
+    "url": "icons/suint/general/AV/fiber_pin.svg"
+  },
+  {
+    "name": "fiber_smart_record",
+    "url": "icons/suint/general/AV/fiber_smart_record.svg"
+  },
+  {
+    "name": "forward_10",
+    "url": "icons/suint/general/AV/forward_10.svg"
+  },
+  {
+    "name": "forward_30",
+    "url": "icons/suint/general/AV/forward_30.svg"
+  },
+  {
+    "name": "forward_5",
+    "url": "icons/suint/general/AV/forward_5.svg"
+  },
+  {
+    "name": "games",
+    "url": "icons/suint/general/AV/games.svg"
+  },
+  {
+    "name": "hd",
+    "url": "icons/suint/general/AV/hd.svg"
+  },
+  {
+    "name": "hearing",
+    "url": "icons/suint/general/AV/hearing.svg"
+  },
+  {
+    "name": "hearing_disabled",
+    "url": "icons/suint/general/AV/hearing_disabled.svg"
+  },
+  {
+    "name": "high_quality",
+    "url": "icons/suint/general/AV/high_quality.svg"
+  },
+  {
+    "name": "library_add",
+    "url": "icons/suint/general/AV/library_add.svg"
+  },
+  {
+    "name": "library_add_check",
+    "url": "icons/suint/general/AV/library_add_check.svg"
+  },
+  {
+    "name": "library_books",
+    "url": "icons/suint/general/AV/library_books.svg"
+  },
+  {
+    "name": "library_music",
+    "url": "icons/suint/general/AV/library_music.svg"
+  },
+  {
+    "name": "loop",
+    "url": "icons/suint/general/AV/loop.svg"
+  },
+  {
+    "name": "mic",
+    "url": "icons/suint/general/AV/mic.svg"
+  },
+  {
+    "name": "mic_none",
+    "url": "icons/suint/general/AV/mic_none.svg"
+  },
+  {
+    "name": "mic_off",
+    "url": "icons/suint/general/AV/mic_off.svg"
+  },
+  {
+    "name": "missed_video_call",
+    "url": "icons/suint/general/AV/missed_video_call.svg"
+  },
+  {
+    "name": "movie",
+    "url": "icons/suint/general/AV/movie.svg"
+  },
+  {
+    "name": "music_video",
+    "url": "icons/suint/general/AV/music_video.svg"
+  },
+  {
+    "name": "new_releases",
+    "url": "icons/suint/general/AV/new_releases.svg"
+  },
+  {
+    "name": "note",
+    "url": "icons/suint/general/AV/note.svg"
+  },
+  {
+    "name": "not_interested",
+    "url": "icons/suint/general/AV/not_interested.svg"
+  },
+  {
+    "name": "pause",
+    "url": "icons/suint/general/AV/pause.svg"
+  },
+  {
+    "name": "pause_circle_filled",
+    "url": "icons/suint/general/AV/pause_circle_filled.svg"
+  },
+  {
+    "name": "pause_circle_outline",
+    "url": "icons/suint/general/AV/pause_circle_outline.svg"
+  },
+  {
+    "name": "playlist_add",
+    "url": "icons/suint/general/AV/playlist_add.svg"
+  },
+  {
+    "name": "playlist_add_check",
+    "url": "icons/suint/general/AV/playlist_add_check.svg"
+  },
+  {
+    "name": "playlist_play",
+    "url": "icons/suint/general/AV/playlist_play.svg"
+  },
+  {
+    "name": "play_arrow",
+    "url": "icons/suint/general/AV/play_arrow.svg"
+  },
+  {
+    "name": "play_circle_filled",
+    "url": "icons/suint/general/AV/play_circle_filled.svg"
+  },
+  {
+    "name": "play_circle_outline",
+    "url": "icons/suint/general/AV/play_circle_outline.svg"
+  },
+  {
+    "name": "queue",
+    "url": "icons/suint/general/AV/queue.svg"
+  },
+  {
+    "name": "queue_music",
+    "url": "icons/suint/general/AV/queue_music.svg"
+  },
+  {
+    "name": "queue_play_next",
+    "url": "icons/suint/general/AV/queue_play_next.svg"
+  },
+  {
+    "name": "radio",
+    "url": "icons/suint/general/AV/radio.svg"
+  },
+  {
+    "name": "recent_actors",
+    "url": "icons/suint/general/AV/recent_actors.svg"
+  },
+  {
+    "name": "remove_from_queue",
+    "url": "icons/suint/general/AV/remove_from_queue.svg"
+  },
+  {
+    "name": "repeat",
+    "url": "icons/suint/general/AV/repeat.svg"
+  },
+  {
+    "name": "repeat_one",
+    "url": "icons/suint/general/AV/repeat_one.svg"
+  },
+  {
+    "name": "replay",
+    "url": "icons/suint/general/AV/replay.svg"
+  },
+  {
+    "name": "replay_10",
+    "url": "icons/suint/general/AV/replay_10.svg"
+  },
+  {
+    "name": "replay_30",
+    "url": "icons/suint/general/AV/replay_30.svg"
+  },
+  {
+    "name": "replay_5",
+    "url": "icons/suint/general/AV/replay_5.svg"
+  },
+  {
+    "name": "shuffle",
+    "url": "icons/suint/general/AV/shuffle.svg"
+  },
+  {
+    "name": "skip_next",
+    "url": "icons/suint/general/AV/skip_next.svg"
+  },
+  {
+    "name": "skip_previous",
+    "url": "icons/suint/general/AV/skip_previous.svg"
+  },
+  {
+    "name": "slow_motion_video",
+    "url": "icons/suint/general/AV/slow_motion_video.svg"
+  },
+  {
+    "name": "snooze",
+    "url": "icons/suint/general/AV/snooze.svg"
+  },
+  {
+    "name": "sort_by_alpha",
+    "url": "icons/suint/general/AV/sort_by_alpha.svg"
+  },
+  {
+    "name": "speed",
+    "url": "icons/suint/general/AV/speed.svg"
+  },
+  {
+    "name": "stop",
+    "url": "icons/suint/general/AV/stop.svg"
+  },
+  {
+    "name": "stop_circle",
+    "url": "icons/suint/general/AV/stop_circle.svg"
+  },
+  {
+    "name": "subscriptions",
+    "url": "icons/suint/general/AV/subscriptions.svg"
+  },
+  {
+    "name": "subtitles",
+    "url": "icons/suint/general/AV/subtitles.svg"
+  },
+  {
+    "name": "surround_sound",
+    "url": "icons/suint/general/AV/surround_sound.svg"
+  },
+  {
+    "name": "videocam",
+    "url": "icons/suint/general/AV/videocam.svg"
+  },
+  {
+    "name": "videocam_off",
+    "url": "icons/suint/general/AV/videocam_off.svg"
+  },
+  {
+    "name": "video_call",
+    "url": "icons/suint/general/AV/video_call.svg"
+  },
+  {
+    "name": "video_label",
+    "url": "icons/suint/general/AV/video_label.svg"
+  },
+  {
+    "name": "video_library",
+    "url": "icons/suint/general/AV/video_library.svg"
+  },
+  {
+    "name": "video_settings",
+    "url": "icons/suint/general/AV/video_settings.svg"
+  },
+  {
+    "name": "volume_down",
+    "url": "icons/suint/general/AV/volume_down.svg"
+  },
+  {
+    "name": "volume_mute",
+    "url": "icons/suint/general/AV/volume_mute.svg"
+  },
+  {
+    "name": "volume_off",
+    "url": "icons/suint/general/AV/volume_off.svg"
+  },
+  {
+    "name": "volume_up",
+    "url": "icons/suint/general/AV/volume_up.svg"
+  },
+  {
+    "name": "web",
+    "url": "icons/suint/general/AV/web.svg"
+  },
+  {
+    "name": "web_asset",
+    "url": "icons/suint/general/AV/web_asset.svg"
+  }
+]

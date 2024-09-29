@@ -1,0 +1,94 @@
+[
+  {
+    "name": "BracketsAngle_fill",
+    "url": "icons/suint/solid/Development/BracketsAngle_fill.svg"
+  },
+  {
+    "name": "BracketsCurly_fill",
+    "url": "icons/suint/solid/Development/BracketsCurly_fill.svg"
+  },
+  {
+    "name": "BracketsRound_fill",
+    "url": "icons/suint/solid/Development/BracketsRound_fill.svg"
+  },
+  {
+    "name": "BracketsSquare_fill",
+    "url": "icons/suint/solid/Development/BracketsSquare_fill.svg"
+  },
+  {
+    "name": "BugBeetle_fill",
+    "url": "icons/suint/solid/Development/BugBeetle_fill.svg"
+  },
+  {
+    "name": "BugDroid_fill",
+    "url": "icons/suint/solid/Development/BugDroid_fill.svg"
+  },
+  {
+    "name": "Bug_fill",
+    "url": "icons/suint/solid/Development/Bug_fill.svg"
+  },
+  {
+    "name": "CodeSimple_fill",
+    "url": "icons/suint/solid/Development/CodeSimple_fill.svg"
+  },
+  {
+    "name": "Code_fill",
+    "url": "icons/suint/solid/Development/Code_fill.svg"
+  },
+  {
+    "name": "Cpu_fill",
+    "url": "icons/suint/solid/Development/Cpu_fill.svg"
+  },
+  {
+    "name": "Database_fill",
+    "url": "icons/suint/solid/Development/Database_fill.svg"
+  },
+  {
+    "name": "GitBranch_fill",
+    "url": "icons/suint/solid/Development/GitBranch_fill.svg"
+  },
+  {
+    "name": "GitCommit_fill",
+    "url": "icons/suint/solid/Development/GitCommit_fill.svg"
+  },
+  {
+    "name": "GitDiff_fill",
+    "url": "icons/suint/solid/Development/GitDiff_fill.svg"
+  },
+  {
+    "name": "GitFork_fill",
+    "url": "icons/suint/solid/Development/GitFork_fill.svg"
+  },
+  {
+    "name": "GitMerge_fill",
+    "url": "icons/suint/solid/Development/GitMerge_fill.svg"
+  },
+  {
+    "name": "GitPullRequest_fill",
+    "url": "icons/suint/solid/Development/GitPullRequest_fill.svg"
+  },
+  {
+    "name": "MagnetStraight_fill",
+    "url": "icons/suint/solid/Development/MagnetStraight_fill.svg"
+  },
+  {
+    "name": "Magnet_fill",
+    "url": "icons/suint/solid/Development/Magnet_fill.svg"
+  },
+  {
+    "name": "Robot_fill",
+    "url": "icons/suint/solid/Development/Robot_fill.svg"
+  },
+  {
+    "name": "TerminalWindow_fill",
+    "url": "icons/suint/solid/Development/TerminalWindow_fill.svg"
+  },
+  {
+    "name": "Terminal_fill",
+    "url": "icons/suint/solid/Development/Terminal_fill.svg"
+  },
+  {
+    "name": "TreeStructure_fill",
+    "url": "icons/suint/solid/Development/TreeStructure_fill.svg"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Award",
+    "url": "icons/suint/solid/Status/Award.svg"
+  },
+  {
+    "name": "Book-open",
+    "url": "icons/suint/solid/Status/Book-open.svg"
+  },
+  {
+    "name": "Bookmark",
+    "url": "icons/suint/solid/Status/Bookmark.svg"
+  },
+  {
+    "name": "Checked-box",
+    "url": "icons/suint/solid/Status/Checked-box.svg"
+  },
+  {
+    "name": "Diamond",
+    "url": "icons/suint/solid/Status/Diamond.svg"
+  },
+  {
+    "name": "Eye-closed",
+    "url": "icons/suint/solid/Status/Eye-closed.svg"
+  },
+  {
+    "name": "Eye",
+    "url": "icons/suint/solid/Status/Eye.svg"
+  },
+  {
+    "name": "Fire",
+    "url": "icons/suint/solid/Status/Fire.svg"
+  },
+  {
+    "name": "Group 23",
+    "url": "icons/suint/solid/Status/Group 23.svg"
+  },
+  {
+    "name": "Heart-off",
+    "url": "icons/suint/solid/Status/Heart-off.svg"
+  },
+  {
+    "name": "Heart",
+    "url": "icons/suint/solid/Status/Heart.svg"
+  },
+  {
+    "name": "Heartbeat",
+    "url": "icons/suint/solid/Status/Heartbeat.svg"
+  },
+  {
+    "name": "Info-circle",
+    "url": "icons/suint/solid/Status/Info-circle.svg"
+  },
+  {
+    "name": "Info-rect",
+    "url": "icons/suint/solid/Status/Info-rect.svg"
+  },
+  {
+    "name": "Info-triangle",
+    "url": "icons/suint/solid/Status/Info-triangle.svg"
+  },
+  {
+    "name": "Key",
+    "url": "icons/suint/solid/Status/Key.svg"
+  },
+  {
+    "name": "Lightbulb-alt",
+    "url": "icons/suint/solid/Status/Lightbulb-alt.svg"
+  },
+  {
+    "name": "Lightbulb-off",
+    "url": "icons/suint/solid/Status/Lightbulb-off.svg"
+  },
+  {
+    "name": "Lightbulb",
+    "url": "icons/suint/solid/Status/Lightbulb.svg"
+  },
+  {
+    "name": "Lightning-alt",
+    "url": "icons/suint/solid/Status/Lightning-alt.svg"
+  },
+  {
+    "name": "Lightning",
+    "url": "icons/suint/solid/Status/Lightning.svg"
+  },
+  {
+    "name": "Lock-time",
+    "url": "icons/suint/solid/Status/Lock-time.svg"
+  },
+  {
+    "name": "Lock",
+    "url": "icons/suint/solid/Status/Lock.svg"
+  },
+  {
+    "name": "Notification-off",
+    "url": "icons/suint/solid/Status/Notification-off.svg"
+  },
+  {
+    "name": "Notification-on",
+    "url": "icons/suint/solid/Status/Notification-on.svg"
+  },
+  {
+    "name": "Notification",
+    "url": "icons/suint/solid/Status/Notification.svg"
+  },
+  {
+    "name": "Pin",
+    "url": "icons/suint/solid/Status/Pin.svg"
+  },
+  {
+    "name": "Power-button",
+    "url": "icons/suint/solid/Status/Power-button.svg"
+  },
+  {
+    "name": "Present",
+    "url": "icons/suint/solid/Status/Present.svg"
+  },
+  {
+    "name": "Sand-watch",
+    "url": "icons/suint/solid/Status/Sand-watch.svg"
+  },
+  {
+    "name": "Shield",
+    "url": "icons/suint/solid/Status/Shield.svg"
+  },
+  {
+    "name": "Star-half",
+    "url": "icons/suint/solid/Status/Star-half.svg"
+  },
+  {
+    "name": "Star",
+    "url": "icons/suint/solid/Status/Star.svg"
+  },
+  {
+    "name": "Toggle-off",
+    "url": "icons/suint/solid/Status/Toggle-off.svg"
+  },
+  {
+    "name": "Toggle-on",
+    "url": "icons/suint/solid/Status/Toggle-on.svg"
+  },
+  {
+    "name": "University",
+    "url": "icons/suint/solid/Status/University.svg"
+  },
+  {
+    "name": "Unlock",
+    "url": "icons/suint/solid/Status/Unlock.svg"
+  }
+]

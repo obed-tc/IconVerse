@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Alarm_fill",
+    "url": "icons/suint/solid/Time/Alarm_fill.svg"
+  },
+  {
+    "name": "CalendarBlank_fill",
+    "url": "icons/suint/solid/Time/CalendarBlank_fill.svg"
+  },
+  {
+    "name": "CalendarCheck_fill",
+    "url": "icons/suint/solid/Time/CalendarCheck_fill.svg"
+  },
+  {
+    "name": "CalendarPlus_fill",
+    "url": "icons/suint/solid/Time/CalendarPlus_fill.svg"
+  },
+  {
+    "name": "CalendarX_fill",
+    "url": "icons/suint/solid/Time/CalendarX_fill.svg"
+  },
+  {
+    "name": "Calendar_fill",
+    "url": "icons/suint/solid/Time/Calendar_fill.svg"
+  },
+  {
+    "name": "ClockAfternoon_fill",
+    "url": "icons/suint/solid/Time/ClockAfternoon_fill.svg"
+  },
+  {
+    "name": "ClockClockwise_fill",
+    "url": "icons/suint/solid/Time/ClockClockwise_fill.svg"
+  },
+  {
+    "name": "ClockCounterClockwise_fill",
+    "url": "icons/suint/solid/Time/ClockCounterClockwise_fill.svg"
+  },
+  {
+    "name": "Clock_fill",
+    "url": "icons/suint/solid/Time/Clock_fill.svg"
+  },
+  {
+    "name": "HourglassHigh_fill",
+    "url": "icons/suint/solid/Time/HourglassHigh_fill.svg"
+  },
+  {
+    "name": "HourglassLow_fill",
+    "url": "icons/suint/solid/Time/HourglassLow_fill.svg"
+  },
+  {
+    "name": "HourglassMedium_fill",
+    "url": "icons/suint/solid/Time/HourglassMedium_fill.svg"
+  },
+  {
+    "name": "HourglassSimpleHigh_fill",
+    "url": "icons/suint/solid/Time/HourglassSimpleHigh_fill.svg"
+  },
+  {
+    "name": "HourglassSimpleLow_fill",
+    "url": "icons/suint/solid/Time/HourglassSimpleLow_fill.svg"
+  },
+  {
+    "name": "HourglassSimpleMedium_fill",
+    "url": "icons/suint/solid/Time/HourglassSimpleMedium_fill.svg"
+  },
+  {
+    "name": "HourglassSimple_fill",
+    "url": "icons/suint/solid/Time/HourglassSimple_fill.svg"
+  },
+  {
+    "name": "Hourglass_fill",
+    "url": "icons/suint/solid/Time/Hourglass_fill.svg"
+  },
+  {
+    "name": "Timer_fill",
+    "url": "icons/suint/solid/Time/Timer_fill.svg"
+  },
+  {
+    "name": "Watch_fill",
+    "url": "icons/suint/solid/Time/Watch_fill.svg"
+  }
+]

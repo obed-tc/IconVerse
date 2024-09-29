@@ -1,0 +1,246 @@
+[
+  {
+    "name": "add",
+    "url": "icons/suint/general/content/add.svg"
+  },
+  {
+    "name": "add_box",
+    "url": "icons/suint/general/content/add_box.svg"
+  },
+  {
+    "name": "add_circle",
+    "url": "icons/suint/general/content/add_circle.svg"
+  },
+  {
+    "name": "add_circle_outline",
+    "url": "icons/suint/general/content/add_circle_outline.svg"
+  },
+  {
+    "name": "amp_stories",
+    "url": "icons/suint/general/content/amp_stories.svg"
+  },
+  {
+    "name": "archive",
+    "url": "icons/suint/general/content/archive.svg"
+  },
+  {
+    "name": "attribution",
+    "url": "icons/suint/general/content/attribution.svg"
+  },
+  {
+    "name": "backspace",
+    "url": "icons/suint/general/content/backspace.svg"
+  },
+  {
+    "name": "ballot",
+    "url": "icons/suint/general/content/ballot.svg"
+  },
+  {
+    "name": "biotech",
+    "url": "icons/suint/general/content/biotech.svg"
+  },
+  {
+    "name": "block",
+    "url": "icons/suint/general/content/block.svg"
+  },
+  {
+    "name": "calculate",
+    "url": "icons/suint/general/content/calculate.svg"
+  },
+  {
+    "name": "clear",
+    "url": "icons/suint/general/content/clear.svg"
+  },
+  {
+    "name": "content_copy",
+    "url": "icons/suint/general/content/content_copy.svg"
+  },
+  {
+    "name": "content_cut",
+    "url": "icons/suint/general/content/content_cut.svg"
+  },
+  {
+    "name": "content_paste",
+    "url": "icons/suint/general/content/content_paste.svg"
+  },
+  {
+    "name": "create",
+    "url": "icons/suint/general/content/create.svg"
+  },
+  {
+    "name": "delete_sweep",
+    "url": "icons/suint/general/content/delete_sweep.svg"
+  },
+  {
+    "name": "drafts",
+    "url": "icons/suint/general/content/drafts.svg"
+  },
+  {
+    "name": "dynamic_feed",
+    "url": "icons/suint/general/content/dynamic_feed.svg"
+  },
+  {
+    "name": "file_copy",
+    "url": "icons/suint/general/content/file_copy.svg"
+  },
+  {
+    "name": "filter_list",
+    "url": "icons/suint/general/content/filter_list.svg"
+  },
+  {
+    "name": "flag",
+    "url": "icons/suint/general/content/flag.svg"
+  },
+  {
+    "name": "font_download",
+    "url": "icons/suint/general/content/font_download.svg"
+  },
+  {
+    "name": "forward",
+    "url": "icons/suint/general/content/forward.svg"
+  },
+  {
+    "name": "gesture",
+    "url": "icons/suint/general/content/gesture.svg"
+  },
+  {
+    "name": "how_to_reg",
+    "url": "icons/suint/general/content/how_to_reg.svg"
+  },
+  {
+    "name": "how_to_vote",
+    "url": "icons/suint/general/content/how_to_vote.svg"
+  },
+  {
+    "name": "inbox",
+    "url": "icons/suint/general/content/inbox.svg"
+  },
+  {
+    "name": "insights",
+    "url": "icons/suint/general/content/insights.svg"
+  },
+  {
+    "name": "link",
+    "url": "icons/suint/general/content/link.svg"
+  },
+  {
+    "name": "link_off",
+    "url": "icons/suint/general/content/link_off.svg"
+  },
+  {
+    "name": "low_priority",
+    "url": "icons/suint/general/content/low_priority.svg"
+  },
+  {
+    "name": "mail",
+    "url": "icons/suint/general/content/mail.svg"
+  },
+  {
+    "name": "markunread",
+    "url": "icons/suint/general/content/markunread.svg"
+  },
+  {
+    "name": "move_to_inbox",
+    "url": "icons/suint/general/content/move_to_inbox.svg"
+  },
+  {
+    "name": "next_week",
+    "url": "icons/suint/general/content/next_week.svg"
+  },
+  {
+    "name": "outlined_flag",
+    "url": "icons/suint/general/content/outlined_flag.svg"
+  },
+  {
+    "name": "policy",
+    "url": "icons/suint/general/content/policy.svg"
+  },
+  {
+    "name": "push_pin",
+    "url": "icons/suint/general/content/push_pin.svg"
+  },
+  {
+    "name": "redo",
+    "url": "icons/suint/general/content/redo.svg"
+  },
+  {
+    "name": "remove",
+    "url": "icons/suint/general/content/remove.svg"
+  },
+  {
+    "name": "remove_circle",
+    "url": "icons/suint/general/content/remove_circle.svg"
+  },
+  {
+    "name": "remove_circle_outline",
+    "url": "icons/suint/general/content/remove_circle_outline.svg"
+  },
+  {
+    "name": "reply",
+    "url": "icons/suint/general/content/reply.svg"
+  },
+  {
+    "name": "reply_all",
+    "url": "icons/suint/general/content/reply_all.svg"
+  },
+  {
+    "name": "report",
+    "url": "icons/suint/general/content/report.svg"
+  },
+  {
+    "name": "report_gmailerrorred",
+    "url": "icons/suint/general/content/report_gmailerrorred.svg"
+  },
+  {
+    "name": "report_off",
+    "url": "icons/suint/general/content/report_off.svg"
+  },
+  {
+    "name": "save",
+    "url": "icons/suint/general/content/save.svg"
+  },
+  {
+    "name": "save_alt",
+    "url": "icons/suint/general/content/save_alt.svg"
+  },
+  {
+    "name": "select_all",
+    "url": "icons/suint/general/content/select_all.svg"
+  },
+  {
+    "name": "send",
+    "url": "icons/suint/general/content/send.svg"
+  },
+  {
+    "name": "sort",
+    "url": "icons/suint/general/content/sort.svg"
+  },
+  {
+    "name": "square_foot",
+    "url": "icons/suint/general/content/square_foot.svg"
+  },
+  {
+    "name": "text_format",
+    "url": "icons/suint/general/content/text_format.svg"
+  },
+  {
+    "name": "unarchive",
+    "url": "icons/suint/general/content/unarchive.svg"
+  },
+  {
+    "name": "undo",
+    "url": "icons/suint/general/content/undo.svg"
+  },
+  {
+    "name": "waves",
+    "url": "icons/suint/general/content/waves.svg"
+  },
+  {
+    "name": "weekend",
+    "url": "icons/suint/general/content/weekend.svg"
+  },
+  {
+    "name": "where_to_vote",
+    "url": "icons/suint/general/content/where_to_vote.svg"
+  }
+]
