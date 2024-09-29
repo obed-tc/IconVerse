@@ -9,6 +9,7 @@ export class IconItemComponent {
   @Input() iconSrc="";  
   @Input() iconName="";
 
+  @Input() typeSearch="";
   modal:boolean=false;
   toggleModal(){
     this.modal=!this.modal;

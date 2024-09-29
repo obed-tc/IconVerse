@@ -8,12 +8,15 @@ import { map } from 'rxjs/operators';
 export class IconService {
 
 
-  private jsonPath = 'assets/output/all-icons.json'; // Ruta del JSON generado
+  private jsonPath = 'assets/output/';
 
   constructor(private http: HttpClient) {}
 
-  getIcons(): Observable<string[]> {
-    return this.http.get<string[]>(this.jsonPath);
+  getIconsFlutter(): Observable<string[]> {
+    return this.http.get<string[]>(this.jsonPath+"flutter/all-icons.json");
+  }
+  getIconsSuint(): Observable<string[]> {
+    return this.http.get<string[]>(this.jsonPath+"suint/all-icons.json");
   }
   getSvgContent(url: string): Observable<string> {
     return this.http.get(url, { responseType: 'text' });

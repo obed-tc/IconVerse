@@ -1,22 +1,36 @@
 <div id="myModal" class="fixed top-0 z-50 inset-0 bg-opacity-[30%] bg-black flex items-center justify-end"
     (click)="close()">
-    <div class="bg-white rounded-sm shadow-ms max-w-xl w-full h-full p-4 overflow-auto"
+    <div class="bg-white dark:bg-[#131313] rounded-sm shadow-ms max-w-xl w-full h-full p-4 overflow-auto"
         (click)="$event.stopPropagation()">
         <div class="w-full flex justify-between">
-            <label class="text-lg">Vista previa</label>
+            <label class="text-lg dark:text-white">Vista previa </label>
 
-            <button (click)="close()" class="text-xl">x</button>
-
-        </div>
-        <div class="flex flex-col justify-center items-center py-3 rounded-md" [ngClass]="backgroundColor">
-            <div class="svg-content w-32" [ngClass]=" iconColor " [innerHTML]="svgContent"></div>
-
-
-            <label class="text-lg cursor-pointer" [ngClass]=" iconColor "
-                (click)="copyToClipboard('icon'+{nameIcon})">icon-{{nameIcon}}</label>
+            <button (click)="close()" class="text-xl" class="text-red-500 dark:text-white">x</button>
 
         </div>
-        <div class="flex justify-center space-x-2 my-2">
+        <br />
+
+        <div class="flex flex-col justify-center items-center py-3 rounded-md dark:bg-opacity-70"
+            [ngClass]="backgroundColor">
+            <div class="svg-content w-32" [ngClass]=" iconColor " [innerHTML]="svgContent" *ngIf="typeSearch=='suint'">
+            </div>
+            <img [src]="urlNameIcon" *ngIf="typeSearch=='flutter'"
+                onerror="this.src='https://cdn-icons-png.flaticon.com/512/7387/7387740.png'" loading="lazy"
+                class="w-32">
+
+            <label class="text-lg cursor-pointer mt-2" [ngClass]=" iconColor "
+                (click)="copyToClipboard('icon'+{nameIcon})">
+                {{
+                typeSearch=="suint"?
+                "icon-"+nameIcon:
+                nameIcon
+
+                }}
+
+            </label>
+
+        </div>
+        <div class="flex justify-center space-x-2 my-2" *ngIf="typeSearch=='suint'">
             <button (click)="setIconColor('text-[#EF4444]'); setBackgroundColor('bg-white')"
                 class="rounded-full w-6 h-6 bg-[#EF4444]"></button>
             <button (click)="setIconColor('text-[#10B981]'); setBackgroundColor('bg-[#F3F4F6]')"
@@ -29,10 +43,14 @@
                 class="rounded-full w-6 h-6 bg-black"></button>
         </div>
 
+        <br />
 
-        <label class="text-lg font-semibold">Codigo Angular</label>
+        <label class="text-lg font-semibold dark:text-white "> {{typeSearch=="flutter"?"Codigo flutter":"Codigo
+            Angular"}}
+        </label>
 
 
+        <br />
         <aside class="bg-black text-white p-3 rounded-lg shadow-xl w-full  font-mono">
             <div class="flex justify-between items-center">
                 <div class="flex space-x-2 text-red-500">
@@ -57,13 +75,13 @@
 
             </div>
             <div class="mt-1">
-                <pre><code class="language-html">{{ code }}</code></pre>
+                <pre><code class="language-html ">{{ code }}</code></pre>
 
 
             </div>
         </aside>
-        <div class="w-full flex justify-between mt-3 mb-2">
-            <label class="text-lg font-semibold">Codigo Svg</label>
+        <div class="w-full flex justify-between mt-3 mb-2" *ngIf="typeSearch=='suint'">
+            <label class="text-lg font-semibold dark:text-white">Codigo Svg</label>
 
             <button
                 class=" text-black flex text-sm bg-gray-200 px-2 py-1 rounded-sm hover:bg-gray-100 hover:text-gray-500"
@@ -79,7 +97,7 @@
             </button>
         </div>
 
-        <aside class="bg-black text-white p-3 rounded-lg shadow-xl w-full  font-mono">
+        <aside class="bg-black text-white p-3 rounded-lg shadow-xl w-full  font-mono" *ngIf="typeSearch=='suint'">
             <div class="flex justify-between items-center">
                 <div class="flex space-x-2 text-red-500">
                     <div class="w-3 h-3 rounded-full bg-red-500"></div>

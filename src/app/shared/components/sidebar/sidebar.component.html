@@ -1,16 +1,41 @@
-<aside class="bg-white  h-[100%]  p-5 shadow-lg w-[20vw]">
+<aside
+    class=" h-[80vh] mx-4  shadow-sm py-5 px-5 border-[1px] dark:border-gray-700 w-[20vw] bg-black dark:bg-white bg-opacity-50 dark:bg-opacity-5  dark:shadow-white rounded-lg flex flex-col justify-between">
 
-    <br />
     <nav class="flex flex-col">
-        <a class="px-10 py-3 rounded-md " href="/">
-            Home
+        <a class="px-5 py-3 rounded-md text-white flex space-x-5 hover:bg-primary-400 hover:bg-opacity-10 dark:hover:text-primary-400 cursor:pointer"
+            [routerLink]="['/']" (click)="changeTypeIcon('all')">
+            <svg class="w-5" xmlns='http://www.w3.org/2000/svg' id='icons_home' viewBox='0 0 24 24' fill="currentColor">
+                <path fill-rule='evenodd' clip-rule='evenodd'
+                    d='M21 8.772L14.021 1.793C12.849 0.621 10.95 0.621 9.778 1.793L3 8.571L3 23.086L10 23.086L10 17.086C10 15.981 10.895 15.086 12 15.086C13.105 15.086 14 15.981 14 17.086L14 23.086L21 23.086L21 8.772zM11.192 3.207L5 9.4L5 21.086L8 21.086L8 17.086C8 14.877 9.791 13.086 12 13.086C14.209 13.086 16 14.877 16 17.086L16 21.086L19 21.086L19 9.6L12.607 3.207C12.216 2.817 11.583 2.817 11.192 3.207z' />
+            </svg>
+            <label>
+                Inicio
+            </label>
         </a>
-        <a class="px-10 py-3 rounded-md " href="/flutter">
-            Flutter icons
+        <a class="text-white px-5 py-3 rounded-md flex space-x-5 hover:bg-primary-400 hover:bg-opacity-10 dark:hover:text-primary-400 cursor:pointer"
+            [routerLink]="['/flutter']" (click)="changeTypeIcon('flutter')">
+            <svg class="w-5" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" fill="currentColor" viewBox="0 0 50 50">
+                <path
+                    d="M 27 3 A 1.0001 1.0001 0 0 0 26.292969 3.2929688 L 5.2929688 24.292969 A 1.0001 1.0001 0 0 0 5.2929688 25.707031 L 11.292969 31.707031 A 1.0001 1.0001 0 0 0 12.707031 31.707031 L 39.707031 4.7070312 A 1.0001 1.0001 0 0 0 39 3 L 27 3 z M 27.414062 5 L 36.585938 5 L 12 29.585938 L 7.4140625 25 L 27.414062 5 z M 28 22 A 1.0001 1.0001 0 0 0 27.292969 22.292969 L 15.292969 34.292969 A 1.0001 1.0001 0 0 0 15.292969 35.707031 L 21.292969 41.707031 L 27.292969 47.707031 A 1.0001 1.0001 0 0 0 28 48 L 40 48 A 1.0001 1.0001 0 0 0 40.707031 46.292969 L 29.414062 35 L 40.707031 23.707031 A 1.0001 1.0001 0 0 0 40 22 L 28 22 z M 28.414062 24 L 37.585938 24 L 22 39.585938 L 17.414062 35 L 28.414062 24 z M 28 36.414062 L 37.585938 46 L 28.414062 46 L 23.414062 41 L 28 36.414062 z">
+                </path>
+            </svg>
+            <span>
+                Flutter icons
+
+            </span>
         </a>
-        <a class="px-10 py-3 rounded-md " href="/suint">
-            SUINT Uab Icons
+        <a class="px-5 py-3 rounded-md text-white flex space-x-5 hover:bg-primary-400 hover:bg-opacity-10 dark:hover:text-primary-400 cursor:pointer"
+            [routerLink]="['/suint']" (click)="changeTypeIcon('suint')">
+            <img class="w-5 h-5"
+                src="https://www.educacionadventista.com/wp-content/uploads/2019/11/nuevo-logo-blanco-EA-450x450.png">
+            <span>
+                SUINT Uab Icons
+            </span>
         </a>
+
     </nav>
+    <div class=" text-xs text-gray-100 dark:text-gray-600 text-center">
+        Version 1.0
+    </div>
 
 </aside>
