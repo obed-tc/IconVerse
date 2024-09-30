@@ -16,12 +16,11 @@ export class ToggleThemeComponent {
 
   changeTheme() {
     this.darkMode.set(!this.darkMode());
-    console.log(this.darkMode());
     this.applyTheme(); 
   }
 
   applyTheme() {
-    if (!this.darkMode()) {
+    if (this.darkMode()) {
       document.documentElement.classList.add("dark");
       localStorage.setItem("dark", "true");
     } else {

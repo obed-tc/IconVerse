@@ -1,4 +1,4 @@
-<div class="w-full h-16 absolute  z-20  px-5 flex items-center justify-between">
+<div class="w-full h-16 absolute  z-20  md:px-5 flex items-center justify-between">
     <div class="flex items-center">
         <img src="assets/imgs/icon-verse-logo.svg" width="50" class="mr-2">
         <h1 class="text-xl font-bold dark:text-white">
@@ -7,7 +7,7 @@
         </h1>
     </div>
 
-    <app-search-bar></app-search-bar>
+    <app-search-bar class="md:flex hidden"></app-search-bar>
     <div class="flex items-center space-x-3">
         <app-toggle-theme />
         <div class="h-[35px] w-[1px] dark:bg-gray-500 bg-gray-500"></div>
@@ -19,5 +19,7 @@
 
 
     </div>
+    <app-search-bar class="md:hidden flex" *ngIf="typeSearch!=''"></app-search-bar>
+
 
 </div>
