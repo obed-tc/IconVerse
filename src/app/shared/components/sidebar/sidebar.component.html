@@ -1,8 +1,8 @@
 <aside
-    class=" h-[80vh] mx-4  shadow-sm py-5 px-5 border-[1px] dark:border-gray-700 w-[20vw] bg-black dark:bg-white bg-opacity-50 dark:bg-opacity-5  dark:shadow-white rounded-[30px] flex flex-col justify-between">
+    class=" h-[80vh] mx-4  shadow-sm py-5 px-5 border-[1px] shadow-primary-900  border-700 w-[20vw] bg-primary-700 dark:bg-white bg-opacity-20 dark:bg-opacity-5  dark:shadow-white rounded-[30px] flex flex-col justify-between">
 
     <nav class="flex flex-col">
-        <a class="px-5 py-3 rounded-md text-white flex space-x-5 hover:bg-primary-400 hover:bg-opacity-10 dark:hover:text-primary-400 cursor:pointer"
+        <a class="text-primary-800 px-5 py-3 rounded-md dark:text-white flex space-x-5 hover:bg-primary-600 hover:bg-opacity-30 dark:hover:bg-primary-400 dark:hover:bg-opacity-10 dark:hover:text-primary-400 cursor:pointer"
             [routerLink]="['/']" (click)="changeTypeIcon('all')">
             <svg class="w-5" xmlns='http://www.w3.org/2000/svg' id='icons_home' viewBox='0 0 24 24' fill="currentColor">
                 <path fill-rule='evenodd' clip-rule='evenodd'
@@ -12,7 +12,7 @@
                 Inicio
             </label>
         </a>
-        <a class="text-white px-5 py-3 rounded-md flex space-x-5 hover:bg-primary-400 hover:bg-opacity-10 dark:hover:text-primary-400 cursor:pointer"
+        <a class="text-primary-800 dark:text-white px-5 py-3 rounded-md flex space-x-5 hover:bg-primary-600 hover:bg-opacity-30 dark:hover:bg-primary-400 dark:hover:bg-opacity-10 dark:hover:text-primary-400 cursor:pointer"
             [routerLink]="['/flutter']" (click)="changeTypeIcon('flutter')">
             <svg class="w-5" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" fill="currentColor" viewBox="0 0 50 50">
                 <path
@@ -24,17 +24,23 @@
 
             </span>
         </a>
-        <a class="px-5 py-3 rounded-md text-white flex space-x-5 hover:bg-primary-400 hover:bg-opacity-10 dark:hover:text-primary-400 cursor:pointer"
+        <a class="text-primary-800 px-5 py-3 rounded-md dark:text-white flex space-x-5 hover:bg-primary-600 hover:bg-opacity-30 dark:hover:bg-primary-400 dark:hover:bg-opacity-10 dark:hover:text-primary-400 cursor:pointer"
             [routerLink]="['/suint']" (click)="changeTypeIcon('suint')">
-            <img class="w-5 h-5"
-                src="https://www.educacionadventista.com/wp-content/uploads/2019/11/nuevo-logo-blanco-EA-450x450.png">
+            <div>
+                <img class="w-5 h-5 dark:flex hidden "
+                    src="https://www.educacionadventista.com/wp-content/uploads/2019/11/nuevo-logo-blanco-EA-450x450.png">
+                <img class="w-6 h-6 dark:hidden flex"
+                    src="https://i0.wp.com/ea.org.br/wp-content/uploads/2020/08/cropped-Logo-Educa%C3%A7%C3%A3o-Adventista-Azul-512-512-Transparente.png?fit=512%2C512&ssl=1" />
+
+            </div>
+
             <span>
                 SUINT Uab Icons
             </span>
         </a>
 
     </nav>
-    <div class=" text-xs text-gray-100 dark:text-gray-600 text-center">
+    <div class=" text-xs text-primary-800 dark:text-gray-600 text-center">
         Version 1.0
     </div>
 
