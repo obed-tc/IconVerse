@@ -1,25 +1,26 @@
-<div class="w-full h-16 absolute  z-20  md:px-5 flex items-center justify-between">
-    <div class="flex items-center">
-        <img src="assets/imgs/icon-verse-logo.svg" width="50" class="mr-2">
-        <h1 class="text-xl font-bold dark:text-white">
+<div
+  class="w-full h-16 absolute z-20 md:px-5 flex items-center justify-between"
+>
+  <div class="flex items-center">
+    <img src="assets/imgs/icon-verse-logo.svg" width="50" class="mr-2" />
+    <h1 class="text-xl font-bold dark:text-white">
+      Icon<span class="text-primary-500">Verse</span>
+    </h1>
+  </div>
 
-            Icon<span class="text-primary-500">Verse</span>
-        </h1>
-    </div>
+  <app-search-bar class="md:flex hidden"></app-search-bar>
+  <div class="flex items-center space-x-3">
+    <app-toggle-theme />
+    <div class="h-[35px] w-[1px] dark:bg-gray-500 bg-gray-500"></div>
+    <a
+      href="https://github.com/obed-tc/IconVerse/issues"
+      class="py-2 text-primary-700 dark:text-white font-bold shadow-md shadow-primary-300 text-sm px-7 border border-primary-500 rounded-full bg-primary-500 bg-opacity-10"
+    >
+      Contáctanos
+    </a>
+  </div>
+  @if (typeSearch!='') {
+  <app-search-bar class="md:hidden flex"></app-search-bar>
 
-    <app-search-bar class="md:flex hidden"></app-search-bar>
-    <div class="flex items-center space-x-3">
-        <app-toggle-theme />
-        <div class="h-[35px] w-[1px] dark:bg-gray-500 bg-gray-500"></div>
-        <a href="https://github.com/obed-tc/IconVerse/issues"
-            class="py-2 text-primary-700 dark:text-white font-bold shadow-md shadow-primary-300 text-sm px-7 border border-primary-500 rounded-full bg-primary-500 bg-opacity-10">
-
-            Contáctanos
-        </a>
-
-
-    </div>
-    <app-search-bar class="md:hidden flex" *ngIf="typeSearch!=''"></app-search-bar>
-
-
+  }
 </div>

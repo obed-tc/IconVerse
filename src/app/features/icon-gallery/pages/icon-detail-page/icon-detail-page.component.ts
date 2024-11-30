@@ -7,15 +7,20 @@ import { ActivatedRoute, Router } from '@angular/router';
   selector: 'app-icon-detail-page',
   templateUrl: './icon-detail-page.component.html',
   styleUrls: ['./icon-detail-page.component.css'],
+  standalone: true,
+  imports: [IconListComponent],
 })
 export class IconDetailPageComponent {
-typeSearch="";
+  typeSearch = '';
 
-  constructor(private searchService: SearchService,private activatedRoute: ActivatedRoute, private router: Router) { }
-   
+  constructor(
+    private searchService: SearchService,
+    private activatedRoute: ActivatedRoute,
+    private router: Router
+  ) {}
+
   ngOnInit(): void {
     const currentRoute = this.router.url;
-    this.typeSearch=currentRoute.replace("/", "");
-
+    this.typeSearch = currentRoute.replace('/', '');
   }
 }

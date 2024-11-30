@@ -1,18 +1,32 @@
-<div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-4 p-4">
-    <app-icon-item *ngFor="let icon of paginatedItems" [typeSearch]="typeSearch" [iconSrc]="icon.url"
-        [iconName]="icon.name"></app-icon-item>
+<div
+  class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-4 p-4"
+>
+  @for (icon of paginatedItems; track $index) {
+
+  <app-icon-item
+    [typeSearch]="typeSearch"
+    [iconSrc]="icon.url"
+    [iconName]="icon.name"
+  ></app-icon-item>
+  }
 </div>
 
 <div class="flex items-center justify-between mt-4">
-    <button (click)="previousPage()" [disabled]="currentPage === 1"
-        class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400 disabled:opacity-50">
-        Anterior
-    </button>
+  <button
+    (click)="previousPage()"
+    [disabled]="currentPage === 1"
+    class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400 disabled:opacity-50"
+  >
+    Anterior
+  </button>
 
-    <span>Página {{ currentPage }} de {{ totalPages }}</span>
+  <span>Página {{ currentPage }} de {{ totalPages }}</span>
 
-    <button (click)="nextPage()" [disabled]="currentPage >= totalPages"
-        class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400 disabled:opacity-50">
-        Siguiente
-    </button>
+  <button
+    (click)="nextPage()"
+    [disabled]="currentPage >= totalPages"
+    class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400 disabled:opacity-50"
+  >
+    Siguiente
+  </button>
 </div>
