@@ -2,69 +2,72 @@ import { Component } from '@angular/core';
 import { IconService } from 'src/app/core/services/icon.service';
 import { SearchService } from 'src/app/core/services/search.service';
 import { ActivatedRoute, Router } from '@angular/router';
+import { IconItemComponent } from '../icon-item/icon-item.component';
 
 @Component({
   selector: 'app-icon-list',
   templateUrl: './icon-list.component.html',
-  styleUrls: ['./icon-list.component.css']
+  styleUrls: ['./icon-list.component.css'],
+  standalone: true,
+  imports: [IconItemComponent],
 })
 export class IconListComponent {
   icons: any[] = [];
-  filteredItems: any[]=[];
-  typeSearch="all";
-
+  filteredItems: any[] = [];
+  typeSearch = 'all';
 
   itemsPerPage = 301;
   currentPage = 1;
 
-  constructor(private iconService: IconService,private searchService: SearchService,private activatedRoute: ActivatedRoute, private router: Router) { }
-  
- 
+  constructor(
+    private iconService: IconService,
+    private searchService: SearchService,
+    private activatedRoute: ActivatedRoute,
+    private router: Router
+  ) {}
+
   ngOnInit(): void {
     const currentRoute = this.router.url;
-    this.typeSearch=currentRoute.replace("/", "");
+    this.typeSearch = currentRoute.replace('/', '');
 
     this.searchService.changeTypeIcon(this.typeSearch);
 
-    if (this.typeSearch=="flutter"){
-      this.getIconsFlutter()
-    }else if(this.typeSearch=="suint"){
-      this.getIconsSuint()
+    if (this.typeSearch == 'flutter') {
+      this.getIconsFlutter();
+    } else if (this.typeSearch == 'suint') {
+      this.getIconsSuint();
     }
 
     this.searchService.typeIcon$.subscribe((typeIcon: string) => {
-      this.typeSearch=typeIcon
+      this.typeSearch = typeIcon;
     });
 
     this.searchService.search$.subscribe((term: string) => {
-        this.filteredItems = this.icons.filter(item =>
-          item.name.toLowerCase().includes(term.toLowerCase())
-  
-        );
-        this.currentPage = 1; // Reiniciar a la primera página al buscar
-
+      this.filteredItems = this.icons.filter((item) =>
+        item.name.toLowerCase().includes(term.toLowerCase())
+      );
+      this.currentPage = 1; // Reiniciar a la primera página al buscar
     });
-
   }
 
-  getIconsFlutter(){
+  getIconsFlutter() {
     this.iconService.getIconsFlutter().subscribe(
-      data => {
+      (data) => {
         this.icons = data;
-        this.filteredItems=this.icons;
+        this.filteredItems = this.icons;
       },
-      error => {
+      (error) => {
         console.error('Error al obtener los iconos', error);
       }
     );
   }
-  getIconsSuint(){
+  getIconsSuint() {
     this.iconService.getIconsSuint().subscribe(
-      data => {
+      (data) => {
         this.icons = data;
-        this.filteredItems=this.icons;
+        this.filteredItems = this.icons;
       },
-      error => {
+      (error) => {
         console.error('Error al obtener los iconos', error);
       }
     );
@@ -90,5 +93,4 @@ export class IconListComponent {
       this.currentPage--;
     }
   }
-
 }

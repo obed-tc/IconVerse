@@ -1,98 +1,112 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 import { IconService } from 'src/app/core/services/icon.service';
-import * as Prism from 'prismjs';  
+import * as Prism from 'prismjs';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
-
+import { NgClass } from '@angular/common';
 
 @Component({
   selector: 'app-icon-sidebar',
   templateUrl: './icon-sidebar.component.html',
-  styleUrls: ['./icon-sidebar.component.css']
+  styleUrls: ['./icon-sidebar.component.css'],
+  standalone: true,
+  imports: [NgClass],
 })
 export class IconSidebarComponent {
-  @Input() urlNameIcon="";
-  @Input() nameIcon="";
-  @Input() typeSearch="";
+  @Input() urlNameIcon = '';
+  @Input() nameIcon = '';
+  @Input() typeSearch = '';
   @Output() closeModal = new EventEmitter<void>();
 
-  code="";
-  svgContentString="";
-  svgContent: SafeHtml = ""; 
+  code = '';
+  svgContentString = '';
+  svgContent: SafeHtml = '';
   iconColor = 'currentColor'; // Color predeterminado
 
-  backgroundColor = 'bg-white'; 
+  backgroundColor = 'bg-white';
 
+  constructor(
+    private iconService: IconService,
+    private sanitizer: DomSanitizer
+  ) {}
 
-  constructor(private iconService: IconService,private sanitizer: DomSanitizer) { 
-  
+  ngOnInit(): void {
+    console.log(this.urlNameIcon);
 
+    if (this.typeSearch == 'suint') {
+      this.urlNameIcon =
+        'https://raw.githubusercontent.com/obed-tc/IconVerse/ce97cf90727d9417007033349001dd53eb95002a/' +
+        this.urlNameIcon;
+      this.getContentSuint();
+    } else if (this.typeSearch == 'flutter') {
+      this.getContentFlutter();
+    }
+  }
+  getContentFlutter() {
+    this.code =
+      `Icon(
+      Icons.` +
+      this.nameIcon +
+      `, 
+)`;
   }
 
-  ngOnInit():void{
-    console.log(this.urlNameIcon)
-
-    if (this.typeSearch=="suint"){
-      this.urlNameIcon='https://raw.githubusercontent.com/obed-tc/IconVerse/ce97cf90727d9417007033349001dd53eb95002a/'+this.urlNameIcon;
-      this.getContentSuint()
-   
-    }else if (this.typeSearch=="flutter"){
-      this.getContentFlutter()
-      }
-  }
-  getContentFlutter(){
-    this.code=`Icon(
-      Icons.`+this.nameIcon+`, 
-)`
-  }
-
-  getContentSuint(){
-    this.code=`<svg-icon 
-    src="assets/icons/icon-`+this.nameIcon+`.svg">
-</svg-icon>`
+  getContentSuint() {
+    this.code =
+      `<svg-icon 
+    src="assets/icons/icon-` +
+      this.nameIcon +
+      `.svg">
+</svg-icon>`;
     this.iconService.getSvgContent(this.urlNameIcon).subscribe(
-      data => {
+      (data) => {
         const modifiedSvg = this.addFillToSvg(data);
-        this.svgContentString = modifiedSvg.toString(); 
+        this.svgContentString = modifiedSvg.toString();
         this.svgContent = this.sanitizer.bypassSecurityTrustHtml(modifiedSvg);
         setTimeout(() => {
           Prism.highlightAll();
         }, 0);
       },
-      error => {
+      (error) => {
         console.error('Error al obtener el SVG:', error);
       }
     );
-
   }
-
 
   private addFillToSvg(svg: string): string {
     const svgWithoutFill = svg.replace(/fill="[^"]*"/g, '');
-    
-    return svgWithoutFill.replace(/<svg([^>]*)>/, '<svg$1 fill="currentColor">');
+
+    return svgWithoutFill.replace(
+      /<svg([^>]*)>/,
+      '<svg$1 fill="currentColor">'
+    );
   }
   ngAfterViewInit() {
     Prism.highlightAll();
   }
   exportSvgContent(): void {
-    const svgContent = this.svgContentString; 
-    const blob = new Blob([svgContent], { type: 'image/svg+xml;charset=utf-8' });
+    const svgContent = this.svgContentString;
+    const blob = new Blob([svgContent], {
+      type: 'image/svg+xml;charset=utf-8',
+    });
     const url = URL.createObjectURL(blob);
-    
+
     const a = document.createElement('a');
     a.href = url;
-    a.download = `icon-${this.nameIcon}.svg`; 
+    a.download = `icon-${this.nameIcon}.svg`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
     URL.revokeObjectURL(url); // Libera el objeto URL
   }
   copyToClipboard(text: string) {
-    navigator.clipboard.writeText(text).then(() => {
-      console.log("Copiado")
-    }).catch(err => {
-      console.error('Error al copiar al portapapeles: ', err);
-    });
+    navigator.clipboard
+      .writeText(text)
+      .then(() => {
+        console.log('Copiado');
+      })
+      .catch((err) => {
+        console.error('Error al copiar al portapapeles: ', err);
+      });
   }
 
   setIconColor(color: string) {
@@ -104,6 +118,6 @@ export class IconSidebarComponent {
   }
 
   close() {
-    this.closeModal.emit();  
+    this.closeModal.emit();
   }
 }

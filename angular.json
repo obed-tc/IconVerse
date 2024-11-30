@@ -63,10 +63,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "IconVerse:build:production"
+              "buildTarget": "IconVerse:build:production"
             },
             "development": {
-              "browserTarget": "IconVerse:build:development"
+              "buildTarget": "IconVerse:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -74,7 +74,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "IconVerse:build"
+            "buildTarget": "IconVerse:build"
           }
         },
         "test": {

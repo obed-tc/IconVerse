@@ -5,24 +5,22 @@ import { SearchService } from 'src/app/core/services/search.service';
   selector: 'app-search-bar',
   templateUrl: './search-bar.component.html',
   styleUrls: ['./search-bar.component.css'],
+  standalone: true,
 })
 export class SearchBarComponent {
+  constructor(private searchService: SearchService) {}
 
-  constructor(private searchService:SearchService){}
+  typeSearch = 'all';
 
-  typeSearch="all";
-  
   ngOnInit(): void {
     this.searchService.typeIcon$.subscribe((typeIcon: string) => {
-      this.typeSearch=typeIcon
+      this.typeSearch = typeIcon;
     });
   }
 
-  onSearch(event:Event){
+  onSearch(event: Event) {
     const inputElement = event.target as HTMLInputElement;
     const searchTerm = inputElement.value;
     this.searchService.updateSearchTerm(searchTerm);
-
   }
-
 }
